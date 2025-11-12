@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T11:38:24.940850+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-11-12T12:45:48.334119+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         },
         {
           "title": "【每日收评】深成指与创业板指双双跌超1%，两市成交额不足2万亿，大消费方向午后再度活跃",
@@ -55,15 +55,16 @@
           "time_info": "[00时53分 ~ 06时40分]"
         },
         {
-          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3003143",
-          "source": "华尔街见闻-快讯",
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 12时45分]"
         },
         {
           "title": "11月12日午间收评：创业板指半日跌1.58%，光伏板块集体调整",
@@ -72,9 +73,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "印尼央行预计2026年印尼GDP增长率5.3%。 如果财政支出加快，2026年经济增长有望达到政府设定的5.4%目标。",
+          "url": "https://wallstreetcn.com/livenews/3003165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "欧洲央行管委艾斯克里瓦：西班牙经济将继续按类似的幅度增长。",
@@ -88,27 +100,16 @@
           "time_info": "01时41分"
         },
         {
-          "title": "欧洲央行管委Kocher：美国关税造成的伤害小于预期；有希望实现稳定复苏。",
-          "url": "https://wallstreetcn.com/livenews/3003136",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
+          "url": "https://www.cls.cn/detail/2197758",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
+            9,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 11时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 12时45分]"
         },
         {
           "title": "欧洲央行管委Escriva：西班牙经济将继续按类似的幅度增长。",
@@ -137,18 +138,6 @@
           "time_info": "[05时33分 ~ 07时32分]"
         },
         {
-          "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
-          "url": "https://www.cls.cn/detail/2197758",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 11时38分]"
-        },
-        {
           "title": "纳斯达克：截至10月31日，所有纳斯达克证券的空头持仓总量为172.7亿股。",
           "url": "https://flash.jin10.com/detail/20251112051045341800",
           "source": "金十数据",
@@ -159,6 +148,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时40分]"
+        },
+        {
+          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3003143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "法国央行：预计法国经济继第三季度增长0.5%之后，第四季度将出现小幅增长。",
@@ -258,6 +259,29 @@
           "time_info": "[00时54分 ~ 01时41分]"
         },
         {
+          "title": "欧洲央行管委Kocher：美国关税造成的伤害小于预期；有希望实现稳定复苏。",
+          "url": "https://wallstreetcn.com/livenews/3003136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
+          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
+          "url": "https://wallstreetcn.com/articles/3759111",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "券商把脉2026年A股：盈利接棒估值，配置更趋均衡",
           "url": "https://wallstreetcn.com/livenews/3003000",
           "source": "华尔街见闻-快讯",
@@ -306,6 +330,29 @@
           "time_info": "[06时40分 ~ 07时32分]"
         },
         {
+          "title": "澳洲联储副主席Hauser：我们的最佳预测是货币政策仍具限制性，委员会正在讨论这个问题。 如果货币政策不再具备温和的限制性，将对未来的政策产生重要影响。 消费数据有涨有跌，但整体态势是逐步温和复苏。 没有哪个失业率水平会让央行满意。",
+          "url": "https://wallstreetcn.com/livenews/3003132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
+          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
+          "url": "https://wallstreetcn.com/articles/3759102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3002973",
           "source": "华尔街见闻-快讯",
@@ -342,17 +389,6 @@
           "time_info": "[00时54分 ~ 01时41分]"
         },
         {
-          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
-          "url": "https://wallstreetcn.com/articles/3759111",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "机构普遍看好2026年中国经济与A股市场",
           "url": "https://wallstreetcn.com/livenews/3003008",
           "source": "华尔街见闻-快讯",
@@ -364,37 +400,26 @@
           "time_info": "07时32分"
         },
         {
-          "title": "澳洲联储副主席Hauser：我们的最佳预测是货币政策仍具限制性，委员会正在讨论这个问题。 如果货币政策不再具备温和的限制性，将对未来的政策产生重要影响。 消费数据有涨有跌，但整体态势是逐步温和复苏。 没有哪个失业率水平会让央行满意。",
-          "url": "https://wallstreetcn.com/livenews/3003132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
-          "url": "https://wallstreetcn.com/articles/3759102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "澳洲联储副主席豪泽：不存在任何能让央行满意的失业率水平。",
           "url": "https://flash.jin10.com/detail/20251112110908942800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "穆迪：韩国央行或推迟降息至明年一季度",
+          "url": "https://flash.jin10.com/detail/20251112113825374800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "标普500指数收涨14.18点，涨幅0.21%，报6846.61点。 道琼斯工业平均指数收涨559.33点，涨幅1.18%，报47927.96点。 纳斯达克综合指数（纳指）收跌58.874点，跌幅0.25%，报23468.301点。 纳斯达克100指数收跌78.251点，跌幅0.31%，报23468.301点。 纳斯达克生物科技指数收涨2.94%，报5523.06点。 费城半导体指数收跌2.48%，报6979.701点。 费城证交所KBW银行指数收涨0.17%，报152.24点。 道琼斯KBW地区银行指数收涨0.34%，报118.20点。",
@@ -430,6 +455,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "11月12日午间收评：创业板指半日跌1.58%，农行、工行双双创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3003142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "英国央行副行长布里登为一项限制稳定币持有量的规则草案辩护。",
           "url": "https://flash.jin10.com/detail/20251112000117282800",
           "source": "金十数据",
@@ -458,7 +494,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -535,7 +571,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -608,11 +644,12 @@
             14,
             15,
             17,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -731,6 +768,17 @@
           "time_info": "[01时41分 ~ 03时29分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
           "url": "https://wallstreetcn.com/livenews/3002980",
           "source": "华尔街见闻-快讯",
@@ -827,17 +875,6 @@
           "time_info": "[00时54分 ~ 01时41分]"
         },
         {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "特朗普：参议院通过拨款法案是“重大胜利”",
           "url": "https://flash.jin10.com/detail/20251112012116484800",
           "source": "金十数据",
@@ -888,7 +925,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -954,7 +991,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -973,7 +1010,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -1007,8 +1044,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         },
         {
           "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
@@ -1030,11 +1067,12 @@
           "ranks": [
             12,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         },
         {
           "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
@@ -1078,22 +1116,24 @@
           "url": "https://www.zhihu.com/question/1971675577204306494",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "美民主党人又挑事儿：要是安世芯片都在中国造，这可不得了",
@@ -1102,9 +1142,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
@@ -1145,6 +1185,18 @@
           "time_info": "[02时53分 ~ 04时40分]"
         },
         {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
           "url": "https://flash.jin10.com/detail/20251112060435250800",
           "source": "金十数据",
@@ -1182,6 +1234,17 @@
           "time_info": "[00时53分 ~ 01时41分]"
         },
         {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
           "url": "https://wallstreetcn.com/livenews/3002943",
           "source": "华尔街见闻-快讯",
@@ -1204,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时32分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
@@ -1230,6 +1304,18 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
+          "title": "英伟达一夜蒸发超万亿元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：从2026年开始，AMD(AMD.O)的定制芯片设计收入将达到450亿美元。",
           "url": "https://flash.jin10.com/detail/20251112021936730800",
           "source": "金十数据",
@@ -1254,24 +1340,13 @@
           "time_info": "[02时53分 ~ 03时29分]"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
           "url": "https://flash.jin10.com/detail/20251112111657771800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -1287,37 +1362,26 @@
           "time_info": "01时41分"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
           "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时45分"
         },
         {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月12日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险股全线反弹，半导体、通信设备板块表现低迷",
+          "url": "https://flash.jin10.com/detail/20251112113303103800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "英伟达一夜蒸发超万亿元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时45分"
         },
         {
           "title": "AMD(AMD.O)高管：AMD预计未来五年内数据中心芯片年收入将达到1000亿美元。",
@@ -1367,7 +1431,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "鸠山由纪夫驳高市早苗涉台言论：台湾是中国一部分，日本不应干涉中国内政",
@@ -1379,8 +1443,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         },
         {
           "title": "北京银行、中国银行等多家银行关闭部分 App，为何银行纷纷进行 App 瘦身？你觉得使用更方便了吗？",
@@ -1462,15 +1526,38 @@
           "time_info": "07时32分"
         },
         {
+          "title": "日本真的敢武力干涉中国的统一吗",
+          "url": "https://www.toutiao.com/trending/7571674482645929482/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "60万中国留学生话题引爆美国舆论",
           "url": "https://www.toutiao.com/trending/7571639431178751498/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "全球最大！中国这一“巨无霸”下线",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E2%80%9C%E5%B7%A8%E6%97%A0%E9%9C%B8%E2%80%9D%E4%B8%8B%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "为什么中国古代大多数中央王朝都没有吞并朝鲜？",
@@ -1497,6 +1584,30 @@
           "time_info": "[05时33分 ~ 06时40分]"
         },
         {
+          "title": "评论员：日本搞军演针对的就是中国",
+          "url": "https://www.toutiao.com/trending/7570537251999612964/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
+          "title": "淡马锡中国区主席吴亦兵：构建富有韧性和前瞻性的在华投资组合",
+          "url": "https://wallstreetcn.com/livenews/3003134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3002941",
           "source": "华尔街见闻-快讯",
@@ -1507,6 +1618,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时40分]"
+        },
+        {
+          "title": "涉案资金超2.7万亿元，泰国将向中国引渡跨境网赌头目",
+          "url": "https://news.ifeng.com/c/8oDEgryFlKM",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
+          "title": "索尼中国官网删除手机品类，公众号也进入注销流程，索尼手机真要退出中国市场了吗？",
+          "url": "https://www.zhihu.com/question/1971192960524710254",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "墨西哥推迟对中国商品增加关税，外交部回应",
@@ -1520,6 +1653,18 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "为什么中国菜做成以后不把花椒或者姜挑出来?",
+          "url": "https://www.zhihu.com/question/429794144",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "中国对日本打交道方式出现怎样变化",
           "url": "https://www.toutiao.com/trending/7571370003350425126/",
           "source": "今日头条",
@@ -1531,57 +1676,13 @@
           "time_info": "[03时28分 ~ 03时29分]"
         },
         {
-          "title": "评论员：日本搞军演针对的就是中国",
-          "url": "https://www.toutiao.com/trending/7570537251999612964/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "淡马锡中国区主席吴亦兵：构建富有韧性和前瞻性的在华投资组合",
-          "url": "https://wallstreetcn.com/livenews/3003134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "涉案资金超2.7万亿元，泰国将向中国引渡跨境网赌头目",
-          "url": "https://news.ifeng.com/c/8oDEgryFlKM",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "索尼中国官网删除手机品类，公众号也进入注销流程，索尼手机真要退出中国市场了吗？",
-          "url": "https://www.zhihu.com/question/1971192960524710254",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "国台办：希望广大台商台企把握“十五五”时代机遇，共享中国式现代化丰硕成果",
           "url": "https://wallstreetcn.com/livenews/3003120",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -1592,31 +1693,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
         {
-          "title": "全球最大！中国这一“巨无霸”下线",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%80%E2%80%9C%E5%B7%A8%E6%97%A0%E9%9C%B8%E2%80%9D%E4%B8%8B%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "老外“友”故事丨当法国旅行者“遗忘”了他的电脑：一场关于信任的中国观察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881277",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时45分"
         },
         {
-          "title": "为什么中国菜做成以后不把花椒或者姜挑出来?",
-          "url": "https://www.zhihu.com/question/429794144",
-          "source": "知乎",
+          "title": "中国财政部发行91天期债券，规模550亿元，发行利率1.2271%，边际利率1.2796%，预期1.2800%，投标倍数2.95倍，边际倍数1.72倍； 中国财政部发行182天期债券，规模600亿元，发行利率1.3162%，边际利率1.3731%，预期1.3700%，投标倍数2.44倍，边际倍数2.39倍。",
+          "url": "https://wallstreetcn.com/livenews/3003147",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时45分"
         },
         {
           "title": "华泰证券梁红：变革中的中国有创新、重组、出海三条主线，2026年各行业盈利增速均将有所回升",
@@ -1625,7 +1726,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -1635,6 +1736,19 @@
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 12时45分]"
+        },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251112013235058800",
@@ -1656,19 +1770,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 11时38分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -1751,24 +1852,25 @@
           "time_info": "[00时54分 ~ 01时41分]"
         },
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26display_time%3D1762918625%26pre_seqid%3D1762918625675024605138&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
           "url": "https://flash.jin10.com/detail/20251112110231179800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26display_time%3D1762918625%26pre_seqid%3D1762918625675024605138&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -1778,28 +1880,6 @@
       "keyword_group": "美债 美联储",
       "match_count": 4,
       "titles": [
-        {
-          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
-          "url": "https://flash.jin10.com/detail/20251112112600840800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "美联储理事Barr：人工智能可能改变经济格局。",
-          "url": "https://wallstreetcn.com/livenews/3003138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
         {
           "title": "CFPB从美联储提取资金遇阻 明年或无资金继续运营",
           "url": "https://flash.jin10.com/detail/20251112062201832800",
@@ -1813,13 +1893,37 @@
           "time_info": "[06时40分 ~ 07时32分]"
         },
         {
+          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20251112112600840800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
+          "title": "美联储理事Barr：人工智能可能改变经济格局。",
+          "url": "https://wallstreetcn.com/livenews/3003138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
           "url": "https://flash.jin10.com/detail/20251112111500000800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -1923,8 +2027,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时45分]"
         }
       ]
     }
