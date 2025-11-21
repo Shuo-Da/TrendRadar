@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T22:41:07.365211+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2025-11-21T23:31:54.423426+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 138,
+      "match_count": 142,
       "titles": [
         {
           "title": "英伟达上季营收加速增长62%，本季指引再超预期，黄仁勋称“Blackwell销量远超预期” | 财报见闻",
@@ -114,11 +114,12 @@
           "url": "https://wallstreetcn.com/articles/3759849",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时31分]"
         },
         {
           "title": "【每日收评】创业板指高开低走跌超1%，中国银行涨4%续创新高，7连板个股上演“天地天”行情",
@@ -205,7 +206,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -245,15 +246,16 @@
           "time_info": "17时39分"
         },
         {
-          "title": "标普500指数的11个板块中，电信板块美股盘初涨1.63%，成分股谷歌A涨3.6%；金融、原材料、可选消费板块至少涨0.58%，科技板块则跌0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3008770",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储“三把手”出面安抚市场：短期内仍有可能降息",
+          "url": "https://www.cls.cn/detail/2207775",
+          "source": "财联社热门",
           "ranks": [
-            3
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时31分]"
         },
         {
           "title": "上证指数收报3834.89点，跌2.45%。 深证成指收报12538.07点，跌3.41%。 创业板指收报2920.08点，跌4.02%。 沪深300收报4453.61点，跌2.44%。 科创50收报1285.83点，跌3.19%。 中证500收报6817.41点，跌3.46%。 中证1000收报7067.70点，跌3.72%。",
@@ -265,17 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "标普500指数高开17.01点，涨幅0.26%，报6555.77点； 道琼斯工业平均指数高开56.39点，涨幅0.12%，报45808.65点； 纳斯达克综合指数高开84.79点，涨幅0.38%，报22162.83点。",
-          "url": "https://wallstreetcn.com/livenews/3008767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，全市场不足400股飘红，近百股跌停",
@@ -377,6 +368,18 @@
           "time_info": "[04时40分 ~ 05时31分]"
         },
         {
+          "title": "标普500指数的11个板块中，电信板块美股盘初涨1.63%，成分股谷歌A涨3.6%；金融、原材料、可选消费板块至少涨0.58%，科技板块则跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3008770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时31分]"
+        },
+        {
           "title": "A股3D打印概念异动拉升，长江材料直线涨停，海正生材、金橙子等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3008427",
           "source": "华尔街见闻-快讯",
@@ -413,6 +416,30 @@
           "time_info": "[01时35分 ~ 02时55分]"
         },
         {
+          "title": "标普500指数高开17.01点，涨幅0.26%，报6555.77点； 道琼斯工业平均指数高开56.39点，涨幅0.12%，报45808.65点； 纳斯达克综合指数高开84.79点，涨幅0.38%，报22162.83点。",
+          "url": "https://wallstreetcn.com/livenews/3008767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时31分]"
+        },
+        {
+          "title": "A股牛市要结束了吗",
+          "url": "https://www.toutiao.com/trending/7575138184879672868/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时31分]"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2312999",
           "source": "抖音",
@@ -436,18 +463,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时40分]"
-        },
-        {
-          "title": "A股牛市要结束了吗",
-          "url": "https://www.toutiao.com/trending/7575138184879672868/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
         },
         {
           "title": "A股下周能否实现反弹",
@@ -474,6 +489,17 @@
           "time_info": "[18时42分 ~ 19时29分]"
         },
         {
+          "title": "A股为何遭遇如此惨烈的下跌",
+          "url": "https://www.toutiao.com/trending/7575155297195396671/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时31分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -485,17 +511,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 15时34分]"
-        },
-        {
-          "title": "美联储“三把手”出面安抚市场：短期内仍有可能降息",
-          "url": "https://www.cls.cn/detail/2207775",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "埃及央行维持基准利率在21%不变，市场预计会降息至20%。",
@@ -690,17 +705,6 @@
           "time_info": "[11时34分 ~ 12时44分]"
         },
         {
-          "title": "A股为何遭遇如此惨烈的下跌",
-          "url": "https://www.toutiao.com/trending/7575155297195396671/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
-        },
-        {
           "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
           "url": "https://wallstreetcn.com/livenews/3008616",
           "source": "华尔街见闻-快讯",
@@ -775,7 +779,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -868,6 +872,17 @@
           "time_info": "21时36分"
         },
         {
+          "title": "纳斯达克100指数再度转跌。",
+          "url": "https://wallstreetcn.com/livenews/3008790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "埃及央行维持隔夜贷款利率不变，仍为22.00%。",
           "url": "https://flash.jin10.com/detail/20251121003712361800",
           "source": "金十数据",
@@ -918,7 +933,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -951,7 +966,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1006,7 +1021,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1094,7 +1109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1127,7 +1142,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1226,7 +1241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1259,7 +1274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1286,6 +1301,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "纳斯达克100指数反弹，涨幅扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3008781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
           "url": "https://flash.jin10.com/detail/20251121005949540800",
           "source": "金十数据",
@@ -1303,7 +1329,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1328,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "美国PMI数据发布后，美国10年期国债收益率维持2.3个基点的跌幅，报4.0613%，北京时间20:30曾跌至4.0344%刷新日低。 纳斯达克100指数转跌。",
+          "url": "https://wallstreetcn.com/livenews/3008778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "标普500指数抹去涨幅，此前盘中一度涨1.9%。",
@@ -1424,7 +1461,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1482,6 +1519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨0.5%。富时A50夜期目前涨约0.24%",
+          "url": "https://wallstreetcn.com/livenews/3008772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "南非央行行长警告AI泡沫风险 新兴市场面临溢出效应冲击",
@@ -1567,7 +1615,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1597,7 +1645,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -1609,8 +1657,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时34分 ~ 23时31分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1624,6 +1672,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 07时32分]"
+        },
+        {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时31分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -1654,17 +1715,16 @@
           "time_info": "[00时54分 ~ 03时29分]"
         },
         {
-          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
-          "url": "https://wallstreetcn.com/articles/3759864",
-          "source": "华尔街见闻",
+          "title": "英伟达股价经历过山车",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E7%BB%8F%E5%8E%86%E8%BF%87%E5%B1%B1%E8%BD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
             5,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时31分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -1696,18 +1756,6 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
-          "title": "英伟达股价经历过山车",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E7%BB%8F%E5%8E%86%E8%BF%87%E5%B1%B1%E8%BD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
-        },
-        {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
           "url": "https://wallstreetcn.com/articles/3759810",
           "source": "华尔街见闻",
@@ -1730,8 +1778,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时34分 ~ 23时31分]"
         },
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -1773,6 +1821,19 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
+          "title": "黄仁勋被曝在内部大倒苦水：市场未充分认识到英伟达的优秀",
+          "url": "https://www.cls.cn/detail/2207465",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时31分]"
+        },
+        {
           "title": "英伟达市值一夜蒸发1429亿美元",
           "url": "https://www.toutiao.com/trending/7574350572359696427/",
           "source": "今日头条",
@@ -1799,19 +1860,6 @@
           "time_info": "[04时40分 ~ 13时41分]"
         },
         {
-          "title": "黄仁勋被曝在内部大倒苦水：市场未充分认识到英伟达的优秀",
-          "url": "https://www.cls.cn/detail/2207465",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
-        },
-        {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
           "url": "https://www.cls.cn/detail/2207484",
           "source": "财联社热门",
@@ -1819,11 +1867,12 @@
             13,
             11,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时31分]"
         },
         {
           "title": "外媒称2名中国公民涉嫌向中国出口英伟达芯片被捕，外交部回应",
@@ -1833,8 +1882,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时31分]"
+        },
+        {
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时31分]"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
@@ -1846,18 +1907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
         },
         {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
@@ -1882,27 +1931,17 @@
           "time_info": "00时55分"
         },
         {
-          "title": "英伟达跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3008771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
             3,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时31分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
@@ -1922,7 +1961,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1936,6 +1975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
+          "url": "https://wallstreetcn.com/livenews/3008798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
@@ -1971,6 +2021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "诺基亚计划在美国进行40亿美元AI投资",
+          "url": "https://wallstreetcn.com/livenews/3008795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "易梦玲称和胡彦斌海边视频是AI",
@@ -2020,6 +2081,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时55分]"
+        },
+        {
+          "title": "英伟达跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3008771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时31分]"
         },
         {
           "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
@@ -2308,6 +2381,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "英伟达跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3008095",
           "source": "华尔街见闻-快讯",
@@ -2325,7 +2409,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -2429,6 +2513,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "纳指高开后转跌，英伟达(NVDA.O)现跌1.47%，甲骨文(ORCL.N)跌5.7%至五个月以来的新低。",
+          "url": "https://flash.jin10.com/detail/20251121230332315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "金十图示：2025年11月21日（周五）富时中国A50指数成分股午盘收盘行情一览：多数板块飘绿，半导体、消费电子、通讯设备板块大跌",
           "url": "https://flash.jin10.com/detail/20251121113238254800",
           "source": "金十数据",
@@ -2438,6 +2533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "胡彦斌 不是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -2504,6 +2610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "不是AI是爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
@@ -2578,6 +2695,17 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
+          "title": "中国重启“战狼外交”？外交部回应",
+          "url": "https://news.ifeng.com/c/8oSmcjVPHMd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时31分]"
+        },
+        {
           "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
           "url": "https://www.zhihu.com/question/1975169592130286012",
           "source": "知乎",
@@ -2587,19 +2715,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时31分]"
         },
         {
-          "title": "中国重启“战狼外交”？外交部回应",
-          "url": "https://news.ifeng.com/c/8oSmcjVPHMd",
+          "title": "“馆长”怒斥高市早苗煽风点火：你很希望两岸中国人打仗？",
+          "url": "https://news.ifeng.com/c/8oSpX2tu2IG",
           "source": "凤凰网",
           "ranks": [
-            2
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时41分]"
+          "time_info": "[17时39分 ~ 23时31分]"
         },
         {
           "title": "50多万名中国游客取消原定日本行程",
@@ -2646,18 +2775,6 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
-          "title": "“馆长”怒斥高市早苗煽风点火：你很希望两岸中国人打仗？",
-          "url": "https://news.ifeng.com/c/8oSpX2tu2IG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时41分]"
-        },
-        {
           "title": "德国医疗展盒饭致200名中国人中毒",
           "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8C%BB%E7%96%97%E5%B1%95%E7%9B%92%E9%A5%AD%E8%87%B4200%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -2685,8 +2802,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时31分]"
         },
         {
           "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
@@ -2695,11 +2812,24 @@
           "ranks": [
             11,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时56分 ~ 23时31分]"
+        },
+        {
+          "title": "中国驻日使馆重申敌国条款",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E9%87%8D%E7%94%B3%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 23时31分]"
         },
         {
           "title": "中国军网海外发布一切就绪",
@@ -2717,6 +2847,17 @@
           "time_info": "[14时56分 ~ 19时29分]"
         },
         {
+          "title": "中国制造武器出现在俄军手中？外交部回应",
+          "url": "https://news.ifeng.com/c/8oSncxeynya",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时31分]"
+        },
+        {
           "title": "中国公民沦为“矿奴” 使馆紧急提醒",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B2%A6%E4%B8%BA%E2%80%9C%E7%9F%BF%E5%A5%B4%E2%80%9D+%E4%BD%BF%E9%A6%86%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92",
           "source": "百度热搜",
@@ -2730,29 +2871,6 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
-          "title": "中国驻日使馆重申敌国条款",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E9%87%8D%E7%94%B3%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
-        },
-        {
-          "title": "中国制造武器出现在俄军手中？外交部回应",
-          "url": "https://news.ifeng.com/c/8oSncxeynya",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时41分]"
-        },
-        {
           "title": "汉奸石平竟跳出来这样拱火：高市早苗别妥协，等中国先来缓和",
           "url": "https://news.ifeng.com/c/8oSpASKVqc5",
           "source": "凤凰网",
@@ -2760,8 +2878,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时31分]"
         },
         {
           "title": "“德政府内部，人们争相证明自己能与中国建立更好联系”",
@@ -2772,8 +2890,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时31分]"
+        },
+        {
+          "title": "中国驻日使馆重申联合国敌国条款",
+          "url": "https://news.ifeng.com/c/8oSum8Wh4pR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时41分]"
+          "time_info": "[18时42分 ~ 23时31分]"
+        },
+        {
+          "title": "与中国闹翻日本经济界先慌了",
+          "url": "https://www.toutiao.com/trending/7574250888475590692/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时31分]"
         },
         {
           "title": "领馆介入百名中国人在德食物中毒事件",
@@ -2803,27 +2944,16 @@
           "time_info": "[16时53分 ~ 19时29分]"
         },
         {
-          "title": "中国驻日使馆重申联合国敌国条款",
-          "url": "https://news.ifeng.com/c/8oSum8Wh4pR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 22时41分]"
-        },
-        {
-          "title": "与中国闹翻日本经济界先慌了",
-          "url": "https://www.toutiao.com/trending/7574250888475590692/",
-          "source": "今日头条",
+          "title": "中方回应“乌称摧毁中国制造武器”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%8C%E7%A7%B0%E6%91%A7%E6%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%AD%A6%E5%99%A8%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             25,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时29分 ~ 22时41分]"
+          "time_info": "[21时36分 ~ 23时31分]"
         },
         {
           "title": "美媒咋算出来“中国已有8艘航母”",
@@ -2888,18 +3018,6 @@
           "time_info": "19时29分"
         },
         {
-          "title": "中方回应“乌称摧毁中国制造武器”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B9%8C%E7%A7%B0%E6%91%A7%E6%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%AD%A6%E5%99%A8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
-        },
-        {
           "title": "金十期货11月21日讯，上海航运交易所数据显示，截至11月21日，上海出口集装箱运价指数（综合指数）报1393.56点，与上期相比下跌57.82点；中国出口集装箱运价综合指数报1122.79点，与上期相比涨2.6%。",
           "url": "https://flash.jin10.com/detail/20251121150840838800",
           "source": "金十数据",
@@ -2920,6 +3038,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "中方回应乌称战场出现中国制造武器",
+          "url": "https://www.toutiao.com/trending/7575076914461818923/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 23时31分]"
         },
         {
           "title": "樊振东展现中国水平中国力量",
@@ -2998,17 +3129,17 @@
           "time_info": "[16时53分 ~ 17时39分]"
         },
         {
-          "title": "中方回应乌称战场出现中国制造武器",
-          "url": "https://www.toutiao.com/trending/7575076914461818923/",
-          "source": "今日头条",
+          "title": "中国点穴式制裁日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%82%B9%E7%A9%B4%E5%BC%8F%E5%88%B6%E8%A3%81%E6%97%A5%E6%9C%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            21,
-            7,
-            17
+            18,
+            30,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时29分 ~ 22时41分]"
+          "time_info": "[21时36分 ~ 23时31分]"
         },
         {
           "title": "中方回应俄乌战场现中国武器",
@@ -3016,23 +3147,24 @@
           "source": "微博",
           "ranks": [
             25,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时31分]"
         },
         {
-          "title": "中国点穴式制裁日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%82%B9%E7%A9%B4%E5%BC%8F%E5%88%B6%E8%A3%81%E6%97%A5%E6%9C%AC%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "摄影师戴建峰起诉视觉中国侵权案一审判决：获赔1.5万元，视觉中国需公开道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32013762",
+          "source": "澎湃新闻",
           "ranks": [
             18,
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时41分]"
+          "time_info": "[22时40分 ~ 23时31分]"
         },
         {
           "title": "联想集团刘军：中国区客户直营占比达到80%",
@@ -3117,17 +3249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时44分]"
-        },
-        {
-          "title": "摄影师戴建峰起诉视觉中国侵权案一审判决：获赔1.5万元，视觉中国需公开道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32013762",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至2%。",
@@ -3368,7 +3489,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "美国9月非农大超预期 失业率升至4.4% 美联储12月决策更趋复杂",
@@ -3426,9 +3547,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "美联储洛根：数据中心将继续推高电价。",
+          "url": "https://flash.jin10.com/detail/20251121232655049800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美联储理事米兰将于十分钟后参加一场讨论活动。",
@@ -3804,7 +3947,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -3859,7 +4002,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -3958,7 +4101,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -4013,7 +4156,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -4035,7 +4178,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -4087,7 +4230,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -4100,8 +4243,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 22时41分]"
+          "appearance_count": 12,
+          "time_info": "[13时41分 ~ 23时31分]"
         },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -4137,6 +4280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3008796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -4379,6 +4533,39 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美国总统特朗普：哥伦比亚在打击毒品贩运方面“糟糕透了”。",
+          "url": "https://flash.jin10.com/detail/20251121232105772800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "美国总统特朗普表示，他看到双方都支持他的保险计划。",
+          "url": "https://flash.jin10.com/detail/20251121231926241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
           "url": "https://flash.jin10.com/detail/20251121141912217800",
           "source": "金十数据",
@@ -4423,6 +4610,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美国总统特朗普重申他对美国联邦调查局（FBI）局长和司法部充满信心。",
+          "url": "https://flash.jin10.com/detail/20251121231641494800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
           "url": "https://flash.jin10.com/detail/20251121063623513800",
           "source": "金十数据",
@@ -4443,6 +4641,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "美国总统特朗普表示，他并未威胁民主党议员。",
+          "url": "https://flash.jin10.com/detail/20251121231322504800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "美国总统特朗普预计将与纽约新市长曼达尼举行“文明的”会晤。",
+          "url": "https://flash.jin10.com/detail/20251121231047953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
@@ -4495,7 +4715,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -4544,6 +4764,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "特朗普关税政策为何“急转弯”",
+          "url": "https://www.toutiao.com/trending/7575149035590258239/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "乌克兰总统办公室：预计泽连斯基将在未来几天与特朗普对话。",
           "url": "https://flash.jin10.com/detail/20251121001848368800",
           "source": "金十数据",
@@ -4558,7 +4789,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -4570,8 +4801,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时34分 ~ 23时31分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -4584,8 +4815,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时34分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时34分 ~ 23时31分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -4648,17 +4879,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "行业ETF美股盘初普遍走高，全球航空业ETF涨0.8%，区域银行ETF、银行业ETF、可选消费ETF涨超0.7%，网络股指数ETF涨0.45%，科技行业ETF涨0.34%，能源业ETF微跌，全球科技股指数ETF跌0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3008769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -4695,6 +4915,18 @@
           "time_info": "[05时31分 ~ 06时34分]"
         },
         {
+          "title": "行业ETF美股盘初普遍走高，全球航空业ETF涨0.8%，区域银行ETF、银行业ETF、可选消费ETF涨超0.7%，网络股指数ETF涨0.45%，科技行业ETF涨0.34%，能源业ETF微跌，全球科技股指数ETF跌0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3008769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时31分]"
+        },
+        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -4702,19 +4934,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时31分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
           "url": "https://www.cls.cn/detail/2207612",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时31分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
@@ -4764,6 +4997,17 @@
           "time_info": "[01时34分 ~ 01时35分]"
         },
         {
+          "title": "高盛合伙人：美股出现多头缴械迹象",
+          "url": "https://flash.jin10.com/detail/20251121232055058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
@@ -4781,7 +5025,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -4792,9 +5036,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "市场消息：高盛合伙人称美股出现多头缴械迹象，企稳前抛售将继续。",
+          "url": "https://flash.jin10.com/detail/20251121231222019800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
@@ -4817,6 +5072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251121230031522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
