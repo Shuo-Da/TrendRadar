@@ -1,279 +1,11 @@
 {
-  "generated_at": "2025-11-26T03:31:20.826173+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-26T04:42:25.674538+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
-          "url": "https://wallstreetcn.com/articles/3760106",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
-          "url": "https://flash.jin10.com/detail/20251126024316318800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "马斯克将用AI挑战顶尖LOL战队",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            6,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
-          "url": "https://flash.jin10.com/detail/20251126023611975800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
-          "url": "https://wallstreetcn.com/livenews/3010363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
-          "url": "https://wallstreetcn.com/articles/3760080",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "英伟达跌超6% 较高点损失1万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%856%25+%E8%BE%83%E9%AB%98%E7%82%B9%E6%8D%9F%E5%A4%B11%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "华为手机上新！部分搭载新款麒麟芯片 首发多款技术",
-          "url": "https://www.cls.cn/detail/2210585",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
-          "url": "https://www.zhihu.com/question/1976380708353234914",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "两美刀逼疯AI!怒要报官告公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "机构：苹果势将超越三星，重夺全球最大智能手机制造商桂冠",
-          "url": "https://wallstreetcn.com/livenews/3010354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "苹果有望超越三星 再度成为全球最大智能手机制造商",
-          "url": "https://flash.jin10.com/detail/20251126020759372800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
-          "url": "https://wallstreetcn.com/livenews/3010309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时41分]"
-        },
-        {
-          "title": "华为秋季全场景发布会落幕",
-          "url": "https://www.toutiao.com/trending/7576581681797988379/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时41分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)大跌6%，创七个多月来最大单日盘中跌幅。",
-          "url": "https://flash.jin10.com/detail/20251125231123951800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -283,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -296,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -311,6 +43,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "白宫否认特朗普考虑撤掉联邦调查局局长卡什·帕特尔。",
+          "url": "https://flash.jin10.com/detail/20251126044053857800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
           "url": "https://flash.jin10.com/detail/20251126011951511800",
           "source": "金十数据",
@@ -322,39 +65,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
-          "url": "https://flash.jin10.com/detail/20251126030058119800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
-          "url": "https://flash.jin10.com/detail/20251126025659614800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://wallstreetcn.com/livenews/3010364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -362,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -374,8 +84,44 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
+          "url": "https://flash.jin10.com/detail/20251126030058119800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
+          "url": "https://flash.jin10.com/detail/20251126025659614800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://wallstreetcn.com/livenews/3010364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -389,6 +135,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时42分]"
         },
         {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
@@ -427,18 +186,6 @@
           "time_info": "[02时52分 ~ 03时31分]"
         },
         {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时52分]"
-        },
-        {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
           "url": "https://flash.jin10.com/detail/20251126011811118800",
           "source": "金十数据",
@@ -461,6 +208,39 @@
           "time_info": "01时41分"
         },
         {
+          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
+          "url": "https://wallstreetcn.com/livenews/3010379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
+          "url": "https://wallstreetcn.com/livenews/3010377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3010375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基希望尽快与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251126001302280800",
           "source": "金十数据",
@@ -470,6 +250,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
+          "url": "https://flash.jin10.com/detail/20251126034622447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.douyin.com/hot/2316962",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
+          "url": "https://flash.jin10.com/detail/20251126033731178800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：为了促成这项和平计划的最终达成，我已指示中东问题特使威特科夫前往莫斯科与俄罗斯总统普京会面。",
+          "url": "https://flash.jin10.com/detail/20251126033648402800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在与特朗普和欧洲的和平协议框架下向前迈进。",
@@ -483,6 +307,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "美国总统特朗普：由美国起草的最初的28点和平计划经过双方的进一步完善，目前仅剩少数几个分歧点。",
+          "url": "https://flash.jin10.com/detail/20251126033621704800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：已准备好与美国总统特朗普讨论敏感问题，欧洲领导人应参与此次会晤。",
           "url": "https://flash.jin10.com/detail/20251126010046350800",
           "source": "金十数据",
@@ -492,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
+          "url": "https://flash.jin10.com/detail/20251126033601685800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "特朗普：认为我们正非常接近就乌克兰问题达成协议。",
@@ -518,6 +364,312 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
+          "url": "https://wallstreetcn.com/articles/3760106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            6,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
+          "url": "https://wallstreetcn.com/articles/3760080",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "英伟达跌超6% 较高点损失1万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%856%25+%E8%BE%83%E9%AB%98%E7%82%B9%E6%8D%9F%E5%A4%B11%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "华为手机上新！部分搭载新款麒麟芯片 首发多款技术",
+          "url": "https://www.cls.cn/detail/2210585",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？",
+          "url": "https://www.zhihu.com/question/1976380708353234914",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://flash.jin10.com/detail/20251126024316318800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
+          "url": "https://flash.jin10.com/detail/20251126023611975800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://wallstreetcn.com/livenews/3010363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "机构：苹果势将超越三星，重夺全球最大智能手机制造商桂冠",
+          "url": "https://wallstreetcn.com/livenews/3010354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
+        },
+        {
+          "title": "苹果有望超越三星 再度成为全球最大智能手机制造商",
+          "url": "https://flash.jin10.com/detail/20251126020759372800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时31分]"
+        },
+        {
+          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
+          "url": "https://wallstreetcn.com/livenews/3010309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时41分]"
+        },
+        {
+          "title": "华为秋季全场景发布会落幕",
+          "url": "https://www.toutiao.com/trending/7576581681797988379/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时41分]"
+        },
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
+          "url": "https://flash.jin10.com/detail/20251126040323241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "00后谈恋爱用AI当“僚机”",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E8%B0%88%E6%81%8B%E7%88%B1%E7%94%A8AI%E5%BD%93%E2%80%9C%E5%83%9A%E6%9C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "英伟达(NVDA.O)大跌6%，创七个多月来最大单日盘中跌幅。",
+          "url": "https://flash.jin10.com/detail/20251125231123951800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国 十五五规划",
       "match_count": 20,
       "titles": [
@@ -529,8 +681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "在日中国游客提前回国 机场仿佛春运",
@@ -540,20 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
-        },
-        {
-          "title": "妈妈版舌尖上的中国",
-          "url": "https://www.douyin.com/hot/2317091",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "中国将寻找第二颗地球",
@@ -563,8 +703,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "南海舰队：中国军人只有战死没有吓死",
@@ -574,8 +714,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "日本餐厅老板：中国客人几乎都消失了，损失很大",
@@ -585,8 +725,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
+        },
+        {
+          "title": "妈妈版舌尖上的中国",
+          "url": "https://www.douyin.com/hot/2317091",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "疯狂动物城2中国影史动画预售票房冠军",
@@ -594,11 +747,12 @@
           "source": "微博",
           "ranks": [
             7,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "中国撤回大熊猫,日网怒赞本土棕熊",
@@ -608,8 +762,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "中国驻日本福冈总领馆紧急提醒",
@@ -619,11 +773,12 @@
             7,
             10,
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "中国海军989编队前往马来西亚",
@@ -633,11 +788,12 @@
             21,
             18,
             14,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "中国载人航天首次应急发射纪实",
@@ -649,8 +805,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "锐评｜距中国台湾110公里处部署导弹，日本突破“专守防卫”界限",
@@ -661,8 +817,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "韩国“国民爷爷”李顺载去世，曾在中国金鸡百花电影节获奖",
@@ -672,8 +828,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "如何看待《疯狂动物城 2》预售总票房破 3 亿，超越《哪吒之魔童闹海》刷新中国影史动画电影预售票房纪录？",
@@ -682,11 +838,12 @@
           "ranks": [
             10,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 04时42分]"
         },
         {
           "title": "中国军号转发日语海报",
@@ -695,11 +852,12 @@
           "ranks": [
             20,
             21,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "南海舰队：中国军人只有战死没有吓死",
@@ -707,11 +865,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 04时42分]"
         },
         {
           "title": "美媒：挑衅中国 日本承受不起",
@@ -719,22 +878,36 @@
           "source": "今日头条",
           "ranks": [
             27,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
         },
         {
           "title": "唐驳虎：中国用20天完成一次壮举",
           "url": "https://www.toutiao.com/trending/7576520038518099462/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
+        },
+        {
+          "title": "陈百祥：中国一讲琉球独立日本就脚软",
+          "url": "https://www.toutiao.com/trending/7575651677886251071/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时42分]"
         },
         {
           "title": "美国网红博主结束中国行后久久回味",
@@ -746,17 +919,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "陈百祥：中国一讲琉球独立日本就脚软",
-          "url": "https://www.toutiao.com/trending/7575651677886251071/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
         }
       ]
     },
@@ -770,11 +932,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
         },
         {
           "title": "福克斯新闻：关于下一任美联储主席的遴选 目前尚无领跑者",
@@ -782,11 +945,38 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的23.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20251126021955815800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
+        },
+        {
+          "title": "周二（11月25日），美联储隔夜逆回购协议（RRP）使用规模为23.14亿美元，上个交易日报10.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3010357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
         },
         {
           "title": "摩根大通：2026年美元料将走弱，但美联储加息风险或动摇该观点",
@@ -802,28 +992,17 @@
           "time_info": "[01时41分 ~ 03时31分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的23.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20251126021955815800",
+          "title": "福克斯新闻记者：美国财政部长尚未完成对下一任美联储主席人选的面试。",
+          "url": "https://flash.jin10.com/detail/20251126021909726800",
           "source": "金十数据",
           "ranks": [
-            4,
-            9
+            6,
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "周二（11月25日），美联储隔夜逆回购协议（RRP）使用规模为23.14亿美元，上个交易日报10.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3010357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
         },
         {
           "title": "报道：哈塞特成为特朗普美联储主席人选的领跑者",
@@ -837,18 +1016,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时31分]"
-        },
-        {
-          "title": "福克斯新闻记者：美国财政部长尚未完成对下一任美联储主席人选的面试。",
-          "url": "https://flash.jin10.com/detail/20251126021909726800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
         },
         {
           "title": "短端美债收益率走低，报道称哈塞特在美联储主席人选中领先",
@@ -909,8 +1076,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "降息预期飙升，“万物齐涨”！纳指创5月来最佳单日表现，中概、加密货币大涨",
@@ -920,8 +1087,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "“鲍威尔盟友”连续发声支持降息，市场对美联储12月降息预期大幅升至80%",
@@ -931,8 +1098,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -943,8 +1110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "央行开始“卖金”了吗？",
@@ -954,8 +1121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -965,8 +1132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "标普500指数涨幅扩大至0.5%，道指涨475点涨幅超过1%，纳指涨0.1%，半导体指数跌1.4%。",
@@ -995,8 +1162,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时42分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -1038,19 +1205,31 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周二（11月25日）纽约尾盘，ICE美元指数下跌0.45%，报99.695点，日内交投区间为100.261-99.654点。 彭博美元指数跌0.38%，报1222.17点，日内交投区间为1227.56-1221.15点，北京时间14:00以来持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3010388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "美元指数日内跌幅达0.5%，报99.6766。",
           "url": "https://wallstreetcn.com/livenews/3010351",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时42分]"
         },
         {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
