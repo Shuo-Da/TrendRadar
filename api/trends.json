@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T04:35:36.784541+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-11-27T05:31:42.075972+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "墨西哥央行副行长希斯：我们的通胀目标是3%，不存在容忍区间。",
-          "url": "https://flash.jin10.com/detail/20251127040344748800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -37,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -46,11 +35,34 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "墨西哥央行副行长希斯：我们的通胀目标是3%，不存在容忍区间。",
+          "url": "https://flash.jin10.com/detail/20251127040344748800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3011062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "交易员们预计，英国央行到2026年6月份将降息1-2次。 其中一人预计，降息空间超过50个基点，另外一人预计仅仅会降息一次。（彭博）",
@@ -222,15 +234,48 @@
           "time_info": "[00时54分 ~ 01时39分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.03%，报7750.79点。 热门中概股里，阿特斯太阳能涨8.4%，大全新能源涨3.2%，文远知行涨1.7%，金山云则跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.64%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收涨0.01%，德银嘉实沪深300指数ETF（ASHR）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3011058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "墨西哥央行行长：毫无疑问，我们的货币政策现在以及未来都将继续聚焦于将通胀率降至3%的目标。",
           "url": "https://flash.jin10.com/detail/20251127035318009800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "标普500指数收涨46.73点，涨幅0.69%，报6812.61点。 道琼斯工业平均指数收涨314.67点，涨幅0.67%，报47427.12点。 纳斯达克综合指数（纳指）收涨189.099点，涨幅0.82%，报23214.69点。 纳斯达克100指数收涨218.579点，涨幅0.87%，报25236.939点。",
+          "url": "https://wallstreetcn.com/livenews/3011055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "创业板涨超2%，中际旭创新高，万科债临停，地产股冲高回落，港股美团涨超5%",
+          "url": "https://wallstreetcn.com/articles/3760136",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "英国财政大臣预算案为央行降息铺平道路",
@@ -258,7 +303,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储褐皮书：两个地区称经济温和下滑，消费者总体上削减开支",
@@ -429,6 +474,17 @@
           "time_info": "[03时26分 ~ 04时35分]"
         },
         {
+          "title": "投资者称：哈塞特执掌美联储可能给美元带来压力",
+          "url": "https://wallstreetcn.com/livenews/3011052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美联储褐皮书：大多数地区表示，自上一份报告以来，经济活动基本未发生变化；不过，有两个地区指出经济活动略有下滑，还有一个地区则报告经济活动略有增长。",
           "url": "https://flash.jin10.com/detail/20251127030057593800",
           "source": "金十数据",
@@ -440,13 +496,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "周三（11月26日）纽约尾盘，美国10年期国债收益率跌0.19个基点，报3.9941%，全天冲高回落，北京时间23:04涨至4.0402%刷新日高。 两年期美债收益率涨2.04个基点，报3.4791%，23:01也刷新日高至3.4995%。",
+          "url": "https://wallstreetcn.com/livenews/3011050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
           "title": "美联储褐皮书：两个地区称经济温和下滑，特朗普政府关门对消费者购买产生负面影响",
           "url": "https://wallstreetcn.com/livenews/3011027",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -468,217 +535,222 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
       ]
     },
     {
-      "keyword_group": "中国 十五五规划",
-      "match_count": 15,
+      "keyword_group": "特朗普",
+      "match_count": 17,
       "titles": [
         {
-          "title": "中国军号发布视频：导弹起竖",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%EF%BC%9A%E5%AF%BC%E5%BC%B9%E8%B5%B7%E7%AB%96",
-          "source": "百度热搜",
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "中国驻日本大使馆再发布提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%86%8D%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92",
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31698632",
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
           "source": "澎湃新闻",
           "ranks": [
-            6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "深交所组织上市公司赴澳大利亚路演，外资看好投资中国新机遇",
-          "url": "https://wallstreetcn.com/livenews/3011038",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27,
+            24,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普已要求向华盛顿特区增派500名士兵，此前已有两名国民警卫队成员遭枪击。",
+          "url": "https://flash.jin10.com/detail/20251127052114658800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
+          "url": "https://flash.jin10.com/detail/20251127035707574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "04时35分"
         },
         {
-          "title": "美学者质问日本为何多次入侵中国",
-          "url": "https://www.toutiao.com/trending/7576557790202953770/",
-          "source": "今日头条",
+          "title": "特朗普称不再给乌克兰设最后期限",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
+          "source": "百度热搜",
           "ranks": [
-            30,
-            7,
-            8,
-            12,
-            16
+            27,
+            26,
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "日本餐厅老板称中国客人几乎都消失了",
-          "url": "https://www.toutiao.com/trending/7576871233628012586/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            21,
-            18,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "中国军号抖音粉丝突破4000万",
-          "url": "https://www.douyin.com/hot/2318903",
+          "title": "美财长：特朗普明年或将两次访华",
+          "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
           "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "俄副外长：美国盟友应充分认识到台湾问题对中国重要性",
-          "url": "https://wallstreetcn.com/livenews/3010989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
+            28,
             26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时50分]"
+          "time_info": "[03时26分 ~ 05时31分]"
         },
         {
-          "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049790",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
+          "url": "https://wallstreetcn.com/livenews/3011035",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18,
-            16
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 04时35分]"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时31分]"
         },
         {
-          "title": "如何看中国民企造出廉价高超音速导弹",
-          "url": "https://www.toutiao.com/trending/7576956946155048491/",
-          "source": "今日头条",
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://wallstreetcn.com/livenews/3011041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            22,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
+          "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
+          "url": "https://flash.jin10.com/detail/20251127021445354800",
+          "source": "金十数据",
+          "ranks": [
+            13,
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 04时35分]"
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时26分]"
         },
         {
-          "title": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32045814",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
+          "url": "https://flash.jin10.com/detail/20251127034310737800",
+          "source": "金十数据",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "俄方为何没让中国参与俄乌斡旋",
-          "url": "https://www.toutiao.com/trending/7577032310281735686/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
         {
-          "title": "中国游客锐减冲击日本旅游业",
-          "url": "https://wallstreetcn.com/livenews/3010952",
+          "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
+          "url": "https://wallstreetcn.com/livenews/3011051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
+          "url": "https://flash.jin10.com/detail/20251127034303790800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "04时35分"
+        },
+        {
+          "title": "加拿大总理卡尼：将于下周在世界杯足球抽签期间会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251127044545100800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "加拿大总理卡尼：周二与美国总统特朗普进行了简短交谈。",
+          "url": "https://flash.jin10.com/detail/20251127044356842800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
@@ -687,8 +759,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -698,8 +770,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "就安世半导体等经贸问题，商务部部长王文涛与欧方视频会谈",
@@ -710,8 +782,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -719,6 +791,18 @@
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -734,8 +818,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -746,19 +830,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "人类正在被AI反向训练吗",
@@ -772,8 +857,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -783,8 +868,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
+          "url": "https://wallstreetcn.com/livenews/3011063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -794,11 +890,12 @@
             12,
             19,
             16,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "苹果挑战印度反垄断监管机构的“全球营业额”罚款规定",
@@ -838,166 +935,200 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
+      "keyword_group": "中国 十五五规划",
+      "match_count": 15,
       "titles": [
         {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
+          "title": "中国军号发布视频：导弹起竖",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%EF%BC%9A%E5%AF%BC%E5%BC%B9%E8%B5%B7%E7%AB%96",
           "source": "百度热搜",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "title": "中国驻日本大使馆再发布提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%86%8D%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "纵横中国｜长江上到底有多少大桥？我们在卫星图上数了数",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31698632",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
-          "title": "特朗普力推,尖峰时刻4要来了?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
-        },
-        {
-          "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
-          "url": "https://flash.jin10.com/detail/20251127035707574800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "title": "美学者质问日本为何多次入侵中国",
+          "url": "https://www.toutiao.com/trending/7576557790202953770/",
           "source": "今日头条",
           "ranks": [
-            28,
-            27,
-            24,
+            30,
+            7,
+            8,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "日本餐厅老板称中国客人几乎都消失了",
+          "url": "https://www.toutiao.com/trending/7576871233628012586/",
+          "source": "今日头条",
+          "ranks": [
             17,
-            18
+            21,
+            18,
+            14,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "外交部：敦促日方采取切实行动保障在日中国公民和机构的安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046965",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "中国军号抖音粉丝突破4000万",
+          "url": "https://www.douyin.com/hot/2318903",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "中国撤回大熊猫,日网怒赞本土棕熊",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347467&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%92%A4%E5%9B%9E%E5%A4%A7%E7%86%8A%E7%8C%AB%2C%E6%97%A5%E7%BD%91%E6%80%92%E8%B5%9E%E6%9C%AC%E5%9C%9F%E6%A3%95%E7%86%8A",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "多名旅日中国公民报告遭到无端辱骂殴打并受伤，中使馆发布提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049790",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "time_info": "[01时39分 ~ 05时31分]"
         },
         {
-          "title": "特朗普称不再给乌克兰设最后期限",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
-          "source": "百度热搜",
+          "title": "俄副外长：美国盟友应充分认识到台湾问题对中国重要性",
+          "url": "https://wallstreetcn.com/livenews/3010989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            26,
+            1,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时50分]"
+        },
+        {
+          "title": "深交所组织上市公司赴澳大利亚路演，外资看好投资中国新机遇",
+          "url": "https://wallstreetcn.com/livenews/3011038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时31分]"
+        },
+        {
+          "title": "《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045814",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时31分]"
+        },
+        {
+          "title": "如何看中国民企造出廉价高超音速导弹",
+          "url": "https://www.toutiao.com/trending/7576956946155048491/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22,
             28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "time_info": "[02时50分 ~ 04时35分]"
         },
         {
-          "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
-          "url": "https://flash.jin10.com/detail/20251127021445354800",
-          "source": "金十数据",
+          "title": "俄方为何没让中国参与俄乌斡旋",
+          "url": "https://www.toutiao.com/trending/7577032310281735686/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            28
+            22,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时26分]"
+          "time_info": "[04时35分 ~ 05时31分]"
         },
         {
-          "title": "美财长：特朗普明年或将两次访华",
-          "url": "https://www.douyin.com/hot/2318105",
-          "source": "抖音",
+          "title": "中国游客锐减冲击日本旅游业",
+          "url": "https://wallstreetcn.com/livenews/3010952",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            26
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时35分]"
-        },
-        {
-          "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
-          "url": "https://wallstreetcn.com/livenews/3011035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
-          "url": "https://flash.jin10.com/detail/20251127034310737800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
-          "url": "https://wallstreetcn.com/livenews/3011041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
-          "url": "https://flash.jin10.com/detail/20251127034303790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -1005,11 +1136,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -1022,6 +1154,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时26分]"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050533474800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050529434800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 人造肉概念股大涨",
+          "url": "https://flash.jin10.com/detail/20251127050057766800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
@@ -1044,6 +1209,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20251127045630156800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，ICE美元指数跌0.08%，报99.585点，日内交投区间为99.959-99.555点，在一波冲高回落行情中、于北京时间22:01刷新日高。 彭博美元指数跌0.29%，报1219.49点，日内交投区间为1223.57-1219.49点。",
+          "url": "https://wallstreetcn.com/livenews/3011045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
