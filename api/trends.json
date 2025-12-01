@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T13:51:44.825831+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-12-01T15:01:00.645369+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 46,
+      "match_count": 57,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时01分]"
         },
         {
           "title": "高盛：美联储应该而且将会在12月降息",
@@ -99,49 +100,108 @@
           "time_info": "12时18分"
         },
         {
+          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760415",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
+        },
+        {
           "title": "日本央行行长植田和男：希望在我们将利率提高至0.75%后，再进一步阐述未来加息路径。 很难说离中性利率还有多远。 政府刺激方案中包含的物价抑制措施将有助于推动整体CPI下降。 政府方案中的其他措施可能会推动经济增长，并在理论上推高基础通胀，但目前难以判断幅度。",
           "url": "https://wallstreetcn.com/livenews/3012814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
         {
-          "title": "泰国央行行长：货币政策无法解决结构性问题。",
-          "url": "https://flash.jin10.com/detail/20251201133231067800",
+          "title": "交易员：印度央行可能在抛售美元，以抑制卢比跌势。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "印度卢比兑美元一度跌至89.7575的历史低位。有交易员称，印度央行可能在抛售美元，以抑制卢比跌势。",
+          "url": "https://flash.jin10.com/detail/20251201142848033800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "15时01分"
         },
         {
-          "title": "泰国央行行长：洪灾可能对GDP造成0.1-0.2个百分点的拖累",
-          "url": "https://wallstreetcn.com/livenews/3012813",
+          "title": "欧洲央行副行长金多斯：目前的利率水平是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3012840",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "15时01分"
         },
         {
-          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760415",
-          "source": "华尔街见闻",
+          "title": "泰国央行行长：货币政策无法解决结构性问题。",
+          "url": "https://flash.jin10.com/detail/20251201133231067800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6
+            5,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "time_info": "[13时51分 ~ 15时01分]"
+        },
+        {
+          "title": "泰国央行行长：洪灾可能对GDP造成0.1-0.2个百分点的拖累",
+          "url": "https://wallstreetcn.com/livenews/3012813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 15时01分]"
+        },
+        {
+          "title": "日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后",
+          "url": "https://wallstreetcn.com/articles/3760425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "A股存储芯片板块午后拉升，北京君正涨超13%，兆易创新涨超5%，佰维存储、华海诚科、复旦微电纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3012805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 15时01分]"
         },
         {
           "title": "谁让A股变冷了",
@@ -162,9 +222,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：目前的利率水平是合适的。",
+          "url": "https://flash.jin10.com/detail/20251201142415149800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "日本央行行长植田和男：政府刺激计划中遏制物价的措施将有助于拉低整体CPI。",
@@ -173,7 +244,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -195,7 +266,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -206,7 +277,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -217,18 +288,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "A股存储芯片板块午后拉升，北京君正涨超13%，兆易创新涨超5%，佰维存储、华海诚科、复旦微电纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3012805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -250,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -283,7 +343,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -310,15 +370,37 @@
           "time_info": "12时18分"
         },
         {
+          "title": "泰国央行：将采取措施应对泰铢波动，以减轻影响。 将密切监控泰铢汇率。 要求金融机构加强对与黄金相关的外汇交易的管控。 建议要求主要黄金交易商报告交易数据。",
+          "url": "https://wallstreetcn.com/livenews/3012833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "泰国央行行长：仍有降息空间。",
           "url": "https://flash.jin10.com/detail/20251201132545368800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "泰国央行：考虑要求主要黄金交易商报告的交易数据。",
+          "url": "https://flash.jin10.com/detail/20251201141231655800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "A股连续缩量说明了什么",
@@ -338,7 +420,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -376,6 +458,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "泰国央行：将采取措施应对泰铢波动，以减轻影响。",
+          "url": "https://flash.jin10.com/detail/20251201141131611800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "印尼央行官员：明年印尼盾兑美元汇率会涨至1美元兑16,500卢比，甚至是1美元兑16,400卢比，承诺进一步稳定印尼盾汇率。",
           "url": "https://flash.jin10.com/detail/20251201110006206800",
           "source": "金十数据",
@@ -387,13 +480,24 @@
           "time_info": "12时18分"
         },
         {
+          "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
+          "url": "https://flash.jin10.com/detail/20251201141126589800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "日本央行行长植田和男：政府积极的财政政策与日本央行调整货币支持措施相结合，将有助于实现可持续的经济增长路径。",
           "url": "https://flash.jin10.com/detail/20251201132313492800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -415,7 +519,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -426,7 +530,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -437,7 +541,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -448,7 +552,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -459,9 +563,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "日本央行行长植田和男：希望在我们将利率提高至0.75%后，再进一步阐述未来加息路径。 很难说离中性利率还有多远。 政府刺激方案中包含的物价抑制措施将有助于推动整体CPI下降。 政府方案中的其他措施可能会推动经济增长，并在理论上推高基础通胀，但目前难以判断幅度。 日本央行并未踩刹车，而是通过调整踩油门的力度来调整货币宽松力度。 政策调整过晚可能导致非常高的通胀风险。",
+          "url": "https://wallstreetcn.com/livenews/3012814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "日本央行行长植田和男：日元疲软可能加剧日本通胀。",
@@ -470,7 +585,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -481,7 +596,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -492,7 +607,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -503,9 +618,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "日本央行行长植田和男：汇率可能是个推高通胀的因素。 需要关注外汇影响价格走势的风险。日元疲软可能通过抬高进口成本而提振通胀。 与首相和各位大臣进行了坦诚、良好的交流，并将继续与政府保持密切沟通。 存在各种不确定性。 关税影响的不确定性已经消退。 不会详细说明与首相和大臣们讨论的内容。 希望在12月根据工资信息以及其他数据作出政策决定。 过久推迟加息可能导致通胀急剧上升，并迫使我们迅速调整政策。 政府积极的财政政策与日本央行调整货币支持的组合，将有助于实现可持续的经济增长路径。 我们此前关注的不确定性–包括美国关税影响和美国经济前景–与几个月前相比已显著缓解。",
+          "url": "https://wallstreetcn.com/livenews/3012808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "日本央行行长植田和男：与首相及各部长进行了坦诚而富有成效的讨论，并将继续与政府保持密切沟通。",
@@ -514,7 +640,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
@@ -577,11 +703,12 @@
           "ranks": [
             6,
             7,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时01分]"
         },
         {
           "title": "历史重演,石破茂预警日本偷袭中国",
@@ -590,11 +717,12 @@
           "ranks": [
             9,
             10,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时01分]"
         },
         {
           "title": "陈景河卸任紫金矿业董事长，敢将并购战车开向全球：中国矿企争取后来居上",
@@ -665,11 +793,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
         },
         {
           "title": "东鹏饮料：发行境外上市股份（H股）获得中国证监会备案，公司拟发行不超过66,446,000股境外上市普通股并在香港联合交易所上市。",
@@ -693,6 +822,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "齐达内在中国和大妈们踢毽子",
+          "url": "https://www.baidu.com/s?wd=%E9%BD%90%E8%BE%BE%E5%86%85%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%A4%A7%E5%A6%88%E4%BB%AC%E8%B8%A2%E6%AF%BD%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
         },
         {
           "title": "流感流行进入上升期，中国疾控中心研究员：当前仍然建议还未接种流感疫苗的适宜人群尽快接种",
@@ -721,18 +863,6 @@
           "time_info": "[01时33分 ~ 05时31分]"
         },
         {
-          "title": "齐达内在中国和大妈们踢毽子",
-          "url": "https://www.baidu.com/s?wd=%E9%BD%90%E8%BE%BE%E5%86%85%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%A4%A7%E5%A6%88%E4%BB%AC%E8%B8%A2%E6%AF%BD%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
-        },
-        {
           "title": "中国电建通报“福建永安一水库大坝建设被指偷工减料”：已成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_32069127",
           "source": "澎湃新闻",
@@ -742,6 +872,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时27分]"
+        },
+        {
+          "title": "福建永安75亿元水电项目被指偷工减料背后：多个核心标段均由中国电建下属企业包揽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075098",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
         },
         {
           "title": "中国队挺进U17男足亚洲杯",
@@ -769,16 +911,28 @@
           "time_info": "[05时31分 ~ 07时32分]"
         },
         {
-          "title": "福建永安75亿元水电项目被指偷工减料背后：多个核心标段均由中国电建下属企业包揽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075098",
-          "source": "澎湃新闻",
+          "title": "中国驻塔吉克斯坦大使馆再次提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            16
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时01分]"
+        },
+        {
+          "title": "全胜！中国队晋级U17亚洲杯正赛",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%83%9C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7U17%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%AD%A3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时01分]"
         },
         {
           "title": "美媒称中国076突击能力超越法国航母",
@@ -877,7 +1031,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -891,17 +1045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "全胜！中国队晋级U17亚洲杯正赛",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E8%83%9C%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7U17%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%AD%A3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         },
         {
           "title": "中国人在太空存粮多得超乎想象",
@@ -926,17 +1069,6 @@
           "time_info": "12时18分"
         },
         {
-          "title": "中国驻塔吉克斯坦大使馆再次提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "中国科学家在深海布下巨型风铃阵",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E6%B7%B1%E6%B5%B7%E5%B8%83%E4%B8%8B%E5%B7%A8%E5%9E%8B%E9%A3%8E%E9%93%83%E9%98%B5",
           "source": "bilibili 热搜",
@@ -951,7 +1083,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -1023,6 +1155,17 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
+        },
+        {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
           "url": "https://flash.jin10.com/detail/20251201055141680800",
           "source": "金十数据",
@@ -1047,6 +1190,17 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
           "url": "https://flash.jin10.com/detail/20251201054935386800",
           "source": "金十数据",
@@ -1057,17 +1211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
@@ -1127,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议很有可能达成",
+          "url": "https://www.toutiao.com/trending/7578340057447514175/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "特朗普与委总统通话，直接要求对方下台！",
@@ -1220,7 +1374,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -1281,6 +1435,29 @@
           "time_info": "[00时44分 ~ 07时32分]"
         },
         {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时01分]"
+        },
+        {
+          "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
+          "url": "https://wallstreetcn.com/livenews/3012849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）富时中国A50指数成分股午盘收盘行情一览：石油、半导体板块领涨，银行板块涨跌不一",
           "url": "https://flash.jin10.com/detail/20251201113154297800",
           "source": "金十数据",
@@ -1292,27 +1469,16 @@
           "time_info": "12时18分"
         },
         {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "中式苹果炖猪排",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
           "ranks": [
             7,
-            27
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时01分]"
         },
         {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
@@ -1323,8 +1489,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
+        },
+        {
+          "title": "中式苹果炖猪排",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -1338,15 +1517,37 @@
           "time_info": "[12时18分 ~ 13时51分]"
         },
         {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
+          "title": "特斯拉11月在丹麦的注册量同比下降49%，降至534辆。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012839",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "15时01分"
+        },
+        {
+          "title": "据Mobility Denmark（原丹麦汽车进口商协会）数据，11月，特斯拉(TSLA.O)在丹麦的新车注册量同比下降49%。",
+          "url": "https://flash.jin10.com/detail/20251201142235480800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "法国汽车制造商委员会（PFA）：法国11月新车注册量同比下降0.29%，至132,927辆；11月特斯拉(TSLA.O)在法国的注册量下降了57.83%。",
+          "url": "https://flash.jin10.com/detail/20251201141856483800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -1369,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
+          "url": "https://flash.jin10.com/detail/20251201134848484800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         }
       ]
     },
@@ -1397,8 +1609,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
         },
         {
           "title": "哈塞特：如果得到提名 乐意担任美联储主席",
@@ -1426,18 +1650,6 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
-        },
-        {
           "title": "特朗普：已敲定美联储主席人选",
           "url": "https://flash.jin10.com/detail/20251201055105786800",
           "source": "金十数据",
@@ -1450,22 +1662,22 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
-          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
-          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时51分]"
-        },
-        {
           "title": "特朗普：已选定下任美联储主席",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1497,7 +1709,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini升级了哪些地方",
@@ -1513,8 +1725,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时01分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -1528,6 +1740,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 05时31分]"
+        },
+        {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://wallstreetcn.com/livenews/3012810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 15时01分]"
+        },
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://www.cls.cn/detail/2215595",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         }
       ]
     },
@@ -1562,23 +1814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://wallstreetcn.com/livenews/3012810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         }
       ]
     }
