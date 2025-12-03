@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T16:57:19.807670+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2025-12-03T17:46:11.213192+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时46分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -73,9 +73,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -114,18 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
@@ -226,6 +226,40 @@
           "time_info": "[04时44分 ~ 05时32分]"
         },
         {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
           "url": "https://wallstreetcn.com/livenews/3013864",
           "source": "华尔街见闻-快讯",
@@ -237,6 +271,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时44分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
@@ -262,6 +308,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时57分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
@@ -469,14 +526,14 @@
         },
         {
           "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普：在拜登执政期间由“自动签名机”签署的文件、公告、行政命令、备忘录或合同即刻作废，不再具有任何效力。",
@@ -523,17 +580,6 @@
           "time_info": "00时59分"
         },
         {
-          "title": "外交部回应特朗普签法律加深美台联系",
-          "url": "https://www.toutiao.com/trending/7579439474674483219/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
           "url": "https://wallstreetcn.com/livenews/3013948",
           "source": "华尔街见闻-快讯",
@@ -543,17 +589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
@@ -598,17 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -743,17 +767,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "特朗普开会被拍到多次闭眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "特朗普宣布拜登时期文件全部作废",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -801,7 +814,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -829,6 +842,18 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
+        },
+        {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
@@ -840,18 +865,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 07时33分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
         },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
@@ -909,6 +922,35 @@
           "time_info": "[00时58分 ~ 05时32分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 17时46分]"
+        },
+        {
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
+        },
+        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -933,20 +975,6 @@
           "time_info": "[11时42分 ~ 16时57分]"
         },
         {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 16时57分]"
-        },
-        {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
           "url": "https://www.zhihu.com/question/1978921952010794441",
           "source": "知乎",
@@ -962,18 +990,19 @@
           "time_info": "[00时58分 ~ 05时32分]"
         },
         {
-          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
-          "url": "https://www.cls.cn/detail/2217832",
-          "source": "财联社热门",
+          "title": "特斯拉擎天柱有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9,
-            10,
-            11
+            12,
+            20,
+            24,
+            22,
+            30
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
+          "time_info": "[13时41分 ~ 17时46分]"
         },
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -998,6 +1027,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时42分 ~ 15时39分]"
+        },
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 17时46分]"
         },
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -1049,20 +1091,6 @@
           "time_info": "[01时48分 ~ 04时44分]"
         },
         {
-          "title": "特斯拉擎天柱有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            20,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时57分]"
-        },
-        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -1109,18 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时37分]"
-        },
-        {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 16时57分]"
         },
         {
           "title": "法国Mistral AI针对英伟达系统发布新款定制AI模型",
@@ -1421,6 +1437,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "迈威尔科技集团(MRVL.O)美股盘前大涨10.7%，此前公司宣布以32.5亿美元收购芯片初创企业Celestial AI，并公布了第三季度业绩。",
+          "url": "https://flash.jin10.com/detail/20251203170522777800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "英诺赛科与安森美半导体达成共同加速推进氮化镓产业生态建设的战略合作协议",
           "url": "https://wallstreetcn.com/livenews/3014116",
           "source": "华尔街见闻-快讯",
@@ -1534,7 +1561,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "iPad中国市场份额大跌",
@@ -1570,30 +1597,16 @@
           "time_info": "[00时58分 ~ 11时42分]"
         },
         {
-          "title": "专访｜李玮锋谈中国足球：苏超给年轻人舞台，国家队仍存困难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32087130",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时58分 ~ 16时57分]"
-        },
-        {
           "title": "中国药品价格登记系统上线，首批涉9家企业10款药品，影响多大？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32087197",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
         },
         {
           "title": "透视中国经济的韧性底气",
@@ -1603,8 +1616,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 16时57分]"
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 17时46分]"
+        },
+        {
+          "title": "专访｜李玮锋谈中国足球：苏超给年轻人舞台，国家队仍存困难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32087130",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时58分 ~ 17时46分]"
+        },
+        {
+          "title": "外务省发力,日本公开买水军黑中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347684&amp;topic_name=%E5%A4%96%E5%8A%A1%E7%9C%81%E5%8F%91%E5%8A%9B%2C%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E4%B9%B0%E6%B0%B4%E5%86%9B%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 17时46分]"
         },
         {
           "title": "中国佛教协会：严肃处理违规犯戒行为，清理害群之马",
@@ -1615,11 +1658,12 @@
             12,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时00分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[03时00分 ~ 17时46分]"
         },
         {
           "title": "日渔船非法进入我钓鱼岛领海，中国海警依法驱离",
@@ -1692,19 +1736,6 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
-          "title": "外务省发力,日本公开买水军黑中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347684&amp;topic_name=%E5%A4%96%E5%8A%A1%E7%9C%81%E5%8F%91%E5%8A%9B%2C%E6%97%A5%E6%9C%AC%E5%85%AC%E5%BC%80%E4%B9%B0%E6%B0%B4%E5%86%9B%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时57分]"
-        },
-        {
           "title": "日本投降书明确台湾归还中国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E4%B9%A6%E6%98%8E%E7%A1%AE%E5%8F%B0%E6%B9%BE%E5%BD%92%E8%BF%98%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1718,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时42分 ~ 16时57分]"
+        },
+        {
+          "title": "中国买大豆毁掉巴西雨林？假的",
+          "url": "https://www.toutiao.com/trending/7579264574307074075/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
         },
         {
           "title": "中国男篮两败韩国后，在更衣室里开了两个小时的会，为什么要开会？会有用吗？",
@@ -1746,6 +1788,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时42分 ~ 16时57分]"
+        },
+        {
+          "title": "“美国拒绝中国天才，太蠢了”",
+          "url": "https://news.ifeng.com/c/8ombLgXmbu6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
         },
         {
           "title": "中国敦促日本履行战败国义务",
@@ -1791,15 +1844,41 @@
           "time_info": "[01时48分 ~ 06时37分]"
         },
         {
-          "title": "中国买大豆毁掉巴西雨林？假的",
-          "url": "https://www.toutiao.com/trending/7579264574307074075/",
-          "source": "今日头条",
+          "title": "柬埔寨明年将对中国公民试行免签政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32093083",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            19,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
+          "time_info": "[12时51分 ~ 17时46分]"
+        },
+        {
+          "title": "西芒杜首船出海：打破“铁三角”垄断，全球矿市出现超级“中国变量”",
+          "url": "https://wallstreetcn.com/articles/3760589",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 17时46分]"
+        },
+        {
+          "title": "U16 国少队 5 战全胜 42 球 0 失球晋级亚洲杯正赛，他们能否成为中国足球的「最强一代」？",
+          "url": "https://www.zhihu.com/question/1979034741157146745",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 17时46分]"
         },
         {
           "title": "柬埔寨将对中国公民试行免签",
@@ -1854,28 +1933,6 @@
           "time_info": "[11时42分 ~ 14时58分]"
         },
         {
-          "title": "“美国拒绝中国天才，太蠢了”",
-          "url": "https://news.ifeng.com/c/8ombLgXmbu6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "中国30年期国债收益率上行3个基点，创10月13日以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3014342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "绍伊古：俄罗斯在这4个问题上始终坚定不移地支持中国",
           "url": "https://news.ifeng.com/c/8omCK0zFYzw",
           "source": "凤凰网",
@@ -1910,19 +1967,6 @@
           "time_info": "[11时42分 ~ 14时58分]"
         },
         {
-          "title": "柬埔寨明年将对中国公民试行免签政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32093083",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 16时57分]"
-        },
-        {
           "title": "外媒称中国买大豆毁掉巴西雨林真相",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%A4%A7%E8%B1%86%E6%AF%81%E6%8E%89%E5%B7%B4%E8%A5%BF%E9%9B%A8%E6%9E%97%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1949,17 +1993,6 @@
           "time_info": "[12时51分 ~ 15时39分]"
         },
         {
-          "title": "西芒杜首船出海：打破“铁三角”垄断，全球矿市出现超级“中国变量”",
-          "url": "https://wallstreetcn.com/articles/3760589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 16时57分]"
-        },
-        {
           "title": "中国财政部发行63天期债券，规模400亿元，发行利率1.2891%，边际利率1.3473%，预期1.2900%，投标倍数2.59倍，边际倍数1.39倍； 中国财政部发行91天期债券，规模600亿元，发行利率1.3280%，边际利率1.3845%，预期1.3100%，投标倍数2.27倍，边际倍数2.08倍。",
           "url": "https://wallstreetcn.com/livenews/3014147",
           "source": "华尔街见闻-快讯",
@@ -1972,6 +2005,18 @@
           "time_info": "[11时42分 ~ 12时51分]"
         },
         {
+          "title": "中国30年期国债收益率上行3个基点，创10月13日以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3014342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
           "title": "华为周跃峰：中国存储产业内外承压，但依然有望全球争先",
           "url": "https://wallstreetcn.com/livenews/3014234",
           "source": "华尔街见闻-快讯",
@@ -1982,19 +2027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 15时39分]"
-        },
-        {
-          "title": "U16 国少队 5 战全胜 42 球 0 失球晋级亚洲杯正赛，他们能否成为中国足球的「最强一代」？",
-          "url": "https://www.zhihu.com/question/1979034741157146745",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 16时57分]"
         },
         {
           "title": "批上届政府“失职”，英国首相敦促与中国接触",
@@ -2021,6 +2053,18 @@
           "time_info": "[11时42分 ~ 13时41分]"
         },
         {
+          "title": "中国男篮被韩国男篮双杀，这事怨不怨姚明？和姚明有关吗？",
+          "url": "https://www.zhihu.com/question/1978958003660150727",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
           "title": "阿凡达3取消中国首映红毯环节",
           "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%87%A1%E8%BE%BE3%E5%8F%96%E6%B6%88%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%98%A0%E7%BA%A2%E6%AF%AF%E7%8E%AF%E8%8A%82&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -2042,6 +2086,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 01时48分]"
+        },
+        {
+          "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32093141",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
         },
         {
           "title": "日共议长：高市言论等同于日本可能会对中国动武，必须撤回",
@@ -2067,6 +2123,29 @@
           "time_info": "[11时42分 ~ 12时51分]"
         },
         {
+          "title": "中国香港警方将于当地时间下午5点就大埔火灾事件举行记者会。",
+          "url": "https://wallstreetcn.com/livenews/3014321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
+          "title": "《日本投降书》明确台湾归还中国",
+          "url": "https://www.toutiao.com/trending/7579359598147141686/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
+        },
+        {
           "title": "俄旅游协会：免签将增加三成中国游客",
           "url": "https://flash.jin10.com/detail/20251203065526172800",
           "source": "金十数据",
@@ -2089,24 +2168,13 @@
           "time_info": "15时39分"
         },
         {
-          "title": "中国男篮被韩国男篮双杀，这事怨不怨姚明？和姚明有关吗？",
-          "url": "https://www.zhihu.com/question/1978958003660150727",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "混团世界杯中国8比0胜克罗地亚",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD8%E6%AF%940%E8%83%9C%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -2128,7 +2196,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -2166,17 +2234,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "中国香港警方将于当地时间下午5点就大埔火灾事件举行记者会。",
-          "url": "https://wallstreetcn.com/livenews/3014321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "前NHK中国主播：台湾是中国的台湾",
           "url": "https://www.toutiao.com/trending/7579255617102102582/",
           "source": "今日头条",
@@ -2186,17 +2243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
-        },
-        {
-          "title": "澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32093141",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "柬埔寨明年将对中国公民试行免签政策",
@@ -2238,7 +2284,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -2246,7 +2292,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？",
@@ -2286,6 +2332,18 @@
           "time_info": "[00时58分 ~ 07时33分]"
         },
         {
+          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
+          "url": "https://www.cls.cn/detail/2218176",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时46分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-03）",
           "url": "https://flash.jin10.com/detail/20251203152224328800",
           "source": "金十数据",
@@ -2303,7 +2361,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -2330,18 +2388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时37分]"
-        },
-        {
-          "title": "A股新增开户已近2500万户，11个月增量接近去年全年",
-          "url": "https://www.cls.cn/detail/2218176",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时57分]"
         },
         {
           "title": "A股商业航天概念再度拉升，上海瀚讯、招标股份双双涨停，中环海陆涨超10%，顺灏股份此前涨停，上海沪工、陕西华达、航天发展、航天智装跟涨。",
@@ -2404,6 +2450,18 @@
           "time_info": "[14时58分 ~ 15时39分]"
         },
         {
+          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
+          "url": "https://wallstreetcn.com/articles/3760545",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
           "title": "12月3日午间收评：创业板指冲高回落跌0.5%，超硬材料、煤炭板块逆势走强",
           "url": "https://wallstreetcn.com/livenews/3014142",
           "source": "华尔街见闻-快讯",
@@ -2440,6 +2498,17 @@
           "time_info": "[13时41分 ~ 14时58分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2218421",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
+        },
+        {
           "title": "创业板指跌超1%，早盘一度涨超1%，沪指跌0.54%，深成指跌0.73%，AI应用、消费电子、游戏传媒、白酒等方向跌幅居前，沪深京三市下跌个股近4100只。",
           "url": "https://wallstreetcn.com/livenews/3014221",
           "source": "华尔街见闻-快讯",
@@ -2452,6 +2521,18 @@
           "time_info": "[14时58分 ~ 15时39分]"
         },
         {
+          "title": "东兴证券：公司A股股票将继续停牌。",
+          "url": "https://wallstreetcn.com/livenews/3014333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
           "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
           "url": "https://wallstreetcn.com/livenews/3014124",
           "source": "华尔街见闻-快讯",
@@ -2462,6 +2543,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时51分]"
+        },
+        {
+          "title": "中金公司：公司A股股票将继续停牌。",
+          "url": "https://wallstreetcn.com/livenews/3014326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时46分]"
+        },
+        {
+          "title": "文件显示，欧洲央行呼吁意大利重新考虑声称央行黄金属于意大利人民的议会修正案。",
+          "url": "https://flash.jin10.com/detail/20251203172303052800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "A股收盘：创业板指高开低走跌超1%，AI应用方向集体调整",
@@ -2519,28 +2623,6 @@
           "time_info": "15时39分"
         },
         {
-          "title": "经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限",
-          "url": "https://wallstreetcn.com/articles/3760545",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "东兴证券：公司A股股票将继续停牌。",
-          "url": "https://wallstreetcn.com/livenews/3014333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "菲律宾央行行长：经济增长前景放缓，12月降息概率进一步上升。",
           "url": "https://flash.jin10.com/detail/20251203114004378800",
           "source": "金十数据",
@@ -2552,6 +2634,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "第三季度财报发布后，GitLab美股盘前下跌8%。",
+          "url": "https://flash.jin10.com/detail/20251203171322382800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "菲律宾央行行长：我们都同意2025年经济增长将会缓慢，可能在4-5%之间；经济复苏应于2026年启动，并于2027年重回正轨。",
           "url": "https://flash.jin10.com/detail/20251203113841263800",
           "source": "金十数据",
@@ -2561,6 +2654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "中金公司、东兴证券、信达证券A股因筹划重大资产重组将继续停牌",
+          "url": "https://wallstreetcn.com/livenews/3014341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "菲律宾央行行长：经济复苏应于2026年启动，2027年重回正轨。",
@@ -2585,15 +2689,15 @@
           "time_info": "06时37分"
         },
         {
-          "title": "中金公司：公司A股股票将继续停牌。",
-          "url": "https://wallstreetcn.com/livenews/3014326",
-          "source": "华尔街见闻-快讯",
+          "title": "欧元区服务业通胀回落但成本高企 或将支持欧央行12月按兵不动",
+          "url": "https://flash.jin10.com/detail/20251203170654621800",
+          "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "17时46分"
         },
         {
           "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
@@ -2665,7 +2769,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "新美联储通讯社：哈塞特当选美联储主席已“内部确定”",
@@ -2688,8 +2792,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
         },
         {
           "title": "哈塞特内定主席之位，明年美联储“鸽到极致”？但通胀能撑住吗？",
@@ -2702,8 +2806,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时36分 ~ 16时57分]"
+          "appearance_count": 12,
+          "time_info": "[06时36分 ~ 17时46分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -2768,6 +2872,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时44分]"
+        },
+        {
+          "title": "白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”",
+          "url": "https://wallstreetcn.com/articles/3760602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
         },
         {
           "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
@@ -2897,8 +3012,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时46分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
