@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T19:34:37.940556+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-12-04T21:50:58.779072+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "摩尔线程：12月5日在科创板上市",
@@ -45,6 +45,19 @@
           "time_info": "[05时30分 ~ 13时42分]"
         },
         {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
           "title": "秘鲁央行表示在即期市场买入5100万美元。",
           "url": "https://flash.jin10.com/detail/20251204024010464800",
           "source": "金十数据",
@@ -67,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "哈赛特当美联储主席=更大幅降息！债市机构11月警告贝森特，表达忧虑",
+          "url": "https://wallstreetcn.com/articles/3760667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时50分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
@@ -128,17 +152,6 @@
           "time_info": "[16时55分 ~ 17时45分]"
         },
         {
-          "title": "哈赛特当美联储主席=更大幅降息！债市机构11月警告贝森特，表达忧虑",
-          "url": "https://wallstreetcn.com/articles/3760667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时34分]"
-        },
-        {
           "title": "美联储12月降息25个基点的概率为89%",
           "url": "https://flash.jin10.com/detail/20251204060412427800",
           "source": "金十数据",
@@ -149,18 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时32分]"
-        },
-        {
-          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
-          "url": "https://www.cls.cn/detail/2219854",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
         },
         {
           "title": "日元兑美元短线走高。此前据媒体报道，日本央行很有可能在12月加息。",
@@ -198,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时54分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
+          "url": "https://www.cls.cn/detail/2219726",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时50分]"
         },
         {
           "title": "12月4日午间收评：创业板指半日涨0.76%，机器人概念股集体走强",
@@ -248,17 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时46分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
-          "url": "https://www.cls.cn/detail/2219726",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时34分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，煤炭板块逆势活跃，高位人气股批量跌停",
@@ -398,6 +400,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "拓荆科技：向特定对象发行A股股票申请获上交所受理",
+          "url": "https://wallstreetcn.com/livenews/3015197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "央行明日开展1万亿买断式逆回购操作",
+          "url": "https://www.toutiao.com/trending/7579814099572424745/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "星展银行：卢比波动打乱印度央行降息节奏 预计避免提供明确货币指引",
@@ -604,7 +628,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -648,7 +672,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -849,12 +873,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "英国央行启动私募股权和信贷压力测试",
+          "url": "https://wallstreetcn.com/livenews/3015166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "中国在联合国对日本发起外交反制",
@@ -906,21 +941,6 @@
           "time_info": "[01时46分 ~ 12时54分]"
         },
         {
-          "title": "4K实拍中国第一枚可回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=4K%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            3,
-            28,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时44分 ~ 19时34分]"
-        },
-        {
           "title": "科普中国首枚可回收火箭",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%99%AE%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
           "source": "bilibili 热搜",
@@ -936,20 +956,6 @@
           "time_info": "[00时58分 ~ 07时32分]"
         },
         {
-          "title": "韩国标示“中国台湾” 台当局急了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D+%E5%8F%B0%E5%BD%93%E5%B1%80%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 19时34分]"
-        },
-        {
           "title": "西芒杜首船出海：打破“铁三角”垄断，全球矿市出现超级“中国变量”",
           "url": "https://wallstreetcn.com/articles/3760589",
           "source": "华尔街见闻",
@@ -962,6 +968,37 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时32分]"
+        },
+        {
+          "title": "4K实拍中国第一枚可回收火箭",
+          "url": "https://search.bilibili.com/all?keyword=4K%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            3,
+            28,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时44分 ~ 21时50分]"
+        },
+        {
+          "title": "韩国标示“中国台湾” 台当局急了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D+%E5%8F%B0%E5%BD%93%E5%B1%80%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            2,
+            1,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 21时50分]"
         },
         {
           "title": "马克龙：坚定奉行一个中国政策",
@@ -1075,8 +1112,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时58分 ~ 19时34分]"
+          "appearance_count": 26,
+          "time_info": "[00时58分 ~ 21时50分]"
         },
         {
           "title": "中国餐车摆摊芬兰市中心",
@@ -1128,6 +1165,18 @@
           "time_info": "[11时44分 ~ 15时39分]"
         },
         {
+          "title": "商务部：中国政府依法依规开展稀土相关物项出口管制",
+          "url": "https://news.ifeng.com/c/8ooN9ivjPkS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时50分]"
+        },
+        {
           "title": "日学者：中国游客不来才是日存亡危机",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AD%A6%E8%80%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E6%89%8D%E6%98%AF%E6%97%A5%E5%AD%98%E4%BA%A1%E5%8D%B1%E6%9C%BA",
           "source": "百度热搜",
@@ -1141,27 +1190,15 @@
           "time_info": "[11时44分 ~ 13时42分]"
         },
         {
-          "title": "商务部：中国政府依法依规开展稀土相关物项出口管制",
-          "url": "https://news.ifeng.com/c/8ooN9ivjPkS",
-          "source": "凤凰网",
+          "title": "看中国绿色发展新路径",
+          "url": "https://www.douyin.com/hot/2326466",
+          "source": "抖音",
           "ranks": [
-            5,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时34分]"
-        },
-        {
-          "title": "土豆为何没成为中国人的主食",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%B1%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%BB%E9%A3%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时50分]"
         },
         {
           "title": "台湾小学校歌唱中国人让绿营破防",
@@ -1189,15 +1226,16 @@
           "time_info": "[00时58分 ~ 04时46分]"
         },
         {
-          "title": "看中国绿色发展新路径",
-          "url": "https://www.douyin.com/hot/2326466",
-          "source": "抖音",
+          "title": "土豆为何没成为中国人的主食",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%B1%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%BB%E9%A3%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时50分]"
         },
         {
           "title": "新晋诺奖得主：我们可能只领先中国几纳秒，这是真正的竞赛",
@@ -1217,7 +1255,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -1282,6 +1320,17 @@
           "time_info": "[13时42分 ~ 15时39分]"
         },
         {
+          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
+          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时50分]"
+        },
+        {
           "title": "周锡玮：钓鱼岛是中国的",
           "url": "https://www.toutiao.com/trending/7578907873414414377/",
           "source": "今日头条",
@@ -1304,17 +1353,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 07时32分]"
-        },
-        {
-          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
-          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时34分]"
         },
         {
           "title": "中国没有全面清算日本已是宽容至极",
@@ -1489,6 +1527,17 @@
           "time_info": "[16时55分 ~ 16时56分]"
         },
         {
+          "title": "江苏一对中国父母诞下金发碧眼「混血宝宝」，追溯发现孩子太爷爷是斯拉夫人，遗传学原理是什么？有多罕见？",
+          "url": "https://www.zhihu.com/question/1979835497913217089",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "中国贸促会组织中国企业家代表团访问美国",
           "url": "https://wallstreetcn.com/livenews/3014994",
           "source": "华尔街见闻-快讯",
@@ -1509,6 +1558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "中国疾控中心：全国流感疫情整体处于高流行水平",
+          "url": "https://wallstreetcn.com/livenews/3015193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "英政府为何再三阻挠中国建造新馆舍",
@@ -1555,6 +1615,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "为什么中国菜价能这么便宜",
+          "url": "https://www.toutiao.com/trending/7579382842959003686/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "中国地震台网自动测定：12月04日15时44分在新疆克孜勒苏州阿合奇县附近（北纬41.00度，东经78.57度）发生5.4级左右地震，最终结果以正式速报为准。",
           "url": "https://wallstreetcn.com/livenews/3015021",
           "source": "华尔街见闻-快讯",
@@ -1575,6 +1646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "如何看待美财长称“中国是盟友”",
+          "url": "https://www.toutiao.com/trending/7579950271606820403/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "日本网站出现抹黑中国写手招聘",
@@ -1602,7 +1684,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -1642,6 +1724,19 @@
           "time_info": "[07时31分 ~ 14时58分]"
         },
         {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时50分]"
+        },
+        {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
           "source": "澎湃新闻",
@@ -1651,11 +1746,12 @@
             18,
             15,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时53分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 21时50分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -1698,19 +1794,6 @@
           "time_info": "[00时58分 ~ 17时45分]"
         },
         {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时34分]"
-        },
-        {
           "title": "据俄新社：俄罗斯总统普京表示，美国代表团向莫斯科提出的建议是基于其与特朗普在阿拉斯加达成的协议。",
           "url": "https://flash.jin10.com/detail/20251204144506145800",
           "source": "金十数据",
@@ -1750,7 +1833,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -1852,6 +1935,17 @@
           "time_info": "[16时55分 ~ 17时45分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
           "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
           "url": "https://wallstreetcn.com/livenews/3014574",
           "source": "华尔街见闻-快讯",
@@ -1898,17 +1992,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时32分]"
-        },
-        {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
         },
         {
           "title": "特朗普提议大幅降低乘用车燃油效率标准",
@@ -2005,13 +2088,24 @@
           "time_info": "05时30分"
         },
         {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "据Politico：美国贸易代表办公室（USTR）称，美国总统特朗普明年可能退出美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251204190616608800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -2022,7 +2116,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -2047,6 +2141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美国总统特朗普：或许会与墨西哥和加拿大达成另外一份协议。",
@@ -2195,7 +2300,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -2224,18 +2329,6 @@
           "time_info": "[00时58分 ~ 04时46分]"
         },
         {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时57分 ~ 11时45分]"
-        },
-        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -2246,8 +2339,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[14时57分 ~ 21时50分]"
+        },
+        {
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时57分 ~ 11时45分]"
         },
         {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
@@ -2735,6 +2840,235 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3015167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美联储",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 21时50分]"
+        },
+        {
+          "title": "白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”",
+          "url": "https://wallstreetcn.com/articles/3760602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时45分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时46分]"
+        },
+        {
+          "title": "美联储高层即将洗牌",
+          "url": "https://news.ifeng.com/c/8onqrG5qsUu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "路透调查：100位经济学家中有50位表示，美联储预计将于2026年第一季度将联邦基金利率下调至3.25%-3.50%区间；有89位表示，美联储预计将于12月10日将联邦基金利率下调25个基点，至3.50%-3.75%区间。",
+          "url": "https://flash.jin10.com/detail/20251204213730384800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "周三（12月3日），美联储隔夜逆回购协议（RRP）使用规模为25.14亿美元（交易对手多达40家），上个交易日报56.20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3014595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 05时30分]"
+        },
+        {
+          "title": "美银：新主席难撼美联储独立性 鲍威尔留任理事或成关键变量",
+          "url": "https://www.cls.cn/detail/2218910",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时42分]"
+        },
+        {
+          "title": "“忠诚的哈塞特”若出任美联储主席，意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3760693",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时50分]"
+        },
+        {
+          "title": "债券投资者对哈塞特可能担任美联储主席感到担忧",
+          "url": "https://flash.jin10.com/detail/20251204022311528800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时46分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了40个对手方的25.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20251204021739530800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 01时46分]"
+        },
+        {
+          "title": "哈西特将接掌美联储？华尔街当面警告美国财政部：我们很担心！",
+          "url": "https://www.cls.cn/detail/2219076",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
+        },
+        {
+          "title": "美国财政部经济顾问拉沃尼亚：我们需要美联储的帮助，但经济终将复苏。特朗普在美联储官员任命时间上一直吊着我们的胃口。",
+          "url": "https://flash.jin10.com/detail/20251204003006455800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时46分]"
+        },
+        {
+          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
+          "url": "https://wallstreetcn.com/livenews/3014649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
+          "url": "https://flash.jin10.com/detail/20251204142500817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "PGIM基金经理：市场对哈塞特担任美联储主席存在疑虑",
+          "url": "https://wallstreetcn.com/livenews/3014981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
+          "url": "https://wallstreetcn.com/livenews/3014655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
@@ -2893,7 +3227,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -2915,7 +3249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -2944,204 +3278,8 @@
       ]
     },
     {
-      "keyword_group": "美债 美联储",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时53分 ~ 19时34分]"
-        },
-        {
-          "title": "白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”",
-          "url": "https://wallstreetcn.com/articles/3760602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时45分 ~ 11时45分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 04时46分]"
-        },
-        {
-          "title": "美联储高层即将洗牌",
-          "url": "https://news.ifeng.com/c/8onqrG5qsUu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "周三（12月3日），美联储隔夜逆回购协议（RRP）使用规模为25.14亿美元（交易对手多达40家），上个交易日报56.20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3014595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时57分 ~ 05时30分]"
-        },
-        {
-          "title": "美银：新主席难撼美联储独立性 鲍威尔留任理事或成关键变量",
-          "url": "https://www.cls.cn/detail/2218910",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时42分]"
-        },
-        {
-          "title": "债券投资者对哈塞特可能担任美联储主席感到担忧",
-          "url": "https://flash.jin10.com/detail/20251204022311528800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时46分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了40个对手方的25.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20251204021739530800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时46分]"
-        },
-        {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时46分]"
-        },
-        {
-          "title": "“忠诚的哈塞特”若出任美联储主席，意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3760693",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
-        },
-        {
-          "title": "哈西特将接掌美联储？华尔街当面警告美国财政部：我们很担心！",
-          "url": "https://www.cls.cn/detail/2219076",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
-        },
-        {
-          "title": "美国财政部经济顾问拉沃尼亚：我们需要美联储的帮助，但经济终将复苏。特朗普在美联储官员任命时间上一直吊着我们的胃口。",
-          "url": "https://flash.jin10.com/detail/20251204003006455800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时46分]"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
-          "url": "https://wallstreetcn.com/livenews/3014649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
-          "url": "https://flash.jin10.com/detail/20251204142500817800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "PGIM基金经理：市场对哈塞特担任美联储主席存在疑虑",
-          "url": "https://wallstreetcn.com/livenews/3014981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
-          "url": "https://wallstreetcn.com/livenews/3014655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
@@ -3167,6 +3305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "美元指数DXY短线上扬后快速回落，波幅约10余点。",
+          "url": "https://flash.jin10.com/detail/20251204213414965800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
@@ -3205,7 +3354,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
