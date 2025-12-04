@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T22:50:22.154249+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2025-12-04T23:47:10.656328+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "摩尔线程：12月5日在科创板上市",
@@ -33,6 +33,19 @@
           "time_info": "[00时58分 ~ 07时32分]"
         },
         {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 23时47分]"
+        },
+        {
           "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
           "url": "https://wallstreetcn.com/articles/3760597",
           "source": "华尔街见闻",
@@ -45,19 +58,6 @@
           "time_info": "[05时30分 ~ 13时42分]"
         },
         {
-          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
-          "url": "https://www.cls.cn/detail/2219854",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时50分]"
-        },
-        {
           "title": "哈赛特当美联储主席=更大幅降息！债市机构11月警告贝森特，表达忧虑",
           "url": "https://wallstreetcn.com/articles/3760667",
           "source": "华尔街见闻",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[16时55分 ~ 23时47分]"
         },
         {
           "title": "秘鲁央行表示在即期市场买入5100万美元。",
@@ -300,6 +300,18 @@
           "time_info": "[16时56分 ~ 17时45分]"
         },
         {
+          "title": "标普500指数高开16.75点，涨幅0.24%，报6866.47点； 道琼斯工业平均指数高开5.26点，涨幅0.01%，报47888.16点； 纳斯达克综合指数高开73.20点，涨幅0.31%，报23527.30点。",
+          "url": "https://wallstreetcn.com/livenews/3015238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
           "title": "欧洲央行执委Cipollone在被问及欧洲央行是否会接受日本在汇市干预以支撑疲软日元的任何决定时表示，我们将坚持G7公报中关于外汇问题的措辞。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3015048",
           "source": "华尔街见闻-快讯",
@@ -357,6 +369,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时56分 ~ 17时45分]"
+        },
+        {
+          "title": "欧洲央行执委Cipollone：通胀“基本得到控制”",
+          "url": "https://wallstreetcn.com/livenews/3015232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
         },
         {
           "title": "美国 11 月「小非农」创两年半最大降幅，美联储 12 月降息概率近 90%，对主要非美货币和金融市场有何影响？",
@@ -422,7 +446,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -436,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
+          "url": "https://wallstreetcn.com/livenews/3015261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "星展银行：卢比波动打乱印度央行降息节奏 预计避免提供明确货币指引",
@@ -469,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
-        },
-        {
-          "title": "标普500指数高开16.75点，涨幅0.24%，报6866.47点； 道琼斯工业平均指数高开5.26点，涨幅0.01%，报47888.16点； 纳斯达克综合指数高开73.20点，涨幅0.31%，报23527.30点。",
-          "url": "https://wallstreetcn.com/livenews/3015238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "欧洲央行执委奇波洛内：（被问及现在宣布结束降息是否为时过早时）如果我们的假设未能实现，我们将需要采取行动，因为未来仍存在诸多风险。",
@@ -631,18 +655,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "欧洲央行执委Cipollone：通胀“基本得到控制”",
-          "url": "https://wallstreetcn.com/livenews/3015232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -917,7 +930,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -947,7 +960,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 68,
+      "match_count": 74,
       "titles": [
         {
           "title": "中国在联合国对日本发起外交反制",
@@ -1037,11 +1050,12 @@
             3,
             28,
             9,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时44分 ~ 22时50分]"
+          "appearance_count": 18,
+          "time_info": "[11时44分 ~ 23时47分]"
         },
         {
           "title": "韩国标示“中国台湾” 台当局急了",
@@ -1171,8 +1185,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时58分 ~ 22时50分]"
+          "appearance_count": 29,
+          "time_info": "[00时58分 ~ 23时47分]"
         },
         {
           "title": "中国餐车摆摊芬兰市中心",
@@ -1260,6 +1274,53 @@
           "time_info": "[11时44分 ~ 13时42分]"
         },
         {
+          "title": "土豆为何没成为中国人的主食",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%B1%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%BB%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 23时47分]"
+        },
+        {
+          "title": "巴勒斯坦总统感谢中国1亿美元援助",
+          "url": "https://www.toutiao.com/trending/7579892476815999019/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
+          "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
+          "url": "https://news.ifeng.com/c/8ooWBLvTnwm",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
+          "title": "中国自行车协会回应电动自行车争议",
+          "url": "https://www.toutiao.com/trending/7579418467661856831/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "台湾小学校歌唱中国人让绿营破防",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%AD%8C%E5%94%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%A9%E7%BB%BF%E8%90%A5%E7%A0%B4%E9%98%B2",
           "source": "百度热搜",
@@ -1274,6 +1335,18 @@
           "time_info": "[11时44分 ~ 14时58分]"
         },
         {
+          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
+          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时47分]"
+        },
+        {
           "title": "U16 国少队 5 战全胜 42 球 0 失球晋级亚洲杯正赛，他们能否成为中国足球的「最强一代」？",
           "url": "https://www.zhihu.com/question/1979034741157146745",
           "source": "知乎",
@@ -1285,17 +1358,27 @@
           "time_info": "[00时58分 ~ 04时46分]"
         },
         {
-          "title": "土豆为何没成为中国人的主食",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%B1%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%BB%E9%A3%9F",
-          "source": "bilibili 热搜",
+          "title": "外媒炒作中国上百舰艇集结有何意图",
+          "url": "https://www.toutiao.com/trending/7579937732966432831/",
+          "source": "今日头条",
           "ranks": [
-            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
+          "title": "江苏一对中国父母诞下金发碧眼「混血宝宝」，追溯发现孩子太爷爷是斯拉夫人，遗传学原理是什么？有多罕见？",
+          "url": "https://www.zhihu.com/question/1979835497913217089",
+          "source": "知乎",
+          "ranks": [
             7,
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时50分]"
+          "time_info": "[21时50分 ~ 23时47分]"
         },
         {
           "title": "新晋诺奖得主：我们可能只领先中国几纳秒，这是真正的竞赛",
@@ -1307,28 +1390,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 13时42分]"
-        },
-        {
-          "title": "巴勒斯坦总统感谢中国1亿美元援助",
-          "url": "https://www.toutiao.com/trending/7579892476815999019/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
-          "url": "https://news.ifeng.com/c/8ooWBLvTnwm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "中国贸促会副会长刘健男会见欧洲雇主协会总干事马库斯·拜勒一行",
@@ -1363,18 +1424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
-          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 22时50分]"
         },
         {
           "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
@@ -1414,18 +1463,6 @@
           "time_info": "[13时42分 ~ 15时39分]"
         },
         {
-          "title": "江苏一对中国父母诞下金发碧眼「混血宝宝」，追溯发现孩子太爷爷是斯拉夫人，遗传学原理是什么？有多罕见？",
-          "url": "https://www.zhihu.com/question/1979835497913217089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
-        },
-        {
           "title": "周锡玮：钓鱼岛是中国的",
           "url": "https://www.toutiao.com/trending/7578907873414414377/",
           "source": "今日头条",
@@ -1448,6 +1485,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 07时32分]"
+        },
+        {
+          "title": "为什么中国菜价能这么便宜",
+          "url": "https://www.toutiao.com/trending/7579382842959003686/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时47分]"
         },
         {
           "title": "中国没有全面清算日本已是宽容至极",
@@ -1531,6 +1581,17 @@
           "time_info": "[18时51分 ~ 19时34分]"
         },
         {
+          "title": "中国企业多赛道领跑世界",
+          "url": "https://www.douyin.com/hot/2326652",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "中国首次成为巴西最大的化肥供应国",
           "url": "https://flash.jin10.com/detail/20251204053531962800",
           "source": "金十数据",
@@ -1555,6 +1616,18 @@
           "time_info": "[17时45分 ~ 18时51分]"
         },
         {
+          "title": "《中方关于深化中国—东盟数字治理合作的倡议》发布",
+          "url": "https://wallstreetcn.com/livenews/3015235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
           "title": "美财长称“中国是盟友”",
           "url": "https://www.toutiao.com/trending/7579185342759813139/",
           "source": "今日头条",
@@ -1564,6 +1637,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "韩国标示“中国台湾” 台当局急了",
+          "url": "https://www.douyin.com/hot/2326088",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
+          "title": "关于“铁皮座椅”、“不能带小孩”、“超速会急刹”等，中国自行车协会对近期电动自行车相关问题作出回应和倡议",
+          "url": "https://wallstreetcn.com/livenews/3015233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
         },
         {
           "title": "为何日本制造在中国逐渐溃退",
@@ -1576,6 +1672,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 18时51分]"
+        },
+        {
+          "title": "不能带小孩？超速会急刹？中国自行车协会回应近期电动自行车相关问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32105806",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "法外长重申坚定奉行一个中国政策",
@@ -1600,16 +1707,15 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
-          "title": "为什么中国菜价能这么便宜",
-          "url": "https://www.toutiao.com/trending/7579382842959003686/",
-          "source": "今日头条",
+          "title": "中国人在太空的存粮多得超乎想象",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%A4%AA%E7%A9%BA%E7%9A%84%E5%AD%98%E7%B2%AE%E5%A4%9A%E5%BE%97%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1",
+          "source": "百度热搜",
           "ranks": [
-            26,
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "日学者：若离开中国 日本将面临危机",
@@ -1665,28 +1771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
-        },
-        {
-          "title": "《中方关于深化中国—东盟数字治理合作的倡议》发布",
-          "url": "https://wallstreetcn.com/livenews/3015235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "关于“铁皮座椅”、“不能带小孩”、“超速会急刹”等，中国自行车协会对近期电动自行车相关问题作出回应和倡议",
-          "url": "https://wallstreetcn.com/livenews/3015233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "英政府为何再三阻挠中国建造新馆舍",
@@ -1791,7 +1875,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -1857,8 +1941,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 22时50分]"
+          "appearance_count": 16,
+          "time_info": "[12时53分 ~ 23时47分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -1951,7 +2035,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1967,6 +2051,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 07时32分]"
+        },
+        {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时47分]"
         },
         {
           "title": "美国总统特朗普：将公布所有可获得的“船袭”事件相关视频。",
@@ -2053,6 +2148,18 @@
           "time_info": "[05时30分 ~ 06时42分]"
         },
         {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时47分]"
+        },
+        {
           "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
           "url": "https://wallstreetcn.com/articles/3760664",
           "source": "华尔街见闻",
@@ -2088,15 +2195,15 @@
           "time_info": "[12时53分 ~ 13时42分]"
         },
         {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "美国总统特朗普：（谈威特科夫、库什纳与普京的会面）相当不错的会面。我们会看到将发生什么。这次会面的结果我不能透露。",
@@ -2121,18 +2228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
-          "url": "https://www.cls.cn/detail/2219893",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
         },
         {
           "title": "特朗普提议大幅降低乘用车燃油效率标准",
@@ -2400,7 +2495,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -2416,15 +2511,37 @@
           "time_info": "11时45分"
         },
         {
+          "title": "俄罗斯总统普京：美国总统特朗普的顾问们认为，实施关税政策最终将有利于美国经济。",
+          "url": "https://flash.jin10.com/detail/20251204230725794800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普打断美交通部长发言",
           "url": "https://www.toutiao.com/trending/7579194741204500543/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "俄罗斯总统普京：特朗普有自己的议程，有自己的目标，而我们则专注于我们自己的。",
+          "url": "https://flash.jin10.com/detail/20251204230543003800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "特朗普：将很快对拉丁美洲贩毒行动展开“地面打击”",
@@ -2441,7 +2558,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -2480,8 +2597,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时57分 ~ 22时50分]"
+          "appearance_count": 13,
+          "time_info": "[14时57分 ~ 23时47分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -2641,6 +2758,18 @@
           "time_info": "[04时46分 ~ 05时30分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
           "url": "https://flash.jin10.com/detail/20251204005558678800",
           "source": "金十数据",
@@ -2664,6 +2793,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时42分 ~ 14时58分]"
+        },
+        {
+          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2220115",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时47分]"
         },
         {
           "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
@@ -2724,6 +2865,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 13时42分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，金融业ETF涨0.53%，能源业ETF涨0.27%，全球科技股指数ETF涨0.11%，科技行业ETF、网络股指数ETF微跌，半导体ETF跌0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3015240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
         },
         {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
@@ -2796,6 +2949,28 @@
           "time_info": "07时32分"
         },
         {
+          "title": "天域半导体香港IPO散户发售部分获得60.63倍认购",
+          "url": "https://wallstreetcn.com/livenews/3015262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "《消费者报告》：特斯拉可靠性排名首度跻身行业前十",
+          "url": "https://flash.jin10.com/detail/20251204232905041800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
           "url": "https://wallstreetcn.com/livenews/3014617",
           "source": "华尔街见闻-快讯",
@@ -2818,28 +2993,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "行业ETF美股盘初涨跌各异，金融业ETF涨0.53%，能源业ETF涨0.27%，全球科技股指数ETF涨0.11%，科技行业ETF、网络股指数ETF微跌，半导体ETF跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3015240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -2860,17 +3013,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
-        },
-        {
-          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2220115",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "九峰山实验室发布最新成果，一年可为超大型AI算力中心省3亿度电",
@@ -3030,7 +3172,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -3099,7 +3241,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -3115,6 +3257,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 03时32分]"
+        },
+        {
+          "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
+          "url": "https://wallstreetcn.com/livenews/3015241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时47分]"
+        },
+        {
+          "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股收盘）",
@@ -3175,17 +3340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时32分]"
-        },
-        {
-          "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
-          "url": "https://wallstreetcn.com/livenews/3015241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -3249,7 +3403,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -3271,7 +3425,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -3282,7 +3436,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -3302,8 +3456,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 22时50分]"
+          "appearance_count": 16,
+          "time_info": "[12时53分 ~ 23时47分]"
         },
         {
           "title": "白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”",
@@ -3339,6 +3493,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "“忠诚的哈塞特”若出任美联储主席，意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3760693",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 23时47分]"
         },
         {
           "title": "路透调查：100位经济学家中有50位表示，美联储预计将于2026年第一季度将联邦基金利率下调至3.25%-3.50%区间；有89位表示，美联储预计将于12月10日将联邦基金利率下调25个基点，至3.50%-3.75%区间。",
@@ -3378,16 +3544,16 @@
           "time_info": "[11时44分 ~ 13时42分]"
         },
         {
-          "title": "“忠诚的哈塞特”若出任美联储主席，意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3760693",
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时50分]"
+          "time_info": "[21时50分 ~ 23时47分]"
         },
         {
           "title": "债券投资者对哈塞特可能担任美联储主席感到担忧",
@@ -3426,18 +3592,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 01时46分]"
-        },
-        {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时50分]"
         },
         {
           "title": "哈西特将接掌美联储？华尔街当面警告美国财政部：我们很担心！",
@@ -3619,7 +3773,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
