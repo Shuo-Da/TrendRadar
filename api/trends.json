@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:46:41.297727+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-12-05T19:33:04.724639+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时52分 ~ 16时54分]"
+        },
+        {
+          "title": "A股为何突然大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "印度至12月5日央行存款准备金率 4%，预期3%，前值4%。",
@@ -224,6 +235,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "“影子联储主席”哈塞特发声：下周美联储应该降息，预计25基点",
+          "url": "https://wallstreetcn.com/articles/3760758",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 19时33分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2221133",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 19时33分]"
         },
         {
           "title": "交易员通过SOFR期权对冲美联储到2026年中期多次降息的风险",
@@ -439,17 +473,6 @@
           "time_info": "17时40分"
         },
         {
-          "title": "“影子联储主席”哈塞特发声：下周美联储应该降息，预计25基点",
-          "url": "https://wallstreetcn.com/articles/3760758",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "印度央行行长：只要我们处于宽松周期，流动性将十分充裕。",
           "url": "https://flash.jin10.com/detail/20251205150813924800",
           "source": "金十数据",
@@ -470,17 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        },
-        {
-          "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2221133",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "印度央行祭出“组合拳” 双向调节市场流动性",
@@ -703,6 +715,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "路透调查：33位经济学家预计，加拿大央行将于12月10日将隔夜利率维持在2.25%。",
+          "url": "https://flash.jin10.com/detail/20251205190124059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.39%，报7731.88点。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.03%，中概互联网指数ETF（KWEB）收跌0.05%。 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，XtrackersHarvest中证50（ASHS）收涨0.14%。",
           "url": "https://wallstreetcn.com/livenews/3015351",
           "source": "华尔街见闻-快讯",
@@ -915,7 +938,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "外媒炒作中国上百舰艇集结有何意图",
@@ -974,11 +997,12 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时57分 ~ 18时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时57分 ~ 19时33分]"
         },
         {
           "title": "中国人在太空的存粮多得超乎想象",
@@ -1030,8 +1054,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时57分 ~ 18时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时57分 ~ 19时33分]"
+        },
+        {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 19时33分]"
         },
         {
           "title": "土豆为何没成为中国人的主食",
@@ -1059,6 +1094,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时57分 ~ 07时34分]"
+        },
+        {
+          "title": "演员周柯宇已成为中国公民",
+          "url": "https://www.toutiao.com/trending/7580185142270885931/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            15,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 19时33分]"
         },
         {
           "title": "4K实拍中国第一枚可回收火箭",
@@ -1115,20 +1164,6 @@
           "time_info": "[00时57分 ~ 07时34分]"
         },
         {
-          "title": "演员周柯宇已成为中国公民",
-          "url": "https://www.toutiao.com/trending/7580185142270885931/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            15,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 18时46分]"
-        },
-        {
           "title": "中国夫妻的金发碧眼女儿鉴定为亲生",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E7%9A%84%E9%87%91%E5%8F%91%E7%A2%A7%E7%9C%BC%E5%A5%B3%E5%84%BF%E9%89%B4%E5%AE%9A%E4%B8%BA%E4%BA%B2%E7%94%9F%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -1143,17 +1178,6 @@
           "time_info": "[11时43分 ~ 14时58分]"
         },
         {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时46分]"
-        },
-        {
           "title": "“中国美术学院教授”假身份被曝光",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BE%8E%E6%9C%AF%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E2%80%9D%E5%81%87%E8%BA%AB%E4%BB%BD%E8%A2%AB%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -1166,6 +1190,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时58分 ~ 07时34分]"
+        },
+        {
+          "title": "中国内地贡献一半《疯狂动物城 2》全球票房，这对好莱坞和中国电影市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1979657460173271330",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时33分]"
+        },
+        {
+          "title": "“彻底反转了，中国是发达国家，我们才是新兴国家”",
+          "url": "https://news.ifeng.com/c/8optN6L581I",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时33分]"
         },
         {
           "title": "法国媒体记录下中国军人风采",
@@ -1216,18 +1263,6 @@
           "time_info": "[13时42分 ~ 14时58分]"
         },
         {
-          "title": "中国内地贡献一半《疯狂动物城 2》全球票房，这对好莱坞和中国电影市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1979657460173271330",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时46分]"
-        },
-        {
           "title": "中国夫妻的金发碧眼女儿鉴定为亲生",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%BB%E7%9A%84%E9%87%91%E5%8F%91%E7%A2%A7%E7%9C%BC%E5%A5%B3%E5%84%BF%E9%89%B4%E5%AE%9A%E4%B8%BA%E4%BA%B2%E7%94%9F",
           "source": "百度热搜",
@@ -1252,15 +1287,30 @@
           "time_info": "[17时40分 ~ 18时46分]"
         },
         {
-          "title": "“彻底反转了，中国是发达国家，我们才是新兴国家”",
-          "url": "https://news.ifeng.com/c/8optN6L581I",
-          "source": "凤凰网",
+          "title": "法国媒体镜头里的中国女兵仪仗队",
+          "url": "https://www.toutiao.com/trending/7579222233202458633/",
+          "source": "今日头条",
           "ranks": [
-            9
+            26,
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
+          "time_info": "[17时40分 ~ 19时33分]"
+        },
+        {
+          "title": "中国香港8比7法国",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF8%E6%AF%947%E6%B3%95%E5%9B%BD&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时33分]"
         },
         {
           "title": "乒联混团世界杯今日中国VS德国",
@@ -1275,18 +1325,6 @@
           "time_info": "[11时43分 ~ 12时52分]"
         },
         {
-          "title": "法国媒体镜头里的中国女兵仪仗队",
-          "url": "https://www.toutiao.com/trending/7579222233202458633/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时46分]"
-        },
-        {
           "title": "中国驻美大使谢锋：元首外交将继续为中美关系发挥“定盘星”作用",
           "url": "https://wallstreetcn.com/livenews/3015597",
           "source": "华尔街见闻-快讯",
@@ -1297,18 +1335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时42分]"
-        },
-        {
-          "title": "中国香港8比7法国",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF8%E6%AF%947%E6%B3%95%E5%9B%BD&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时46分]"
         },
         {
           "title": "究竟是中国电影市场不行还是中国电影不行？",
@@ -1333,6 +1359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时42分]"
+        },
+        {
+          "title": "1200年前中国人撸的是豹猫",
+          "url": "https://www.baidu.com/s?wd=1200%E5%B9%B4%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%92%B8%E7%9A%84%E6%98%AF%E8%B1%B9%E7%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
+        },
+        {
+          "title": "中国互联网金融协会等七部门发布关于防范涉虚拟货币等非法活动的风险提示",
+          "url": "https://wallstreetcn.com/livenews/3015904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "中国自行车协会回应电动自行车新国标相关问题",
@@ -1385,7 +1433,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1506,7 +1554,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1558,7 +1606,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
@@ -1597,8 +1645,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 19时33分]"
+        },
+        {
+          "title": "中国将向美购买MI308芯片？外交部回应",
+          "url": "https://www.cls.cn/detail/2220964",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时33分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -1611,8 +1671,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 19时33分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -1625,18 +1685,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时57分 ~ 07时34分]"
-        },
-        {
-          "title": "中国将向美购买MI308芯片？外交部回应",
-          "url": "https://www.cls.cn/detail/2220964",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "全面战争新作发布会",
@@ -1659,6 +1707,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时33分]"
         },
         {
           "title": "朱啸虎称豆包在大厂AI中领先",
@@ -1723,18 +1784,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 04时45分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时46分]"
         },
         {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
@@ -1806,6 +1855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "北京首例“戒酒芯片”植入手术完成",
+          "url": "https://wallstreetcn.com/livenews/3015901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
@@ -1931,8 +1991,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 19时33分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -2428,7 +2488,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -2630,6 +2690,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         }
       ]
     },
