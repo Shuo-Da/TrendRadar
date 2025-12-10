@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:59:43.639721+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-12-10T15:42:23.038840+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 52,
+      "match_count": 69,
       "titles": [
         {
           "title": "美联储传声筒：面对罕见分歧 鲍威尔明日可能“先降息再设限”",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时33分 ~ 14时59分]"
+          "appearance_count": 12,
+          "time_info": "[05时33分 ~ 15时42分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -55,19 +55,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 14时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时42分]"
         },
         {
           "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
           "url": "https://www.cls.cn/detail/2224813",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行在未来的会议必须保持灵活。",
+          "url": "https://flash.jin10.com/detail/20251210152852068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "德国据悉承认希望渺茫 但仍全力角逐首位本国籍欧洲央行行长",
@@ -81,13 +93,35 @@
           "time_info": "13时44分"
         },
         {
+          "title": "欧洲央行管委维勒鲁瓦：明智之举是将欧洲央行利率维持在当前水平。",
+          "url": "https://flash.jin10.com/detail/20251210152640922800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：没有理由在短期内提高欧洲央行的利率。 欧洲央行必须在未来的会议中保持灵活。 下周将欧洲央行利率保持在现有水平是明智的。",
+          "url": "https://wallstreetcn.com/livenews/3018278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "机构首席投资官：不管本周是否降息 美联储宽松倾向应会保持",
           "url": "https://flash.jin10.com/detail/20251210144026701800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -103,6 +137,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "欧洲央行管委维勒鲁瓦：法国央行将上调法国GDP预测。",
+          "url": "https://flash.jin10.com/detail/20251210152434240800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
           "url": "https://wallstreetcn.com/articles/3761037",
           "source": "华尔街见闻",
@@ -114,6 +159,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 04时35分]"
+        },
+        {
+          "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
+          "url": "https://www.cls.cn/detail/2225021",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时42分]"
         },
         {
           "title": "法国央行月报：虽然预算存疑，但预计经济将在年底增长。",
@@ -178,18 +236,6 @@
           "time_info": "[03时25分 ~ 04时35分]"
         },
         {
-          "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
-          "url": "https://www.cls.cn/detail/2225021",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时59分]"
-        },
-        {
           "title": "美联储本周降息25个基点的概率为87.6%",
           "url": "https://flash.jin10.com/detail/20251210060636585800",
           "source": "金十数据",
@@ -250,6 +296,18 @@
           "time_info": "[03时25分 ~ 04时35分]"
         },
         {
+          "title": "A股教育板块直线拉升，中公教育涨停，豆神教育、学大教育、科德教育、全通教育、昂立教育等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3018232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
           "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
@@ -285,6 +343,18 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3018223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
           "title": "英国央行预计预算案将降低通胀率 或为下周利率决策铺路",
           "url": "https://wallstreetcn.com/livenews/3018113",
           "source": "华尔街见闻-快讯",
@@ -309,6 +379,50 @@
           "time_info": "[00时56分 ~ 01时43分]"
         },
         {
+          "title": "欧洲央行管委Simkus：数据显示通胀和GDP风险基本平衡。 利率在未来几次会议上或许可维持在2%。 通胀位于目标水平之际，没有必要调整利率。",
+          "url": "https://wallstreetcn.com/livenews/3018269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：经济意外强劲 无需进一步降息",
+          "url": "https://flash.jin10.com/detail/20251210152305095800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：赞成明年预算赤字为4.8%，但我们不会达到这个目标。 暂停养老金改革并不能解决养老金融资问题。 法国央行将上调法国的GDP预测。",
+          "url": "https://wallstreetcn.com/livenews/3018268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：暂停养老金改革并不能解决养老金融资问题。",
+          "url": "https://flash.jin10.com/detail/20251210152003131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "Carvana收涨1.8%，连续11个交易日创收盘历史新高，投资者“喜庆”该公司股票被纳入标普500指数。",
           "url": "https://wallstreetcn.com/livenews/3017884",
           "source": "华尔街见闻-快讯",
@@ -331,17 +445,6 @@
           "time_info": "05时34分"
         },
         {
-          "title": "A股教育板块直线拉升，中公教育涨停，豆神教育、学大教育、科德教育、全通教育、昂立教育等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3018232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金未实现利润估计约为46万亿日元。",
           "url": "https://flash.jin10.com/detail/20251210130715797800",
           "source": "金十数据",
@@ -359,9 +462,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：我赞成明年（法国的）预算赤字为4.8%，但我们不会达到这个目标。",
+          "url": "https://flash.jin10.com/detail/20251210151942486800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "标普500指数初步收跌0.1%，保健板块跌1%，工业、房地产、金融板块至多跌0.7%，科技板块则涨0.1%，能源板块涨0.6%。 纳斯达克100指数初步收涨0.1%，成分股中，Applovin涨5%，华纳兄弟探索公司WBD涨3.8%，Strategy涨2.8%，美光科技涨2.3%，Meta则收跌1.6%，安森美半导体跌2%，迈威尔科技跌3.3%，ORLY跌3.9%。",
@@ -384,6 +498,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210151807524800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：通胀达到目标水平，无需调整利率。",
+          "url": "https://flash.jin10.com/detail/20251210151740606800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "A股海南自贸区板块再度拉升，神农种业逼近20CM涨停，海南发展、京粮控股、海德股份午后涨停，康芝药业、欣龙控股、凯撒旅业、海峡股份涨幅居前。",
@@ -441,15 +577,48 @@
           "time_info": "13时44分"
         },
         {
-          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
-          "url": "https://wallstreetcn.com/livenews/3018223",
+          "title": "A股收盘：创业板指探底回升微跌，海南、房地产板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3018258",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：认为12月份的利率决定不会很困难。",
+          "url": "https://flash.jin10.com/detail/20251210151630875800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时42分"
+        },
+        {
+          "title": "A股收评：物业房地产等概念走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%89%A9%E4%B8%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：数据显示通胀和GDP风险基本平衡。",
+          "url": "https://flash.jin10.com/detail/20251210151616491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
@@ -480,9 +649,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "欧洲央行管委西姆库斯：未来几次会议可能维持利率在2%不变。",
+          "url": "https://flash.jin10.com/detail/20251210151605994800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "花旗集团CFO Mason等高管预计，四季度市场收入同比增幅可能处于0%-10%区间的低端。 四季度IB费用同比增幅可能处于20%-30%区间的中部。 运营效率可能会超过63.5%。 美联储将在明天（12月10日）降息。 （美国）经济继续保持韧性，消费者开支保持稳健和韧性。 花旗股价下跌，刷新日低。",
@@ -502,7 +682,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -524,7 +704,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -557,7 +737,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -571,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "金十整理：美联储降息即将落地 会前展望三大资产行情",
+          "url": "https://flash.jin10.com/detail/20251210151515389800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "花旗首席财务官预计美联储将于本周降息。",
@@ -609,7 +800,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -685,8 +876,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 14时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时42分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -768,6 +959,19 @@
           "time_info": "12时57分"
         },
         {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
+        },
+        {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
           "url": "https://flash.jin10.com/detail/20251210011305309800",
           "source": "金十数据",
@@ -801,16 +1005,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
+          "title": "韩国考虑投资31亿美元建立芯片代工厂 以发展本土产业",
+          "url": "https://wallstreetcn.com/livenews/3018270",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
@@ -885,6 +1088,18 @@
           "time_info": "[00时56分 ~ 01时43分]"
         },
         {
+          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
+          "url": "https://www.cls.cn/detail/2224821",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）富时中国A50指数成分股午盘收盘行情一览：成分股多数下跌，银行、消费电子、半导体跌幅居前，保险股逆势小幅反弹",
           "url": "https://flash.jin10.com/detail/20251210113458134800",
           "source": "金十数据",
@@ -933,6 +1148,30 @@
           "time_info": "[03时25分 ~ 04时35分]"
         },
         {
+          "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
+          "url": "https://wallstreetcn.com/livenews/3018230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
+          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
+          "url": "https://wallstreetcn.com/livenews/3018228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
           "url": "https://wallstreetcn.com/livenews/3017838",
           "source": "华尔街见闻-快讯",
@@ -978,6 +1217,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "智谱开源“会操作手机的AI”",
           "url": "https://www.douyin.com/hot/2331460",
           "source": "抖音",
@@ -987,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "韩国考虑投资31亿美元建立芯片代工厂 以发展本土产业",
+          "url": "https://flash.jin10.com/detail/20251210152002541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
@@ -1000,17 +1261,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
-          "url": "https://wallstreetcn.com/livenews/3018230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "报道：小米拟涉足AI教育",
           "url": "https://wallstreetcn.com/livenews/3018174",
           "source": "华尔街见闻-快讯",
@@ -1022,17 +1272,6 @@
           "time_info": "13时44分"
         },
         {
-          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
-          "url": "https://wallstreetcn.com/livenews/3018228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
           "url": "https://flash.jin10.com/detail/20251210025325726800",
           "source": "金十数据",
@@ -1042,17 +1281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
-          "url": "https://www.cls.cn/detail/2224821",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         },
         {
           "title": "英伟达研发芯片位置验证技术 Blackwell芯片将率先支持",
@@ -1094,7 +1322,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -1105,9 +1333,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "市场消息：韩国拟投31亿美元设立晶圆代工厂，以推动本土芯片产业发展。",
+          "url": "https://flash.jin10.com/detail/20251210151428977800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "富国银行CEO：AI将影响公司的劳动力决策",
@@ -1135,7 +1374,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "中国曲协回应郭德纲相声被举报低俗",
@@ -1173,8 +1412,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时25分 ~ 14时59分]"
+          "appearance_count": 14,
+          "time_info": "[03时25分 ~ 15时42分]"
         },
         {
           "title": "美国防部长：漠视中国军力愚蠢而失敬",
@@ -1325,6 +1564,28 @@
           "time_info": "[12时13分 ~ 14时59分]"
         },
         {
+          "title": "中国经济破浪前行",
+          "url": "https://www.toutiao.com/trending/7582079823120453170/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时42分]"
+        },
+        {
+          "title": "年度中国经济热词",
+          "url": "https://www.douyin.com/hot/2332177",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时42分]"
+        },
+        {
           "title": "在日中国游客称“连滚带爬躲厕所”",
           "url": "https://www.toutiao.com/trending/7581499028140572708/",
           "source": "今日头条",
@@ -1350,39 +1611,18 @@
           "time_info": "[12时13分 ~ 13时44分]"
         },
         {
-          "title": "中国经济破浪前行",
-          "url": "https://www.toutiao.com/trending/7582079823120453170/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时59分]"
-        },
-        {
-          "title": "年度中国经济热词",
-          "url": "https://www.douyin.com/hot/2332177",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时59分]"
-        },
-        {
           "title": "日本地震是中国制造的？日方辟谣",
           "url": "https://www.toutiao.com/trending/7582045989461200410/",
           "source": "今日头条",
           "ranks": [
             2,
             5,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
         },
         {
           "title": "家猫何时传入中国",
@@ -1391,11 +1631,12 @@
           "ranks": [
             4,
             5,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
         },
         {
           "title": "中国向日本出口稀土出现延误？外交部回应",
@@ -1423,6 +1664,56 @@
           "time_info": "[00时56分 ~ 06时37分]"
         },
         {
+          "title": "IMF上调今年中国经济增速至5%",
+          "url": "https://wallstreetcn.com/livenews/3018280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "日本地震是中国制造？日本政府辟谣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%EF%BC%9F%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
+        },
+        {
+          "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
+        },
+        {
+          "title": "“英国与美国狼狈为奸，蓄意诬蔑中国”",
+          "url": "https://news.ifeng.com/c/8oxpcKw1Jke",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
+        },
+        {
           "title": "日媒：中国施压日本 美国冷眼旁观",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%96%BD%E5%8E%8B%E6%97%A5%E6%9C%AC+%E7%BE%8E%E5%9B%BD%E5%86%B7%E7%9C%BC%E6%97%81%E8%A7%82",
           "source": "百度热搜",
@@ -1437,41 +1728,15 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "日本地震是中国制造？日本政府辟谣",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%EF%BC%9F%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3",
-          "source": "百度热搜",
+          "title": "中国让“冷资源”释放“热动能”",
+          "url": "https://www.toutiao.com/trending/7581256329923248137/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            8,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
-        },
-        {
-          "title": "“英国与美国狼狈为奸，蓄意诬蔑中国”",
-          "url": "https://news.ifeng.com/c/8oxpcKw1Jke",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
-        },
-        {
-          "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130207",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "time_info": "[12时56分 ~ 15时42分]"
         },
         {
           "title": "刚果（金）东部安全形势恶化 我使馆紧急提醒中国公民尽快撤离",
@@ -1523,17 +1788,6 @@
           "time_info": "[12时13分 ~ 12时57分]"
         },
         {
-          "title": "中国让“冷资源”释放“热动能”",
-          "url": "https://www.toutiao.com/trending/7581256329923248137/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时59分]"
-        },
-        {
           "title": "外交官辟谣这是中国不是日本",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1544,6 +1798,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 12时57分]"
+        },
+        {
+          "title": "中国机器人6000米深海拍视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA6000%E7%B1%B3%E6%B7%B1%E6%B5%B7%E6%8B%8D%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
+          "title": "樊振东成为唯一登上德甲官方《60 周年纪念》的中国选手，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1982025208157208624",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
         },
         {
           "title": "国台办回应韩国标示“中国台湾”",
@@ -1558,26 +1835,26 @@
           "time_info": "[13时44分 ~ 14时59分]"
         },
         {
-          "title": "中国机器人6000米深海拍视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA6000%E7%B1%B3%E6%B7%B1%E6%B5%B7%E6%8B%8D%E8%A7%86%E9%A2%91%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "国台办回应韩国标示“中国台湾”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
         },
         {
-          "title": "樊振东成为唯一登上德甲官方《60 周年纪念》的中国选手，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1982025208157208624",
-          "source": "知乎",
+          "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
+          "url": "https://wallstreetcn.com/articles/3761060",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时42分"
         },
         {
           "title": "中国超豪华车市场为何尊界能成功",
@@ -1608,7 +1885,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -1619,9 +1896,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）富时中国A50指数成分股今日收盘行情一览：成分股涨跌不一，银行、石油等板块全线下跌，保险、酿酒全线走高",
+          "url": "https://flash.jin10.com/detail/20251210150315194800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "中方回应“英国制裁两家中国企业”",
@@ -1644,23 +1932,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "国台办回应韩国标示“中国台湾”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -1691,11 +1968,12 @@
           "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -1737,6 +2015,29 @@
           "time_info": "[00时56分 ~ 06时37分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时42分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -1771,15 +2072,15 @@
           "time_info": "[00时56分 ~ 03时25分]"
         },
         {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
+          "url": "https://flash.jin10.com/detail/20251210152545435800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时42分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -1791,6 +2092,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时42分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -1816,18 +2129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时59分]"
         },
         {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
@@ -1960,6 +2261,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
           "url": "https://flash.jin10.com/detail/20251210111006441800",
           "source": "金十数据",
@@ -1988,7 +2300,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -2083,8 +2395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时42分]"
         },
         {
           "title": "美联储决议前夕贵金属大幅飙升：白银史上首次站上60美元",
@@ -2106,7 +2418,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -2423,8 +2735,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 14时59分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 15时42分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -2460,6 +2772,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -2506,23 +2846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         }
       ]
     }
