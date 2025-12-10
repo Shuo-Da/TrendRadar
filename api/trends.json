@@ -1,456 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:57:10.224312+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-10T13:44:35.109611+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 37,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 06时37分]"
-        },
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
-          "url": "https://www.zhihu.com/question/1981656074458199100",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            4,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时57分]"
-        },
-        {
-          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2224567",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 12时57分]"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/1981659657740234762",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 07时33分]"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 12时57分]"
-        },
-        {
-          "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
-          "url": "https://www.cls.cn/detail/2224154",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 06时37分]"
-        },
-        {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "英伟达将位置验证软件作为其芯片监控技术的一部分，将作为一项可选更新供客户安装。位置验证软件将率先应用于 BLACKWELL 芯片。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3018157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
-          "url": "https://flash.jin10.com/detail/20251210011305309800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)位置验证软件将率先应用于Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251210124500149800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
-          "url": "https://flash.jin10.com/detail/20251210011217599800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)开发位置验证软件，作为其芯片监控技术的一部分。该验证软件将作为可选更新由客户自行安装。",
-          "url": "https://flash.jin10.com/detail/20251210124431156800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
-          "url": "https://flash.jin10.com/detail/20251210011028672800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
-          "url": "https://wallstreetcn.com/livenews/3017827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时25分]"
-        },
-        {
-          "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
-          "url": "https://wallstreetcn.com/livenews/3017891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时37分]"
-        },
-        {
-          "title": "中方回应美将对华出售英伟达H200芯片",
-          "url": "https://www.toutiao.com/trending/7581381032269021211/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时33分 ~ 06时37分]"
-        },
-        {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
-        },
-        {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时43分]"
-        },
-        {
-          "title": "金十图示：2025年12月10日（周三）富时中国A50指数成分股午盘收盘行情一览：成分股多数下跌，银行、消费电子、半导体跌幅居前，保险股逆势小幅反弹",
-          "url": "https://flash.jin10.com/detail/20251210113458134800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时57分]"
-        },
-        {
-          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
-          "url": "https://flash.jin10.com/detail/20251210021330401800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时25分]"
-        },
-        {
-          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3017848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时35分]"
-        },
-        {
-          "title": "马克斯：AI技术的需求增长“完全不可预测”，投资者目前的行为是“投机性”的",
-          "url": "https://wallstreetcn.com/livenews/3017846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时35分]"
-        },
-        {
-          "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
-          "url": "https://wallstreetcn.com/livenews/3017838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时35分]"
-        },
-        {
-          "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
-          "url": "https://flash.jin10.com/detail/20251210010957028800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
-          "url": "https://wallstreetcn.com/livenews/3017925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
-          "url": "https://wallstreetcn.com/livenews/3017838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
-          "url": "https://flash.jin10.com/detail/20251210010503413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
-          "url": "https://flash.jin10.com/detail/20251210025325726800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
-          "url": "https://flash.jin10.com/detail/20251210024538180800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
-          "url": "https://flash.jin10.com/detail/20251210024251829800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "富国银行CEO：AI将影响公司的劳动力决策",
-          "url": "https://wallstreetcn.com/livenews/3017786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
-          "url": "https://wallstreetcn.com/livenews/3017889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "美联储传声筒：面对罕见分歧 鲍威尔明日可能“先降息再设限”",
@@ -473,21 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 12时57分]"
-        },
-        {
-          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
-          "url": "https://wallstreetcn.com/articles/3761018",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时44分]"
         },
         {
           "title": "“影子联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
@@ -500,8 +42,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时33分 ~ 12时57分]"
+          "appearance_count": 10,
+          "time_info": "[05时33分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时44分]"
         },
         {
           "title": "美联储今夜降息无悬念！华尔街紧盯鲍威尔 这一表述或定调明年政策走向",
@@ -511,8 +66,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "德国据悉承认希望渺茫 但仍全力角逐首位本国籍欧洲央行行长",
+          "url": "https://flash.jin10.com/detail/20251210132724469800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "据英国金融时报：德国承认角逐欧洲央行行长一职面临高门槛，但仍决心“积极参与”这场未有德国人胜任过的欧盟职位竞争。",
+          "url": "https://flash.jin10.com/detail/20251210132113741800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点",
@@ -698,6 +275,17 @@
           "time_info": "[00时56分 ~ 01时43分]"
         },
         {
+          "title": "较发行价涨五倍！摩尔线程股价晋升A股Top3 新一代GPU架构即将发布",
+          "url": "https://www.cls.cn/detail/2225021",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "Carvana收涨1.8%，连续11个交易日创收盘历史新高，投资者“喜庆”该公司股票被纳入标普500指数。",
           "url": "https://wallstreetcn.com/livenews/3017884",
           "source": "华尔街见闻-快讯",
@@ -731,6 +319,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金未实现利润估计约为46万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130715797800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "标普500指数初步收跌0.1%，保健板块跌1%，工业、房地产、金融板块至多跌0.7%，科技板块则涨0.1%，能源板块涨0.6%。 纳斯达克100指数初步收涨0.1%，成分股中，Applovin涨5%，华纳兄弟探索公司WBD涨3.8%，Strategy涨2.8%，美光科技涨2.3%，Meta则收跌1.6%，安森美半导体跌2%，迈威尔科技跌3.3%，ORLY跌3.9%。",
           "url": "https://wallstreetcn.com/livenews/3017880",
           "source": "华尔街见闻-快讯",
@@ -740,6 +339,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "日本央行行长植田和男：截至9月底，日本央行持有的交易所交易基金市值估计约为83万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251210130703877800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股海南自贸区板块再度拉升，神农种业逼近20CM涨停，海南发展、京粮控股、海德股份午后涨停，康芝药业、欣龙控股、凯撒旅业、海峡股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3018170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "特朗普放话：降息将是新任美联储主席的试金石",
@@ -773,6 +394,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "日本央行行长植田和男表示，截至9月末，日本央行持有的ETF市值预计约为83万亿日元。 截至9月末，日本央行所持ETF的未实现盈利规模预计约为46万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3018169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3018163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "受美国降息押注和供应紧张影响，银价继续刷新纪录新高",
@@ -876,8 +519,479 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 39,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时37分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
+          "url": "https://www.zhihu.com/question/1981656074458199100",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            4,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 12时57分]"
+        },
+        {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时44分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/1981659657740234762",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 07时33分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时44分]"
+        },
+        {
+          "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
+          "url": "https://www.cls.cn/detail/2224154",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 06时37分]"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "英伟达将位置验证软件作为其芯片监控技术的一部分，将作为一项可选更新供客户安装。位置验证软件将率先应用于 BLACKWELL 芯片。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3018157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
+          "url": "https://flash.jin10.com/detail/20251210011305309800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
+          "url": "https://flash.jin10.com/detail/20251210011217599800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
+          "url": "https://flash.jin10.com/detail/20251210011028672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
+          "url": "https://wallstreetcn.com/livenews/3017827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时25分]"
+        },
+        {
+          "title": "市场消息：英伟达(NVDA.O)位置验证软件将率先应用于Blackwell芯片。",
+          "url": "https://flash.jin10.com/detail/20251210124500149800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 13时44分]"
+        },
+        {
+          "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
+          "url": "https://wallstreetcn.com/livenews/3017891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时37分]"
+        },
+        {
+          "title": "市场消息：英伟达(NVDA.O)开发位置验证软件，作为其芯片监控技术的一部分。该验证软件将作为可选更新由客户自行安装。",
+          "url": "https://flash.jin10.com/detail/20251210124431156800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 13时44分]"
+        },
+        {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "中方回应美将对华出售英伟达H200芯片",
+          "url": "https://www.toutiao.com/trending/7581381032269021211/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时33分 ~ 06时37分]"
+        },
+        {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）富时中国A50指数成分股午盘收盘行情一览：成分股多数下跌，银行、消费电子、半导体跌幅居前，保险股逆势小幅反弹",
+          "url": "https://flash.jin10.com/detail/20251210113458134800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时57分]"
+        },
+        {
+          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
+          "url": "https://flash.jin10.com/detail/20251210021330401800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时25分]"
+        },
+        {
+          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
+          "url": "https://wallstreetcn.com/livenews/3017848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时35分]"
+        },
+        {
+          "title": "马克斯：AI技术的需求增长“完全不可预测”，投资者目前的行为是“投机性”的",
+          "url": "https://wallstreetcn.com/livenews/3017846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时35分]"
+        },
+        {
+          "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
+          "url": "https://wallstreetcn.com/livenews/3017838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时35分]"
+        },
+        {
+          "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
+          "url": "https://flash.jin10.com/detail/20251210010957028800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
+          "url": "https://wallstreetcn.com/livenews/3017925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
+          "url": "https://wallstreetcn.com/livenews/3017838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
+          "url": "https://flash.jin10.com/detail/20251210010503413800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "报道：小米拟涉足AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
+          "url": "https://flash.jin10.com/detail/20251210025325726800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "英伟达研发芯片位置验证技术 Blackwell芯片将率先支持",
+          "url": "https://flash.jin10.com/detail/20251210124953956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
+          "url": "https://flash.jin10.com/detail/20251210024538180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
+          "url": "https://flash.jin10.com/detail/20251210024251829800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "富国银行CEO：AI将影响公司的劳动力决策",
+          "url": "https://wallstreetcn.com/livenews/3017786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国 十五五规划",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "中国曲协回应郭德纲相声被举报低俗",
@@ -915,8 +1029,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时25分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[03时25分 ~ 13时44分]"
         },
         {
           "title": "美国防部长：漠视中国军力愚蠢而失敬",
@@ -1032,11 +1146,12 @@
             17,
             15,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时44分]"
         },
         {
           "title": "中国游客滞留日本新千岁机场遭遇地震",
@@ -1069,17 +1184,6 @@
           "time_info": "[01时42分 ~ 06时37分]"
         },
         {
-          "title": "日本地震是中国制造的？日方辟谣",
-          "url": "https://www.toutiao.com/trending/7582045989461200410/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
-        },
-        {
           "title": "外交官辟谣：这是在中国 不是日本",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E5%AE%98%E8%BE%9F%E8%B0%A3%EF%BC%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD+%E4%B8%8D%E6%98%AF%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -1087,8 +1191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
         },
         {
           "title": "中国驻新潟总领馆发言人就《山形新闻》妄议台湾问题发表谈话",
@@ -1098,8 +1202,43 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "日本地震是中国制造的？日方辟谣",
+          "url": "https://www.toutiao.com/trending/7582045989461200410/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "家猫何时传入中国",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "中国经济破浪前行",
+          "url": "https://www.toutiao.com/trending/7582079823120453170/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "time_info": "[12时56分 ~ 13时44分]"
         },
         {
           "title": "中国向日本出口稀土出现延误？外交部回应",
@@ -1113,16 +1252,15 @@
           "time_info": "[00时56分 ~ 01时43分]"
         },
         {
-          "title": "家猫何时传入中国",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%B6%E7%8C%AB%E4%BD%95%E6%97%B6%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "年度中国经济热词",
+          "url": "https://www.douyin.com/hot/2332177",
+          "source": "抖音",
           "ranks": [
-            4,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "time_info": "[12时56分 ~ 13时44分]"
         },
         {
           "title": "美防长说忽视中国军力愚蠢且失敬",
@@ -1137,28 +1275,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 06时37分]"
-        },
-        {
-          "title": "中国经济破浪前行",
-          "url": "https://www.toutiao.com/trending/7582079823120453170/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
-          "title": "年度中国经济热词",
-          "url": "https://www.douyin.com/hot/2332177",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "日媒：中国施压日本 美国冷眼旁观",
@@ -1199,6 +1315,19 @@
           "time_info": "[12时13分 ~ 12时57分]"
         },
         {
+          "title": "中国景点被误标地点为日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%99%AF%E7%82%B9%E8%A2%AB%E8%AF%AF%E6%A0%87%E5%9C%B0%E7%82%B9%E4%B8%BA%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
           "title": "中国财政部发行91天期债券，规模600亿元，发行利率1.3078%，边际利率1.3603%，预期1.3900%，投标倍数2.55倍，边际倍数2.03倍； 中国财政部发行182天期债券，规模600亿元，发行利率1.3466%，边际利率1.3934%，预期1.4100%，投标倍数2.52倍，边际倍数1.19倍。",
           "url": "https://wallstreetcn.com/livenews/3018136",
           "source": "华尔街见闻-快讯",
@@ -1211,18 +1340,6 @@
           "time_info": "[12时13分 ~ 12时57分]"
         },
         {
-          "title": "中国景点被误标地点为日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%99%AF%E7%82%B9%E8%A2%AB%E8%AF%AF%E6%A0%87%E5%9C%B0%E7%82%B9%E4%B8%BA%E6%97%A5%E6%9C%AC%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
-        },
-        {
           "title": "日本地震是中国制造？日本政府辟谣",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%EF%BC%9F%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%BE%9F%E8%B0%A3",
           "source": "百度热搜",
@@ -1231,8 +1348,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
         },
         {
           "title": "“英国与美国狼狈为奸，蓄意诬蔑中国”",
@@ -1242,8 +1359,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
         },
         {
           "title": "财晓得｜星空之下，生意之上，中国商业航天的万亿赛道",
@@ -1254,8 +1371,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
+          "title": "中国让“冷资源”释放“热动能”",
+          "url": "https://www.toutiao.com/trending/7581256329923248137/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "time_info": "[12时56分 ~ 13时44分]"
         },
         {
           "title": "外交官辟谣这是中国不是日本",
@@ -1268,17 +1396,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 12时57分]"
-        },
-        {
-          "title": "中国让“冷资源”释放“热动能”",
-          "url": "https://www.toutiao.com/trending/7581256329923248137/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "中国超豪华车市场为何尊界能成功",
@@ -1301,6 +1418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "国台办回应韩国标示“中国台湾”",
+          "url": "https://www.toutiao.com/trending/7581408570866712595/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "中方回应“英国制裁两家中国企业”",
@@ -1328,7 +1456,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -1368,6 +1496,17 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
+        },
+        {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
           "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
           "source": "凤凰网",
@@ -1378,17 +1517,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时54分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -1487,6 +1615,18 @@
           "time_info": "[02时54分 ~ 03时25分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时44分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -1536,17 +1676,6 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
           "title": "特朗普：给美国经济表现打“A+++++”",
           "url": "https://flash.jin10.com/detail/20251210065833072800",
           "source": "金十数据",
@@ -1586,9 +1715,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
@@ -1657,6 +1797,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普给予泽连斯基“几日时间”回应和平提议。",
           "url": "https://flash.jin10.com/detail/20251210015537022800",
           "source": "金十数据",
@@ -1703,8 +1854,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 13时44分]"
         },
         {
           "title": "美联储决议前夕贵金属大幅飙升：白银史上首次站上60美元",
@@ -1716,8 +1867,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 12时57分]"
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 13时44分]"
         },
         {
           "title": "周二（12月9日），美联储隔夜逆回购协议（RRP）使用规模为32.11亿美元，上个交易日报17.03亿美元。",
@@ -1920,8 +2071,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 12时57分]"
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 13时44分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -2028,11 +2179,12 @@
           "ranks": [
             10,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 13时44分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
