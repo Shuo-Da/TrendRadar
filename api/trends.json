@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T17:22:54.157152+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2025-12-11T18:20:30.264967+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 150,
+      "match_count": 159,
       "titles": [
         {
           "title": "美联储如期再降息25基点，但三票委反对，仍预计明年降息一次，启动RMP买短债400亿",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 18时20分]"
         },
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 18时20分]"
         },
         {
           "title": "今夜美联储决议“剧本”：决议降息，鲍威尔“鹰派讲话”，哈塞特、贝森特“鸽派对冲”？",
@@ -85,6 +85,33 @@
           "time_info": "[04时49分 ~ 15时22分]"
         },
         {
+          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761138",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 18时20分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
+          "url": "https://www.cls.cn/detail/2226318",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 18时20分]"
+        },
+        {
           "title": "全球长债收益率飙升至16年新高，市场押注全球降息周期即将终结",
           "url": "https://wallstreetcn.com/articles/3761104",
           "source": "华尔街见闻",
@@ -125,32 +152,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时33分 ~ 15时22分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：跨年流动性有望维持平稳，美联储降息为我国货币政策提供窗口期",
-          "url": "https://www.cls.cn/detail/2226318",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 17时22分]"
-        },
-        {
-          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761138",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时22分]"
         },
         {
           "title": "美联储再降息25个基点",
@@ -221,6 +222,19 @@
           "time_info": "[11时49分 ~ 14时28分]"
         },
         {
+          "title": "鲍威尔任内最后一次降息？深挖美联储决议：“沉默的反对票”更多了！",
+          "url": "https://www.cls.cn/detail/2226274",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时20分]"
+        },
+        {
           "title": "美联储年内第3次降息25个基点",
           "url": "https://news.ifeng.com/c/8oz0iWVtDBz",
           "source": "凤凰网",
@@ -244,6 +258,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "机构：欧洲央行2026年加息几无可能",
+          "url": "https://flash.jin10.com/detail/20251211181258064800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "周三（12月10日）纽约尾盘，美国10年期基准国债收益率跌4.10个基点，报4.1468%，日内交投于4.2074%-4.1351%区间，北京时间03:00宣布降息、债券购买计划时跌穿4.14%，随后短暂地反弹至平盘附近，随着美联储主席鲍威尔新闻发布会而再次跌向4.13%。 两年期美债收益率跌7.65个基点，报3.5381%，日内交投于3.6253%-3.5257%区间，鲍威尔新闻发布会期间的跌幅超过决议声明发布时的跌幅。",
           "url": "https://wallstreetcn.com/livenews/3018697",
           "source": "华尔街见闻-快讯",
@@ -253,6 +278,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "美联储年底降息传递两个关键信息",
+          "url": "https://www.toutiao.com/trending/7582328164052107300/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 18时20分]"
         },
         {
           "title": "墨西哥央行行长：墨西哥金融体系具有韧性和坚实的基础。",
@@ -305,9 +343,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "英国央行行长贝利：英国家庭和企业的资产负债表看起来都很稳健。",
+          "url": "https://flash.jin10.com/detail/20251211181151666800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美联储经济预期概要（SEP）：预计2026年将降息25个基点。 维持长期基金利率预期在3%不变。",
@@ -330,19 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "鲍威尔任内最后一次降息？深挖美联储决议：“沉默的反对票”更多了！",
-          "url": "https://www.cls.cn/detail/2226274",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时22分]"
         },
         {
           "title": "哈塞特：美联储绝对可以降息50个基点甚至更多",
@@ -439,7 +475,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -472,7 +508,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -493,18 +529,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 14时28分]"
-        },
-        {
-          "title": "美联储年底降息传递两个关键信息",
-          "url": "https://www.toutiao.com/trending/7582328164052107300/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -740,6 +764,18 @@
           "time_info": "[06时42分 ~ 06时43分]"
         },
         {
+          "title": "新美联储通讯社：美联储暗示暂停降息行动，新债王：今天或是鲍威尔任内最后一次",
+          "url": "https://wallstreetcn.com/articles/3761139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3018895",
           "source": "华尔街见闻-快讯",
@@ -847,6 +883,18 @@
           "time_info": "[11时49分 ~ 12时33分]"
         },
         {
+          "title": "欧元兑瑞郎维持跌势，跌0.1%至0.9349，此前瑞士央行维持基准利率在0.00%不变。",
+          "url": "https://wallstreetcn.com/livenews/3019108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "加拿大央行行长Macklem：企业对招聘计划和投资计划的态度是谨慎的。",
           "url": "https://wallstreetcn.com/livenews/3018540",
           "source": "华尔街见闻-快讯",
@@ -888,7 +936,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -932,7 +980,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -957,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "中央经济工作会议：继续实施适度宽松的货币政策 灵活高效运用降准降息等多种政策工具",
+          "url": "https://wallstreetcn.com/livenews/3019143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美联储降息后 特朗普发声",
@@ -987,7 +1046,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1036,15 +1095,15 @@
           "time_info": "14时28分"
         },
         {
-          "title": "新美联储通讯社：美联储暗示暂停降息行动，新债王：今天或是鲍威尔任内最后一次",
-          "url": "https://wallstreetcn.com/articles/3761139",
+          "title": "通胀顽固、内部分裂，美联储在今夜降息后将按下“暂停键”？",
+          "url": "https://wallstreetcn.com/articles/3761120",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时20分"
         },
         {
           "title": "沃尔夫研究首席经济学家罗斯：明年下半年可能还会进一步降息。",
@@ -1069,6 +1128,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
+          "url": "https://www.cls.cn/detail/2226719",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "消息人士：日本央行认为采取紧急干预以遏制债券收益率上升的必要性有限。",
           "url": "https://flash.jin10.com/detail/20251211140657894800",
           "source": "金十数据",
@@ -1086,9 +1156,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "A股三大股指尾盘下跌",
+          "url": "https://www.toutiao.com/trending/7582510920719404587/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "金十整理：美联储会议核心看点——投票将显露分歧，鲍威尔或抬高降息门槛",
@@ -1141,7 +1222,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1166,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "瑞士央行行长Schlegel：瑞士央行的外汇干预并非旨在为企业提供竞争优势。 瑞士央行的外汇操作不以赋予企业优势为目标。 利差是影响汇率走势的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3019131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "金十数据整理：加拿大央行利率决议与行长麦克勒姆讲话重点一览",
@@ -1207,7 +1299,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1298,17 +1390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "欧元兑瑞郎维持跌势，跌0.1%至0.9349，此前瑞士央行维持基准利率在0.00%不变。",
-          "url": "https://wallstreetcn.com/livenews/3019108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "哈塞特在FOMC决议前呼吁降息50个基点",
@@ -1471,7 +1552,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1515,9 +1596,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "英国央行行长贝利将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251211174000000800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "标普500指数涨超0.6%，刷新日高，道指涨491点涨幅超过1%，纳指涨0.3%，生物科技指数涨1.1%，半导体指数涨1.2%，银行指数涨2.4%。",
@@ -1570,9 +1662,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "瑞士央行委员楚丁：我们投资黄金，对其在资产负债表中的份额感到满意。",
+          "url": "https://flash.jin10.com/detail/20251211173514184800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "“新债王”冈拉克：不觉得这是一次鹰派降息。",
@@ -1592,7 +1695,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1614,7 +1717,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1724,7 +1827,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -1732,7 +1835,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "外媒称中方正考虑限制获取英伟达H200芯片，外交部回应",
@@ -1752,11 +1855,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 18时20分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -1770,8 +1874,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 18时20分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -1784,6 +1888,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时49分 ~ 16时25分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 18时20分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 18时20分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 18时20分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -1843,39 +1980,6 @@
           "time_info": "[00时57分 ~ 11时49分]"
         },
         {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时22分]"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时22分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时22分]"
-        },
-        {
           "title": "英伟达又搞小动作，防着中国？",
           "url": "https://news.ifeng.com/c/8ozfYrHQfYN",
           "source": "凤凰网",
@@ -1914,6 +2018,18 @@
           "time_info": "[11时49分 ~ 17时22分]"
         },
         {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时20分]"
+        },
+        {
           "title": "网警查处一起AI生成虚假低俗视频案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -1925,6 +2041,17 @@
           "time_info": "[11时49分 ~ 12时33分]"
         },
         {
+          "title": "夸克AI眼镜核心供应商已新增产线",
+          "url": "https://wallstreetcn.com/livenews/3019156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "提醒：美联储主席鲍威尔新闻发布会结束。 FOMC将于2026年1月27-28日举行下一轮货币政策会议。",
           "url": "https://wallstreetcn.com/livenews/3018642",
           "source": "华尔街见闻-快讯",
@@ -1934,17 +2061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        },
-        {
-          "title": "台积电考虑在日本工厂生产更先进的芯片。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3019125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -2024,6 +2140,19 @@
           "time_info": "16时25分"
         },
         {
+          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
+          "url": "https://wallstreetcn.com/articles/3761149",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时20分]"
+        },
+        {
           "title": "苹果CEO库克与美国国会山成员们讨论智能手机关于用户/机主年龄的问题。 库克认为，苹果主张的年龄要求意在保护儿童。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3018572",
           "source": "华尔街见闻-快讯",
@@ -2047,6 +2176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时42分]"
+        },
+        {
+          "title": "台积电考虑在日本工厂生产更先进的芯片。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3019125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
@@ -2073,18 +2214,6 @@
           "time_info": "[11时49分 ~ 12时33分]"
         },
         {
-          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
-          "url": "https://wallstreetcn.com/articles/3761149",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时22分]"
-        },
-        {
           "title": "我国AI产业规模突破9000亿元",
           "url": "https://www.douyin.com/hot/2332984",
           "source": "抖音",
@@ -2106,17 +2235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时20分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时22分]"
         },
         {
           "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
@@ -2142,6 +2260,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 02时56分]"
+        },
+        {
+          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
+          "url": "https://www.cls.cn/detail/2226248",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "当安卓用户第一次用苹果",
@@ -2180,6 +2311,18 @@
           "time_info": "[12时33分 ~ 13时20分]"
         },
         {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
           "url": "https://wallstreetcn.com/livenews/3018896",
           "source": "华尔街见闻-快讯",
@@ -2192,18 +2335,6 @@
           "time_info": "[11时49分 ~ 12时33分]"
         },
         {
-          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
-          "url": "https://www.cls.cn/detail/2226248",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时22分]"
-        },
-        {
           "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
           "url": "https://wallstreetcn.com/livenews/3018935",
           "source": "华尔街见闻-快讯",
@@ -2214,6 +2345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时28分]"
+        },
+        {
+          "title": "激光雷达芯片“疑云”：灵明光子称“不存在对速腾聚创侵权风险”",
+          "url": "https://wallstreetcn.com/livenews/3019109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -2250,17 +2393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时48分]"
-        },
-        {
-          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）富时中国A50指数成分股今日收盘行情一览：银行股多数走高，保险股、半导体等多个板块悉数下跌",
@@ -2324,7 +2456,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2340,13 +2472,24 @@
           "time_info": "04时49分"
         },
         {
+          "title": "全国首个应对疟疾、结核病及病毒等全球健康疾病挑战的AI制药平台正式发布",
+          "url": "https://wallstreetcn.com/livenews/3019132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "券商晨会精华：未来PCB将更加类似于半导体，价值量将稳步提升",
           "url": "https://www.cls.cn/detail/2226051",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2393,17 +2536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "激光雷达芯片“疑云”：灵明光子称“不存在对速腾聚创侵权风险”",
-          "url": "https://wallstreetcn.com/livenews/3019109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "据Punchbowl：苹果(AAPL.O)CEO库克力推苹果的年龄分级方法，称其有助于保护儿童。",
@@ -2500,7 +2632,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2577,7 +2709,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -2585,7 +2717,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "曝泰军将中国VT4坦克投入泰柬冲突",
@@ -2734,23 +2866,6 @@
           "time_info": "[03时32分 ~ 07时33分]"
         },
         {
-          "title": "智商洼地!日网民坚信中国制造地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            6,
-            7,
-            8,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 17时22分]"
-        },
-        {
           "title": "外交部再次提醒：中国公民近期避免前往日本",
           "url": "https://www.cls.cn/detail/2226218",
           "source": "财联社热门",
@@ -2761,8 +2876,26 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 18时20分]"
+        },
+        {
+          "title": "智商洼地!日网民坚信中国制造地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 18时20分]"
         },
         {
           "title": "IMF上调中国经济增长预期",
@@ -2846,11 +2979,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 18时20分]"
         },
         {
           "title": "中国公民未对中日之间的危机产生共鸣？中方回应",
@@ -2893,6 +3027,20 @@
           "time_info": "[13时19分 ~ 16时25分]"
         },
         {
+          "title": "华为重夺中国手机市场份额第一",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            4,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 18时20分]"
+        },
+        {
           "title": "巡洋舰比驱逐舰要强，为什么中国不造巡洋舰？",
           "url": "https://www.zhihu.com/question/641373684",
           "source": "知乎",
@@ -2923,35 +3071,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时22分]"
-        },
-        {
-          "title": "华为重夺中国手机市场份额第一",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时22分]"
-        },
-        {
-          "title": "中国商务部：2026年燃料油非国营贸易进口允许量为2000万吨。",
-          "url": "https://wallstreetcn.com/livenews/3019127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "中国11月CPI同比上涨0.7%，创2024年3月来最高，PPI同比降幅略有扩大",
@@ -2965,17 +3090,6 @@
           "time_info": "[00时57分 ~ 04时49分]"
         },
         {
-          "title": "2025中国经济回眸",
-          "url": "https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "中国新增1项人类非遗代表作",
           "url": "https://www.douyin.com/hot/2333261",
           "source": "抖音",
@@ -2984,8 +3098,41 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 18时20分]"
+        },
+        {
+          "title": "2025中国经济回眸",
+          "url": "https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E7%9C%B8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "从五年规划看中国之治",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "多家机构上调中国经济增速预期",
+          "url": "https://www.douyin.com/hot/2333456",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "如何看待中国中冶剥离资产导致跌停？都有哪些原因？",
@@ -2997,6 +3144,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时49分 ~ 06时43分]"
+        },
+        {
+          "title": "中国商务部：2026年燃料油非国营贸易进口允许量为2000万吨。",
+          "url": "https://wallstreetcn.com/livenews/3019127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "生意人报：俄罗斯国家原子能公司可能从中国采购首批核电机组",
@@ -3048,6 +3207,17 @@
           "time_info": "[15时21分 ~ 16时25分]"
         },
         {
+          "title": "墨西哥将对中国部分产品征收关税，外交部回应",
+          "url": "https://news.ifeng.com/c/8p00hFdkWz6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "中国NCAA历史第一人是谁",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDNCAA%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA%E6%98%AF%E8%B0%81",
           "source": "bilibili 热搜",
@@ -3057,6 +3227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "外交部：中国公民暂勿前往柬泰边境地区",
+          "url": "https://news.ifeng.com/c/8p00H7Ykoy6",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "中国互联网金融协会召开供应链金融业务会员座谈会",
@@ -3106,17 +3287,6 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
-          "title": "墨西哥将对中国部分产品征收关税，外交部回应",
-          "url": "https://news.ifeng.com/c/8p00hFdkWz6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "中石油经济技术研究院：如果上游勘探取得技术突破，中国天然气需求量可能在2040年达到7000亿立方米的峰值。",
           "url": "https://flash.jin10.com/detail/20251211123006127800",
           "source": "金十数据",
@@ -3145,7 +3315,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -3167,18 +3337,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "外交部：中国公民暂勿前往柬泰边境地区",
-          "url": "https://news.ifeng.com/c/8p00H7Ykoy6",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -3269,6 +3428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "迪奥重视中国市场发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%8F%91%E5%B1%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）中国科技互联网公司市值排名TOP 50一览",
@@ -3455,6 +3625,18 @@
           "time_info": "[02时56分 ~ 03时32分]"
         },
         {
+          "title": "美联储重启QE？RMP来了！市场想重温“2019年的美好回忆”",
+          "url": "https://wallstreetcn.com/articles/3761151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "美联储明年1月维持利率不变的概率为77.9%",
           "url": "https://flash.jin10.com/detail/20251211060318456800",
           "source": "金十数据",
@@ -3521,17 +3703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
-        },
-        {
-          "title": "美联储重启QE？RMP来了！市场想重温“2019年的美好回忆”",
-          "url": "https://wallstreetcn.com/articles/3761151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：总统将在一两周内做出美联储主席人选的决定。",
@@ -3900,7 +4071,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -3948,6 +4119,17 @@
           "time_info": "[16时25分 ~ 17时22分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
           "url": "https://wallstreetcn.com/livenews/3019085",
           "source": "华尔街见闻-快讯",
@@ -3957,17 +4139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -3991,6 +4162,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时25分]"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -4064,15 +4246,15 @@
           "time_info": "04时49分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
+          "title": "据AXIOS网站：特朗普计划任命一名美国将军领导加沙内部安全部队。",
+          "url": "https://flash.jin10.com/detail/20251211180342849800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我们应该能够实现超过3%或4%的GDP增长。",
@@ -4084,6 +4266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211180126675800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
@@ -4106,6 +4299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%A2%AB%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE%E4%B8%8A%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%BD%92%E7%BE%8E%E5%9B%BD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：瑞士过去几乎什么都没付，现在却在支付一笔公平的金额。",
@@ -4141,6 +4345,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "德国总理默茨：与美国总统特朗普的电话会谈富有建设性，双方互相尊重。",
+          "url": "https://flash.jin10.com/detail/20251211175511025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
           "url": "https://wallstreetcn.com/livenews/3018663",
           "source": "华尔街见闻-快讯",
@@ -4150,6 +4365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
+          "url": "https://flash.jin10.com/detail/20251211175449735800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
@@ -4426,7 +4652,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -4517,6 +4743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "专家谈2026年看空美股的四大理由",
+          "url": "https://www.toutiao.com/trending/7582479253283802675/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
