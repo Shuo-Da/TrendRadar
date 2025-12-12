@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-12T07:17:10.977112+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2025-12-12T09:19:23.207406+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
+          "url": "https://wallstreetcn.com/articles/3761149",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
+        },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
@@ -16,24 +30,12 @@
             4,
             10,
             7,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
-        },
-        {
-          "title": "天量支出吓崩股价？甲骨文电话会紧急救火：“客户自带芯片”将拯救现金流，“我们没有疯狂举债”",
-          "url": "https://wallstreetcn.com/articles/3761149",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "苹果原装取卡针被传由铂金制成，回收价超 300 元，官方称是一种非晶态合金，这种金属有哪些特点？",
@@ -45,11 +47,12 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "特斯拉机器人摔倒摘镜被群嘲",
@@ -60,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -72,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "应用端暖风频吹吗，机构AI投资策略悄然转向",
@@ -82,9 +85,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "博通(AVGO.O)盘后股价跌超5%，公司第一财季毛利润率将因AI产品而收缩1%。预计未来六个季度AI芯片销售至少730亿美元。",
@@ -93,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -104,7 +118,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -289,6 +303,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
           "url": "https://flash.jin10.com/detail/20251212020607458800",
           "source": "金十数据",
@@ -306,7 +331,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -350,9 +375,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
@@ -388,6 +424,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "考克斯数据：尽管特斯拉(TSLA.O)推出更便宜的Model Y和Model 3，但其11月在美销量仍降至近4年低点。（外媒更正，非近3年）",
           "url": "https://flash.jin10.com/detail/20251212044239983800",
           "source": "金十数据",
@@ -410,6 +457,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
           "url": "https://flash.jin10.com/detail/20251212020128439800",
           "source": "金十数据",
@@ -430,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "市场消息：韩国拟放宽所有权规则，旨在促进半导体产业发展。",
+          "url": "https://flash.jin10.com/detail/20251212082114007800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "Rivian开发AI芯片，用于取代英伟达的车规级产品",
@@ -463,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "奶奶用暖气片给孙子烤苹果干",
+          "url": "https://www.toutiao.com/trending/7582537158314115113/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
@@ -553,6 +633,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "软银寻求AI布局，正考察包括数据中心运营商Switch在内的潜在收购",
+          "url": "https://wallstreetcn.com/livenews/3019477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
           "url": "https://flash.jin10.com/detail/20251211234949588800",
           "source": "金十数据",
@@ -595,23 +686,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将在北海道建立先进芯片的研发基地。",
+          "url": "https://wallstreetcn.com/livenews/3019472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
           "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -626,13 +729,24 @@
           "time_info": "[00时25分 ~ 07时17分]"
         },
         {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
           "url": "https://flash.jin10.com/detail/20251212062505540800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -854,6 +968,17 @@
           "time_info": "[03时17分 ~ 04时20分]"
         },
         {
+          "title": "特朗普下令SEC审查代理咨询机构规则",
+          "url": "https://flash.jin10.com/detail/20251212084323146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -863,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
+          "url": "https://wallstreetcn.com/livenews/3019493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
@@ -920,6 +1056,50 @@
           "time_info": "03时17分"
         },
         {
+          "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
+          "url": "https://flash.jin10.com/detail/20251212081011746800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署行政命令，加强对代理顾问行业的监管，并采取行动恢复公众对该行业的信心。",
+          "url": "https://flash.jin10.com/detail/20251212080825037800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
+          "url": "https://wallstreetcn.com/livenews/3019480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美国总统特朗普：我将全面赦免蒂娜·彼得斯（因2020年大选相关罪行而被监禁的唯一一位特朗普盟友）。",
+          "url": "https://flash.jin10.com/detail/20251212075149040800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
           "url": "https://flash.jin10.com/detail/20251212014134428800",
           "source": "金十数据",
@@ -967,7 +1147,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -1011,11 +1191,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "美联储年底降息传递两个关键信息",
@@ -1053,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时17分 ~ 07时17分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212090313715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1231,6 +1423,28 @@
           "time_info": "05时19分"
         },
         {
+          "title": "华尔街点评甲骨文财报：看似超预期，实则利润“虚胖”，投资逻辑已从“看订单”转向“看兑现”",
+          "url": "https://wallstreetcn.com/articles/3761180",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中信证券：短期降息必要性和可行性或抬升",
+          "url": "https://flash.jin10.com/detail/20251212082757285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "欧洲银行板块在美联储降息次日收涨超1%，继续创2008年以来收盘新高",
           "url": "https://wallstreetcn.com/livenews/3019331",
           "source": "华尔街见闻-快讯",
@@ -1322,7 +1536,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美联储重启QE？RMP来了！市场想重温“2019年的美好回忆”",
@@ -1331,11 +1545,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "美联储：对摩根大通结束执法行动。",
@@ -1386,6 +1601,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "华尔街解读美联储决议：比预期更鸽派",
+          "url": "https://wallstreetcn.com/articles/3761145",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时19分]"
+        },
+        {
           "title": "瑞银资管的基金主管计划明年逢高卖出10年期美债 押注长短期利差扩大",
           "url": "https://wallstreetcn.com/livenews/3019361",
           "source": "华尔街见闻-快讯",
@@ -1408,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "华尔街解读美联储决议：比预期更鸽派",
-          "url": "https://wallstreetcn.com/articles/3761145",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "市场分析：美联储批准11位地区联储主席续任，白宫影响力疑虑暂时消除",
@@ -1498,9 +1714,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "大空头Burry警告：美联储RMP意在掩盖银行体系脆弱性，本质上是重启QE",
+          "url": "https://wallstreetcn.com/articles/3761195",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美联储将于十分钟后公布2025年第三季资金流动报告中的美国家庭财务健康状况数据。",
@@ -1560,173 +1787,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "博通美股盘后跌幅扩大至5.18%。",
-          "url": "https://wallstreetcn.com/livenews/3019447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050631133800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251212050548995800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
-          "url": "https://wallstreetcn.com/livenews/3019429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
-          "url": "https://wallstreetcn.com/livenews/3019426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2227262",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "博通(AVGO.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251212051638252800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：道指创新高 甲骨文跌超10%",
-          "url": "https://flash.jin10.com/detail/20251212050039144800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "博通美股盘后跌3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3019441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3019297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013328350800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3019296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251212013102151800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国 十五五规划",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "紧急提醒：请在日中国公民进行登记",
           "url": "https://www.baidu.com/s?wd=%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E8%AF%B7%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%9B%E8%A1%8C%E7%99%BB%E8%AE%B0",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "从全球视野看中国经济发展大逻辑",
@@ -1736,8 +1810,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "中国“空中航母”首飞成功",
@@ -1759,8 +1833,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "美军高官又狂了：中国造船速度遥遥领先，咱不得枕戈待旦啊",
@@ -1770,8 +1844,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "46名中国公民从柬埔寨电诈园区获救",
@@ -1797,8 +1871,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时19分]"
         },
         {
           "title": "多国前政要给中国“李华”回感谢信",
@@ -1859,15 +1933,214 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "富时中国A50指数期货盘初涨0.48%，上一个交易日夜盘收涨0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3019496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "瞄准中国资产长线价值，海外长钱持续回流",
           "url": "https://wallstreetcn.com/livenews/3019437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "肖战饰演的莫得闲身上，隐藏着中国文化的精髓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32146033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3019476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3019475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时19分]"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3019447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050631133800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时17分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251212050548995800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时17分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
+          "url": "https://wallstreetcn.com/livenews/3019429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
+          "url": "https://wallstreetcn.com/livenews/3019426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251212051638252800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：道指创新高 甲骨文跌超10%",
+          "url": "https://flash.jin10.com/detail/20251212050039144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "博通美股盘后跌3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3019297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013328350800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013102151800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
