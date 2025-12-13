@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T07:17:12.832341+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2025-12-13T09:14:32.107731+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -39,11 +39,25 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
+        },
+        {
+          "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
+          "url": "https://wallstreetcn.com/articles/3761299",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时15分 ~ 09时14分]"
         },
         {
           "title": "昔日“鸽派”意外投反对票 美联储古尔斯比：降息前应等更多通胀数据",
@@ -62,11 +76,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时14分]"
         },
         {
           "title": "2026年票委、芝加哥联储主席：反对周三降息，应等待更多通胀数据，预计明年降息次数多于中值预测",
@@ -103,27 +118,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "10年期美债收益率在“美联储降息周”涨约5个基点，2/10年期收益率利差涨约9个基点",
-          "url": "https://wallstreetcn.com/livenews/3020159",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】央行、金融监管总局重磅发声；11月金融数据出炉",
+          "url": "https://www.cls.cn/detail/2228569",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
-          "url": "https://wallstreetcn.com/articles/3761299",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 07时17分]"
+          "time_info": "09时14分"
         },
         {
           "title": "美联储古尔斯比：我并不是说我们不能考虑在未来一段时间内进行降息。",
@@ -174,6 +177,18 @@
           "time_info": "[00时21分 ~ 01时17分]"
         },
         {
+          "title": "10年期美债收益率在“美联储降息周”涨约5个基点，2/10年期收益率利差涨约9个基点",
+          "url": "https://wallstreetcn.com/livenews/3020159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时14分]"
+        },
+        {
           "title": "欧盟各国政府就无限期冻结俄央行在欧洲资产达成一致",
           "url": "https://wallstreetcn.com/livenews/3020111",
           "source": "华尔街见闻-快讯",
@@ -188,6 +203,19 @@
           "time_info": "[03时15分 ~ 06时16分]"
         },
         {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌2.87%，能源板块跌0.93%，电信板块跌0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3020146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时14分]"
+        },
+        {
           "title": "俄罗斯央行在莫斯科就被冻结资产起诉欧洲清算银行",
           "url": "https://wallstreetcn.com/livenews/3020063",
           "source": "华尔街见闻-快讯",
@@ -198,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收跌2.87%，能源板块跌0.93%，电信板块跌0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3020146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "德银和高盛认为：美联储降息将再次引发美元下跌",
@@ -236,6 +252,18 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "美联储戴利：支持本周降息决定，货币政策过于紧缩可能不利于家庭",
+          "url": "https://wallstreetcn.com/livenews/3020141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时14分]"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee：（对12月FOMC货币政策会议结果）持异议与鹰派立场无关，因为我并并不是鹰派。 我并不是说“我们不可以考虑在长期范围内（多次）降息”。 仍然认为消费者（开支）相当得体，他们具有韧性。",
           "url": "https://wallstreetcn.com/livenews/3020071",
           "source": "华尔街见闻-快讯",
@@ -246,6 +274,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "鲍威尔发布会“最重要的信息”不是降息、也不是扩表，而是“就业系统性高估”，美联储预计“就业负增长”",
+          "url": "https://wallstreetcn.com/articles/3761242",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
+          "url": "https://wallstreetcn.com/articles/3761243",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "道琼斯指数12月12日（周五）收盘下跌245.96点，跌幅0.51%，报48458.05点；<br/>标普500指数12月12日（周五）收盘下跌73.59点，跌幅1.07%，报6827.41点；<br/>纳斯达克综合指数12月12日（周五）收盘下跌398.69点，跌幅1.69%，报23195.17点。",
+          "url": "https://flash.jin10.com/detail/20251213080131882800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：我在12月份支持FOMC降息。 就业市场仍面临风险，也仍存在通胀风险。",
@@ -314,24 +386,13 @@
           "time_info": "01时17分"
         },
         {
-          "title": "美联储戴利：支持本周降息决定，货币政策过于紧缩可能不利于家庭",
-          "url": "https://wallstreetcn.com/livenews/3020141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "纳斯达克金龙中国指数收跌0.30%，报7750.11点，本周累计下跌1.04%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.62%，中概互联网指数ETF（KWEB）收跌0.32%。XtrackersHarvest中证50（ASHS）收涨0.48%，德银嘉实沪深300指数ETF（ASHR）收涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3020137",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -342,7 +403,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -383,7 +444,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -414,11 +475,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -429,8 +491,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -450,11 +512,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -500,11 +563,23 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时14分]"
+        },
+        {
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -516,6 +591,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时14分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -530,6 +617,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时17分 ~ 04时19分]"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时14分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
@@ -572,18 +672,6 @@
           "time_info": "[01时17分 ~ 03时15分]"
         },
         {
-          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
-          "url": "https://flash.jin10.com/detail/20251213031516659800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
-        },
-        {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
           "url": "https://www.zhihu.com/question/1982756499861304580",
           "source": "知乎",
@@ -596,27 +684,42 @@
           "time_info": "[03时15分 ~ 05时16分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3020145",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时14分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时14分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3020139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时14分]"
         },
         {
           "title": "戴尔科技计划上调旗下所有商用产品的价格。 戴尔将于12月17日提价，这与内存芯片需求有关。（Business Insider）",
@@ -629,29 +732,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3020139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -678,6 +758,17 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "英伟达(NVDA.O)跌幅扩大至3%。",
           "url": "https://flash.jin10.com/detail/20251213003932076800",
           "source": "金十数据",
@@ -698,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "报道：英特尔将以约16亿美元收购芯片公司SambaNova",
+          "url": "https://wallstreetcn.com/livenews/3020164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -744,6 +846,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "最懂甲骨文的AI来了",
+          "url": "https://www.toutiao.com/trending/7582601145270173737/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "甲骨文回应：不会推迟与OpenAI相关的数据中心建设",
           "url": "https://flash.jin10.com/detail/20251213021313071800",
           "source": "金十数据",
@@ -758,7 +871,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -768,8 +881,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -779,8 +892,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -791,52 +904,32 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
-          "url": "https://wallstreetcn.com/livenews/3020161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
-          "url": "https://wallstreetcn.com/livenews/3020160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            1,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时14分]"
+        },
+        {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时14分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -907,6 +1000,30 @@
           "time_info": "[02时27分 ~ 04时19分]"
         },
         {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时14分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时14分]"
+        },
+        {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
           "url": "https://wallstreetcn.com/livenews/3020109",
           "source": "华尔街见闻-快讯",
@@ -929,6 +1046,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
+          "url": "https://flash.jin10.com/detail/20251213040502297800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -962,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
@@ -1011,7 +1161,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "市场消息：摩根大通CEO戴蒙称沃什 “会成为一名出色的” 美联储主席。",
@@ -1019,11 +1169,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时14分]"
         },
         {
           "title": "30年期美债收益率升至9月以来最高，几名美联储官员提及通胀担忧",
@@ -1070,11 +1221,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时14分]"
         },
         {
           "title": "美银认为：美联储国库券购买操作或令10年期美债收益率承压",
@@ -1101,6 +1253,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美联储古尔斯比：异议并非源于我是鹰派，因为我根本就不是。",
@@ -1186,6 +1360,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
+          "url": "https://wallstreetcn.com/articles/3761280",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
+        },
+        {
           "title": "针对“放生”矿泉水、大米等现象，中国佛教协会刊文：深感惊讶和不解",
           "url": "https://m.thepaper.cn/newsDetail_forward_32164984",
           "source": "澎湃新闻",
@@ -1197,20 +1384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大",
-          "url": "https://wallstreetcn.com/articles/3761280",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "菲船只在仙宾礁海域挑衅，中国海警外逼驱离",
@@ -1274,11 +1449,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "中国佛协回应放生大米行为",
@@ -1336,11 +1512,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时14分]"
         },
         {
           "title": "金十图示：2025年12月12日（周五）美股热门股票行情一览（美股盘中）",
@@ -1400,8 +1577,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时14分]"
         }
       ]
     },
