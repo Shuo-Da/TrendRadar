@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:18:01.389135+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2025-12-16T04:20:29.805079+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "美联储威廉姆斯：美联储在上一次FOMC会议上已掌握所需数据。",
@@ -35,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -55,6 +57,19 @@
           "time_info": "[01时32分 ~ 03时18分]"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：就业市场形势非常不错，失业率相对偏低。 预计（12月16日披露的非农）就业报告将表明招聘相对缓慢。 就业面临下行风险，但当前并没有恶化。 现在谈论1月美联储会作何决定还太早。",
+          "url": "https://wallstreetcn.com/livenews/3021123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
+        },
+        {
           "title": "美联储理事米兰：美国关税对通胀并没有实质性的影响。 劳动力市场远远没有达到严重紧张的程度。",
           "url": "https://wallstreetcn.com/livenews/3021106",
           "source": "华尔街见闻-快讯",
@@ -65,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时36分]"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：就业市场形势非常不错，失业率相对偏低。 预计（12月16日披露的非农）就业报告将表明招聘相对缓慢。 就业面临下行风险，但当前并没有恶化。 现在谈论1月美联储会作何决定还太早。",
-          "url": "https://wallstreetcn.com/livenews/3021123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
         },
         {
           "title": "美联储理事米兰：乐于投票支持地方联储主席们连任。",
@@ -437,17 +440,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
           "title": "英伟达发布Nemotron 3开源模型系列：混合MoE架构+100万token上下文",
           "url": "https://wallstreetcn.com/articles/3761432",
           "source": "华尔街见闻",
@@ -456,8 +448,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -468,8 +460,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -489,11 +493,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
+          "url": "https://wallstreetcn.com/livenews/3021124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
@@ -518,30 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时36分]"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
-          "url": "https://wallstreetcn.com/livenews/3021124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -627,7 +634,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -656,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -668,8 +675,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "日本学界发愁：中国要在发展中国家扩大影响力了",
@@ -679,8 +686,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国铁路建设到底有多牛",
@@ -692,8 +699,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "中国科学家终结爱因斯坦和玻尔争论",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BB%88%E7%BB%93%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%92%8C%E7%8E%BB%E5%B0%94%E4%BA%89%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            21,
+            25,
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国经济航船必将继续行稳致远",
@@ -714,8 +736,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
@@ -726,8 +748,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国驻英国使馆发表声明：强烈谴责英方干预香港司法",
@@ -737,8 +759,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "日方倒打一耙不可能得逞！国防部公布中国航母编队舰载机飞行训练实际情况",
@@ -750,8 +772,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "韩国年轻人流行周五下班来中国",
@@ -761,22 +783,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
-        },
-        {
-          "title": "中国科学家终结爱因斯坦和玻尔争论",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%BB%88%E7%BB%93%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%92%8C%E7%8E%BB%E5%B0%94%E4%BA%89%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            21,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "中国留学生亲历悉尼枪击：腿都跑软了",
@@ -788,8 +796,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "“中国最冷小镇”最低温降至-39℃",
@@ -843,19 +851,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
-        },
-        {
-          "title": "阿根廷央行将于明年修改汇率区间体系",
-          "url": "https://wallstreetcn.com/livenews/3021138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
@@ -865,19 +862,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "阿根廷央行将于明年修改汇率区间体系",
+          "url": "https://wallstreetcn.com/livenews/3021138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
         },
         {
           "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
           "url": "https://flash.jin10.com/detail/20251216025531857800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
         },
         {
           "title": "美联储Collins：上周支持降息是一个艰难的决定",
@@ -885,11 +895,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时20分]"
         },
         {
           "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：降息意味着，政策在进入2026年之际准备就绪。 关税造成的（通胀）影响在很大程度上是一次性的，预计（关税的通胀影响）将在2026年消退。 关税对通胀的影响并不会蔓延至其他领域。 必须在避免影响到就业市场的情况下实现2%通胀目标。 就业市场面临的下行风险在最近数月加重。 数据表明，劳动力需求的趋软程度超过供应（的趋软程度）。",
@@ -942,7 +953,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -953,7 +964,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -993,19 +1004,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
-          "url": "https://flash.jin10.com/detail/20251216000109802800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -1018,8 +1018,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -1029,11 +1029,23 @@
             25,
             26,
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
+        },
+        {
+          "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251216000109802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -1064,11 +1076,12 @@
           "url": "https://flash.jin10.com/detail/20251216025403582800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时20分]"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -1099,7 +1112,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -1137,11 +1150,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -1153,8 +1167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时20分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股盘中）",
