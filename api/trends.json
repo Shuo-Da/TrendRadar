@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T01:21:30.636043+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-19T02:26:50.012100+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "英央行行长：英国通胀有望明年春季回归2%目标，早于预期",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "10年期德债收益率于欧洲央行决议日冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3023288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "英国央行行长贝利：我对通胀回归目标的进展“非常鼓舞”。",
@@ -85,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
@@ -96,8 +107,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "法意西希主权债价格在欧洲央行会决议日出现V形走势，10年期意债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3023269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "标普500指数涨幅1.4%，道指涨452点涨幅0.95%，纳指和纳斯达克100指数涨2%，半导体指数涨3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3023265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
@@ -135,26 +170,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "法意西希主权债价格在欧洲央行会决议日出现V形走势，10年期意债收益率跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3023269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "标普500指数涨幅1.4%，道指涨452点涨幅0.95%，纳指和纳斯达克100指数涨2%，半导体指数涨3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3023265",
+          "title": "两年期英债收益率在英国央行降息日涨约4个基点，投资者对央行决议声明的措辞感到失望",
+          "url": "https://wallstreetcn.com/livenews/3023276",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时26分"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我不会向Galipolo施加压力，他才是做决定的那个人。",
@@ -163,7 +187,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -177,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "欧洲央行官员预计2026年利率将保持稳定，但未排除降息可能",
+          "url": "https://flash.jin10.com/detail/20251219012121820800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "欧洲央行利率决议及行长拉加德讲话要点总结",
@@ -196,7 +231,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -218,7 +253,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -247,186 +282,8 @@
       ]
     },
     {
-      "keyword_group": "中国 十五五规划",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "2025年中国经济如何“顶压前行”",
-          "url": "https://www.toutiao.com/trending/7584112124407070729/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "大批车厘子坐船到中国了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%BD%A6%E5%8E%98%E5%AD%90%E5%9D%90%E8%88%B9%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "中国电影120周年活力之夜",
-          "url": "https://www.douyin.com/hot/2340345",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
-          "url": "https://www.zhihu.com/question/1982964493693760921",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "中国游客跑光,日本政客还在赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "本田中国及日本工厂将暂停生产或减产",
-          "url": "https://www.toutiao.com/trending/7585173103739670025/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "美国UP主在中国给老外演短剧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（12月18日），沙特证交所全股指数收涨0.35%，报10450.27点，脱离2023年10月24日（收报10379.71点）以来最低收盘位10414.06点，本周（连续五个自然日）累计下跌2.48%。 沙特阿美（ARAMCO.AB）收涨0.21%，报23.65沙特里亚尔，本周累跌1.08%。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.87%，报11.58沙特里亚尔，本周累跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3023247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
-          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "中国版免年费山姆超市",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%88%E5%85%8D%E5%B9%B4%E8%B4%B9%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "中方回应泰军在柬阵地缴获中国武器",
-          "url": "https://www.toutiao.com/trending/7585149810102894598/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "懂王助攻中国制造,贸易战打成带货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "单月访日中国游客骤降15万人",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E6%9C%88%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%AA%A4%E9%99%8D15%E4%B8%87%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "老太太：终于遇到中国人了",
-          "url": "https://www.douyin.com/hot/2340087",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -436,8 +293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -447,8 +304,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -458,8 +315,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
@@ -480,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -489,11 +346,35 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "苹果客服回应iPhone内存用完就坏了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
+          "url": "https://wallstreetcn.com/livenews/3023277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
@@ -502,7 +383,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -513,9 +394,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
+          "url": "https://flash.jin10.com/detail/20251219013304106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
+          "url": "https://wallstreetcn.com/livenews/3023284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
@@ -540,17 +443,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "苹果客服回应iPhone内存用完就坏了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
           "url": "https://wallstreetcn.com/livenews/3023222",
           "source": "华尔街见闻-快讯",
@@ -564,8 +456,191 @@
       ]
     },
     {
+      "keyword_group": "中国 十五五规划",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "2025年中国经济如何“顶压前行”",
+          "url": "https://www.toutiao.com/trending/7584112124407070729/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "大批车厘子坐船到中国了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9%E8%BD%A6%E5%8E%98%E5%AD%90%E5%9D%90%E8%88%B9%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "中国电影120周年活力之夜",
+          "url": "https://www.douyin.com/hot/2340345",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
+          "url": "https://www.zhihu.com/question/1982964493693760921",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "本田中国及日本工厂将暂停生产或减产",
+          "url": "https://www.toutiao.com/trending/7585173103739670025/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "美国UP主在中国给老外演短剧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202025",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
+          "url": "https://v.ifeng.com/c/8pBb5wCNA7e",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "中国版免年费山姆超市",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%88%E5%85%8D%E5%B9%B4%E8%B4%B9%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "懂王助攻中国制造,贸易战打成带货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348054&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8A%A9%E6%94%BB%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%2C%E8%B4%B8%E6%98%93%E6%88%98%E6%89%93%E6%88%90%E5%B8%A6%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周四（12月18日），沙特证交所全股指数收涨0.35%，报10450.27点，脱离2023年10月24日（收报10379.71点）以来最低收盘位10414.06点，本周（连续五个自然日）累计下跌2.48%。 沙特阿美（ARAMCO.AB）收涨0.21%，报23.65沙特里亚尔，本周累跌1.08%。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.87%，报11.58沙特里亚尔，本周累跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3023247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "中方回应泰军在柬阵地缴获中国武器",
+          "url": "https://www.toutiao.com/trending/7585149810102894598/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "老太太：终于遇到中国人了",
+          "url": "https://www.douyin.com/hot/2340087",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
+          "title": "单月访日中国游客骤降15万人",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E6%9C%88%E8%AE%BF%E6%97%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%AA%A4%E9%99%8D15%E4%B8%87%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -575,8 +650,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
+        },
+        {
+          "title": "经济学家：感恩节销售+特朗普政府关门都可能造成美国CPI数据失真",
+          "url": "https://wallstreetcn.com/livenews/3023289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -586,8 +672,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
@@ -602,6 +688,18 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
           "url": "https://flash.jin10.com/detail/20251218235931823800",
           "source": "金十数据",
@@ -613,15 +711,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
+          "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
+          "url": "https://wallstreetcn.com/livenews/3023225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时26分"
         },
         {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
@@ -630,7 +728,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -671,7 +769,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
@@ -680,15 +778,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
+          "url": "https://flash.jin10.com/detail/20251219013545433800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
+          "url": "https://wallstreetcn.com/livenews/3023286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -700,6 +831,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251219013118998800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251219013054289800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
+          "url": "https://flash.jin10.com/detail/20251219020622124800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
+          "url": "https://wallstreetcn.com/livenews/3023285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美联储",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219020203855800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -712,11 +921,12 @@
           "url": "https://wallstreetcn.com/livenews/3023271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时26分]"
         }
       ]
     }
