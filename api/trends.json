@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T03:16:31.847205+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-12-19T04:18:37.072151+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "英央行行长：英国通胀有望明年春季回归2%目标，早于预期",
@@ -17,28 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "墨西哥央行降息25个基点，至7%。",
-          "url": "https://wallstreetcn.com/livenews/3023305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "墨西哥央行：预计第四季度经济活动依然疲弱。",
-          "url": "https://flash.jin10.com/detail/20251219030615545800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         },
         {
           "title": "英国央行行长贝利：当前货币政策立场仍具限制性，但预计降息步伐将在某个时点放缓。",
@@ -63,15 +41,16 @@
           "time_info": "00时24分"
         },
         {
-          "title": "墨西哥央行：预计2025年第四季度平均年度总体通胀率为3.7%，高于此前预测的3.5%；核心通胀年均值为4.3%，高于此前预测的4.1%。预计2026年第四季度平均年度总体通胀率为3.0%，核心通胀年均值为3.0%，均与此前预测持平。",
-          "url": "https://flash.jin10.com/detail/20251219030503060800",
-          "source": "金十数据",
+          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761597",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "英国央行行长贝利：政府预算中宣布的措施将有助于降低通胀。同时，食品成本的下降尤其令人欣慰，因为这对于形成家庭通胀预期具有重要影响。 人们一直指出，对于世界局势和经济状况普遍存在谨慎和不确定情绪。我确信这仍将是人们考量中的一个问题。我们将继续密切观察。 劳动力市场正显现出“某种程度疲软”的迹象。",
@@ -86,6 +65,30 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
+          "title": "墨西哥央行降息25个基点，至7%。",
+          "url": "https://wallstreetcn.com/livenews/3023305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "墨西哥央行：预计第四季度经济活动依然疲弱。",
+          "url": "https://flash.jin10.com/detail/20251219030615545800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
           "title": "英国央行行长贝利：我对我们在通胀方面取得的进展感到非常鼓舞。 我曾预见通胀会下降，事实也确实如此。好消息是，它的下降速度实际上比我们预期的要快一些。 我们认为到了明年春天，大约4、5月份的时候，通胀应该会再次出现相当大幅度的回落。 我希望这能让我们回到目标水平左右，也就是说，我们回归目标的速度将比预期更快。",
           "url": "https://wallstreetcn.com/livenews/3023252",
           "source": "华尔街见闻-快讯",
@@ -98,18 +101,6 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
-          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761597",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
           "title": "10年期德债收益率于欧洲央行决议日冲高回落",
           "url": "https://wallstreetcn.com/livenews/3023288",
           "source": "华尔街见闻-快讯",
@@ -120,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "墨西哥央行：预计2025年第四季度平均年度总体通胀率为3.7%，高于此前预测的3.5%；核心通胀年均值为4.3%，高于此前预测的4.1%。预计2026年第四季度平均年度总体通胀率为3.0%，核心通胀年均值为3.0%，均与此前预测持平。",
+          "url": "https://flash.jin10.com/detail/20251219030503060800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
         },
         {
           "title": "英国央行行长贝利：降息步伐将“放缓”",
@@ -222,9 +225,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "新西兰证券交易所（NZX）产品运营部门：今日纳斯达克ME市场的调整交易时段将延长至45分钟，适用于NZX主板和债券市场。",
+          "url": "https://flash.jin10.com/detail/20251219034832993800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "墨西哥央行：美国新政府经济政策的变动持续给预测增添不确定性。",
@@ -233,7 +247,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -244,9 +258,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "墨西哥央行连续第十二次降息",
+          "url": "https://flash.jin10.com/detail/20251219033101946800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "墨西哥央行：预计2026年第三季度核心通胀将趋近目标水平。",
@@ -255,7 +280,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -266,7 +291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -277,7 +302,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -321,7 +346,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -394,242 +419,8 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
-          "url": "https://www.zhihu.com/question/1984925319061267264",
-          "source": "知乎",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
-          "url": "https://flash.jin10.com/detail/20251219000902047800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：将为美国能源部提供服务，整合一个连接美国政府、产业界和学术界的探索平台。",
-          "url": "https://flash.jin10.com/detail/20251219030701396800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
-          "url": "https://flash.jin10.com/detail/20251219030614228800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
-          "url": "https://wallstreetcn.com/livenews/3023302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "OpenAI：推出GPT-5.2-Codex。",
-          "url": "https://wallstreetcn.com/livenews/3023301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "AI上车教练下车 驾校生意变天了",
-          "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果客服回应iPhone内存用完就坏了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时16分]"
-        },
-        {
-          "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
-          "url": "https://wallstreetcn.com/livenews/3023277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
-          "url": "https://wallstreetcn.com/livenews/3023284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
-          "url": "https://flash.jin10.com/detail/20251219005734093800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20251219005414704800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
-          "url": "https://flash.jin10.com/detail/20251219013304106800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
-          "url": "https://wallstreetcn.com/livenews/3023228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251218233918256800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "OpenAI：推出GPT-5.2-Codex。",
-          "url": "https://flash.jin10.com/detail/20251219022936685800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3023222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -639,30 +430,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
-          "url": "https://flash.jin10.com/detail/20251219030836021800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "特朗普将签署命令，重新归类大麻",
-          "url": "https://wallstreetcn.com/livenews/3023303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -672,8 +441,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普将签署命令，重新归类大麻",
+          "url": "https://wallstreetcn.com/livenews/3023303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
+          "url": "https://flash.jin10.com/detail/20251219030836021800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
         },
         {
           "title": "经济学家：感恩节销售+特朗普政府关门都可能造成美国CPI数据失真",
@@ -696,8 +488,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时18分]"
         },
         {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
@@ -710,6 +502,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
+          "url": "https://wallstreetcn.com/livenews/3023297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
+          "url": "https://wallstreetcn.com/livenews/3023295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
         },
         {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
@@ -735,26 +551,59 @@
           "time_info": "00时24分"
         },
         {
-          "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
-          "url": "https://wallstreetcn.com/livenews/3023297",
+          "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
+          "url": "https://wallstreetcn.com/livenews/3023314",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时18分"
         },
         {
-          "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
-          "url": "https://wallstreetcn.com/livenews/3023295",
+          "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
+          "url": "https://flash.jin10.com/detail/20251219032026571800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普被问及肯尼迪中心被更名，宣称：我备感荣幸。 将设法让国会山为肯尼迪中心（更名后为“特朗普-肯尼迪中心”）拨款。",
+          "url": "https://wallstreetcn.com/livenews/3023313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：现在实际上并没有通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3023312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普：考虑就住房问题宣布国家紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3023311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美媒：特朗普拟设平安夜及圣诞节次日为联邦假日",
@@ -763,7 +612,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -774,7 +623,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -785,9 +634,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
+          "url": "https://flash.jin10.com/detail/20251219031631118800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：向国会通报任何可能对委内瑞拉发动的攻击都没问题。",
+          "url": "https://flash.jin10.com/detail/20251219031625456800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
@@ -807,9 +678,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：我想维护房价，也想帮助人们买房。",
+          "url": "https://flash.jin10.com/detail/20251219031446683800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普签署命令，放宽美国联邦政府对大麻的限制",
+          "url": "https://wallstreetcn.com/livenews/3023303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：现在几乎没有通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20251219031427538800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
@@ -840,9 +744,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：正在考虑就住房问题宣布国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20251219031203675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
@@ -850,6 +765,335 @@
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达RTX PRO 5000 72GB BLACKWELL GPU现已全面上市。",
+          "url": "https://flash.jin10.com/detail/20251219000902047800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "AI上车教练下车 驾校生意变天了",
+          "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9,
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：将为美国能源部提供服务，整合一个连接美国政府、产业界和学术界的探索平台。",
+          "url": "https://flash.jin10.com/detail/20251219030701396800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
+          "url": "https://flash.jin10.com/detail/20251219030614228800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
+          "url": "https://wallstreetcn.com/livenews/3023302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "OpenAI：推出GPT-5.2-Codex。",
+          "url": "https://wallstreetcn.com/livenews/3023301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "苹果客服回应iPhone内存用完就坏了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时18分]"
+        },
+        {
+          "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
+          "url": "https://wallstreetcn.com/livenews/3023277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
+          "url": "https://wallstreetcn.com/livenews/3023284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3023316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
+          "url": "https://flash.jin10.com/detail/20251219032029402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
+          "url": "https://flash.jin10.com/detail/20251219005734093800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
+          "url": "https://flash.jin10.com/detail/20251219031932942800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251219005414704800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
+          "url": "https://flash.jin10.com/detail/20251219013304106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "OpenAI：正在ChatGPT个人订阅用户中初步部署年龄预测模型。",
+          "url": "https://flash.jin10.com/detail/20251219031741512800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "OpenAI：正在更新我们的模型规范，增加针对青少年的保护措施。U18原则指导ChatGPT如何为13至17岁青少年提供安全、适龄的使用体验。",
+          "url": "https://flash.jin10.com/detail/20251219031702143800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
+          "url": "https://flash.jin10.com/detail/20251219031425775800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "OpenAI：正与美国能源部扩大在人工智能领域的合作。",
+          "url": "https://flash.jin10.com/detail/20251219031354040800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
+          "url": "https://wallstreetcn.com/livenews/3023228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251218233918256800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "OpenAI：推出GPT-5.2-Codex。",
+          "url": "https://flash.jin10.com/detail/20251219022936685800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -869,8 +1113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "中国游客跑光,日本政客还在赢",
@@ -880,8 +1124,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时18分]"
+        },
+        {
+          "title": "中国电影120周年活力之夜",
+          "url": "https://www.douyin.com/hot/2340345",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            11,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "大批车厘子坐船到中国了",
@@ -895,18 +1154,18 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
-          "title": "中国电影120周年活力之夜",
-          "url": "https://www.douyin.com/hot/2340345",
-          "source": "抖音",
+          "title": "美国UP主在中国给老外演短剧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5,
-            11,
-            8
+            6,
+            10,
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
@@ -915,11 +1174,12 @@
           "ranks": [
             5,
             10,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "本田中国及日本工厂将暂停生产或减产",
@@ -932,21 +1192,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "美国UP主在中国给老外演短剧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
@@ -958,8 +1205,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
@@ -969,8 +1216,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "中国版免年费山姆超市",
@@ -980,11 +1227,12 @@
             24,
             21,
             23,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
         },
         {
           "title": "懂王助攻中国制造,贸易战打成带货",
@@ -994,8 +1242,21 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时18分]"
+        },
+        {
+          "title": "老太太：终于遇到中国人了",
+          "url": "https://www.douyin.com/hot/2340087",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "time_info": "[01时21分 ~ 04时18分]"
         },
         {
           "title": "中方回应泰军在柬阵地缴获中国武器",
@@ -1008,18 +1269,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "老太太：终于遇到中国人了",
-          "url": "https://www.douyin.com/hot/2340087",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时16分]"
         },
         {
           "title": "中东股市收盘播报｜周四（12月18日），沙特证交所全股指数收涨0.35%，报10450.27点，脱离2023年10月24日（收报10379.71点）以来最低收盘位10414.06点，本周（连续五个自然日）累计下跌2.48%。 沙特阿美（ARAMCO.AB）收涨0.21%，报23.65沙特里亚尔，本周累跌1.08%。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.87%，报11.58沙特里亚尔，本周累跌1.03%。",
@@ -1040,9 +1289,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
         },
         {
           "title": "单月访日中国游客骤降15万人",
@@ -1054,6 +1303,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美联储",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
+          "url": "https://flash.jin10.com/detail/20251219035207198800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：新任美联储主席将降低利率。",
+          "url": "https://flash.jin10.com/detail/20251219035104046800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周四（12月18日），美联储隔夜逆回购协议（RRP）使用规模为117.08亿美元，上个交易日报103.61亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219020203855800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
+          "url": "https://wallstreetcn.com/livenews/3023318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：美联储理事鲍曼很棒。",
+          "url": "https://flash.jin10.com/detail/20251219032212060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
+          "url": "https://flash.jin10.com/detail/20251219031834867800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：将在未来几周内宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20251219031746582800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。 将在未来几周内公布。",
+          "url": "https://wallstreetcn.com/livenews/3023309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：将很快就美联储主席人选做出决定。",
+          "url": "https://flash.jin10.com/detail/20251219031128693800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
+          "url": "https://flash.jin10.com/detail/20251219031012439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -1073,6 +1450,18 @@
           "time_info": "02时26分"
         },
         {
+          "title": "大摩为谷歌相关项目发行更多垃圾债",
+          "url": "https://wallstreetcn.com/livenews/3023298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
           "url": "https://wallstreetcn.com/livenews/3023285",
           "source": "华尔街见闻-快讯",
@@ -1085,24 +1474,13 @@
           "time_info": "[02时26分 ~ 03时16分]"
         },
         {
-          "title": "大摩为谷歌相关项目发行更多垃圾债",
-          "url": "https://wallstreetcn.com/livenews/3023298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
           "url": "https://flash.jin10.com/detail/20251219022756138800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
@@ -1124,23 +1502,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时18分]"
+        },
+        {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
           "url": "https://wallstreetcn.com/livenews/3023286",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1164,6 +1543,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时18分]"
+        },
+        {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -1173,17 +1563,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761635",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -1210,37 +1589,31 @@
       ]
     },
     {
-      "keyword_group": "美债 美联储",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219020203855800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "周四（12月18日），美联储隔夜逆回购协议（RRP）使用规模为117.08亿美元，上个交易日报103.61亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023296",
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，彭博谷物分类指数涨0.29%，报29.1385点。 CBOT玉米期货涨0.79%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.72%，报10.6125美元/蒲式耳，豆粕期货持平，豆油期货跌0.54%。 CBOT瘦肉猪期货涨1.30%，活牛期货跌0.45%，饲牛期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3023323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
           "url": "https://wallstreetcn.com/livenews/3023271",
