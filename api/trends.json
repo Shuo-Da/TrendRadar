@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:19:14.529040+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-12-19T11:21:53.775255+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
@@ -20,6 +20,17 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "日本央行：9:0一致投票通过政策决议。 若经济和物价前景实现，预计将继续加息。 将根据经济和价格改善情况加息。",
+          "url": "https://wallstreetcn.com/livenews/3023528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "英央行行长：英国通胀有望明年春季回归2%目标，早于预期",
           "url": "https://flash.jin10.com/detail/20251219000834034800",
           "source": "金十数据",
@@ -31,6 +42,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "日本央行加息25基点至三十年来最高水平0.75%，符合市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3023527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "英国央行行长贝利：当前货币政策立场仍具限制性，但预计降息步伐将在某个时点放缓。",
           "url": "https://flash.jin10.com/detail/20251219000209799800",
           "source": "金十数据",
@@ -40,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
+          "url": "https://wallstreetcn.com/articles/3761683",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "英国央行行长贝利：我对通胀回归目标的进展“非常鼓舞”。",
@@ -137,6 +170,18 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
+          "title": "华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤",
+          "url": "https://wallstreetcn.com/articles/3761632",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
+        },
+        {
           "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
           "url": "https://www.cls.cn/detail/2233554",
           "source": "财联社热门",
@@ -146,17 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 02时26分]"
-        },
-        {
-          "title": "华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤",
-          "url": "https://wallstreetcn.com/articles/3761632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "法意西希主权债价格在欧洲央行会决议日出现V形走势，10年期意债收益率跌超3个基点",
@@ -282,7 +316,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -353,6 +387,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息",
+          "url": "https://wallstreetcn.com/articles/3761671",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "墨西哥央行：副行长乔纳森·希思投票支持将利率维持在7.25%。",
           "url": "https://flash.jin10.com/detail/20251219030111310800",
           "source": "金十数据",
@@ -373,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "日本央行利率决议看点",
+          "url": "https://wallstreetcn.com/livenews/3023512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "墨西哥至12月18日央行利率决定 7%，预期7%，前值7.25%。",
@@ -436,7 +492,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -447,7 +503,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -458,7 +514,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -529,6 +585,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "深成指、创业板指双双涨超1%，沪指涨0.53%，可控核聚变、商业航天、智能驾驶、机器人等方向领涨，沪深京三市超4600股飘红。",
+          "url": "https://wallstreetcn.com/livenews/3023493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "美股涨幅扩大，纳指上涨2%，标普500指数上涨1.4%，道指上涨0.95%。",
           "url": "https://flash.jin10.com/detail/20251219003915719800",
           "source": "金十数据",
@@ -540,13 +607,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "摩根士丹利：日本央行12月将加息25个基点，政策正常化进程将保持渐进",
+          "url": "https://flash.jin10.com/detail/20251219103911704800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "中信证券：美国CPI大幅低于预期 仍预计美联储明年降息两次",
           "url": "https://flash.jin10.com/detail/20251219080913706800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -590,7 +668,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -623,15 +701,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3023466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -642,8 +731,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时21分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -656,8 +745,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 09时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 11时21分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -669,6 +758,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -693,17 +794,6 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.toutiao.com/trending/7585339674915573286/",
           "source": "今日头条",
@@ -713,6 +803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "特朗普将签署命令，重新归类大麻",
@@ -732,9 +833,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -780,8 +893,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
@@ -880,17 +993,6 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
           "url": "https://wallstreetcn.com/livenews/3023225",
           "source": "华尔街见闻-快讯",
@@ -926,6 +1028,17 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
           "url": "https://flash.jin10.com/detail/20251218235931823800",
           "source": "金十数据",
@@ -959,6 +1072,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
           "url": "https://flash.jin10.com/detail/20251219061151314800",
           "source": "金十数据",
@@ -976,7 +1100,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -1102,6 +1226,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普威胁夺取委内瑞拉石油资源",
+          "url": "https://www.toutiao.com/trending/7585041766777356351/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "美国总统特朗普：现在几乎没有通货膨胀。",
           "url": "https://flash.jin10.com/detail/20251219031427538800",
           "source": "金十数据",
@@ -1119,7 +1254,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -1185,7 +1320,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -1223,6 +1358,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普“关键时刻”发表18分钟讲话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E2%80%9D%E5%8F%91%E8%A1%A818%E5%88%86%E9%92%9F%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普今日签署了关于太空优势的行政命令。",
           "url": "https://flash.jin10.com/detail/20251219041242339800",
           "source": "金十数据",
@@ -1237,7 +1383,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -1335,7 +1481,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -1401,6 +1547,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -1486,17 +1644,6 @@
           "time_info": "[02时26分 ~ 03时16分]"
         },
         {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
           "title": "机构密集调研AI眼镜产业链公司",
           "url": "https://wallstreetcn.com/livenews/3023377",
           "source": "华尔街见闻-快讯",
@@ -1541,6 +1688,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "特斯拉(TSLA.O)涨超5%。",
           "url": "https://flash.jin10.com/detail/20251219005414704800",
           "source": "金十数据",
@@ -1550,6 +1708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "字节跳动正推进与多家厂商的AI手机合作",
+          "url": "https://wallstreetcn.com/livenews/3023509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -1613,7 +1782,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         },
@@ -1676,8 +1845,20 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "中国游客跑光,日本政客还在赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 11时21分]"
+        },
         {
           "title": "2025年中国经济如何“顶压前行”",
           "url": "https://www.toutiao.com/trending/7584112124407070729/",
@@ -1686,19 +1867,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时19分]"
-        },
-        {
-          "title": "中国游客跑光,日本政客还在赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时21分]"
         },
         {
           "title": "美国UP主在中国给老外演短剧",
@@ -1710,11 +1880,12 @@
             8,
             2,
             3,
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时21分]"
         },
         {
           "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
@@ -1742,8 +1913,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时21分]"
         },
         {
           "title": "懂王助攻中国制造,贸易战打成带货",
@@ -1866,6 +2037,29 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
+          "title": "被中国破解的百年制药难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%A0%B4%E8%A7%A3%E7%9A%84%E7%99%BE%E5%B9%B4%E5%88%B6%E8%8D%AF%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "马克龙称欧盟需要对中国开放有何玄机",
+          "url": "https://www.toutiao.com/trending/7585175382559559211/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时21分]"
+        },
+        {
           "title": "中方回应泰军在柬阵地缴获中国武器",
           "url": "https://www.toutiao.com/trending/7585149810102894598/",
           "source": "今日头条",
@@ -1935,17 +2129,6 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "马克龙称欧盟需要对中国开放有何玄机",
-          "url": "https://www.toutiao.com/trending/7585175382559559211/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
           "title": "美媒：美国应放弃“战胜中国”想法",
           "url": "https://www.toutiao.com/trending/7584204562631704586/",
           "source": "今日头条",
@@ -1979,15 +2162,48 @@
           "time_info": "07时17分"
         },
         {
+          "title": "新德里空气污染严重，外交官分享中国经验",
+          "url": "https://news.ifeng.com/c/8pCci79Nml5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.07%，上一个交易日夜盘收涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3023437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "中国脑机接口再现突破性成果",
+          "url": "https://www.toutiao.com/trending/7584716708515069971/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251219105218325800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "沙特国家发展基金首席执行官：沙中制造业合作紧密，期待中国资本进一步深化布局",
@@ -2001,15 +2217,59 @@
           "time_info": "07时17分"
         },
         {
+          "title": "中美关系剧透警告｜白莉娟：我那些年轻的同事对中国更有“平等者之间的互相理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32198548",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "乌克兰：恪守一个中国原则",
+          "url": "https://www.toutiao.com/trending/7584618161731829798/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "资金充裕令杠杆交易有所抬头，中国全市场隔夜质押式回购成交量周四升至逾5个月高位。",
+          "url": "https://wallstreetcn.com/livenews/3023484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3023408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
+          "url": "https://wallstreetcn.com/livenews/3023475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "单月访日中国游客骤降15万人",
@@ -2021,12 +2281,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "中国代表连说三个“决不允许”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E8%BF%9E%E8%AF%B4%E4%B8%89%E4%B8%AA%E2%80%9C%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -2312,6 +2583,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "高盛策略师：由于企业盈利增长和美联储宽松的货币政策，明年全球股市仍有望继续上涨，但与2025年相比回报率会较为温和。",
+          "url": "https://flash.jin10.com/detail/20251219103827698800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "美联储古尔斯比：最新的通胀数据表现良好。",
           "url": "https://flash.jin10.com/detail/20251219043018434800",
           "source": "金十数据",
@@ -2337,8 +2619,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 11时21分]"
+        },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
@@ -2350,18 +2645,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 06时17分]"
-        },
-        {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 09时19分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -2470,6 +2753,17 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251219013118998800",
           "source": "金十数据",
@@ -2501,6 +2795,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 07时17分]"
+        },
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251219010727290800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）上海金早盘价为974.08元/克，较国际金价(976.41元/克)，低2.33元/克",
+          "url": "https://flash.jin10.com/detail/20251219110046497800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
+          "url": "https://wallstreetcn.com/livenews/3023286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
+          "url": "https://flash.jin10.com/detail/20251219013545433800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "2026黄金价格展望",
+          "url": "https://www.toutiao.com/trending/7585030477258427914/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年",
+          "url": "https://www.toutiao.com/trending/7584406930672795691/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         }
       ]
     },
@@ -2553,60 +2934,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            27,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 07时17分]"
-        },
-        {
-          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251219010727290800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
-          "url": "https://wallstreetcn.com/livenews/3023286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
-        },
-        {
-          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
-          "url": "https://flash.jin10.com/detail/20251219013545433800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
         }
       ]
     },
