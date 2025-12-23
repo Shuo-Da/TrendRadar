@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-24T01:17:59.161327+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-12-24T02:25:52.374872+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
+        },
+        {
+          "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
+          "url": "https://wallstreetcn.com/livenews/3025709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -26,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -37,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -46,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -61,8 +74,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -72,19 +85,79 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
           "url": "https://wallstreetcn.com/livenews/3025698",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
+          "url": "https://flash.jin10.com/detail/20251224001137079800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
+          "url": "https://flash.jin10.com/detail/20251224001032620800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普的贸易议程正在显现成效。",
+          "url": "https://flash.jin10.com/detail/20251224001014417800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "布林肯为何对特朗普发出严厉警告",
+          "url": "https://www.toutiao.com/trending/7587029251379957291/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
+          "url": "https://flash.jin10.com/detail/20251224010805922800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时25分"
         },
         {
           "title": "特朗普：多数经济学家错估三季度GDP数据 “好戏还在后头”",
@@ -96,50 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
-          "url": "https://flash.jin10.com/detail/20251224001137079800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
-          "url": "https://flash.jin10.com/detail/20251224001032620800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普的贸易议程正在显现成效。",
-          "url": "https://flash.jin10.com/detail/20251224001014417800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "布林肯为何对特朗普发出严厉警告",
-          "url": "https://www.toutiao.com/trending/7587029251379957291/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
         },
         {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
@@ -167,7 +196,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
@@ -177,19 +206,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "超50万吨车厘子涌入中国",
           "url": "https://www.toutiao.com/trending/7587014830788185642/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
@@ -199,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -210,8 +240,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -222,8 +252,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "每发射3枚火箭就有1枚来自中国",
@@ -250,6 +280,41 @@
           "time_info": "[00时22分 ~ 01时17分]"
         },
         {
+          "title": "外交部就乌方或将制裁中国公民表态",
+          "url": "https://www.toutiao.com/trending/7586712527296528447/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "中国工程院院士黄培康逝世",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB%E9%BB%84%E5%9F%B9%E5%BA%B7%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "中国地震台网正式测定：12月24日00时53分在新疆阿克苏地区库车市（北纬41.28度，东经83.36度）发生3.0级地震，震源深度15千米。",
+          "url": "https://flash.jin10.com/detail/20251224010119410800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
           "title": "明查｜这是“中国工厂排放有毒烟雾”？实为热力烟囱意外起火",
           "url": "https://m.thepaper.cn/newsDetail_forward_32228616",
           "source": "澎湃新闻",
@@ -261,17 +326,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "外交部就乌方或将制裁中国公民表态",
-          "url": "https://www.toutiao.com/trending/7586712527296528447/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
           "title": "中国金茂须予披露的交易：出售三亚旅业100%股权。",
           "url": "https://wallstreetcn.com/livenews/3025667",
           "source": "华尔街见闻-快讯",
@@ -281,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "中国工程院院士黄培康逝世",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB%E9%BB%84%E5%9F%B9%E5%BA%B7%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
         }
       ]
     },
@@ -304,11 +347,12 @@
           "url": "https://wallstreetcn.com/articles/3761906",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -318,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "博主：A股惊现结构性强势",
@@ -327,11 +371,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "央行新政：个人还清欠款征信自动修复",
@@ -352,7 +397,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -381,8 +426,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "【焦点复盘】沪指日线5连阳创1个月新高，半导体设备股持续火爆，3只上市新股均触发二次临停",
@@ -392,8 +437,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "1个奶油苹果糖相当于3碗米饭",
@@ -401,22 +446,24 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
           "url": "https://wallstreetcn.com/livenews/3025695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -425,9 +472,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -436,9 +483,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         }
       ]
     },
@@ -454,8 +501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -466,8 +513,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -526,11 +573,57 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251224013118079800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251224013027114800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
+          "url": "https://wallstreetcn.com/livenews/3025706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     }
