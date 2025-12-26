@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T16:24:02.388215+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-26T17:19:34.784750+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -81,18 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "中国央行：2025年3季度末，我国金融业机构总资产同比增长8.7%",
-          "url": "https://wallstreetcn.com/livenews/3027151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -210,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时24分]"
+        },
+        {
+          "title": "中国央行：2025年3季度末，我国金融业机构总资产同比增长8.7%",
+          "url": "https://wallstreetcn.com/livenews/3027151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时19分]"
         },
         {
           "title": "俄罗斯央行：在连续三个月增长之后，11月非居民对俄联邦债券的投资下降了10.8%至1170亿卢布。",
@@ -393,6 +394,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "俄罗斯央行宣布2026年上半年外汇干预计划。",
           "url": "https://flash.jin10.com/detail/20251226150033779800",
           "source": "金十数据",
@@ -402,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "上交所发布《上海证券交易所发行上市审核规则适用指引第9号——商业火箭企业适用科创板第五套上市标准》",
+          "url": "https://wallstreetcn.com/livenews/3027195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "日元看空声音渐响：受日本央行审慎政策影响，贬值趋势或延续至2026年",
@@ -426,13 +449,24 @@
           "time_info": "07时16分"
         },
         {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "泰国央行：银行须将金额超过20万美元的交易申报。",
           "url": "https://wallstreetcn.com/livenews/3027142",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -487,9 +521,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "日本央行将按计划削减第一季度购债规模",
+          "url": "https://wallstreetcn.com/livenews/3027153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "中信明明：未来央行可进一步加大对权益市场流动性的关注，利用降准、降息等总量型工具保持宏观流动性平稳",
@@ -506,7 +551,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "中国经济热词图鉴",
@@ -621,11 +666,12 @@
           "url": "https://news.ifeng.com/c/8pOoPZGLVgT",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时19分]"
         },
         {
           "title": "中国最重要的“东西大动脉”要来了",
@@ -635,8 +681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
         },
         {
           "title": "中国酒是如何诞生的",
@@ -645,11 +691,37 @@
           "ranks": [
             15,
             24,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时19分]"
+        },
+        {
+          "title": "8.67亿英镑，中国巨头拿下南美顶级铜金矿！该矿已被国际同行验证多年，但因开发难度高而陷入犹豫",
+          "url": "https://wallstreetcn.com/articles/3762093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 17时19分]"
+        },
+        {
+          "title": "美媒感叹：今年最重要的一课，“永远别低估中国”",
+          "url": "https://news.ifeng.com/c/8pOsGb4wd2o",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十期货12月26日讯，上海航运交易所数据显示，截至12月26日，上海出口集装箱运价指数（综合指数）报1656.32点，与上期相比上涨103.40点；中国出口集装箱运价综合指数报1146.67点，与上期相比涨2.0%。",
@@ -674,17 +746,48 @@
           "time_info": "15时20分"
         },
         {
-          "title": "8.67亿英镑，中国巨头拿下南美顶级铜金矿！该矿已被国际同行验证多年，但因开发难度高而陷入犹豫",
-          "url": "https://wallstreetcn.com/articles/3762093",
-          "source": "华尔街见闻",
+          "title": "中国人寿保险（集团）公司原党委书记、总裁杨超被开除党籍。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3027203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 16时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "节气里的大美中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%82%E6%B0%94%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "中国人民银行：《银行间外汇市场管理规定》已经2025年12月4日中国人民银行第17次行务会议审议通过，现予以发布，自2026年2月1日起施行。",
+          "url": "https://wallstreetcn.com/livenews/3027202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "节气里的大美中国",
+          "url": "https://www.douyin.com/hot/2348246",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "俄罗斯天然气工业股份公司：2025年，俄罗斯天然气工业股份公司通过“西伯利亚力量”向中国输送了388亿立方米天然气。",
@@ -757,6 +860,29 @@
           "time_info": "[00时21分 ~ 04时19分]"
         },
         {
+          "title": "中国最重要的“东西大动脉”要来了",
+          "url": "https://www.toutiao.com/trending/7588030244548791851/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
+        },
+        {
+          "title": "中国首例！8岁患儿性腺呈“双性”，切除睾丸组织后冷冻卵巢组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32256548",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
+        },
+        {
           "title": "专家：航母技术中国已领跑",
           "url": "https://www.toutiao.com/trending/7587979144110018090/",
           "source": "今日头条",
@@ -793,17 +919,6 @@
           "time_info": "[14时27分 ~ 15时20分]"
         },
         {
-          "title": "中国最重要的“东西大动脉”要来了",
-          "url": "https://www.toutiao.com/trending/7588030244548791851/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
           "title": "金十图示：2025年12月26日（周五）富时中国A50指数成分股午盘收盘行情一览：银行板块多数走低，光伏设备、小金属板块大幅上扬",
           "url": "https://flash.jin10.com/detail/20251226113331913800",
           "source": "金十数据",
@@ -814,17 +929,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时19分]"
-        },
-        {
-          "title": "中国首例！8岁患儿性腺呈“双性”，切除睾丸组织后冷冻卵巢组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32256548",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "盘点2025中国电竞表现",
@@ -859,6 +963,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "外交部发言人就反制美国向中国台湾地区出售武器答记者问",
+          "url": "https://wallstreetcn.com/livenews/3027198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "爱尔兰总理计划访华：应主动与中国合作",
@@ -900,9 +1015,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "三大区域美丽中国先行区建设行动方案印发实施",
+          "url": "https://wallstreetcn.com/livenews/3027169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "中国11月本年迄今全国发电装机容量 379351万千瓦，前值375171万千瓦。",
@@ -930,7 +1056,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
@@ -976,8 +1102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时19分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -1070,11 +1196,12 @@
             22,
             23,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时19分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -1087,8 +1214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时19分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -1098,11 +1225,12 @@
             10,
             16,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时19分]"
         },
         {
           "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
@@ -1165,6 +1293,17 @@
           "time_info": "[12时33分 ~ 13时19分]"
         },
         {
+          "title": "UP主用AI挑战肉鸽游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "据国家发展改革委政策研究室消息，12月26日上午10时30分，国家发展改革委专题新闻发布会，将介绍国家创业投资引导基金有关工作。",
           "url": "https://wallstreetcn.com/livenews/3026906",
           "source": "华尔街见闻-快讯",
@@ -1187,6 +1326,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "王橹杰 请保持苹果肌扁平",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%20%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "预告：中国贸促会12月29日召开12月例行新闻发布会",
           "url": "https://wallstreetcn.com/livenews/3027053",
           "source": "华尔街见闻-快讯",
@@ -1198,6 +1348,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "苹果手机11月中国销售同比翻番",
+          "url": "https://wallstreetcn.com/livenews/3027184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "荣耀发布会",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1207,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "美对华半导体加税为何设18个月限免期",
+          "url": "https://www.toutiao.com/trending/7588051966811442724/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
@@ -1223,7 +1395,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -1246,8 +1418,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时19分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -1359,8 +1531,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -1424,7 +1607,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -1434,6 +1617,19 @@
       "keyword_group": "金价",
       "match_count": 9,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 17时19分]"
+        },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
@@ -1452,19 +1648,6 @@
           "time_info": "[00时21分 ~ 09时19分]"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时24分]"
-        },
-        {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
           "url": "https://flash.jin10.com/detail/20251226150518760800",
           "source": "金十数据",
@@ -1474,6 +1657,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 17时19分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -1488,18 +1684,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时19分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时24分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
