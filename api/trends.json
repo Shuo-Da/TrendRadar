@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T04:20:04.364429+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-31T05:17:14.825659+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美联储",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -27,19 +27,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
-          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
-          "url": "https://wallstreetcn.com/livenews/3028902",
+          "title": "美联储调查显示：未来12个月预计购买约2,200亿美元国库券",
+          "url": "https://wallstreetcn.com/livenews/3028916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
+          "url": "https://wallstreetcn.com/livenews/3028915",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时17分"
         },
         {
           "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
@@ -47,11 +58,25 @@
           "source": "金十数据",
           "ranks": [
             2,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时17分]"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3028895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时17分]"
         },
         {
           "title": "美联储会议纪要关注点",
@@ -65,18 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时20分]"
-        },
-        {
-          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
-          "url": "https://wallstreetcn.com/livenews/3028895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
         },
         {
           "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
@@ -101,6 +114,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时20分]"
+        },
+        {
+          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
+          "url": "https://wallstreetcn.com/livenews/3028902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "周二（12月30日），美联储隔夜逆回购协议（RRP）使用规模为126.05亿美元（交易对手10家），上个交易日报105.51亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3028889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时17分]"
         },
         {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
@@ -139,16 +177,16 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
-          "title": "周二（12月30日），美联储隔夜逆回购协议（RRP）使用规模为126.05亿美元（交易对手10家），上个交易日报105.51亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3028889",
-          "source": "华尔街见闻-快讯",
+          "title": "市场分析：美联储会议纪要释放谨慎偏鸽的信号",
+          "url": "https://flash.jin10.com/detail/20251231033808378800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            15
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
+          "time_info": "[04时20分 ~ 05时17分]"
         },
         {
           "title": "美联储会议纪要：与会者认为准备金余额已降至充足水平。",
@@ -163,6 +201,18 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
+          "title": "美联储工作人员的经济增速预测较10月份有所加快",
+          "url": "https://flash.jin10.com/detail/20251231033300544800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
           "title": "美联储工作人员预测的经济增长前景略高于10月会议时的预期。",
           "url": "https://flash.jin10.com/detail/20251231030101389800",
           "source": "金十数据",
@@ -175,37 +225,87 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
-          "title": "市场分析：美联储会议纪要释放谨慎偏鸽的信号",
-          "url": "https://flash.jin10.com/detail/20251231033808378800",
+          "title": "美联储会议纪要：与会者普遍预计2026年经济增长速度将会加快",
+          "url": "https://flash.jin10.com/detail/20251231033050238800",
           "source": "金十数据",
           "ranks": [
-            8
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
         },
         {
-          "title": "美联储工作人员的经济增速预测较10月份有所加快",
-          "url": "https://flash.jin10.com/detail/20251231033300544800",
+          "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
+          "url": "https://flash.jin10.com/detail/20251231032508731800",
           "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
+          "url": "https://flash.jin10.com/detail/20251231032024792800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
+          "url": "https://flash.jin10.com/detail/20251231031954404800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
+          "url": "https://flash.jin10.com/detail/20251231031836944800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美联储会议纪要：分歧严重 多数人认为利率可随通胀下降而下降",
+          "url": "https://flash.jin10.com/detail/20251231030859460800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "中长期美债收益率涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3028910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储会议纪要：与会者普遍预计2026年经济增长速度将会加快",
-          "url": "https://flash.jin10.com/detail/20251231033050238800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时17分"
         },
         {
           "title": "美联储会议纪要：多数与会者认为，如果通胀随时间推移下降，进一步放松货币政策将是合适的。",
@@ -230,39 +330,6 @@
           "time_info": "02时26分"
         },
         {
-          "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
-          "url": "https://flash.jin10.com/detail/20251231032508731800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
-          "url": "https://flash.jin10.com/detail/20251231032024792800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
-          "url": "https://flash.jin10.com/detail/20251231031954404800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
           "url": "https://flash.jin10.com/detail/20251231025000000800",
           "source": "金十数据",
@@ -272,28 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
-          "url": "https://flash.jin10.com/detail/20251231031836944800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储会议纪要：分歧严重 多数人认为利率可随通胀下降而下降",
-          "url": "https://flash.jin10.com/detail/20251231030859460800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的126.05亿美元。",
@@ -310,7 +355,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -321,8 +366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -331,11 +376,12 @@
           "ranks": [
             3,
             11,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -346,8 +392,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -358,8 +404,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "UP主复刻嘎嘣脆苹果糖",
@@ -369,11 +415,12 @@
             16,
             17,
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -383,8 +430,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
+          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时15分 ~ 05时17分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -392,11 +452,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时17分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -425,18 +486,6 @@
           "time_info": "[02时26分 ~ 04时20分]"
         },
         {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 04时20分]"
-        },
-        {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
           "url": "https://flash.jin10.com/detail/20251231015607378800",
           "source": "金十数据",
@@ -446,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
+          "url": "https://wallstreetcn.com/livenews/3028914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -527,169 +587,8 @@
       ]
     },
     {
-      "keyword_group": "中国 十五五规划",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中国女海警喊话台舰船：请用中文交流",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B5%B7%E8%AD%A6%E5%96%8A%E8%AF%9D%E5%8F%B0%E8%88%B0%E8%88%B9%EF%BC%9A%E8%AF%B7%E7%94%A8%E4%B8%AD%E6%96%87%E4%BA%A4%E6%B5%81",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "中国迈入全球制造强国行列",
-          "url": "https://www.toutiao.com/trending/7589211524640591403/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "白俄外交部：支持中国政府为实现国家统一所作一切努力",
-          "url": "https://news.ifeng.com/c/8pVuoU4AFRB",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "王毅：中国不在周边搞地缘争夺",
-          "url": "https://www.douyin.com/hot/2352019",
-          "source": "抖音",
-          "ranks": [
-            14,
-            23,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "如何评价《疯狂动物城 2》成为中国影史上首部观影人次破亿的进口电影？",
-          "url": "https://www.zhihu.com/question/1989120367109891235",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "王毅对外籍记者说中国也是你的家",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%A4%96%E7%B1%8D%E8%AE%B0%E8%80%85%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            18,
-            10,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
-          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "韩国总统李在明将于 1 月 4 日至 7 日对中国进行国事访问，此次访华有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1989352400537003113",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "巴拿马地方政府强拆中巴公园及华人抵巴纪念碑，中国侨联：坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32276585",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "武契奇强调全力支持一个中国原则",
-          "url": "https://www.toutiao.com/trending/7589455799408394267/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时15分]"
-        },
-        {
-          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
-          "url": "https://www.cls.cn/detail/2244180",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 04时20分]"
-        },
-        {
-          "title": "中国需要多少架完全体歼20",
-          "url": "https://www.toutiao.com/trending/7589607305847524900/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 02时26分]"
-        },
-        {
-          "title": "为什么西红柿炒鸡蛋只在中国十分常见?",
-          "url": "https://www.zhihu.com/question/389729281",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美联储会议纪要：大部分官员认为随着时间的推移继续降息是适宜的。",
@@ -703,15 +602,26 @@
           "time_info": "03时15分"
         },
         {
-          "title": "交易员们对美联储将在2026年降息两次的预期维持不变，此前发布了FOMC会议纪要。",
-          "url": "https://wallstreetcn.com/livenews/3028904",
+          "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时17分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，可选消费、金融、工业、科技等板块至多跌0.3%，电信板块涨超0.3%，能源板块涨超0.8%。 纳斯达克100指数初步收跌0.2%，成分股中，Shopify跌超2.2%，华纳兄弟探索、Palantir、Axon、吉利德科学、科磊跌超1%，Meta、迈威尔科技、贝克休斯、英特尔、Diamondback Energy涨超1%。 IBM、高盛跌约1%，领跌道指成分股，波音、雪佛龙、联合健康则至少涨约0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3028917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "美联储会议纪要：少数与会者认为，12月降息并不合理。",
@@ -719,11 +629,36 @@
           "source": "金十数据",
           "ranks": [
             3,
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时17分]"
+        },
+        {
+          "title": "交易员们对美联储将在2026年降息两次的预期维持不变，此前发布了FOMC会议纪要。",
+          "url": "https://wallstreetcn.com/livenews/3028904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美联储部分官员对明年初进一步降息持谨慎态度",
+          "url": "https://flash.jin10.com/detail/20251231034515935800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
         },
         {
           "title": "美联储会议纪要：多位与会者指出，通胀居高不下的风险可能变得根深蒂固，并暗示进一步降息可能被误认为美联储对2%通胀目标缺乏承诺。",
@@ -750,6 +685,18 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
+          "url": "https://wallstreetcn.com/livenews/3028897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
           "title": "美联储会议纪要：部分与会者称，在12月降息后，“在一段时间内”保持利率稳定是合适的。",
           "url": "https://flash.jin10.com/detail/20251231030106839800",
           "source": "金十数据",
@@ -760,28 +707,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时20分]"
-        },
-        {
-          "title": "美联储部分官员对明年初进一步降息持谨慎态度",
-          "url": "https://flash.jin10.com/detail/20251231034515935800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
-          "url": "https://wallstreetcn.com/livenews/3028897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "美联储会议纪要：一些支持降息的与会者表示，这一决定权衡得很微妙，他们本也可以支持维持利率不变。",
@@ -830,6 +755,169 @@
       ]
     },
     {
+      "keyword_group": "中国 十五五规划",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国女海警喊话台舰船：请用中文交流",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B5%B7%E8%AD%A6%E5%96%8A%E8%AF%9D%E5%8F%B0%E8%88%B0%E8%88%B9%EF%BC%9A%E8%AF%B7%E7%94%A8%E4%B8%AD%E6%96%87%E4%BA%A4%E6%B5%81",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "中国迈入全球制造强国行列",
+          "url": "https://www.toutiao.com/trending/7589211524640591403/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "白俄外交部：支持中国政府为实现国家统一所作一切努力",
+          "url": "https://news.ifeng.com/c/8pVuoU4AFRB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "王毅：中国不在周边搞地缘争夺",
+          "url": "https://www.douyin.com/hot/2352019",
+          "source": "抖音",
+          "ranks": [
+            14,
+            23,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "如何评价《疯狂动物城 2》成为中国影史上首部观影人次破亿的进口电影？",
+          "url": "https://www.zhihu.com/question/1989120367109891235",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            10,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "王毅对外籍记者说中国也是你的家",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%AF%B9%E5%A4%96%E7%B1%8D%E8%AE%B0%E8%80%85%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%B9%9F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            18,
+            10,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
+          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "韩国总统李在明将于 1 月 4 日至 7 日对中国进行国事访问，此次访华有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1989352400537003113",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "巴拿马地方政府强拆中巴公园及华人抵巴纪念碑，中国侨联：坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32276585",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "武契奇强调全力支持一个中国原则",
+          "url": "https://www.toutiao.com/trending/7589455799408394267/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时17分]"
+        },
+        {
+          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
+          "url": "https://www.cls.cn/detail/2244180",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时15分 ~ 05时17分]"
+        },
+        {
+          "title": "中国需要多少架完全体歼20",
+          "url": "https://www.toutiao.com/trending/7589607305847524900/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时26分]"
+        },
+        {
+          "title": "为什么西红柿炒鸡蛋只在中国十分常见?",
+          "url": "https://www.zhihu.com/question/389729281",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 11,
       "titles": [
@@ -841,8 +929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -852,8 +940,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -864,8 +952,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -876,8 +964,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 05时17分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -902,17 +1002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时26分]"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -962,7 +1051,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -974,8 +1063,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时17分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050526825800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050523953800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
+          "url": "https://flash.jin10.com/detail/20251231050133467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -1037,8 +1159,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "金价波动",
@@ -1054,6 +1176,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251231041346663800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1062,28 +1213,12 @@
           "url": "https://flash.jin10.com/detail/20251231031255557800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
         }
       ]
     }
