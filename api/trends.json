@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:20:05.985904+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2026-01-06T23:19:54.028598+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 96,
+      "match_count": 103,
       "titles": [
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时20分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[09时20分 ~ 23时19分]"
         },
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时26分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时26分 ~ 23时19分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -88,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时26分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[11时26分 ~ 23时19分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -155,11 +155,12 @@
             23,
             26,
             25,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 23时19分]"
         },
         {
           "title": "AirPods Pro3马年特别款开箱",
@@ -370,6 +371,19 @@
           "time_info": "[00时23分 ~ 01时20分]"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时19分]"
+        },
+        {
           "title": "特斯拉在华招聘泄露了什么“天机”",
           "url": "https://www.toutiao.com/trending/7592040200079937030/",
           "source": "今日头条",
@@ -418,18 +432,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时17分]"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时20分]"
         },
         {
           "title": "特斯拉",
@@ -660,6 +662,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "英伟达：新款Rubin芯片进展顺利，有助于加快人工智能的运行速度",
           "url": "https://flash.jin10.com/detail/20260106065123141800",
           "source": "金十数据",
@@ -825,6 +838,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "SanDisk（SNDK）上涨14.47%，刷新盘中历史高位至313.74美元，盘中市值超过450亿美元。 半导体概念股中，Wolfspeed涨10.1%，微芯科技涨7.35%，AMKR涨6.8%，德州仪器涨5.6%，恩智浦涨5.6%，英特格、意法半导体ADR涨超5%，日月光半导体、安森美半导体、亚德诺涨超4%。 AMD则跌1.9%，相干公司COHR跌3.2%，安费诺跌6.2%。",
+          "url": "https://wallstreetcn.com/livenews/3031748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "20多个百大齐聚B站AI大赛",
           "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -856,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "数据中心冷却概念股普跌，受英伟达CEO言论影响",
+          "url": "https://wallstreetcn.com/livenews/3031747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "英伟达(NVDA.O)宣布推出模型“Alpamayo”，用于智能车辆。",
@@ -957,6 +992,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "AIG跌6%，创4月份以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3031743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "据CNBC：英伟达计划在2027年测试自动驾驶出租车服务，以推动自动驾驶发展。",
           "url": "https://flash.jin10.com/detail/20260106062020826800",
           "source": "金十数据",
@@ -966,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "牵手英伟达 梅赛德斯-奔驰首推新一代自动驾驶系统",
@@ -1007,7 +1064,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1043,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
@@ -1131,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "小摩看好2026年半导体前景 英伟达在机器人赛道更胜一筹",
+          "url": "https://flash.jin10.com/detail/20260106223853808800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
@@ -1202,6 +1281,20 @@
           "time_info": "[09时20分 ~ 18时20分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时19分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -1211,8 +1304,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时22分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[13时22分 ~ 23时19分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -1224,6 +1317,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时17分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19,
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[14时28分 ~ 23时19分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -1257,23 +1366,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时23分 ~ 22时20分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时28分 ~ 22时20分]"
+          "appearance_count": 32,
+          "time_info": "[00时23分 ~ 23时19分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -1341,20 +1435,6 @@
           "time_info": "[11时26分 ~ 15时24分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 22时20分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -1389,6 +1469,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时37分 ~ 21时35分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -1522,19 +1616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时20分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -1821,7 +1902,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1986,7 +2067,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2074,6 +2155,19 @@
           "time_info": "[00时23分 ~ 11时26分]"
         },
         {
+          "title": "为什么只有中国发明了皮蛋?",
+          "url": "https://www.zhihu.com/question/1989391043876107240",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时23分 ~ 23时19分]"
+        },
+        {
           "title": "日前防相急了：以后还怎么批评中国",
           "url": "https://news.ifeng.com/c/8ph6rA7htdr",
           "source": "凤凰网",
@@ -2082,20 +2176,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 22时20分]"
-        },
-        {
-          "title": "为什么只有中国发明了皮蛋?",
-          "url": "https://www.zhihu.com/question/1989391043876107240",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[17时23分 ~ 23时19分]"
         },
         {
           "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
@@ -2108,8 +2190,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时23分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[15时23分 ~ 23时19分]"
         },
         {
           "title": "中国科学家攻克世界级难题",
@@ -2221,11 +2303,12 @@
             17,
             18,
             14,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时26分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[11时26分 ~ 23时19分]"
         },
         {
           "title": "李在明抵达上海继续中国之行",
@@ -2236,11 +2319,12 @@
             9,
             28,
             26,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[17时23分 ~ 23时19分]"
         },
         {
           "title": "中方驳斥格陵兰岛到处都是中国船只",
@@ -2306,11 +2390,12 @@
             26,
             16,
             24,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时23分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[15时23分 ~ 23时19分]"
         },
         {
           "title": "外交部回应日议员石平窜访中国台湾",
@@ -2327,6 +2412,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[16时26分 ~ 21时35分]"
+        },
+        {
+          "title": "中国人工智能技术正这样走向世界",
+          "url": "https://www.toutiao.com/trending/7592248398812728859/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
+          "title": "中国还有9亿人没有坐过飞机",
+          "url": "https://www.toutiao.com/trending/7592154023323717166/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "中国留学生在德遭袭反击致对方骨折",
@@ -2353,30 +2462,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时16分 ~ 20时38分]"
-        },
-        {
-          "title": "中国人工智能技术正这样走向世界",
-          "url": "https://www.toutiao.com/trending/7592248398812728859/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
-          "title": "中国还有9亿人没有坐过飞机",
-          "url": "https://www.toutiao.com/trending/7592154023323717166/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时20分]"
         },
         {
           "title": "印度高调宣布大米产量超越中国",
@@ -2474,6 +2559,30 @@
           "time_info": "[09时20分 ~ 13时22分]"
         },
         {
+          "title": "经典惊悚片《闪灵》确认引进中国内地，对此你有哪些期待？",
+          "url": "https://www.zhihu.com/question/1991898988950082356",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时19分]"
+        },
+        {
+          "title": "《疯狂动物城 2》累计票房超 42.5 亿，超《复联 4》成为中国影史进口片票房冠军，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/1991596495888204246",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时19分]"
+        },
+        {
           "title": "迪士尼：《疯狂动物城2》成中国票房最高的好莱坞电影",
           "url": "https://wallstreetcn.com/livenews/3031072",
           "source": "华尔街见闻-快讯",
@@ -2522,30 +2631,6 @@
           "time_info": "[14时28分 ~ 15时24分]"
         },
         {
-          "title": "经典惊悚片《闪灵》确认引进中国内地，对此你有哪些期待？",
-          "url": "https://www.zhihu.com/question/1991898988950082356",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时20分]"
-        },
-        {
-          "title": "《疯狂动物城 2》累计票房超 42.5 亿，超《复联 4》成为中国影史进口片票房冠军，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/1991596495888204246",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时20分]"
-        },
-        {
           "title": "12连阳，沪指创33年最长连阳纪录！高盛：建议高配中国股票",
           "url": "https://m.thepaper.cn/newsDetail_forward_32320112",
           "source": "澎湃新闻",
@@ -2557,6 +2642,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时26分 ~ 18时20分]"
+        },
+        {
+          "title": "李在明抵沪继续中国之行",
+          "url": "https://www.toutiao.com/trending/7592229032108756507/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "中国代表：强烈谴责美方对委内瑞拉的单边、非法、霸凌行径",
@@ -2583,15 +2680,16 @@
           "time_info": "[09时20分 ~ 11时26分]"
         },
         {
-          "title": "李在明抵沪继续中国之行",
-          "url": "https://www.toutiao.com/trending/7592229032108756507/",
+          "title": "中国披露新核潜艇救援船型有何意味",
+          "url": "https://www.toutiao.com/trending/7592220978051026442/",
           "source": "今日头条",
           "ranks": [
-            9
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "李在明晒中国行视频 记录解放军英姿",
@@ -2649,17 +2747,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "中国披露新核潜艇救援船型有何意味",
-          "url": "https://www.toutiao.com/trending/7592220978051026442/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "中国先进武器装备井喷式亮相有何特点",
@@ -2745,7 +2832,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2896,7 +2983,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
@@ -2919,8 +3006,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[18时19分 ~ 23时19分]"
         },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
@@ -2932,8 +3019,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[18时19分 ~ 23时19分]"
+        },
+        {
+          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
+          "url": "https://www.cls.cn/detail/2249476",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
@@ -2960,19 +3060,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时22分 ~ 18时20分]"
-        },
-        {
-          "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
-          "url": "https://www.cls.cn/detail/2249476",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "重返4000点 ！A股早盘高开高走放量上攻，创新药概念股掀涨停潮",
@@ -3036,6 +3123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "美元涨势受限于降息预期 市场静候就业报告",
+          "url": "https://flash.jin10.com/detail/20260106230128265800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：0.7%的通胀率为维持有利利率环境带来积极信号。",
@@ -3386,7 +3484,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3400,6 +3498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
+          "url": "https://www.cls.cn/detail/2249723",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "瑞士宝盛：日本央行加息仍落后形势 目前仍难以看多日本国债",
@@ -3545,6 +3654,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "标普500指数高开5.98点，涨幅0.09%，报6908.03点； 道琼斯工业平均指数高开10.18点，涨幅0.02%，报48987.36点； 纳斯达克综合指数高开51.14点，涨幅0.22%，报23446.96点。",
+          "url": "https://wallstreetcn.com/livenews/3031740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "英媒调查：欧洲央行接班人浮现 经济学家更青睐技术官僚",
           "url": "https://flash.jin10.com/detail/20260106132353616800",
           "source": "金十数据",
@@ -3606,7 +3726,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -3634,7 +3754,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3717,7 +3837,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3761,7 +3881,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3772,7 +3892,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3783,7 +3903,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3816,7 +3936,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3827,7 +3947,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3838,7 +3958,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3849,7 +3969,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3860,7 +3980,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -3871,7 +3991,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -3879,7 +3999,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -3890,8 +4010,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时17分 ~ 22时20分]"
+          "appearance_count": 22,
+          "time_info": "[07时17分 ~ 23时19分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -3932,17 +4052,6 @@
           "time_info": "[00时23分 ~ 13时22分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260106050521518800",
           "source": "金十数据",
@@ -3967,6 +4076,29 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时19分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
           "url": "https://flash.jin10.com/detail/20260106050116385800",
           "source": "金十数据",
@@ -3977,17 +4109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -4025,6 +4146,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
           "url": "https://flash.jin10.com/detail/20260106055631330800",
           "source": "金十数据",
@@ -4056,6 +4188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260106223855995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
@@ -4096,8 +4239,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
