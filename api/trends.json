@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:20:34.875316+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-16T19:17:44.583540+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
@@ -65,19 +65,6 @@
           "time_info": "[01时29分 ~ 06时19分]"
         },
         {
-          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
-          "url": "https://wallstreetcn.com/articles/3763340",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时29分 ~ 16时25分]"
-        },
-        {
           "title": "华尔街点评台积电财报：资本支出、利润率指引过于“炸裂”，任何希望回调的人都会失望",
           "url": "https://wallstreetcn.com/articles/3763406",
           "source": "华尔街见闻",
@@ -89,8 +76,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 19时17分]"
+        },
+        {
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时29分 ~ 16时25分]"
         },
         {
           "title": "央行下调商办用房首付至30% 助力去库存与市场盘活",
@@ -351,6 +351,19 @@
           "time_info": "[13时23分 ~ 14时29分]"
         },
         {
+          "title": "A股四连跌退守4100点是何信号",
+          "url": "https://www.toutiao.com/trending/7595855444258590249/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时17分]"
+        },
+        {
           "title": "A股机器人概念股持续拉升，绿的谐波涨超12%，股价再创历史新高，恒工精密、恒辉安防、宁波华翔、方正电机等多股涨停，斯菱智驱、德恩精工、震裕科技等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3038430",
           "source": "华尔街见闻-快讯",
@@ -397,18 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时19分]"
-        },
-        {
-          "title": "A股四连跌退守4100点是何信号",
-          "url": "https://www.toutiao.com/trending/7595855444258590249/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
         },
         {
           "title": "春节前结汇潮将至，人民币偏强运行？央行最新发声：汇率将继续双向浮动，保持弹性",
@@ -517,6 +518,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "潘森宏观：德国通胀偏低可能增加欧洲央行降息的押注",
+          "url": "https://flash.jin10.com/detail/20260116184711539800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "标普500指数初步收涨0.2%，公用事业板块涨1%，工业板块涨0.9%，科技板块涨0.3%，电信板块跌0.4%，能源板块跌0.8%， 纳斯达克100指数初步收涨0.2%，成分股中，科磊初步收涨7.3%，应用材料涨5.8%，阿斯麦ADR涨5.3%，拉姆研究涨4.3%，西部数据涨3.7%，核电股CEG涨3.1%，特许通讯跌3.8%，Strategy跌4.2%。 高盛初步收涨4.3%，波音涨2.1%，英伟达涨2%，领跑道指成分股，宝洁、VZ、耐克、可口可乐跌超1%，Salesforce跌2.6%，IBM跌3.5%。",
           "url": "https://wallstreetcn.com/livenews/3038212",
           "source": "华尔街见闻-快讯",
@@ -534,7 +546,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -545,7 +557,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -611,7 +623,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -803,6 +815,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "巴克莱银行：预计日本央行下周会议不会有太大出人意料之处",
+          "url": "https://flash.jin10.com/detail/20260116183134981800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "华西证券刘郁：结构性降息后，再降息需等待",
           "url": "https://wallstreetcn.com/livenews/3038302",
           "source": "华尔街见闻-快讯",
@@ -897,7 +920,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -941,7 +964,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -952,7 +975,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1048,7 +1071,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -1109,6 +1132,21 @@
           "time_info": "[01时29分 ~ 07时18分]"
         },
         {
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时17分]"
+        },
+        {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
@@ -1118,22 +1156,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时20分]"
-        },
-        {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 19时17分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -1145,8 +1169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 19时17分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -1191,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "执念太深！特朗普笑纳“二手”和平奖章丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116185041783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
@@ -1316,6 +1351,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普暂缓对伊朗动武决定",
           "url": "https://www.douyin.com/hot/2369152",
           "source": "抖音",
@@ -1340,16 +1387,16 @@
           "time_info": "[06时19分 ~ 09时22分]"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            18
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -1421,18 +1468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
         },
         {
           "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
@@ -1534,6 +1569,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "美国军方正向中东地区增派防御和进攻能力，以应对特朗普可能下令打击伊朗的情况。",
+          "url": "https://flash.jin10.com/detail/20260116183626239800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3038415",
           "source": "华尔街见闻-快讯",
@@ -1587,6 +1633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "马查多为何赠特朗普诺贝尔和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%9F%A5%E5%A4%9A%E4%B8%BA%E4%BD%95%E8%B5%A0%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
@@ -1878,7 +1935,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1889,8 +1946,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 19时17分]"
         },
         {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
@@ -2006,6 +2063,20 @@
           "time_info": "[01时29分 ~ 07时18分]"
         },
         {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 19时17分]"
+        },
+        {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -2033,18 +2104,33 @@
           "time_info": "[01时29分 ~ 07时18分]"
         },
         {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
+          "title": "苹果更新以旧换新抵扣价：iPhone最高可抵5800元，支持华为等安卓机型",
+          "url": "https://www.cls.cn/detail/2260018",
+          "source": "财联社热门",
           "ranks": [
-            10,
             9,
-            7,
-            12
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时17分]"
+        },
+        {
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18,
+            12,
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时37分 ~ 18时20分]"
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -2077,19 +2163,6 @@
           "time_info": "[11时27分 ~ 15时22分]"
         },
         {
-          "title": "苹果更新以旧换新抵扣价：iPhone最高可抵5800元，支持华为等安卓机型",
-          "url": "https://www.cls.cn/detail/2260018",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时20分]"
-        },
-        {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
@@ -2102,20 +2175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 06时19分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 18时20分]"
         },
         {
           "title": "【数读IPO】国产半导体细分领域头部供应商今日申购",
@@ -2153,6 +2212,20 @@
           "time_info": "15时22分"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时17分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -2164,6 +2237,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时22分 ~ 09时22分]"
+        },
+        {
+          "title": "半导体两大环节暖风劲吹：封测涨价、洁净室订单爆满 板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2260120",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -2178,19 +2263,6 @@
           "time_info": "[09时22分 ~ 12时37分]"
         },
         {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时20分]"
-        },
-        {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
           "url": "https://www.cls.cn/detail/2259812",
           "source": "财联社热门",
@@ -2201,18 +2273,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时22分 ~ 18时20分]"
-        },
-        {
-          "title": "半导体两大环节暖风劲吹：封测涨价、洁净室订单爆满 板块掀涨停潮",
-          "url": "https://www.cls.cn/detail/2260120",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -2237,6 +2297,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时21分]"
+        },
+        {
+          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
+          "url": "https://wallstreetcn.com/articles/3763433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -2288,16 +2360,16 @@
           "time_info": "[17时23分 ~ 18时20分]"
         },
         {
-          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
-          "url": "https://wallstreetcn.com/articles/3763433",
-          "source": "华尔街见闻",
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "中国电子董事长：2026年将着力打造国产全谱系全流程EDA工具系统 推出新一代高性能芯片",
@@ -2395,6 +2467,17 @@
           "time_info": "[12时37分 ~ 13时23分]"
         },
         {
+          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "苹果折叠屏机模上手",
           "url": "https://www.toutiao.com/trending/7595528135144115738/",
           "source": "今日头条",
@@ -2439,15 +2522,15 @@
           "time_info": "17时23分"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时17分"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -2503,6 +2586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "芯片荒叠加贸易战 加拿大汽车业领跌",
@@ -2659,17 +2753,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "英伟达收涨超2.1%，领跑美国科技股七巨头，台积电涨超4.4%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3038226",
           "source": "华尔街见闻-快讯",
@@ -2695,7 +2778,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "天津大学原校长金东寒已从中国工程院院士名单中撤下",
@@ -2709,21 +2792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时29分 ~ 18时20分]"
-        },
-        {
-          "title": "菲律宾宣布自 1 月 16 日起对中国公民免签，会对旅游及经贸领域带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1995164303532192311",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 18时20分]"
+          "appearance_count": 20,
+          "time_info": "[01时29分 ~ 19时17分]"
         },
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -2746,6 +2816,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时31分 ~ 09时22分]"
+        },
+        {
+          "title": "菲律宾宣布自 1 月 16 日起对中国公民免签，会对旅游及经贸领域带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1995164303532192311",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 19时17分]"
         },
         {
           "title": "聂卫平曾称中国人应有追赶超越的气",
@@ -2865,6 +2949,28 @@
           "time_info": "[09时22分 ~ 15时22分]"
         },
         {
+          "title": "2025中国汽车驶出增长新动能",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%A9%B6%E5%87%BA%E5%A2%9E%E9%95%BF%E6%96%B0%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
+          "title": "中国天眼新成果发布",
+          "url": "https://www.douyin.com/hot/2369775",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
           "url": "https://m.thepaper.cn/newsDetail_forward_32385737",
           "source": "澎湃新闻",
@@ -2879,6 +2985,28 @@
           "time_info": "[01时29分 ~ 07时18分]"
         },
         {
+          "title": "中国和加拿大领导人会晤联合声明",
+          "url": "https://www.toutiao.com/trending/7595679877954142246/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时17分]"
+        },
+        {
+          "title": "中国和加拿大领导人会晤联合声明",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时17分]"
+        },
+        {
           "title": "中国首次航天员洞穴训练细节曝光",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E8%88%AA%E5%A4%A9%E5%91%98%E6%B4%9E%E7%A9%B4%E8%AE%AD%E7%BB%83%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
           "source": "bilibili 热搜",
@@ -2891,48 +3019,19 @@
           "time_info": "[09时22分 ~ 11时28分]"
         },
         {
-          "title": "2025中国汽车驶出增长新动能",
-          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%A9%B6%E5%87%BA%E5%A2%9E%E9%95%BF%E6%96%B0%E5%8A%A8%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
-          "title": "中国天眼新成果发布",
-          "url": "https://www.douyin.com/hot/2369775",
+          "title": "中国U23男足进步在哪",
+          "url": "https://www.douyin.com/hot/2369389",
           "source": "抖音",
           "ranks": [
-            3
+            13,
+            11,
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
-          "title": "中国和加拿大领导人会晤联合声明",
-          "url": "https://www.toutiao.com/trending/7595679877954142246/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
-        },
-        {
-          "title": "中国和加拿大领导人会晤联合声明",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "中国军人身着便衣依旧气场全开",
@@ -2954,7 +3053,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -2988,7 +3087,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -3005,18 +3104,32 @@
           "time_info": "[11时27分 ~ 14时29分]"
         },
         {
-          "title": "中国U23男足进步在哪",
-          "url": "https://www.douyin.com/hot/2369389",
-          "source": "抖音",
+          "title": "外交部：坚决反对建交国与中国台湾地区商签任何具有主权意涵和官方性质的协定",
+          "url": "https://www.cls.cn/detail/2260218",
+          "source": "财联社热门",
           "ranks": [
-            13,
             11,
-            10,
-            8
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
+          "title": "中国把16公里高铁隧道挖到了海底",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%8A16%E5%85%AC%E9%87%8C%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E6%8C%96%E5%88%B0%E4%BA%86%E6%B5%B7%E5%BA%95",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 19时17分]"
         },
         {
           "title": "加拿大总理一到中国下了舷梯就开聊",
@@ -3044,19 +3157,6 @@
           "time_info": "[16时25分 ~ 17时23分]"
         },
         {
-          "title": "中国把16公里高铁隧道挖到了海底",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%8A16%E5%85%AC%E9%87%8C%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E6%8C%96%E5%88%B0%E4%BA%86%E6%B5%B7%E5%BA%95",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 18时20分]"
-        },
-        {
           "title": "财政部发布关于中国福利彩票发行管理中心变更中国福利彩票双色球游戏规则的审批意见",
           "url": "https://wallstreetcn.com/livenews/3038623",
           "source": "华尔街见闻-快讯",
@@ -3081,30 +3181,31 @@
           "time_info": "[11时28分 ~ 12时37分]"
         },
         {
-          "title": "外交部：坚决反对建交国与中国台湾地区商签任何具有主权意涵和官方性质的协定",
-          "url": "https://www.cls.cn/detail/2260218",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
           "title": "中国向泰提供2000万元人道主义援助",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E6%B3%B0%E6%8F%90%E4%BE%9B2000%E4%B8%87%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
           "source": "百度热搜",
           "ranks": [
             23,
             16,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
+          "title": "新晋中国科学院院士刘若川已任北京大学数学学院院长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32394832",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "外媒：中国核潜艇数量已超俄罗斯",
@@ -3119,16 +3220,17 @@
           "time_info": "[12时37分 ~ 13时23分]"
         },
         {
-          "title": "新晋中国科学院院士刘若川已任北京大学数学学院院长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32394832",
-          "source": "澎湃新闻",
+          "title": "中国天眼将迎重大升级",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%B0%86%E8%BF%8E%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            13
+            30,
+            23,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "中国建材集团董事长：2026年中国建材巨石淮安年产10万吨电子级玻纤生产线的零碳智能制造基地预计建成投产",
@@ -3155,27 +3257,26 @@
           "time_info": "[12时37分 ~ 13时23分]"
         },
         {
-          "title": "中国天眼将迎重大升级",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%B0%86%E8%BF%8E%E9%87%8D%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时20分]"
-        },
-        {
           "title": "中国神华：2025年1-12月，公司累计煤炭销售量4.31亿吨，同比下降6.4%。",
           "url": "https://wallstreetcn.com/livenews/3038682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "中国把16公里高铁隧道挖到了海底",
+          "url": "https://www.toutiao.com/trending/7595540369284038682/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "中国台湾股市盘初升逾1%至31,339.39点、再创盘中历史高位。",
@@ -3250,7 +3351,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -3261,9 +3362,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "中国—东盟人工智能产业创新中心将在2026年成立",
+          "url": "https://wallstreetcn.com/livenews/3038722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "为何欧洲流行十字剑格的长剑或武装剑，中国和日本则是流行圆盘刀镡？",
@@ -3396,6 +3508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -3962,8 +4085,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 18时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 19时17分]"
         },
         {
           "title": "新能源汽车上面什么零部件是最容易老化的？",
