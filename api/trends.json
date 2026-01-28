@@ -1,11 +1,948 @@
 {
-  "generated_at": "2026-01-28T22:26:59.460160+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-01-28T23:29:50.103283+08:00",
+  "total_titles_processed": 2179,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
+      "match_count": 83,
+      "titles": [
+        {
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 23时29分]"
+        },
+        {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时23分]"
+        },
+        {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时15分]"
+        },
+        {
+          "title": "美联储决议前，强劲财报提振科技股，纳指期货涨0.9%，美元止跌，黄金5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时26分]"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时29分]"
+        },
+        {
+          "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "加纳央行降息250个基点，至15.50%，之前为18.00%。",
+          "url": "https://wallstreetcn.com/livenews/3045635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
+          "url": "https://wallstreetcn.com/livenews/3045669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "欧洲央行执委奇波洛内：但如果地缘政治不确定性持续存在，这可能会影响通胀和增长。",
+          "url": "https://flash.jin10.com/detail/20260128091452288800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "欧洲央行执委Cipollone称全球动荡可能影响欧元区复苏",
+          "url": "https://wallstreetcn.com/livenews/3045321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "加拿大央行维持政策利率在2.25%不变，符合市场预期",
+          "url": "https://wallstreetcn.com/livenews/3045668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "欧洲央行执委奇波洛内：欧洲经济已被证明具有韧性，我们预计数据可能会超出我们的预测。",
+          "url": "https://flash.jin10.com/detail/20260128091440768800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "泰国央行：Don Nakornthab将于2月起负责监管泰国货币政策。",
+          "url": "https://flash.jin10.com/detail/20260128184725025800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "欧洲科技股板块创26年来新高，阿斯麦与韩国SK海力士财报推动其涨幅达2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "今夜美联储决议，暂停降息已成共识，但鲍威尔拿的是鸽派剧本？",
+          "url": "https://wallstreetcn.com/articles/3764356",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时29分]"
+        },
+        {
+          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时31分]"
+        },
+        {
+          "title": "SK海力士股价上涨4.2%，市场预计其财报表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260128123155389800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时25分]"
+        },
+        {
+          "title": "上证指数早盘收报4160.01点，涨0.49%。 深证成指早盘收报14342.74点，涨0.09%。 创业板指早盘收报3330.39点，跌0.37%。 沪深300早盘收报4727.85点，涨0.47%。 科创50早盘收报1544.62点，跌0.73%。 中证500早盘收报8585.95点，涨0.43%。 中证1000早盘收报8401.54点，涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3045230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时41分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher称，如果欧元继续走强，欧洲央行将需要采取行动。就目前情况而言，欧洲央行无需调整利率。",
+          "url": "https://wallstreetcn.com/livenews/3045276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时31分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
+        },
+        {
+          "title": "欧洲央行官员Kocher：官员们必须准备好在必要时采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3044903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时33分]"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：官员​​们必须做好必要时采取行动的准备。",
+          "url": "https://flash.jin10.com/detail/20260128010226884800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时33分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
+          "url": "https://flash.jin10.com/detail/20260128013259225800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时24分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时29分]"
+        },
+        {
+          "title": "科技巨头财报前标普五连阳，美元四日重挫至四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260128050312541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "欧洲央行执委奇波洛内：地缘政治紧张局势强化了建立欧洲支付系统的理由。",
+          "url": "https://flash.jin10.com/detail/20260128091431971800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "泰国央行将任命Don Nakornthab为助理行长。",
+          "url": "https://flash.jin10.com/detail/20260128184641589800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "加纳央行行长：宏观经济状况显著改善。",
+          "url": "https://flash.jin10.com/detail/20260128220340669800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "加拿大央行政策利率 2.25%，预期 2.25%，前值 2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3045666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "加纳央行将关键利率下调250个基点至15.50%。",
+          "url": "https://flash.jin10.com/detail/20260128220314328800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：欧元兑美元的汇率水平并不意味着任何的政策方向。 当前，欧洲央行政策立场“非常适用于当前的局势”。",
+          "url": "https://wallstreetcn.com/livenews/3045665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
+          "url": "https://wallstreetcn.com/livenews/3044902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：如果欧元继续走强，央行将需要采取行动。",
+          "url": "https://flash.jin10.com/detail/20260128130447336800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美国总统特朗普：对标普500指数涨至7000点表示欢迎。",
+          "url": "https://wallstreetcn.com/livenews/3045663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美联储传声筒：本周将暂停降息 更大的问题是恢复降息路径不明",
+          "url": "https://www.cls.cn/detail/2271681",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "调查：美联储降息空间有限 未来两年或只有两次降息",
+          "url": "https://www.cls.cn/detail/2271706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128090356092800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "泰国央行行长：新的黄金规定将于1月30日在皇家公报上公布。",
+          "url": "https://flash.jin10.com/detail/20260128112351908800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "A股收盘：沪指震荡涨0.27%，资源股全线爆发",
+          "url": "https://wallstreetcn.com/livenews/3045356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅扩大至将近2%，热门中概股新东方涨超12%，理想涨4.3%，阿里涨2.1%。ETF中，KWEB涨1.4%，CQQQ涨超0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3045671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "德国央行行长称存放在纽约联储的德国黄金储备是安全的",
+          "url": "https://flash.jin10.com/detail/20260128031437905800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "SK海力士股价盘后上涨9%，此前公司公布强劲的四季度财报。",
+          "url": "https://flash.jin10.com/detail/20260128161018525800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美国财长贝森特：（就标普500指数首次站上7000点）我们出台了有利于增长的良好政策。",
+          "url": "https://flash.jin10.com/detail/20260128230735232800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "周二（1月27日）纽约尾盘，标普500股指期货最终涨0.44%，道指期货跌0.87%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3045022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "提醒：北京时间22:45，加拿大央行将公布利率决议。",
+          "url": "https://wallstreetcn.com/livenews/3045656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "泰国央行行长：未来2至3个月内将出台关于异常现金取款的监管规则。",
+          "url": "https://flash.jin10.com/detail/20260128111700088800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "机构：欧元进一步走强或促使欧央行考虑降息",
+          "url": "https://flash.jin10.com/detail/20260128202500971800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "上证指数收报4151.24点，涨0.27%。 深证成指收报14342.89点，涨0.09%。 创业板指收报3323.56点，跌0.57%。 沪深300收报4717.99点，涨0.26%。 科创50收报1554.80点，跌0.08%。 中证500收报8601.16点，涨0.61%。 中证1000收报8399.79点，涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3045352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "泰国央行行长：黄金交易的限制规则将于三月生效。",
+          "url": "https://flash.jin10.com/detail/20260128111414450800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "欧元兑美元突破1.20心理关口，已令欧洲央行决策者们感到不安",
+          "url": "https://flash.jin10.com/detail/20260128182905321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "欧洲央行执委Cipollone：不确定性可能加剧，影响经济复苏。",
+          "url": "https://wallstreetcn.com/livenews/3045285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "标普500指数涨穿7000点整数位心理关口，创盘中历史新高",
+          "url": "https://wallstreetcn.com/livenews/3045652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：这（欧元相对美元升值及其影响）是指导我们货币政策决策的一个因素。",
+          "url": "https://flash.jin10.com/detail/20260128165552092800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "纳斯达克100指数涨1%，成分股拉姆研究涨6.8%，希捷科技涨6%，西部数据涨5.2%，应用材料涨4.9%，美光科技涨4.5%，英特尔涨3.8%，阿斯麦ADR涨3.3%，Adobe目前跌3.3%，特许通讯跌4.1%，Roper Technologies Inc.跌11.8%。 标普涨超0.5%，道指跌322点跌幅0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3044886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
+          "url": "https://wallstreetcn.com/livenews/3044929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "【A股ETF成交额再创新高 热门宽基ETF异常放量】A股ETF市场交投热度持续飙升，当前ETF成交额达到7525亿元，再度突破纪录，其中沪深300ETF华泰柏瑞（510300）成交额近400亿元，沪深300ETF华夏（510330）成交额达268亿元，上证500ETF（510050）、中证500ETF（510500）均超200亿元。",
+          "url": "https://wallstreetcn.com/livenews/3045347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "加拿大央行决议公布后，加拿大两年期国债收益率小幅走低，现持平于2.588%。",
+          "url": "https://flash.jin10.com/detail/20260128230306840800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "野村：日本央行3月加息仍然属于“尾部风险情景”，尽管4月加息的可能性更大。",
+          "url": "https://wallstreetcn.com/livenews/3044884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "欧洲央行执委埃尔德森：我们需要加强银行应对地缘政治冲击和宏观金融不确定性的能力。",
+          "url": "https://flash.jin10.com/detail/20260128180148071800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
+          "url": "https://wallstreetcn.com/livenews/3044883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：正密切关注欧元相对美元升值的情况及其对通胀走低的可能影响。",
+          "url": "https://flash.jin10.com/detail/20260128165457264800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：鉴于美国经济政策难以预测，美元走软是市场信心下降的迹象。",
+          "url": "https://flash.jin10.com/detail/20260128165434940800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3045196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "欧洲央行管委：如果欧元走强，欧洲央行可能需要再次降息",
+          "url": "https://flash.jin10.com/detail/20260128140228562800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：美元兑欧元走弱是人们对美国经济不可预测性信心下降的信号。",
+          "url": "https://flash.jin10.com/detail/20260128165408801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "加拿大央行维持利率不变后，加拿大债券收益率上升，10年期收益率小幅上涨至3.426%。",
+          "url": "https://flash.jin10.com/detail/20260128230018926800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "泰国央行行长：希望黄金交易规则将对泰铢有良好影响。泰国央行已持续介入以缓解泰铢波动。",
+          "url": "https://wallstreetcn.com/livenews/3045194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "加密货币巨头悄然囤货 CEO豪言Tether将成全球最大黄金央行之一",
+          "url": "https://wallstreetcn.com/livenews/3045338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
+          "url": "https://flash.jin10.com/detail/20260128001605313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "金十整理：机构前瞻美联储利率决议（二）——暂停降息板上钉钉，就业与增长撑住底盘",
+          "url": "https://flash.jin10.com/detail/20260128135137092800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "本次加拿大央行利率决议充斥不确定性",
+          "url": "https://flash.jin10.com/detail/20260128225937321800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "德国央行行长：欧洲央行短期内无需调整利率",
+          "url": "https://wallstreetcn.com/livenews/3044902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：欧元汇率没有目标。 美元下跌是美国不可预测性的体现。 欧洲央行密切关注欧元走势及其对通货膨胀的影响。 欧元是将影响政策的一个重要因素。",
+          "url": "https://wallstreetcn.com/livenews/3045441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "A股商业航天概念局部回暖，巨力索具6天4板，再升科技此前涨停，雷科防务、通宇通讯、中超控股、超捷股份、西部材料、烽火通信跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.48%，报7866.61点。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3044983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "日本央行12月政策会议纪要：一名委员称，日元、长期利率反映出政策利率过低。 部分委员称日本央行应考虑日元对物价趋势的影响。",
+          "url": "https://wallstreetcn.com/livenews/3045062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "大和证券：日本财政扩张与日元疲软或促使央行再度加息",
+          "url": "https://flash.jin10.com/detail/20260128135041876800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "泰国央行行长：将把线上黄金每日交易上限设定为最高5000万泰铢。",
+          "url": "https://wallstreetcn.com/livenews/3045188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -18,8 +955,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 23时29分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -30,8 +967,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时29分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -72,6 +1009,17 @@
           "time_info": "[11时42分 ~ 17时31分]"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
+        },
+        {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
           "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
           "source": "凤凰网",
@@ -82,17 +1030,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：一支庞大的舰队正快速驶向伊朗，规模比派往委内瑞拉的舰队更大。",
@@ -112,7 +1049,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -161,6 +1098,18 @@
           "time_info": "20时41分"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普，两天内动手？",
           "url": "https://news.ifeng.com/c/8qGwey6pidp",
           "source": "凤凰网",
@@ -184,16 +1133,15 @@
           "time_info": "20时41分"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://www.cls.cn/detail/2273107",
-          "source": "财联社热门",
+          "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
+          "url": "https://wallstreetcn.com/livenews/3045667",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -688,6 +1636,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
@@ -888,788 +1847,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 69,
-      "titles": [
-        {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时18分 ~ 22时26分]"
-        },
-        {
-          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
-          "url": "https://www.cls.cn/detail/2271670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时23分]"
-        },
-        {
-          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
-          "url": "https://wallstreetcn.com/articles/3764225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时28分]"
-        },
-        {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时15分]"
-        },
-        {
-          "title": "美联储决议前，强劲财报提振科技股，纳指期货涨0.9%，美元止跌，黄金5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
-        },
-        {
-          "title": "加纳央行降息250个基点，至15.50%，之前为18.00%。",
-          "url": "https://wallstreetcn.com/livenews/3045635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "欧洲央行执委奇波洛内：但如果地缘政治不确定性持续存在，这可能会影响通胀和增长。",
-          "url": "https://flash.jin10.com/detail/20260128091452288800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "欧洲央行执委Cipollone称全球动荡可能影响欧元区复苏",
-          "url": "https://wallstreetcn.com/livenews/3045321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "欧洲央行执委奇波洛内：欧洲经济已被证明具有韧性，我们预计数据可能会超出我们的预测。",
-          "url": "https://flash.jin10.com/detail/20260128091440768800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "泰国央行：Don Nakornthab将于2月起负责监管泰国货币政策。",
-          "url": "https://flash.jin10.com/detail/20260128184725025800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "欧洲科技股板块创26年来新高，阿斯麦与韩国SK海力士财报推动其涨幅达2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3045417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3045283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时31分]"
-        },
-        {
-          "title": "SK海力士股价上涨4.2%，市场预计其财报表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260128123155389800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时25分]"
-        },
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
-        },
-        {
-          "title": "上证指数早盘收报4160.01点，涨0.49%。 深证成指早盘收报14342.74点，涨0.09%。 创业板指早盘收报3330.39点，跌0.37%。 沪深300早盘收报4727.85点，涨0.47%。 科创50早盘收报1544.62点，跌0.73%。 中证500早盘收报8585.95点，涨0.43%。 中证1000早盘收报8401.54点，涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3045230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "欧洲央行管委Kocher称，如果欧元继续走强，欧洲央行将需要采取行动。就目前情况而言，欧洲央行无需调整利率。",
-          "url": "https://wallstreetcn.com/livenews/3045276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时31分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
-        },
-        {
-          "title": "今夜美联储决议，暂停降息已成共识，但鲍威尔拿的是鸽派剧本？",
-          "url": "https://wallstreetcn.com/articles/3764356",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
-        },
-        {
-          "title": "欧洲央行官员Kocher：官员们必须准备好在必要时采取行动。",
-          "url": "https://wallstreetcn.com/livenews/3044903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "欧洲央行管委科赫尔：官员​​们必须做好必要时采取行动的准备。",
-          "url": "https://flash.jin10.com/detail/20260128010226884800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
-          "url": "https://flash.jin10.com/detail/20260128013259225800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时24分]"
-        },
-        {
-          "title": "科技巨头财报前标普五连阳，美元四日重挫至四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
-          "url": "https://flash.jin10.com/detail/20260128050312541800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "欧洲央行执委奇波洛内：地缘政治紧张局势强化了建立欧洲支付系统的理由。",
-          "url": "https://flash.jin10.com/detail/20260128091431971800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "泰国央行将任命Don Nakornthab为助理行长。",
-          "url": "https://flash.jin10.com/detail/20260128184641589800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "加纳央行行长：宏观经济状况显著改善。",
-          "url": "https://flash.jin10.com/detail/20260128220340669800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
-          "url": "https://wallstreetcn.com/livenews/3045316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "加纳央行将关键利率下调250个基点至15.50%。",
-          "url": "https://flash.jin10.com/detail/20260128220314328800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
-          "url": "https://wallstreetcn.com/livenews/3044902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "欧洲央行管委科赫尔：如果欧元继续走强，央行将需要采取行动。",
-          "url": "https://flash.jin10.com/detail/20260128130447336800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美联储传声筒：本周将暂停降息 更大的问题是恢复降息路径不明",
-          "url": "https://www.cls.cn/detail/2271681",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "调查：美联储降息空间有限 未来两年或只有两次降息",
-          "url": "https://www.cls.cn/detail/2271706",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3045027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128090356092800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "泰国央行行长：新的黄金规定将于1月30日在皇家公报上公布。",
-          "url": "https://flash.jin10.com/detail/20260128112351908800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "A股收盘：沪指震荡涨0.27%，资源股全线爆发",
-          "url": "https://wallstreetcn.com/livenews/3045356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "德国央行行长称存放在纽约联储的德国黄金储备是安全的",
-          "url": "https://flash.jin10.com/detail/20260128031437905800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "SK海力士股价盘后上涨9%，此前公司公布强劲的四季度财报。",
-          "url": "https://flash.jin10.com/detail/20260128161018525800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "周二（1月27日）纽约尾盘，标普500股指期货最终涨0.44%，道指期货跌0.87%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3045022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "泰国央行行长：未来2至3个月内将出台关于异常现金取款的监管规则。",
-          "url": "https://flash.jin10.com/detail/20260128111700088800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "机构：欧元进一步走强或促使欧央行考虑降息",
-          "url": "https://flash.jin10.com/detail/20260128202500971800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "上证指数收报4151.24点，涨0.27%。 深证成指收报14342.89点，涨0.09%。 创业板指收报3323.56点，跌0.57%。 沪深300收报4717.99点，涨0.26%。 科创50收报1554.80点，跌0.08%。 中证500收报8601.16点，涨0.61%。 中证1000收报8399.79点，涨0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3045352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "泰国央行行长：黄金交易的限制规则将于三月生效。",
-          "url": "https://flash.jin10.com/detail/20260128111414450800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "欧元兑美元突破1.20心理关口，已令欧洲央行决策者们感到不安",
-          "url": "https://flash.jin10.com/detail/20260128182905321800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "欧洲央行执委Cipollone：不确定性可能加剧，影响经济复苏。",
-          "url": "https://wallstreetcn.com/livenews/3045285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：这（欧元相对美元升值及其影响）是指导我们货币政策决策的一个因素。",
-          "url": "https://flash.jin10.com/detail/20260128165552092800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "纳斯达克100指数涨1%，成分股拉姆研究涨6.8%，希捷科技涨6%，西部数据涨5.2%，应用材料涨4.9%，美光科技涨4.5%，英特尔涨3.8%，阿斯麦ADR涨3.3%，Adobe目前跌3.3%，特许通讯跌4.1%，Roper Technologies Inc.跌11.8%。 标普涨超0.5%，道指跌322点跌幅0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3044886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
-          "url": "https://wallstreetcn.com/livenews/3044929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "【A股ETF成交额再创新高 热门宽基ETF异常放量】A股ETF市场交投热度持续飙升，当前ETF成交额达到7525亿元，再度突破纪录，其中沪深300ETF华泰柏瑞（510300）成交额近400亿元，沪深300ETF华夏（510330）成交额达268亿元，上证500ETF（510050）、中证500ETF（510500）均超200亿元。",
-          "url": "https://wallstreetcn.com/livenews/3045347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "野村：日本央行3月加息仍然属于“尾部风险情景”，尽管4月加息的可能性更大。",
-          "url": "https://wallstreetcn.com/livenews/3044884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "欧洲央行执委埃尔德森：我们需要加强银行应对地缘政治冲击和宏观金融不确定性的能力。",
-          "url": "https://flash.jin10.com/detail/20260128180148071800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
-          "url": "https://wallstreetcn.com/livenews/3044883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：正密切关注欧元相对美元升值的情况及其对通胀走低的可能影响。",
-          "url": "https://flash.jin10.com/detail/20260128165457264800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：鉴于美国经济政策难以预测，美元走软是市场信心下降的迹象。",
-          "url": "https://flash.jin10.com/detail/20260128165434940800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3045196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "欧洲央行管委：如果欧元走强，欧洲央行可能需要再次降息",
-          "url": "https://flash.jin10.com/detail/20260128140228562800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：美元兑欧元走弱是人们对美国经济不可预测性信心下降的信号。",
-          "url": "https://flash.jin10.com/detail/20260128165408801800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "泰国央行行长：希望黄金交易规则将对泰铢有良好影响。泰国央行已持续介入以缓解泰铢波动。",
-          "url": "https://wallstreetcn.com/livenews/3045194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "加密货币巨头悄然囤货 CEO豪言Tether将成全球最大黄金央行之一",
-          "url": "https://wallstreetcn.com/livenews/3045338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
-          "url": "https://flash.jin10.com/detail/20260128001605313800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "金十整理：机构前瞻美联储利率决议（二）——暂停降息板上钉钉，就业与增长撑住底盘",
-          "url": "https://flash.jin10.com/detail/20260128135137092800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "德国央行行长：欧洲央行短期内无需调整利率",
-          "url": "https://wallstreetcn.com/livenews/3044902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：欧元汇率没有目标。 美元下跌是美国不可预测性的体现。 欧洲央行密切关注欧元走势及其对通货膨胀的影响。 欧元是将影响政策的一个重要因素。",
-          "url": "https://wallstreetcn.com/livenews/3045441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "A股商业航天概念局部回暖，巨力索具6天4板，再升科技此前涨停，雷科防务、通宇通讯、中超控股、超捷股份、西部材料、烽火通信跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3045332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.48%，报7866.61点。 热门中概股里，虎牙初步收涨19.9%，金山云收涨8.4%，世纪互联涨4.1%，百胜中国涨3.2%，腾讯、百度涨超1%，阿里涨0.7%。 ETF中，CQQQ涨1.2%，KWEB涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3044983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "日本央行12月政策会议纪要：一名委员称，日元、长期利率反映出政策利率过低。 部分委员称日本央行应考虑日元对物价趋势的影响。",
-          "url": "https://wallstreetcn.com/livenews/3045062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "大和证券：日本财政扩张与日元疲软或促使央行再度加息",
-          "url": "https://flash.jin10.com/detail/20260128135041876800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "泰国央行行长：将把线上黄金每日交易上限设定为最高5000万泰铢。",
-          "url": "https://wallstreetcn.com/livenews/3045188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "中微半导、国科微部分芯片涨价",
@@ -1773,8 +1952,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[16时27分 ~ 23时29分]"
         },
         {
           "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
@@ -1881,18 +2060,6 @@
           "time_info": "[00时26分 ~ 05时15分]"
         },
         {
-          "title": "刘强东在家乡打造了一个AI教室",
-          "url": "https://www.toutiao.com/trending/7600224231955988531/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时25分]"
-        },
-        {
           "title": "AI将替代9200万工作岗位",
           "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
           "source": "百度热搜",
@@ -1903,8 +2070,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时29分]"
+        },
+        {
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -1919,6 +2098,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 14时31分]"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时29分]"
         },
         {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
@@ -1966,19 +2171,6 @@
           "time_info": "18时25分"
         },
         {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时26分]"
-        },
-        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -2012,17 +2204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -2084,6 +2265,17 @@
           "time_info": "[02时33分 ~ 03时24分]"
         },
         {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时29分]"
+        },
+        {
           "title": "英伟达员工晒年会最牛年终奖",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E6%99%92%E5%B9%B4%E4%BC%9A%E6%9C%80%E7%89%9B%E5%B9%B4%E7%BB%88%E5%A5%96&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -2140,6 +2332,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "联合声明草案显示，欧盟与越南拟就关键矿物和半导体深化合作达成一致。",
           "url": "https://flash.jin10.com/detail/20260128151024059800",
           "source": "金十数据",
@@ -2171,17 +2374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
@@ -2248,6 +2440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "半导体ETF美股盘初涨1.92%，全球科技股指数ETF涨0.91%，科技行业ETF涨0.84%，领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3045657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -2393,6 +2596,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "存储芯片涨价，千元手机或减产",
+          "url": "https://wallstreetcn.com/livenews/3045644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "恒生科技指数日内涨超1%，华虹半导体涨近4%，阿里健康涨超3%，快手涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3045193",
           "source": "华尔街见闻-快讯",
@@ -2446,12 +2660,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
+          "url": "https://wallstreetcn.com/livenews/3045639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "米兰冬奥会中国体育代表团成立",
@@ -2486,6 +2711,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时23分 ~ 19时21分]"
+        },
+        {
+          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
+          "url": "https://www.cls.cn/detail/2272800",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时29分]"
         },
         {
           "title": "川普说「中国制造了几乎所有风力发电设备，自己却没安装」，真实情况如何？你怎么看？",
@@ -2554,22 +2793,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 23时29分]"
         },
         {
-          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
-          "url": "https://www.cls.cn/detail/2272800",
-          "source": "财联社热门",
+          "title": "英国首相：中国已经崛起",
+          "url": "https://www.toutiao.com/trending/7599743945732276267/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            5,
-            3,
-            2
+            2,
+            4,
+            15,
+            18,
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 22时26分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "中国汽车出口第一目的国易主",
@@ -2626,8 +2867,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[16时27分 ~ 23时29分]"
         },
         {
           "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
@@ -2643,19 +2884,33 @@
           "time_info": "[02时33分 ~ 11时42分]"
         },
         {
-          "title": "英国首相：中国已经崛起",
-          "url": "https://www.toutiao.com/trending/7599743945732276267/",
-          "source": "今日头条",
+          "title": "法媒：中国不再是“低端作坊”",
+          "url": "https://www.douyin.com/hot/2381805",
+          "source": "抖音",
           "ranks": [
+            17,
             2,
-            4,
-            15,
-            18,
-            24
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时29分]"
+        },
+        {
+          "title": "斯塔默于 28 日至 31 日对中国进行正式访问，也是英首相时隔八年再次访华，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999500466661380856",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            15,
+            12,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "中国军号日语海报：日方构成严重威胁",
@@ -2737,34 +2992,6 @@
           "time_info": "[18时24分 ~ 22时26分]"
         },
         {
-          "title": "法媒：中国不再是“低端作坊”",
-          "url": "https://www.douyin.com/hot/2381805",
-          "source": "抖音",
-          "ranks": [
-            17,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时26分]"
-        },
-        {
-          "title": "斯塔默于 28 日至 31 日对中国进行正式访问，也是英首相时隔八年再次访华，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999500466661380856",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            15,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时26分]"
-        },
-        {
           "title": "英国首相：中国已经崛起",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E5%B4%9B%E8%B5%B7",
           "source": "百度热搜",
@@ -2810,6 +3037,19 @@
           "time_info": "[12时41分 ~ 19时21分]"
         },
         {
+          "title": "英国首相称中国已崛起",
+          "url": "https://www.douyin.com/hot/2382110",
+          "source": "抖音",
+          "ranks": [
+            15,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时29分]"
+        },
+        {
           "title": "沃尔沃第四季度营业利润127.7亿瑞典克朗，预估118.5亿瑞典克朗。 第四季度调整后营业利润127.7亿瑞典克朗，预估114亿瑞典克朗。 第四季度销售净额1,238亿瑞典克朗，预估1,217.5亿瑞典克朗。 第四季度调整后运营利润率10.3％，预估9.57％。 沃尔沃预计2026年欧洲重卡市场规模305000辆，此前预计295000辆。 沃尔沃预计2026年北美重卡市场规模265000辆，此前预计250000辆。 沃尔沃仍然预测2026年中国中重型卡车市场760000辆。",
           "url": "https://wallstreetcn.com/livenews/3045324",
           "source": "华尔街见闻-快讯",
@@ -2838,7 +3078,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -2900,6 +3140,20 @@
           "time_info": "[17时31分 ~ 19时21分]"
         },
         {
+          "title": "俄贝加尔湖冰面翻车 中国游客1死4伤",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E5%86%B0%E9%9D%A2%E7%BF%BB%E8%BD%A6+%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A21%E6%AD%BB4%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
+        },
+        {
           "title": "iPhone 在中国为什么这么火？",
           "url": "https://www.zhihu.com/question/35519508",
           "source": "知乎",
@@ -2914,29 +3168,16 @@
           "time_info": "[19时20分 ~ 22时26分]"
         },
         {
-          "title": "英国首相称中国已崛起",
-          "url": "https://www.douyin.com/hot/2382110",
-          "source": "抖音",
+          "title": "中国泡面征服韩星,吧面够权威",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
+          "source": "贴吧",
           "ranks": [
-            15,
-            2
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
-        },
-        {
-          "title": "俄贝加尔湖冰面翻车 中国游客1死4伤",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E5%86%B0%E9%9D%A2%E7%BF%BB%E8%BD%A6+%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A21%E6%AD%BB4%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
         },
         {
           "title": "贝加尔湖车祸75岁中国籍女性死亡",
@@ -2944,11 +3185,25 @@
           "source": "微博",
           "ranks": [
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时29分]"
+        },
+        {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
         },
         {
           "title": "专家：美国会诱使中国“经济自杀”",
@@ -2961,29 +3216,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时24分 ~ 07时19分]"
-        },
-        {
-          "title": "中国泡面征服韩星,吧面够权威",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
-        },
-        {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
         },
         {
           "title": "恒指日内涨幅扩大至2%，恒生科技指数涨1.4%。中国海洋石油、中国宏桥涨超5%，中国石油股份、中国电信、中国联通涨超4%。",
@@ -3088,6 +3320,28 @@
           "time_info": "15时24分"
         },
         {
+          "title": "英国期望和中国“一起干事儿”",
+          "url": "https://www.toutiao.com/trending/7600311902338793491/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "10元中国龙银质纪念币被炒到1万多",
+          "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%B8%AD%E5%9B%BD%E9%BE%99%E9%93%B6%E8%B4%A8%E7%BA%AA%E5%BF%B5%E5%B8%81%E8%A2%AB%E7%82%92%E5%88%B01%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "中国人民银行召开2026年货币金银和安全保卫工作会议",
           "url": "https://wallstreetcn.com/livenews/3045354",
           "source": "华尔街见闻-快讯",
@@ -3108,6 +3362,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "德国 7:1 巴西跟日本 7:0 中国哪个难度更大?",
+          "url": "https://www.zhihu.com/question/666302579",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "星巴克中国一季度营收8.234亿美元，增长11%",
+          "url": "https://wallstreetcn.com/livenews/3045649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "港股地产股拉升，绿城中国涨超8%，万科企业涨超4%，龙湖地产涨超3%。",
@@ -3178,8 +3454,273 @@
       ]
     },
     {
+      "keyword_group": "美债 美联储",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "就在今晚！美联储2026年首份利率决议即将出炉",
+          "url": "https://www.cls.cn/detail/2272439",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时23分 ~ 23时29分]"
+        },
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 17时31分]"
+        },
+        {
+          "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260128070752669800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "巴克莱：目前，欧元已成为主要的“反美元”交易标的；同时，美元在日元走强以及对美联储政策预期的共同压力下，正逼近四年来低点。",
+          "url": "https://flash.jin10.com/detail/20260128221303531800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国财长贝森特：有四位杰出的美联储主席候选人。",
+          "url": "https://flash.jin10.com/detail/20260128231344142800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美联储：FOMC货币政策会议进入第二天。",
+          "url": "https://wallstreetcn.com/livenews/3045634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国财长贝森特：尚未缩小，也未扩大美联储主席人选的范围。",
+          "url": "https://flash.jin10.com/detail/20260128231325927800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国财长贝森特：已在飞机上与美国总统特朗普就美联储主席问题进行了长时间讨论。",
+          "url": "https://flash.jin10.com/detail/20260128231250266800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
+          "url": "https://wallstreetcn.com/livenews/3044973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美联储1月决议声明关注点",
+          "url": "https://wallstreetcn.com/livenews/3045632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "周二（1月27日），美联储隔夜逆回购协议（RRP）使用规模为12.53亿美元（交易对手5家），上个交易日报14.89亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时20分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时33分]"
+        },
+        {
+          "title": "美联储本周维持利率不变的概率为97.2%",
+          "url": "https://flash.jin10.com/detail/20260128060237343800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月27日，美联储决议声明前一天）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3045631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国财长贝森特：（谈美联储）希望他们能保持开放心态。",
+          "url": "https://flash.jin10.com/detail/20260128231146480800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国财长贝森特：（谈美联储）利率由美联储自行决定。",
+          "url": "https://flash.jin10.com/detail/20260128231134430800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260128204309206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "机构：通胀高企支撑美联储谨慎立场 市场将紧盯鲍威尔寻求宽松信号",
+          "url": "https://flash.jin10.com/detail/20260128112507155800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "今夜3点，美联储“新年首秀”来袭",
+          "url": "https://flash.jin10.com/detail/20260128150535453800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十整理：美联储2026年票委轮换——鹰派退场、中性接棒，新一年风向怎么变？",
+          "url": "https://flash.jin10.com/detail/20260128161449834800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.53亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128021719183800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美联储：为期两天的FOMC货币政策会议开幕。",
+          "url": "https://wallstreetcn.com/livenews/3044858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
+          "url": "https://flash.jin10.com/detail/20260128214203738800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -3211,7 +3752,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -3366,6 +3907,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
+          "url": "https://wallstreetcn.com/livenews/3045661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -3427,217 +3979,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美联储",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "就在今晚！美联储2026年首份利率决议即将出炉",
-          "url": "https://www.cls.cn/detail/2272439",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时23分 ~ 22时26分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 17时31分]"
-        },
-        {
-          "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20260128070752669800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "巴克莱：目前，欧元已成为主要的“反美元”交易标的；同时，美元在日元走强以及对美联储政策预期的共同压力下，正逼近四年来低点。",
-          "url": "https://flash.jin10.com/detail/20260128221303531800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "美联储：FOMC货币政策会议进入第二天。",
-          "url": "https://wallstreetcn.com/livenews/3045634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
-          "url": "https://wallstreetcn.com/livenews/3044973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美联储1月决议声明关注点",
-          "url": "https://wallstreetcn.com/livenews/3045632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "周二（1月27日），美联储隔夜逆回购协议（RRP）使用规模为12.53亿美元（交易对手5家），上个交易日报14.89亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时20分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时33分]"
-        },
-        {
-          "title": "美联储本周维持利率不变的概率为97.2%",
-          "url": "https://flash.jin10.com/detail/20260128060237343800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（1月27日，美联储决议声明前一天）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3045631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
-          "url": "https://flash.jin10.com/detail/20260128204309206800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "机构：通胀高企支撑美联储谨慎立场 市场将紧盯鲍威尔寻求宽松信号",
-          "url": "https://flash.jin10.com/detail/20260128112507155800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "今夜3点，美联储“新年首秀”来袭",
-          "url": "https://flash.jin10.com/detail/20260128150535453800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "金十整理：美联储2026年票委轮换——鹰派退场、中性接棒，新一年风向怎么变？",
-          "url": "https://flash.jin10.com/detail/20260128161449834800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.53亿美元。",
-          "url": "https://flash.jin10.com/detail/20260128021719183800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美联储：为期两天的FOMC货币政策会议开幕。",
-          "url": "https://wallstreetcn.com/livenews/3044858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
-          "url": "https://flash.jin10.com/detail/20260128214203738800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -3645,7 +3987,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -3656,8 +3998,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[14时31分 ~ 23时29分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -3687,19 +4029,6 @@
           "time_info": "[02时33分 ~ 18时25分]"
         },
         {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 17时31分]"
-        },
-        {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -3711,8 +4040,21 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 23时29分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 17时31分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -3736,11 +4078,23 @@
           "ranks": [
             6,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
+        },
+        {
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -3760,11 +4114,12 @@
           "ranks": [
             10,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时29分]"
         },
         {
           "title": "专家谈国际金价加速上涨的背后逻辑",
@@ -3827,7 +4182,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美元指数日内跌幅达1.0%，报96.0082。",
@@ -3852,6 +4207,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时42分 ~ 15时24分]"
+        },
+        {
+          "title": "美元指数DXY短线拉升近40点，最高至96.58；美元兑日元USD/JPY短线上扬90点，报153.63。",
+          "url": "https://flash.jin10.com/detail/20260128231336447800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美元指数跌至近4年来低点",
@@ -3980,8 +4346,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时23分 ~ 23时29分]"
         },
         {
           "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
@@ -3990,7 +4356,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
