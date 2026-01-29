@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:45:14.725061+08:00",
-  "total_titles_processed": 2147,
-  "failed_sources": [
-    "wallstreetcn-hot",
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-01-29T23:32:42.882114+08:00",
+  "total_titles_processed": 2243,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 114,
+      "match_count": 120,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -68,11 +65,12 @@
             3,
             26,
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 23时32分]"
         },
         {
           "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
@@ -111,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[12时05分 ~ 23时32分]"
         },
         {
           "title": "美联储如期暂停降息，暗示不急行动，但联储主席人选沃勒支持再降25基点",
@@ -125,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时05分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[12时05分 ~ 23时32分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -242,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.1%，成分股Atlassian跌11.5%，微软跌11%，Workday跌9.5%，财捷跌7%，Strategy跌超5%。 Diamond Energy目前涨3.8%表现第四，康卡斯特、霍尼韦尔涨超4%，Meta涨7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3046563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "加拿大央行行长Tiff Macklem：美联储（独立性面临的）威胁对加拿大构成风险，给加拿大带来不确定性。 如果美联储丧失独立性，我们所有人都会受到影响。",
@@ -704,6 +713,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "纳指跌幅扩大至1%，纳斯达克100指数跌超0.7%，半导体指数涨幅收窄至0.2%。 标普跌0.4%，道指跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3046553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：贸易多元化只能部分抵消美国关税带来的影响。",
           "url": "https://flash.jin10.com/detail/20260128235351811800",
           "source": "金十数据",
@@ -790,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跳空高开之后，涨幅一度扩大至将近2%，热门中概股房多多涨13%，蔚来涨8.4%，阿里涨2.8%，百度涨2.5%，小鹏涨2.2%。 ETF中，ASHR涨1.29%，KWEB涨1.16%，ASHS跌0.36%，CQQQ跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3046550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "加拿大央行高级副行长卡罗琳·罗杰斯：今年是抵押贷款续签的关键年，我们预计续签贷款的还款额将增加。",
@@ -1177,6 +1208,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "标普500指数低开0.29点，跌幅0.00%，报6977.74点； 道琼斯工业平均指数低开77.33点，跌幅0.16%，报48938.27点； 纳斯达克综合指数低开26.53点，跌幅0.11%，报23830.92点。",
+          "url": "https://wallstreetcn.com/livenews/3046539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "日本央行将购买400亿日元的通胀挂钩日本政府债券，上一次操作为500亿日元。",
           "url": "https://flash.jin10.com/detail/20260129091208362800",
           "source": "金十数据",
@@ -1287,6 +1329,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "欧洲央行执委奇波洛内：在支付领域实现自力更生可增强欧洲在与美国谈判中的立场。",
+          "url": "https://flash.jin10.com/detail/20260129225224981800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普表示鲍威尔没有理由维持高利率 称拒绝降息损害国家安全",
           "url": "https://wallstreetcn.com/livenews/3046487",
           "source": "华尔街见闻-快讯",
@@ -1296,12 +1349,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "欧洲央行执委奇波洛内：需要建立数字欧元等零售支付基础设施，以保持市场秩序。",
+          "url": "https://flash.jin10.com/detail/20260129225156826800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 109,
+      "match_count": 112,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -1327,8 +1391,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 22时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 23时32分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -1338,8 +1402,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时28分 ~ 22时45分]"
+          "appearance_count": 7,
+          "time_info": "[19时28分 ~ 23时32分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -1429,8 +1493,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时33分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[18时33分 ~ 23时32分]"
         },
         {
           "title": "阿里平头哥新款AI芯片正式亮相！",
@@ -1651,7 +1715,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1700,6 +1764,18 @@
           "time_info": "07时23分"
         },
         {
+          "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
+          "url": "https://wallstreetcn.com/articles/3764424",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 23时32分]"
+        },
+        {
           "title": "苹果CEO库克：明尼阿波利斯事件令我心碎，已与特朗普沟通",
           "url": "https://wallstreetcn.com/livenews/3045721",
           "source": "华尔街见闻-快讯",
@@ -1710,18 +1786,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 02时33分]"
-        },
-        {
-          "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
-          "url": "https://wallstreetcn.com/articles/3764424",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 22时41分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -1777,11 +1841,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -1794,17 +1871,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时40分 ~ 14时41分]"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -1853,6 +1919,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时23分]"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
         },
         {
           "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
@@ -2010,17 +2087,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
-          "url": "https://wallstreetcn.com/articles/3764497",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
           "url": "https://flash.jin10.com/detail/20260129064449017800",
           "source": "金十数据",
@@ -2074,6 +2140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "摩根大通：将特斯拉(TSLA.O)目标价从150美元下调至145美元。",
+          "url": "https://flash.jin10.com/detail/20260129230529188800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -2472,6 +2549,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：公司正在对人工智能芯片进行“大规模投资”。",
           "url": "https://flash.jin10.com/detail/20260129063537110800",
           "source": "金十数据",
@@ -2481,6 +2569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "瑞银集团：将特斯拉(TSLA.O)目标股价从307美元上调至352美元。",
+          "url": "https://flash.jin10.com/detail/20260129225950217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美联储主席鲍威尔新闻发布会开场白：美国经济在去年按稳健的速度扩张。 进入2026年的美国经济根基是稳固的。 失业率在一定程度上出现企稳迹象。 在经历了逐步走软之后，劳动力市场可能趋于稳定。 招聘、职位空缺、薪资增速几乎都没有变化。 消费者开支一直具有韧性。 通胀偏高，在一定程度上体现出关税推高商品价格的影响。 长期通胀预期与目标保持一致。 企业投资继续扩大。 政府关门可能不利于四季度经济，但形势将会逆转。",
@@ -2562,8 +2661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 22时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 23时32分]"
         },
         {
           "title": "就在今晚！美联储2026年首份利率决议即将出炉",
@@ -2590,8 +2689,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 22时45分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 23时32分]"
         },
         {
           "title": "谁会是下任美联储主席",
@@ -2607,8 +2706,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时40分 ~ 22时45分]"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 23时32分]"
         },
         {
           "title": "一图解读美联储1月决议：如期“按兵不动”，鲍威尔排除加息可能性！",
@@ -3526,7 +3625,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "让中国这么干？英首相不接茬",
@@ -3536,8 +3635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时34分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[16时34分 ~ 23时32分]"
         },
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -3562,8 +3661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时05分 ~ 22时45分]"
+          "appearance_count": 16,
+          "time_info": "[12时05分 ~ 23时32分]"
         },
         {
           "title": "前瞻｜英国首相时隔8年访华：搁置争议，要从中国带回去“亮眼成果”",
@@ -3588,6 +3687,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时32分 ~ 14时41分]"
+        },
+        {
+          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
+          "url": "https://news.ifeng.com/c/8qJI44zZZ01",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时28分 ~ 23时32分]"
         },
         {
           "title": "英反对党领袖批评首相访华，专家：不能对中国说“不”",
@@ -3615,6 +3725,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            1,
+            2,
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时38分 ~ 23时32分]"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
@@ -3646,17 +3771,6 @@
           "time_info": "[13时40分 ~ 20时48分]"
         },
         {
-          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
-          "url": "https://news.ifeng.com/c/8qJI44zZZ01",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时28分 ~ 22时45分]"
-        },
-        {
           "title": "中国奇谭2探寻传闻的大鸟",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8E%A2%E5%AF%BB%E4%BC%A0%E9%97%BB%E7%9A%84%E5%A4%A7%E9%B8%9F",
           "source": "bilibili 热搜",
@@ -3674,21 +3788,6 @@
           "time_info": "[12时05分 ~ 22时45分]"
         },
         {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            1,
-            2,
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时38分 ~ 22时45分]"
-        },
-        {
           "title": "10元中国龙银质纪念币被炒到1万多",
           "url": "https://www.baidu.com/s?wd=10%E5%85%83%E4%B8%AD%E5%9B%BD%E9%BE%99%E9%93%B6%E8%B4%A8%E7%BA%AA%E5%BF%B5%E5%B8%81%E8%A2%AB%E7%82%92%E5%88%B01%E4%B8%87%E5%A4%9A",
           "source": "百度热搜",
@@ -3704,20 +3803,15 @@
           "time_info": "[00时32分 ~ 14时41分]"
         },
         {
-          "title": "外籍女性在中国从事婚姻诈骗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
-          "source": "百度热搜",
+          "title": "菲海警发言人抹黑中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8qJJMkbMazV",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            2,
-            14,
-            19,
-            16,
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 22时45分]"
+          "appearance_count": 10,
+          "time_info": "[17时38分 ~ 23时32分]"
         },
         {
           "title": "“中国牌”晶体再获重大突破",
@@ -3751,6 +3845,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时38分 ~ 20时48分]"
+        },
+        {
+          "title": "外籍女性在中国从事婚姻诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2,
+            14,
+            19,
+            16,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[13时40分 ~ 23时32分]"
         },
         {
           "title": "老外春节硬核挑战穿越中国",
@@ -3814,6 +3925,33 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "热气腾腾中国年",
+          "url": "https://www.douyin.com/hot/2383071",
+          "source": "抖音",
+          "ranks": [
+            14,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时32分]"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时38分 ~ 23时32分]"
+        },
+        {
           "title": "中国泡面征服韩星,吧面够权威",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349843&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%BE%81%E6%9C%8D%E9%9F%A9%E6%98%9F%2C%E5%90%A7%E9%9D%A2%E5%A4%9F%E6%9D%83%E5%A8%81",
           "source": "贴吧",
@@ -3856,8 +3994,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时34分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[16时34分 ~ 23时32分]"
         },
         {
           "title": "英国首相：中国已经崛起",
@@ -3885,43 +4023,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "菲海警发言人抹黑中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8qJJMkbMazV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时38分 ~ 22时45分]"
-        },
-        {
-          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
-          "url": "https://www.zhihu.com/question/1999919764089303301",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时38分 ~ 22时45分]"
-        },
-        {
-          "title": "热气腾腾中国年",
-          "url": "https://www.douyin.com/hot/2383071",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 22时45分]"
         },
         {
           "title": "中国准备太空采矿",
@@ -3983,6 +4084,17 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "中国电视剧年度盛典",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时32分]"
+        },
+        {
           "title": "明家涉案100余亿14名中国人死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E6%B6%89%E6%A1%88100%E4%BD%99%E4%BA%BF14%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -4010,17 +4122,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 04时25分]"
-        },
-        {
-          "title": "中国电视剧年度盛典",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时45分]"
         },
         {
           "title": "中国准备太空采矿",
@@ -4061,6 +4162,19 @@
           "time_info": "[00时32分 ~ 09时44分]"
         },
         {
+          "title": "国防部回应“击沉中国军舰”动画",
+          "url": "https://www.douyin.com/hot/2383131",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 23时32分]"
+        },
+        {
           "title": "中国游客贝加尔湖遇难 中领馆提醒",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E9%81%87%E9%9A%BE+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
           "source": "百度热搜",
@@ -4098,18 +4212,6 @@
           "time_info": "[13时40分 ~ 15时38分]"
         },
         {
-          "title": "国防部回应“击沉中国军舰”动画",
-          "url": "https://www.douyin.com/hot/2383131",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 22时45分]"
-        },
-        {
           "title": "菲议员鼓噪将中国外交官列为“不受欢迎的人”，中方发声",
           "url": "https://news.ifeng.com/c/8qIil6znzWr",
           "source": "凤凰网",
@@ -4120,6 +4222,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时44分 ~ 13时41分]"
+        },
+        {
+          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
         },
         {
           "title": "iPhone 在中国为什么这么火？",
@@ -4145,17 +4259,6 @@
           "time_info": "[13时40分 ~ 14时41分]"
         },
         {
-          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
-        },
-        {
           "title": "中国健儿出征米兰",
           "url": "https://www.douyin.com/hot/2383063",
           "source": "抖音",
@@ -4165,6 +4268,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时33分 ~ 19时29分]"
+        },
+        {
+          "title": "芬兰总理发视频记录中国行",
+          "url": "https://www.toutiao.com/trending/7600230617510412338/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时41分 ~ 23时32分]"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -4235,17 +4350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时28分 ~ 19时29分]"
-        },
-        {
-          "title": "芬兰总理发视频记录中国行",
-          "url": "https://www.toutiao.com/trending/7600230617510412338/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时45分]"
         },
         {
           "title": "国防部回应所谓击沉中国军舰动画",
@@ -4458,6 +4562,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "中国第四艘航母建造是否已取得实质进展？国防部回应",
+          "url": "https://wallstreetcn.com/livenews/3046541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "中国人民银行行长潘功胜会见高盛集团董事长兼首席执行官苏德巍",
           "url": "https://wallstreetcn.com/livenews/3046398",
           "source": "华尔街见闻-快讯",
@@ -4527,7 +4642,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -4645,8 +4760,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时38分 ~ 22时45分]"
+          "appearance_count": 10,
+          "time_info": "[17时38分 ~ 23时32分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -4676,6 +4791,17 @@
           "time_info": "[09时44分 ~ 15时38分]"
         },
         {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
+        },
+        {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
           "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
@@ -4689,17 +4815,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时05分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -4750,6 +4865,17 @@
           "time_info": "[01时30分 ~ 02时33分]"
         },
         {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时41分 ~ 23时32分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -4760,17 +4886,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 12时05分]"
-        },
-        {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时45分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -4897,6 +5012,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普被曝正考虑对伊朗发动重大打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E9%87%8D%E5%A4%A7%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -5007,6 +5133,17 @@
           "time_info": "01时30分"
         },
         {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
           "url": "https://flash.jin10.com/detail/20260129001106475800",
           "source": "金十数据",
@@ -5024,7 +5161,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -5076,7 +5213,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
@@ -5096,7 +5233,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -5186,11 +5323,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -5266,7 +5404,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -5337,6 +5475,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
           "url": "https://wallstreetcn.com/livenews/3045661",
           "source": "华尔街见闻-快讯",
@@ -5351,7 +5500,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -5417,8 +5566,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 22时45分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 23时32分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -5431,6 +5580,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时44分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时28分 ~ 23时32分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -5447,19 +5610,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时05分 ~ 18时33分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时28分 ~ 22时45分]"
         },
         {
           "title": "金价波动",
@@ -5487,6 +5637,19 @@
           "time_info": "15时38分"
         },
         {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
+        },
+        {
           "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
           "url": "https://wallstreetcn.com/livenews/3046433",
           "source": "华尔街见闻-快讯",
@@ -5497,18 +5660,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时29分 ~ 20时48分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -5546,6 +5697,17 @@
           "time_info": "[07时23分 ~ 09时44分]"
         },
         {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时32分]"
+        },
+        {
           "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
           "url": "https://wallstreetcn.com/livenews/3046415",
           "source": "华尔街见闻-快讯",
@@ -5555,6 +5717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "渣打：金价任何回调都是买入机会",
@@ -5577,17 +5750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        },
-        {
-          "title": "金价暴涨对普通人的影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         }
       ]
     },
@@ -5657,7 +5819,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
@@ -5719,8 +5881,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时38分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[17时38分 ~ 23时32分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -5745,11 +5907,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时28分 ~ 22时45分]"
+          "appearance_count": 8,
+          "time_info": "[19时28分 ~ 23时32分]"
         }
       ]
     },
@@ -5765,8 +5928,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时32分]"
         }
       ]
     }
