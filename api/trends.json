@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:44:18.250861+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-01-30T14:43:25.259625+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -43,11 +43,12 @@
             3,
             5,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
@@ -62,8 +63,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "【焦点复盘】科创50跌超3%，半导体等硬科技方向低迷，贵州茅台大涨近9%收复1400元大关",
@@ -89,26 +101,17 @@
           "time_info": "[00时39分 ~ 07时23分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
-        },
-        {
-          "title": "我的马耶这春晚AI做的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -185,7 +188,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -234,19 +237,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
-        },
-        {
           "title": "苹果被问及芯片（供应）短缺问题会持续多久，CEO库克称：当即没能满足需求时，很难预估需求。 苹果对这个问题有内部估算，但不打算披露这些信息。",
           "url": "https://wallstreetcn.com/livenews/3046737",
           "source": "华尔街见闻-快讯",
@@ -256,6 +246,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 14时43分]"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -346,16 +361,16 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            14
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -381,17 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时26分]"
-        },
-        {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "iPhone创纪录季度助力苹果营收远超预期",
@@ -461,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "Melius研究：将苹果(AAPL.O)目标价从345美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20260130142712436800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
@@ -573,6 +588,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
           "url": "https://flash.jin10.com/detail/20260130053408045800",
           "source": "金十数据",
@@ -634,7 +660,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -648,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "AI公司为何盯上游戏",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%8F%B8%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q1可穿戴设备收入为114.93亿美元。",
@@ -736,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "日媒：苹果今年将优先发布高端iPhone机型",
+          "url": "https://flash.jin10.com/detail/20260130140715670800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "苹果CEO库克在分析师电话会上兜售美国投资。",
@@ -972,7 +1020,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -1001,6 +1049,17 @@
         },
         {
           "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
@@ -1009,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
@@ -1022,15 +1092,26 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
           "source": "凤凰网",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
+          "time_info": "[12时06分 ~ 14时43分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及联邦执法人员枪杀亚历克斯·普雷蒂事件）美国移民和海关执法局官员当时“冷静而沉着”。",
+          "url": "https://flash.jin10.com/detail/20260130142933819800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
@@ -1043,17 +1124,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 12时07分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -1106,17 +1176,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 03时28分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 13时44分]"
         },
         {
           "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
@@ -1444,7 +1503,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -1510,7 +1569,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -1554,7 +1613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -1645,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
@@ -1815,7 +1885,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "让中国这么干？英首相不接茬",
@@ -1840,8 +1910,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
@@ -1899,6 +1969,20 @@
           "time_info": "[02时38分 ~ 09时44分]"
         },
         {
+          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 14时43分]"
+        },
+        {
           "title": "国际首次实现！中国团队新成果，或将人造卫星寿命延长到30年",
           "url": "https://www.cls.cn/detail/2274616",
           "source": "财联社热门",
@@ -1913,17 +1997,16 @@
           "time_info": "[01时34分 ~ 09时44分]"
         },
         {
-          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
-          "source": "澎湃新闻",
+          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
+          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            7,
-            6
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "中国金币集团发布风险提示",
@@ -2008,18 +2091,6 @@
           "time_info": "[00时39分 ~ 05时23分]"
         },
         {
-          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
-          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
-        },
-        {
           "title": "金铜暴涨，中国矿企赚麻了？",
           "url": "https://wallstreetcn.com/articles/3764455",
           "source": "华尔街见闻",
@@ -2030,8 +2101,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时23分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[05时23分 ~ 14时43分]"
+        },
+        {
+          "title": "中国公民在日本遭催泪瓦斯袭击",
+          "url": "https://www.toutiao.com/trending/7601005249691799091/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
         },
         {
           "title": "该亮剑就亮剑 中国这次干得漂亮",
@@ -2040,33 +2123,48 @@
           "ranks": [
             8,
             4,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
+        },
+        {
+          "title": "国防部表示所谓「击沉」中国军舰动画纯属自嗨，发言人用英文说「You wish」，那些自嗨国家听懂了吗？",
+          "url": "https://www.zhihu.com/question/2000246601516590129",
+          "source": "知乎",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
-          "title": "中国公民在日本遭催泪瓦斯袭击",
-          "url": "https://www.toutiao.com/trending/7601005249691799091/",
-          "source": "今日头条",
+          "title": "每天一个奇吧—中国历史吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349912&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%90%A7",
+          "source": "贴吧",
           "ranks": [
-            4
+            8,
+            13,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
-          "title": "中国五矿集团、中国国新等成立湖南金属矿产公司",
-          "url": "https://wallstreetcn.com/livenews/3047010",
+          "title": "中国信通院：2025年12月，国内市场手机出货量2447.3万部，同比下降29.1%",
+          "url": "https://wallstreetcn.com/livenews/3047045",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时43分"
         },
         {
           "title": "2025年中国投资对法国就业贡献位居前五",
@@ -2091,28 +2189,15 @@
           "time_info": "09时44分"
         },
         {
-          "title": "国防部表示所谓「击沉」中国军舰动画纯属自嗨，发言人用英文说「You wish」，那些自嗨国家听懂了吗？",
-          "url": "https://www.zhihu.com/question/2000246601516590129",
+          "title": "《中国奇谭 2》讨论度不高，为何爆款续作「遇冷」？",
+          "url": "https://www.zhihu.com/question/1999732403581773217",
           "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
-        },
-        {
-          "title": "每天一个奇吧—中国历史吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349912&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
+          "time_info": "[12时06分 ~ 14时43分]"
         },
         {
           "title": "增加8000亿元！中国人寿投资服务实体经济余额达5.4万亿元",
@@ -2127,15 +2212,16 @@
           "time_info": "[12时07分 ~ 13时44分]"
         },
         {
-          "title": "《中国奇谭 2》讨论度不高，为何爆款续作「遇冷」？",
-          "url": "https://www.zhihu.com/question/1999732403581773217",
-          "source": "知乎",
+          "title": "中国五矿集团、中国国新等成立湖南金属矿产公司",
+          "url": "https://wallstreetcn.com/livenews/3047010",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "中国电视剧年度盛典",
@@ -2164,6 +2250,17 @@
           "time_info": "[12时06分 ~ 13时44分]"
         },
         {
+          "title": "中国海警2025年巡航钓鱼岛357天",
+          "url": "https://www.toutiao.com/trending/7600966040113496090/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
+        },
+        {
           "title": "中国第四艘航母建造是否已取得实质进展？国防部回应",
           "url": "https://www.cls.cn/detail/2274640",
           "source": "财联社热门",
@@ -2174,17 +2271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 12时07分]"
-        },
-        {
-          "title": "中国海警2025年巡航钓鱼岛357天",
-          "url": "https://www.toutiao.com/trending/7600966040113496090/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "“这行情你可能一辈子遇不到”！大宗商品轮番上涨，中国投资者把铜“买飞了”",
@@ -2254,6 +2340,28 @@
           "time_info": "12时07分"
         },
         {
+          "title": "英国首相斯塔默抵达上海继续中国之行",
+          "url": "https://wallstreetcn.com/livenews/3047030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "外国人为什么恐惧中国制造",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%81%90%E6%83%A7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "伦敦证交所与中国工商银行签署备忘录 在市场、人民币等领域深化合作",
           "url": "https://wallstreetcn.com/livenews/3046938",
           "source": "华尔街见闻-快讯",
@@ -2263,6 +2371,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "中国公民东京街头遭催泪瓦斯袭击被劫，我使馆再次提醒近期避免赴日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32497398",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "中国驻美大使：人文交流助力中美构建新时期正确相处之道",
+          "url": "https://wallstreetcn.com/livenews/3047014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.26%，上一个交易日夜盘收跌0.21%。",
@@ -2290,7 +2420,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -2342,26 +2472,16 @@
           "time_info": "07时23分"
         },
         {
-          "title": "A股液冷服务器概念震荡走强，科创新源20cm涨停，淳中科技、英维克、捷邦科技、飞荣达、飞龙股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3047004",
-          "source": "华尔街见闻-快讯",
+          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3764538",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "A股机器人概念股午后震荡拉升，天奇股份、百达精工涨停，欧科亿涨超10%，华依科技、卡倍亿、绿的谐波跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3047001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
         },
         {
           "title": "美国至1月30日当周外国央行持有美国国债 199.5亿美元，前值98.63亿美元。",
@@ -2387,15 +2507,28 @@
           "time_info": "[12时07分 ~ 13时44分]"
         },
         {
-          "title": "创业板V型反弹涨0.8%，算力硬件逆势反弹，有色金属集体大跌，黄金股跌停，恒科指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3764538",
-          "source": "华尔街见闻",
+          "title": "A股液冷服务器概念震荡走强，科创新源20cm涨停，淳中科技、英维克、捷邦科技、飞荣达、飞龙股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 14时43分]"
+        },
+        {
+          "title": "A股机器人概念股午后震荡拉升，天奇股份、百达精工涨停，欧科亿涨超10%，华依科技、卡倍亿、绿的谐波跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "周四（1月29日））纽约尾盘，标普500股指期货最终跌0.20%，道指期货跌0.07%，纳斯达克100股指期货跌0.60%。 罗素2000股指期货跌0.18%。",
@@ -2449,7 +2582,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2482,7 +2615,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2493,7 +2626,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2531,6 +2664,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "A股化工板块午后回暖，红宝丽9天4板，氯碱化工、沧州大化、三友化工、中泰化学、红四方跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3047033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "发布财报后，苹果(AAPL.O)股价在盘后交易中上涨2%。",
           "url": "https://flash.jin10.com/detail/20260130053138970800",
           "source": "金十数据",
@@ -2551,6 +2695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "瑞穗银行：若沃什当选美联储主席 市场将感受到持续的降息压力",
+          "url": "https://flash.jin10.com/detail/20260130140800863800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "新技术、新产品激发新动能，科创板公司“透底”业绩增长密码",
@@ -2592,7 +2747,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2606,6 +2761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "南非央行：南非货币政策委员会委员克里斯·洛瓦尔德将于3月1日退休。",
+          "url": "https://flash.jin10.com/detail/20260130140033756800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "马来西亚央行：将在外部风险下确保外汇市场有序运行。",
@@ -2625,7 +2791,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2699,7 +2865,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -2730,6 +2896,19 @@
           "time_info": "[00时39分 ~ 09时44分]"
         },
         {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 14时43分]"
+        },
+        {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
           "url": "https://wallstreetcn.com/articles/3764534",
           "source": "华尔街见闻",
@@ -2737,20 +2916,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时43分]"
         },
         {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
           "ranks": [
             7,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "分析师：沃什有望接任美联储主席报道影响市场走势 金银价格纷纷下跌",
@@ -2770,21 +2949,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
         },
         {
           "title": "周四（1月29日）），美联储隔夜逆回购协议（RRP）使用规模为28.52亿美元（交易对手4家），上个交易日报11.03亿美元。",
@@ -2861,6 +3028,17 @@
           "time_info": "[12时06分 ~ 12时07分]"
         },
         {
+          "title": "最能体现沃什政策主张的一场对话：通胀是美联储的一种选择",
+          "url": "https://wallstreetcn.com/articles/3761461",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "特朗普：下一任美联储主席人选“不会让人感到太意外”",
           "url": "https://flash.jin10.com/detail/20260130090513028800",
           "source": "金十数据",
@@ -2922,7 +3100,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -2974,7 +3152,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -2987,8 +3165,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "金价",
@@ -3028,8 +3206,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -3077,11 +3255,26 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
+        },
+        {
+          "title": "今日金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时43分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -3095,29 +3288,28 @@
           "time_info": "07时23分"
         },
         {
-          "title": "今日金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时44分]"
-        },
-        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 14时43分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -3203,8 +3395,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时43分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
