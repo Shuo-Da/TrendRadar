@@ -1,11 +1,332 @@
 {
-  "generated_at": "2026-02-05T05:30:17.522896+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-02-05T06:23:30.534837+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 05时30分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "事关半导体材料！两款国产设备，顺利交付",
+          "url": "https://www.cls.cn/detail/2280739",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
+          "url": "https://wallstreetcn.com/articles/3764960",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
+          "url": "https://wallstreetcn.com/articles/3764903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 06时23分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
+          "url": "https://wallstreetcn.com/livenews/3050122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
+          "url": "https://flash.jin10.com/detail/20260205055402487800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
+          "url": "https://flash.jin10.com/detail/20260205054238420800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3050119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
+          "url": "https://wallstreetcn.com/livenews/3050029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时43分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价跌至逾两个月低点，最新下跌4.3%。",
+          "url": "https://flash.jin10.com/detail/20260205021009474800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时37分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
+          "url": "https://flash.jin10.com/detail/20260205020639695800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时37分]"
+        },
+        {
+          "title": "比亚迪德国市场销量暴增1,000%，进一步拉开与特斯拉差距",
+          "url": "https://wallstreetcn.com/livenews/3050068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时30分]"
+        },
+        {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "德国财政部长：AI中心将增强数字主权",
+          "url": "https://wallstreetcn.com/livenews/3050094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
+          "url": "https://wallstreetcn.com/livenews/3050117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260205000501888800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
+          "url": "https://flash.jin10.com/detail/20260205000132711800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3049978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3049977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +347,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -37,8 +358,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -46,11 +367,25 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 06时23分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -61,20 +396,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 05时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -234,6 +568,18 @@
           "time_info": "[01时43分 ~ 02时43分]"
         },
         {
+          "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
+          "url": "https://wallstreetcn.com/livenews/3050090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
           "url": "https://flash.jin10.com/detail/20260205033722491800",
           "source": "金十数据",
@@ -243,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
@@ -267,17 +624,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
-          "url": "https://wallstreetcn.com/livenews/3050090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -287,244 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "事关半导体材料！两款国产设备，顺利交付",
-          "url": "https://www.cls.cn/detail/2280739",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
-          "url": "https://wallstreetcn.com/articles/3764960",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "国民党代表团参访清华大学，了解大陆AI技术",
-          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
-          "url": "https://wallstreetcn.com/articles/3764903",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 05时30分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260205050807413800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
-          "url": "https://wallstreetcn.com/livenews/3050029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时43分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价跌至逾两个月低点，最新下跌4.3%。",
-          "url": "https://flash.jin10.com/detail/20260205021009474800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时37分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价跌至一个多月来的低点，最新下跌3.8%。",
-          "url": "https://flash.jin10.com/detail/20260205020639695800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时37分]"
-        },
-        {
-          "title": "比亚迪德国市场销量暴增1,000%，进一步拉开与特斯拉差距",
-          "url": "https://wallstreetcn.com/livenews/3050068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时30分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)股价跌幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20260205000501888800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
-          "url": "https://flash.jin10.com/detail/20260205000132711800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "德国财政部长：AI中心将增强数字主权",
-          "url": "https://wallstreetcn.com/livenews/3050094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
-          "url": "https://wallstreetcn.com/livenews/3049978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3049977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260205013400830800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
         }
       ]
     },
@@ -540,8 +648,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
@@ -551,8 +659,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "克宫：发展与中国的关系是俄罗斯外交政策优先事项",
@@ -562,8 +670,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "欧委会对中国风电企业启动深入调查 商务部发声",
@@ -574,8 +682,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "挪威外长：欢迎中国来北极",
@@ -585,8 +693,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "外国的人情世故也像中国这样严重吗？",
@@ -596,8 +704,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "外交部回应欧盟调查中国风电巨头",
@@ -609,8 +717,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
@@ -621,8 +729,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "中国人把铁路修到了撒哈拉",
@@ -634,11 +742,12 @@
             18,
             10,
             8,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "《哈利波特》马尔福成中国马年吉祥物",
@@ -649,11 +758,12 @@
             12,
             9,
             15,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "中国城市GDP20强出炉",
@@ -665,11 +775,12 @@
             22,
             10,
             20,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "立陶宛想修复与中国的关系",
@@ -680,11 +791,12 @@
             29,
             17,
             22,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "“2025年中国考古新成果”揭晓，6个项目入选",
@@ -711,6 +823,20 @@
           "time_info": "[00时41分 ~ 01时43分]"
         },
         {
+          "title": "中国稀土龙头企业遭澳企单方面解约",
+          "url": "https://www.toutiao.com/trending/7602420361765994532/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 06时23分]"
+        },
+        {
           "title": "中国第一个猪营养学博士邵根伙病逝",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%8C%AA%E8%90%A5%E5%85%BB%E5%AD%A6%E5%8D%9A%E5%A3%AB%E9%82%B5%E6%A0%B9%E4%BC%99%E7%97%85%E9%80%9D",
           "source": "百度热搜",
@@ -723,19 +849,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 04时30分]"
-        },
-        {
-          "title": "中国稀土龙头企业遭澳企单方面解约",
-          "url": "https://www.toutiao.com/trending/7602420361765994532/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 05时30分]"
         },
         {
           "title": "开车去中国东极追日出",
@@ -753,11 +866,12 @@
           "url": "https://www.toutiao.com/trending/7602953765615832617/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 06时23分]"
         },
         {
           "title": "中国第一个“养猪博士”邵根伙去世",
@@ -774,7 +888,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -784,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -799,8 +913,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         },
         {
           "title": "任天堂财报显示 NS2 销量达 1737 万台，你认为这「打脸」了不看好任天堂的观点吗？",
@@ -824,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)盘后涨幅扩大至3.3%，此前在财报公布后一度跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260205053752388800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -862,13 +987,25 @@
           "time_info": "[02时43分 ~ 03时37分]"
         },
         {
+          "title": "高通(QCOM.O)盘后财报发布后下跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260205050153659800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
           "url": "https://wallstreetcn.com/livenews/3050099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -879,7 +1016,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -895,17 +1032,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "高通(QCOM.O)盘后财报发布后下跌1.6%。",
-          "url": "https://flash.jin10.com/detail/20260205050153659800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
           "title": "WTI原油日内涨幅达2.5%，刷新日高至64.83美元/桶。 纳斯达克综合指数跌幅扩大至2%，AMD跌超17%。标普500指数跌约0.9%。",
           "url": "https://wallstreetcn.com/livenews/3050039",
           "source": "华尔街见闻-快讯",
@@ -915,6 +1041,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "标普500指数收跌35.09点，跌幅0.51%，报6882.72点。 道琼斯工业平均指数收涨260.31点，涨幅0.53%，报49501.30点。 纳斯达克综合指数（纳指）收跌350.606点，跌幅1.51%，报22904.579点。 纳斯达克100指数收跌447.382点，跌幅1.77%，报24891.238点。",
+          "url": "https://wallstreetcn.com/livenews/3050097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -941,136 +1089,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
-        },
-        {
-          "title": "Arm(ARM.O)美股盘后跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260205051229076800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
-          "url": "https://wallstreetcn.com/livenews/3050002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050532468800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
-          "url": "https://wallstreetcn.com/livenews/3050105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050531884800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "美股收盘：纳指跌1.5% AMD大跌17%",
-          "url": "https://flash.jin10.com/detail/20260205050057305800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260205013955939800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260205013948070800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美联储",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "周三（2月4日），美联储隔夜逆回购协议（RRP）使用规模为24.14亿美元（交易对手18家），上个交易日报17.85亿美元。",
@@ -1135,6 +1155,39 @@
           "time_info": "[02时43分 ~ 03时37分]"
         },
         {
+          "title": "美联储宣布维持大型银行资本要求至2027年",
+          "url": "https://flash.jin10.com/detail/20260205053517631800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "美联储决定在考虑压力测试调整的同时，将大型银行压力资本缓冲要求维持至2027年不变。",
+          "url": "https://flash.jin10.com/detail/20260205053121460800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "美联储理事会投票，决定在压力测试中针对大型银行维持现存资本缓冲方案不变。",
+          "url": "https://wallstreetcn.com/livenews/3050114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -1174,7 +1227,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -1192,6 +1245,141 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "Arm(ARM.O)美股盘后跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260205051229076800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050532468800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050531884800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "美股收盘：纳指跌1.5% AMD大跌17%",
+          "url": "https://flash.jin10.com/detail/20260205050057305800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
+        },
+        {
+          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
+          "url": "https://wallstreetcn.com/livenews/3050002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013955939800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013948070800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
@@ -1200,33 +1388,36 @@
           "url": "https://flash.jin10.com/detail/20260205050944063800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
           "url": "https://wallstreetcn.com/livenews/3050110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
           "url": "https://flash.jin10.com/detail/20260205050719759800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
@@ -1245,44 +1436,48 @@
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌广告收入822.84亿美元。",
           "url": "https://flash.jin10.com/detail/20260205050350375800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260205050325162800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时23分]"
         }
       ]
     },
@@ -1300,8 +1495,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         }
       ]
     },
@@ -1333,11 +1528,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 06时23分]"
         }
       ]
     }
