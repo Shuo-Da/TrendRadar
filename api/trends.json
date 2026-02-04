@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:41:54.710507+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-02-04T16:36:34.910972+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时36分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -117,17 +118,6 @@
           "time_info": "[09时44分 ~ 15时41分]"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时32分]"
-        },
-        {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
@@ -137,8 +127,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时36分]"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 04时32分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -218,6 +219,18 @@
           "time_info": "01时50分"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时36分]"
+        },
+        {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
           "url": "https://flash.jin10.com/detail/20260204115113569800",
           "source": "金十数据",
@@ -238,6 +251,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "花200买苹果树 苹果竟是插上去的",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%B1200%E4%B9%B0%E8%8B%B9%E6%9E%9C%E6%A0%91+%E8%8B%B9%E6%9E%9C%E7%AB%9F%E6%98%AF%E6%8F%92%E4%B8%8A%E5%8E%BB%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时36分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -324,18 +350,6 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "花200买苹果树 苹果竟是插上去的",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%B1200%E4%B9%B0%E8%8B%B9%E6%9E%9C%E6%A0%91+%E8%8B%B9%E6%9E%9C%E7%AB%9F%E6%98%AF%E6%8F%92%E4%B8%8A%E5%8E%BB%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时41分]"
-        },
-        {
           "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
           "url": "https://www.cls.cn/detail/2279757",
           "source": "财联社热门",
@@ -347,17 +361,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 15时41分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 15时41分]"
         },
         {
           "title": "买苹果树发现苹果是插上的报警",
@@ -545,6 +548,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
@@ -628,7 +642,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -719,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
+          "url": "https://wallstreetcn.com/livenews/3049706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
@@ -826,7 +851,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -933,7 +958,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -958,6 +983,31 @@
           "time_info": "[00时47分 ~ 06时27分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时36分]"
+        },
+        {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -969,18 +1019,6 @@
           "time_info": "[00时47分 ~ 06时27分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时41分]"
-        },
-        {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
           "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
@@ -988,19 +1026,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时36分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
+          "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
+          "url": "https://wallstreetcn.com/livenews/3049732",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -1231,7 +1269,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1429,7 +1467,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1558,7 +1596,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "央行：将开展8000亿元买断式逆回购",
@@ -1743,6 +1781,18 @@
           "time_info": "[13时45分 ~ 14时45分]"
         },
         {
+          "title": "缩表、降息、去监管：沃什的“非对称”剧本 反而可能有利于股债市场？",
+          "url": "https://www.cls.cn/detail/2279785",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时36分]"
+        },
+        {
           "title": "美国三大股指至少下跌1%，标普500指数跌1.49%，道指跌超500点，纳指跌537点跌幅2.29%，半导体指数跌幅扩大至约4%。",
           "url": "https://wallstreetcn.com/livenews/3049290",
           "source": "华尔街见闻-快讯",
@@ -1765,6 +1815,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 14时45分]"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时36分]"
         },
         {
           "title": "上证指数早盘收报4067.67点，跌0.00%。 深证成指早盘收报13997.72点，跌0.92%。 创业板指早盘收报3266.99点，跌1.74%。 沪深300早盘收报4653.32点，跌0.15%。 科创50早盘收报1435.15点，跌2.44%。 中证500早盘收报8203.60点，跌1.00%。 中证1000早盘收报8124.98点，跌1.02%。",
@@ -1809,7 +1871,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1823,17 +1885,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "缩表、降息、去监管：沃什的“非对称”剧本 反而可能有利于股债市场？",
-          "url": "https://www.cls.cn/detail/2279785",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         },
         {
           "title": "纳斯达克中国金龙指数跌幅扩大至2%，文远知行(WRD.O)、哔哩哔哩(BILI.O)跌超5%，阿里巴巴(BABA.N)、爱奇艺(IQ.O)跌超4%。",
@@ -1869,24 +1920,13 @@
           "time_info": "14时45分"
         },
         {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
           "title": "阿塞拜疆央行行长：预计2026年GDP将增长2.4%。",
           "url": "https://flash.jin10.com/detail/20260204151937698800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1897,7 +1937,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1924,6 +1964,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "中国央行：着力支持扩大内需、科技创新、中小微企业等重点领域",
+          "url": "https://wallstreetcn.com/livenews/3049709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "A股煤炭板块午后进一步走强，潞安环能、宝泰隆、山西焦化、中煤能源、陕西黑猫、兖矿能源等近10股涨停。",
           "url": "https://wallstreetcn.com/livenews/3049590",
           "source": "华尔街见闻-快讯",
@@ -1941,7 +1992,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -2037,7 +2088,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国电力有多强",
@@ -2067,11 +2118,12 @@
           "url": "https://news.ifeng.com/c/8qSkPOAGaNR",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时36分]"
         },
         {
           "title": "中国有色金属工业协会：研究将“铜精矿”纳入国家储备",
@@ -2085,8 +2137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 15时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 16时36分]"
         },
         {
           "title": "中国男篮能击败日本队吗",
@@ -2168,6 +2220,21 @@
           "time_info": "[00时47分 ~ 15时41分]"
         },
         {
+          "title": "中国艺术研究院原院长连辑被查，曾在内蒙古、甘肃任职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523714",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时36分]"
+        },
+        {
           "title": "涉中国风电企业，欧盟又下黑手",
           "url": "https://news.ifeng.com/c/8qSAFJvgUiD",
           "source": "凤凰网",
@@ -2180,32 +2247,18 @@
           "time_info": "[09时44分 ~ 14时45分]"
         },
         {
-          "title": "中国艺术研究院原院长连辑被查，曾在内蒙古、甘肃任职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32523714",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时41分]"
-        },
-        {
           "title": "中国人把铁路修到了撒哈拉",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%8A%E9%93%81%E8%B7%AF%E4%BF%AE%E5%88%B0%E4%BA%86%E6%92%92%E5%93%88%E6%8B%89",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 16时36分]"
         },
         {
           "title": "中国1月RatingDog服务业PMI将于十分钟后公布。",
@@ -2243,6 +2296,20 @@
           "time_info": "14时45分"
         },
         {
+          "title": "山东这块古匾实证琉球是中国藩属国",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%BF%99%E5%9D%97%E5%8F%A4%E5%8C%BE%E5%AE%9E%E8%AF%81%E7%90%89%E7%90%83%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%97%A9%E5%B1%9E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            4,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时36分]"
+        },
+        {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
           "url": "https://wallstreetcn.com/livenews/3049557",
           "source": "华尔街见闻-快讯",
@@ -2253,19 +2320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时45分]"
-        },
-        {
-          "title": "山东这块古匾实证琉球是中国藩属国",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%BF%99%E5%9D%97%E5%8F%A4%E5%8C%BE%E5%AE%9E%E8%AF%81%E7%90%89%E7%90%83%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%97%A9%E5%B1%9E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "港股內房股走强，融创中国涨近9%，龙光集团涨超6%，万科企业涨超5%。",
@@ -2337,6 +2391,17 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
+          "title": "挪威外长：欢迎中国来北极",
+          "url": "https://news.ifeng.com/c/8qT2HCJoEkx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "中国驻美大使谢锋：努力在战略层面推动中美关系进一步稳下来、向前走",
           "url": "https://wallstreetcn.com/livenews/3049606",
           "source": "华尔街见闻-快讯",
@@ -2398,7 +2463,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -2435,11 +2500,12 @@
           "url": "https://wallstreetcn.com/articles/3764793",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 16时36分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -2531,11 +2597,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时36分]"
         },
         {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
@@ -2614,6 +2681,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 16时36分]"
+        },
+        {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
           "url": "https://flash.jin10.com/detail/20260204002852952800",
           "source": "金十数据",
@@ -2623,18 +2703,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -2756,7 +2824,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2791,6 +2859,29 @@
           "time_info": "[00时47分 ~ 05时31分]"
         },
         {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时36分]"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
           "url": "https://flash.jin10.com/detail/20260204141709898800",
           "source": "金十数据",
@@ -2800,6 +2891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）上海金早盘价为1134.24元/克，较国际金价(1123.02元/克)，高11.22元/克",
@@ -2822,17 +2924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         }
       ]
     },
@@ -2847,11 +2938,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 15时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 16时36分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -2901,6 +2993,47 @@
       ]
     },
     {
+      "keyword_group": "新能源汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
+        },
+        {
+          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
+          "url": "https://www.zhihu.com/question/2002346311593264005",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "新能源汽车行驶中底盘着火 2分钟爆燃",
+          "url": "https://www.toutiao.com/trending/7601536947350814739/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2926,36 +3059,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 13时45分]"
-        },
-        {
-          "title": "新能源汽车行驶中底盘着火 2分钟爆燃",
-          "url": "https://www.toutiao.com/trending/7601536947350814739/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     }
