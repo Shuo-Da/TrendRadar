@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T21:01:56.305250+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-02-09T22:18:18.095534+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 22时18分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -67,6 +68,20 @@
           "time_info": "[00时26分 ~ 07时27分]"
         },
         {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时06分 ~ 22时18分]"
+        },
+        {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
           "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
@@ -78,22 +93,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 21时01分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 22时18分]"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
           "ranks": [
-            6,
-            4,
+            9,
             3,
             2
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时06分 ~ 21时01分]"
+          "time_info": "[15时54分 ~ 22时18分]"
         },
         {
           "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
@@ -135,17 +149,21 @@
           "time_info": "[00时26分 ~ 07时27分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
+          "title": "苹果最便宜新机要来了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
+            15,
             9,
-            3,
-            2
+            8,
+            5,
+            6,
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时01分]"
+          "appearance_count": 10,
+          "time_info": "[14时06分 ~ 22时18分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -213,22 +231,6 @@
           "time_info": "[00时26分 ~ 09时53分]"
         },
         {
-          "title": "苹果最便宜新机要来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9,
-            8,
-            5,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时06分 ~ 21时01分]"
-        },
-        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -236,11 +238,12 @@
             5,
             1,
             2,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 21时01分]"
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 22时18分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -281,8 +284,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时18分]"
         },
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -322,6 +325,17 @@
           "time_info": "[00时26分 ~ 05时23分]"
         },
         {
+          "title": "据The Information：阿波罗全球管理公司接近达成一笔与xAI相关的30亿美元芯片融资协议。",
+          "url": "https://flash.jin10.com/detail/20260209220212097800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "华为哈勃入股大模型推理服务商趋境科技",
           "url": "https://wallstreetcn.com/livenews/3052055",
           "source": "华尔街见闻-快讯",
@@ -358,6 +372,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时27分]"
+        },
+        {
+          "title": "买139999元黄金手机壳送苹果手机",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0139999%E5%85%83%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E5%A3%B3%E9%80%81%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 22时18分]"
         },
         {
           "title": "知名科技记者古尔曼：苹果(AAPL.O)面向开发者的首个iOS26.4测试版（计划包含新版Siri的部分功能）定于2月23日当周发布。此外，苹果还计划在3月2日当周发布新产品，包括iPhone 17e、新款iPad和全新Mac电脑。",
@@ -405,19 +432,6 @@
             10,
             19,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时01分]"
-        },
-        {
-          "title": "买139999元黄金手机壳送苹果手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B0139999%E5%85%83%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E5%A3%B3%E9%80%81%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -516,6 +530,17 @@
           "time_info": "[12时25分 ~ 14时06分]"
         },
         {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
+        },
+        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
@@ -547,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "伊朗媒体发AI视频模拟打击美军舰队",
+          "url": "https://news.ifeng.com/c/8qbpfPUqh16",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
@@ -670,6 +706,17 @@
           "time_info": "19时48分"
         },
         {
+          "title": "OpenAI准备在本周推出更新版聊天模型",
+          "url": "https://wallstreetcn.com/livenews/3052361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "欧盟警告Meta需向竞争对手AI聊天机器人开放WhatsApp",
           "url": "https://flash.jin10.com/detail/20260209172344732800",
           "source": "金十数据",
@@ -690,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "伊朗媒体发AI视频模拟打击美军舰队",
+          "url": "https://wallstreetcn.com/livenews/3052357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "据特斯拉微博消息，赛博无人驾驶电动车Tesla Cybercab将在得州超级工厂开启量产并投入运营。",
@@ -720,7 +778,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -736,21 +794,32 @@
           "time_info": "15时54分"
         },
         {
-          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
-          "url": "https://www.zhihu.com/question/2004143319609993151",
-          "source": "知乎",
+          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
+          "url": "https://flash.jin10.com/detail/20260209211725388800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "22时18分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
+          "url": "https://flash.jin10.com/detail/20260209210728140800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -867,6 +936,19 @@
           "time_info": "[00时26分 ~ 07时27分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 22时18分]"
+        },
+        {
           "title": "欧洲央行管委西姆库斯：下一次是加息还是降息的概率五五开。",
           "url": "https://flash.jin10.com/detail/20260209163448283800",
           "source": "金十数据",
@@ -878,15 +960,28 @@
           "time_info": "16时46分"
         },
         {
-          "title": "法国央行行长Villeroy卸任。（La Tribune）",
-          "url": "https://wallstreetcn.com/livenews/3052349",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 22时18分]"
+        },
+        {
+          "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
+          "url": "https://www.cls.cn/detail/2284984",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "22时18分"
         },
         {
           "title": "A股商业航天概念再度拉升，航天动力涨停，此前上海港湾、江苏神通涨停，飞沃科技触及20cm涨停，新雷能、春晖智控涨超10%，广联航空、德恩精工、星环科技、乾照光电、巨力索具等跟涨。",
@@ -909,19 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 21时01分]"
         },
         {
           "title": "前韩国央行委员Lee Seung-Heon：现在发出政策收紧信号还为时过早。 韩元兑美元汇率在1400至1470区间看起来是合适的。 韩国需要实施更严格的房地产持有税，以抑制房地产市场。",
@@ -969,19 +1051,6 @@
           "time_info": "[09时53分 ~ 14时06分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 21时01分]"
-        },
-        {
           "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
           "url": "https://wallstreetcn.com/livenews/3051813",
           "source": "华尔街见闻-快讯",
@@ -1002,6 +1071,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时22分]"
+        },
+        {
+          "title": "法国央行行长Villeroy卸任。（La Tribune）",
+          "url": "https://wallstreetcn.com/livenews/3052349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
         },
         {
           "title": "看好A股春节假期前后“红包行情”，机构称“持股过节或为上策”",
@@ -1151,6 +1232,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "欧洲央行行长拉加德：维勒鲁瓦将永远是欧洲央行的朋友，祝愿他在新使命中一切顺利。",
+          "url": "https://flash.jin10.com/detail/20260209212926766800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "中国央行公开市场今日净投放380亿元",
           "url": "https://wallstreetcn.com/livenews/3051965",
           "source": "华尔街见闻-快讯",
@@ -1193,6 +1285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：非常尊重欧洲央行管委维勒鲁瓦的个人决定。",
+          "url": "https://flash.jin10.com/detail/20260209212647616800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
@@ -1294,6 +1397,17 @@
           "time_info": "17时59分"
         },
         {
+          "title": "法国央行行长维勒鲁瓦意外提前卸任 继任者任命权留予马克龙",
+          "url": "https://flash.jin10.com/detail/20260209211035410800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "分析师：A股春节前或有小红包行情",
           "url": "https://www.toutiao.com/trending/7604430716746006534/",
           "source": "今日头条",
@@ -1303,6 +1417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "标普500指数期货抹去早盘跌幅，转为持平。",
+          "url": "https://flash.jin10.com/detail/20260209211021539800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "国家大基金减持多家A股公司",
@@ -1396,7 +1521,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "谷爱凌携手队友冲击中国首金",
@@ -1424,19 +1549,6 @@
           "time_info": "[00时26分 ~ 12时25分]"
         },
         {
-          "title": "老外来中国过年的订单爆了",
-          "url": "https://www.toutiao.com/trending/7604027639485156927/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时01分]"
-        },
-        {
           "title": "宝可梦、柯南、张本智和，被中国军网点名",
           "url": "https://m.thepaper.cn/newsDetail_forward_32563007",
           "source": "澎湃新闻",
@@ -1451,6 +1563,20 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 18时59分]"
+        },
+        {
+          "title": "老外来中国过年的订单爆了",
+          "url": "https://www.toutiao.com/trending/7604027639485156927/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时18分]"
         },
         {
           "title": "谷爱凌冲击中国军团首金",
@@ -1469,6 +1595,21 @@
           "time_info": "[09时53分 ~ 19时48分]"
         },
         {
+          "title": "中国人口第一大省彻底定了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%BD%BB%E5%BA%95%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            1,
+            4,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 22时18分]"
+        },
+        {
           "title": "这个挑衅中国的国家想认错了",
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%83%B3%E8%AE%A4%E9%94%99%E4%BA%86",
           "source": "百度热搜",
@@ -1480,20 +1621,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 09时53分]"
-        },
-        {
-          "title": "中国人口第一大省彻底定了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%BD%BB%E5%BA%95%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            1,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时45分 ~ 21时01分]"
         },
         {
           "title": "中国黄金调整回购规则",
@@ -1541,11 +1668,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 21时01分]"
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 22时18分]"
         },
         {
           "title": "赛场屹线丨胜利之夜！中国队包揽乒乓球亚洲杯男女单冠军",
@@ -1621,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 14时06分]"
+        },
+        {
+          "title": "胡锡进：高市早苗或野心爆棚，中国须出重招降妖",
+          "url": "https://news.ifeng.com/c/8qbtvmpKhhT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "中国19岁速滑小将齐天大圣造型",
@@ -1724,6 +1863,31 @@
           "time_info": "[12时25分 ~ 15时54分]"
         },
         {
+          "title": "为什么总有人相信「全球变暖将导致中国出现盛世」？这是不是真的，有无科学依据？",
+          "url": "https://www.zhihu.com/question/1930396491907854535",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时18分]"
+        },
+        {
+          "title": "财晓得｜从北京到米兰：中国冰雪的万亿答卷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549035",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时18分]"
+        },
+        {
           "title": "外交部回应中国网民担忧日本右倾",
           "url": "https://www.toutiao.com/trending/7604101647568273471/",
           "source": "今日头条",
@@ -1736,27 +1900,16 @@
           "time_info": "[17时59分 ~ 18时59分]"
         },
         {
-          "title": "财晓得｜从北京到米兰：中国冰雪的万亿答卷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549035",
-          "source": "澎湃新闻",
+          "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
+          "url": "https://www.cls.cn/detail/2284640",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            11
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时01分]"
-        },
-        {
-          "title": "为什么总有人相信「全球变暖将导致中国出现盛世」？这是不是真的，有无科学依据？",
-          "url": "https://www.zhihu.com/question/1930396491907854535",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时01分]"
+          "time_info": "[21时01分 ~ 22时18分]"
         },
         {
           "title": "中国财政部部长蓝佛安：中方呼吁新兴市场经济体和发展中国家以科技创新驱动发展",
@@ -1807,6 +1960,18 @@
           "time_info": "[04时22分 ~ 06时22分]"
         },
         {
+          "title": "2026中国电影新春嘉年华",
+          "url": "https://www.douyin.com/hot/2395076",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
+        },
+        {
           "title": "为什么中国人经营的港口总有人眼红",
           "url": "https://www.toutiao.com/trending/7604654108314828806/",
           "source": "今日头条",
@@ -1840,6 +2005,17 @@
           "time_info": "12时25分"
         },
         {
+          "title": "中国游客在马来西亚遭勒索35.2万元，7名警察被捕",
+          "url": "https://news.ifeng.com/c/8qbmJBWHrzx",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "中国已有哪些重大考古发现?",
           "url": "https://www.zhihu.com/question/22524047",
           "source": "知乎",
@@ -1851,24 +2027,13 @@
           "time_info": "09时53分"
         },
         {
-          "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
-          "url": "https://www.cls.cn/detail/2284640",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
           "title": "金十图示：2026年02月09日（周一）中国工商银行账户贵金属行情",
           "url": "https://flash.jin10.com/detail/20260209201040188800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1912,7 +2077,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1934,7 +2099,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1959,6 +2124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "中国经济最强县GDP超5600亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%80%E5%BC%BA%E5%8E%BFGDP%E8%B6%855600%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "刘瀚彬创中国速滑5000米冬奥最好成绩",
@@ -2003,23 +2179,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "2026中国电影新春嘉年华",
-          "url": "https://www.douyin.com/hot/2395076",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -2045,11 +2210,12 @@
             15,
             14,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 21时01分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 22时18分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -2148,6 +2314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "美国政府声明显示，特朗普寻求缩小被解雇联邦雇员复职的法律途径。",
+          "url": "https://flash.jin10.com/detail/20260209220003353800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "特朗普大骂美国冬奥运动员",
@@ -2292,7 +2469,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国财长贝森特：不预计美联储在资产负债表问题上迅速采取行动。相信沃什将非常独立。",
@@ -2308,6 +2485,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
+        },
+        {
+          "title": "贝森特：美联储可能不会迅速缩表",
+          "url": "https://wallstreetcn.com/articles/3765289",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 22时18分]"
         },
         {
           "title": "贝森特投喂“定心丸”：美联储料不会迅速缩表 沃什非常独立！",
@@ -2336,41 +2539,6 @@
           "time_info": "[18时58分 ~ 19时48分]"
         },
         {
-          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "前美联储副主席Clarida：沃什是一位成就卓著、受人尊敬的人。 在没有前瞻指引的情况下实行货币政策是有可能的。 美联储主席几乎总能如愿。 沃什必须与美联储委员会合作，才能推动改变。 美联储和财政部就平衡目标进行沟通是合适的。 沃什认为美国经济状况与美联储去年12月的看法一致。 我认为今年美国经济存在上行可能。",
-          "url": "https://wallstreetcn.com/livenews/3052342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "贝森特：美联储可能不会迅速缩表",
-          "url": "https://wallstreetcn.com/articles/3765289",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 21时01分]"
-        },
-        {
           "title": "沃什欲重塑美联储与财政部关系 是稳定器还是火药桶？",
           "url": "https://flash.jin10.com/detail/20260209041615393800",
           "source": "金十数据",
@@ -2396,6 +2564,31 @@
           "time_info": "[06时22分 ~ 07时27分]"
         },
         {
+          "title": "前美联储副主席Clarida：沃什是一位成就卓著、受人尊敬的人。 在没有前瞻指引的情况下实行货币政策是有可能的。 美联储主席几乎总能如愿。 沃什必须与美联储委员会合作，才能推动改变。 美联储和财政部就平衡目标进行沟通是合适的。 沃什认为美国经济状况与美联储去年12月的看法一致。 我认为今年美国经济存在上行可能。",
+          "url": "https://wallstreetcn.com/livenews/3052342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
+        },
+        {
+          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
+          "url": "https://wallstreetcn.com/articles/3765263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时18分]"
+        },
+        {
           "title": "新任美联储主席将如何影响市场",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%B8%82%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -2408,16 +2601,15 @@
           "time_info": "[00时26分 ~ 07时27分]"
         },
         {
-          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
-          "url": "https://wallstreetcn.com/articles/3765263",
-          "source": "华尔街见闻",
+          "title": "2年期美债收益率下跌，此前哈塞特发表关于非农就业数据的评论。",
+          "url": "https://flash.jin10.com/detail/20260209213202379800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美联储3月维持利率不变的概率为80.1%",
@@ -2434,7 +2626,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -2458,9 +2650,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3052372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "22时18分"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -2512,18 +2715,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌母公司Alphabet启动七批美元债券发行。",
           "url": "https://wallstreetcn.com/livenews/3052346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时18分]"
         },
         {
           "title": "欧盟委员会执行副主席里韦拉：谷歌(GOOG.O)正在与欧盟委员会进行谈判，正在努力做出一些改变。",
@@ -2559,6 +2763,17 @@
           "time_info": "16时46分"
         },
         {
+          "title": "谷歌母公司Alphabet计划通过美元债券发行筹集约150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3052364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
           "url": "https://flash.jin10.com/detail/20260209184350182800",
           "source": "金十数据",
@@ -2568,6 +2783,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时23分]"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.7%。欧元兑美元EUR/USD突破1.19，创1月30日以来新高，日内涨0.74%。美元兑日元USD/JPY失守156，日内跌幅0.78%。",
+          "url": "https://flash.jin10.com/detail/20260209212804665800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "现货黄金短线走低13美元，报5012美元/盎司。美元指数DXY回落至97下方，日内跌0.59%。",
+          "url": "https://flash.jin10.com/detail/20260209212450505800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美元指数持续走低，日内跌幅扩大至0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3052358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美元指数日内跌幅达0.5%，报97.18。",
+          "url": "https://wallstreetcn.com/livenews/3052351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美元指数DXY持续走低，日内跌幅扩大至0.6%。澳元兑美元AUD/USD日内涨幅扩大至0.50%，欧元兑美元EUR/USD涨0.6%，英镑兑美元GBP/USD涨0.4%，美元兑日元USD/JPY跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260209210644389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -2614,20 +2902,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3051817",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNBC：ChatGPT月增长率超过10%。",
+          "url": "https://flash.jin10.com/detail/20260209210816509800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            30
+            24
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
