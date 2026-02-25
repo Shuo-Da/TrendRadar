@@ -1,11 +1,867 @@
 {
-  "generated_at": "2026-02-25T16:48:21.542377+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-02-25T17:51:53.706031+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 71,
+      "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 07时28分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[02时56分 ~ 17时51分]"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 06时30分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时31分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 17时51分]"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            3,
+            6,
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 07时28分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 17时51分]"
+        },
+        {
+          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
+          "url": "https://wallstreetcn.com/articles/3766076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 17时51分]"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            12,
+            9,
+            11,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 09时51分]"
+        },
+        {
+          "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
+          "url": "https://www.cls.cn/detail/2294021",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时15分 ~ 12时18分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            9,
+            16,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 07时28分]"
+        },
+        {
+          "title": "Taalas芯片能否颠覆传统GPU",
+          "url": "https://search.bilibili.com/all?keyword=Taalas%E8%8A%AF%E7%89%87%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E4%BC%A0%E7%BB%9FGPU",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            27,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时15分 ~ 12时18分]"
+        },
+        {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 17时51分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 17时51分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时48分]"
+        },
+        {
+          "title": "美官员：H200芯片能卖了，可中国一块都没买",
+          "url": "https://news.ifeng.com/c/8r22byzLyaK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3058455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "2月25日投资避雷针：知名机构出手做空 称当前存储芯片市场繁荣为“供应幻象”",
+          "url": "https://www.cls.cn/detail/2294175",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 16时48分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
+          "url": "https://flash.jin10.com/detail/20260225004633886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
+          "url": "https://wallstreetcn.com/livenews/3058389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，AMD大涨近9%，金银回调",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
+          "url": "https://flash.jin10.com/detail/20260225031303146800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "英伟达明晨将临“大考”：四大看点提前把握！",
+          "url": "https://www.cls.cn/detail/2294480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 17时51分]"
+        },
+        {
+          "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
+          "url": "https://flash.jin10.com/detail/20260225031254647800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "西安一市民除夕夜被AI给骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时30分 ~ 07时28分]"
+        },
+        {
+          "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时48分]"
+        },
+        {
+          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
+          "url": "https://wallstreetcn.com/livenews/3058369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
+          "url": "https://flash.jin10.com/detail/20260225024214208800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时48分]"
+        },
+        {
+          "title": "美媒：美国防部限Anthropic周五前放弃AI安全限制，否则面临严惩",
+          "url": "https://flash.jin10.com/detail/20260225023655984800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时48分]"
+        },
+        {
+          "title": "苹果股东批准高管薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/3058265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时57分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
+          "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
+          "url": "https://wallstreetcn.com/livenews/3058364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
+          "title": "网友称苹果手机深夜自动外拨电话",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E5%A4%96%E6%8B%A8%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            23,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 17时51分]"
+        },
+        {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时51分]"
+        },
+        {
+          "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
+          "url": "https://wallstreetcn.com/livenews/3058363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "苹果公司配备触摸屏的MacBook Pro机型将于今年秋季推出",
+          "url": "https://wallstreetcn.com/livenews/3058337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时30分]"
+        },
+        {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时04分]"
+        },
+        {
+          "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
+          "url": "https://flash.jin10.com/detail/20260225022633218800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时48分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时51分]"
+        },
+        {
+          "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
+          "url": "https://wallstreetcn.com/livenews/3058280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时48分]"
+        },
+        {
+          "title": "MSCI向客户提供AI接口，支持调用专属数据",
+          "url": "https://wallstreetcn.com/livenews/3058259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时57分]"
+        },
+        {
+          "title": "Mosaic预计2026年资本开支大约15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时04分]"
+        },
+        {
+          "title": "AIGC动画电影团圆令定档预告",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时51分]"
+        },
+        {
+          "title": "网友称苹果手机凌晨自动拨打电话",
+          "url": "https://www.toutiao.com/trending/7610695760497688619/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "陈茂波：香港正加速自动驾驶无人化、规模化发展，达致商业营运。 香港将成立RISC-V芯片联盟。 香港计划吸引航空航天公司来港上市。 香港计划推出100亿港元创科产业引导基金。",
+          "url": "https://wallstreetcn.com/livenews/3058555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
+          "url": "https://wallstreetcn.com/livenews/3058382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
+          "url": "https://wallstreetcn.com/livenews/3058307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "陈茂波：香港微电子研发院的第三代半导体芯片技术研发与试产的中试线年内投入运作",
+          "url": "https://wallstreetcn.com/livenews/3058552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "SK海力士：将向芯片工厂投资26.6万亿韩元。 SK海力士：计划提前扩大产能 在龙仁的投资规模将大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3058763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
+          "url": "https://wallstreetcn.com/livenews/3058379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "苹果市值一夜增超6000亿",
+          "url": "https://www.douyin.com/hot/2410917",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "SK海力士：将从今年到2030年间投资21.6万亿韩元（约合1080亿元人民币）兴建芯片厂。（外媒更正，非“26.6万亿韩元”。）",
+          "url": "https://flash.jin10.com/detail/20260225171356300800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
+          "url": "https://www.cls.cn/detail/2294083",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
+          "url": "https://wallstreetcn.com/livenews/3058376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3058435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
+          "url": "https://flash.jin10.com/detail/20260225001613858800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
+          "url": "https://flash.jin10.com/detail/20260225092013520800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "陈茂波：香港计划成立AI+与产业发展策略委员会。 香港将深化人工智能在各行业的应用。 香港将拨款5000万港元用于公众人工智能培训。",
+          "url": "https://wallstreetcn.com/livenews/3058533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "研究机构：AI代理正掏空白领市场",
+          "url": "https://www.toutiao.com/trending/7610586211895217714/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美官员证实英伟达H200对华销售为零",
+          "url": "https://www.toutiao.com/trending/7610401844355989542/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -145,6 +1001,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260225094052863800",
           "source": "金十数据",
@@ -190,6 +1057,17 @@
           "time_info": "[05时30分 ~ 07时28分]"
         },
         {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将表示，正在恢复美国在西半球的安全和主导地位。",
           "url": "https://flash.jin10.com/detail/20260225093851641800",
           "source": "金十数据",
@@ -218,7 +1096,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -270,6 +1148,19 @@
           "time_info": "[03时48分 ~ 05时31分]"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 17时51分]"
+        },
+        {
           "title": "特朗普政府被1000多家企业起诉",
           "url": "https://www.toutiao.com/trending/7609548645095964718/",
           "source": "今日头条",
@@ -279,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 02时57分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时48分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -315,6 +1194,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 15时04分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时51分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -442,6 +1333,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将在国情咨文中表示，请求国会永久实施禁止华尔街大型投资公司大量收购独栋住宅的行政命令。",
           "url": "https://flash.jin10.com/detail/20260225093421945800",
           "source": "金十数据",
@@ -495,17 +1397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         },
         {
           "title": "美国总统特朗普：美国去年6月的军事行动彻底摧毁了伊朗的核武器计划。",
@@ -717,6 +1608,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "特朗普试戴美冰球队的奥运金牌",
+          "url": "https://www.toutiao.com/trending/7610318993089400356/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "美国总统特朗普：感谢美国特使威特科夫和女婿库什纳帮助结束战争。",
           "url": "https://flash.jin10.com/detail/20260225112854811800",
           "source": "金十数据",
@@ -763,796 +1665,8 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 65,
-      "titles": [
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时28分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时56分 ~ 16时48分]"
-        },
-        {
-          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 06时30分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 05时31分]"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            3,
-            6,
-            5,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时28分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 16时48分]"
-        },
-        {
-          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
-          "url": "https://wallstreetcn.com/articles/3766076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 16时48分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时48分]"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            12,
-            9,
-            11,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 09时51分]"
-        },
-        {
-          "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
-          "url": "https://www.cls.cn/detail/2294021",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 12时18分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            9,
-            16,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时28分]"
-        },
-        {
-          "title": "Taalas芯片能否颠覆传统GPU",
-          "url": "https://search.bilibili.com/all?keyword=Taalas%E8%8A%AF%E7%89%87%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E4%BC%A0%E7%BB%9FGPU",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            27,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 12时18分]"
-        },
-        {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时48分]"
-        },
-        {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时48分]"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3058455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "2月25日投资避雷针：知名机构出手做空 称当前存储芯片市场繁荣为“供应幻象”",
-          "url": "https://www.cls.cn/detail/2294175",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时48分]"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
-          "url": "https://flash.jin10.com/detail/20260225004633886800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
-          "url": "https://wallstreetcn.com/livenews/3058389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，AMD大涨近9%，金银回调",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：电动皮卡Cybertruck双电机四驱版价格将于2月28日后上调。",
-          "url": "https://flash.jin10.com/detail/20260225031303146800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
-          "url": "https://flash.jin10.com/detail/20260225031254647800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时48分]"
-        },
-        {
-          "title": "西安一市民除夕夜被AI给骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时30分 ~ 07时28分]"
-        },
-        {
-          "title": "英伟达明晨将临“大考”：四大看点提前把握！",
-          "url": "https://www.cls.cn/detail/2294480",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时48分]"
-        },
-        {
-          "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3058291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时48分]"
-        },
-        {
-          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
-          "url": "https://wallstreetcn.com/livenews/3058369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
-          "url": "https://flash.jin10.com/detail/20260225024214208800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时48分]"
-        },
-        {
-          "title": "美媒：美国防部限Anthropic周五前放弃AI安全限制，否则面临严惩",
-          "url": "https://flash.jin10.com/detail/20260225023655984800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时48分]"
-        },
-        {
-          "title": "苹果股东批准高管薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/3058265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时57分]"
-        },
-        {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时58分]"
-        },
-        {
-          "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
-          "url": "https://wallstreetcn.com/livenews/3058364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "印度AI峰会，国际媒体给差评",
-          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时58分]"
-        },
-        {
-          "title": "网友称苹果手机深夜自动外拨电话",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E5%A4%96%E6%8B%A8%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 16时48分]"
-        },
-        {
-          "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时16分]"
-        },
-        {
-          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
-          "url": "https://wallstreetcn.com/livenews/3058363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "苹果公司配备触摸屏的MacBook Pro机型将于今年秋季推出",
-          "url": "https://wallstreetcn.com/livenews/3058337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时30分]"
-        },
-        {
-          "title": "AI开始雇佣人类",
-          "url": "https://www.toutiao.com/trending/7609867693969178633/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时04分]"
-        },
-        {
-          "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
-          "url": "https://flash.jin10.com/detail/20260225022633218800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时48分]"
-        },
-        {
-          "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
-          "url": "https://wallstreetcn.com/livenews/3058280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时48分]"
-        },
-        {
-          "title": "MSCI向客户提供AI接口，支持调用专属数据",
-          "url": "https://wallstreetcn.com/livenews/3058259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时57分]"
-        },
-        {
-          "title": "Mosaic预计2026年资本开支大约15亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "AI如果让90%的人都失业会怎样",
-          "url": "https://www.toutiao.com/trending/7610619092361285139/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时04分]"
-        },
-        {
-          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
-          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 16时48分]"
-        },
-        {
-          "title": "陈茂波：香港正加速自动驾驶无人化、规模化发展，达致商业营运。 香港将成立RISC-V芯片联盟。 香港计划吸引航空航天公司来港上市。 香港计划推出100亿港元创科产业引导基金。",
-          "url": "https://wallstreetcn.com/livenews/3058555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
-          "url": "https://wallstreetcn.com/livenews/3058382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
-          "url": "https://wallstreetcn.com/livenews/3058307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "陈茂波：香港微电子研发院的第三代半导体芯片技术研发与试产的中试线年内投入运作",
-          "url": "https://wallstreetcn.com/livenews/3058552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
-          "url": "https://wallstreetcn.com/livenews/3058379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
-          "url": "https://www.cls.cn/detail/2294145",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "苹果市值一夜增超6000亿",
-          "url": "https://www.douyin.com/hot/2410917",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
-          "url": "https://www.cls.cn/detail/2294083",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
-          "url": "https://wallstreetcn.com/livenews/3058376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3058435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
-          "url": "https://wallstreetcn.com/livenews/3058274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
-          "url": "https://wallstreetcn.com/livenews/3058374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "AIGC动画电影团圆令定档预告",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
-          "url": "https://flash.jin10.com/detail/20260225001613858800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
-          "url": "https://flash.jin10.com/detail/20260225092013520800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "陈茂波：香港计划成立AI+与产业发展策略委员会。 香港将深化人工智能在各行业的应用。 香港将拨款5000万港元用于公众人工智能培训。",
-          "url": "https://wallstreetcn.com/livenews/3058533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
-          "url": "https://wallstreetcn.com/livenews/3058417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "研究机构：AI代理正掏空白领市场",
-          "url": "https://www.toutiao.com/trending/7610586211895217714/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美官员证实英伟达H200对华销售为零",
-          "url": "https://www.toutiao.com/trending/7610401844355989542/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "AI助盲眼镜成出行神器",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "节后首周资金面迎大考 央行开展6000亿元MLF操作 连续12个月加量续做",
@@ -1806,6 +1920,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "溢价20%仍被抢，逻辑变了？谁在高溢价入局A股定增？哪类行业高溢价？",
+          "url": "https://www.cls.cn/detail/2294528",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3058612",
           "source": "华尔街见闻-快讯",
@@ -1834,7 +1959,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -1867,7 +1992,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -1936,6 +2061,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "鑫华科技科创板IPO获上交所受理，公司拟融资13.20亿元。",
+          "url": "https://wallstreetcn.com/livenews/3058751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "日本前央行行长黑田东彦：日本央行很可能在2026年和2027年每年加息两次，将利率提高至1.5%至1.75%左右。",
@@ -2269,6 +2405,18 @@
           "time_info": "[01时15分 ~ 07时28分]"
         },
         {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 17时51分]"
+        },
+        {
           "title": "沈腾成为中国首个400亿票房演员",
           "url": "https://www.toutiao.com/trending/7609324575537184819/",
           "source": "今日头条",
@@ -2315,18 +2463,6 @@
           "time_info": "[01时15分 ~ 03时48分]"
         },
         {
-          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
-          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时48分]"
-        },
-        {
           "title": "中国新课题：如何收拾巴拿马这样的遥远恶狗",
           "url": "https://news.ifeng.com/c/8r0gsBhp6wE",
           "source": "凤凰网",
@@ -2347,8 +2483,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 17时51分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -2440,7 +2576,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2495,7 +2631,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2550,7 +2686,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2572,7 +2708,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2594,7 +2730,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2616,7 +2752,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -2891,7 +3027,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -2917,6 +3053,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 15时04分]"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -3001,6 +3159,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "惠普(HPQ.N)美股盘前下跌5.4%，此前该公司预计2026年个人电脑部门出货量将出现两位数降幅。",
+          "url": "https://flash.jin10.com/detail/20260225170753362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -3026,7 +3195,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -3050,6 +3219,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 15时04分]"
+        },
+        {
+          "title": "据塔斯社：谷歌(GOOG.O)被俄罗斯当局罚款超过2200万卢布。",
+          "url": "https://flash.jin10.com/detail/20260225172229198800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -3089,6 +3269,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     }
