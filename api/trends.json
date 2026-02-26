@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-26T16:42:22.893217+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-02-26T17:45:11.467224+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 87,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 17时45分]"
+        },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
@@ -46,18 +58,6 @@
           "time_info": "[00时01分 ~ 09时46分]"
         },
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 16时42分]"
-        },
-        {
           "title": "【早报】续航有望成倍提升！我国锂电池核心技术获首创性突破；存储芯片巨头计划扩产",
           "url": "https://www.cls.cn/detail/2295308",
           "source": "财联社热门",
@@ -91,6 +91,34 @@
           "time_info": "[00时01分 ~ 07时26分]"
         },
         {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时45分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 17时45分]"
+        },
+        {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
           "source": "百度热搜",
@@ -105,18 +133,31 @@
           "time_info": "[00时01分 ~ 07时26分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
           "ranks": [
             6,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时45分]"
+        },
+        {
+          "title": "苹果公司为什么会放弃造车?",
+          "url": "https://www.zhihu.com/question/1915356529403598538",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            19,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 17时45分]"
         },
         {
           "title": "AI短片 马上好",
@@ -133,31 +174,6 @@
           "time_info": "[01时10分 ~ 09时46分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时42分]"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时42分]"
-        },
-        {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
           "url": "https://www.cls.cn/detail/2295238",
           "source": "财联社热门",
@@ -170,20 +186,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 15时50分]"
-        },
-        {
-          "title": "苹果公司为什么会放弃造车?",
-          "url": "https://www.zhihu.com/question/1915356529403598538",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时42分]"
         },
         {
           "title": "摩根士丹利将英伟达(NVDA.O)目标股价从250美元上调至260美元。加拿大皇家银行将英伟达目标股价从240美元上调至250美元。",
@@ -217,6 +219,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "存储全面进入卖方市场：三星100%“试探性涨幅”获苹果照单全收 原计划涨幅60%",
+          "url": "https://www.cls.cn/detail/2295807",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -276,17 +291,6 @@
           "time_info": "15时50分"
         },
         {
-          "title": "华为云码道公测版发布 覆盖代码生成等AI编程技术",
-          "url": "https://wallstreetcn.com/livenews/3059437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "摩根士丹利将英伟达目标价从250美元上调至260美元。",
           "url": "https://wallstreetcn.com/livenews/3059385",
           "source": "华尔街见闻-快讯",
@@ -334,6 +338,30 @@
           "time_info": "[13时55分 ~ 14时55分]"
         },
         {
+          "title": "华为云码道公测版发布 覆盖代码生成等AI编程技术",
+          "url": "https://wallstreetcn.com/livenews/3059437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时45分]"
+        },
+        {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
@@ -369,6 +397,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时55分 ~ 16时42分]"
+        },
+        {
+          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
+          "url": "https://wallstreetcn.com/articles/3766227",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -485,6 +536,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "百度四季度AI业务收入占比43% 超预期",
+          "url": "https://wallstreetcn.com/livenews/3059468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，当前的太空数据中心经济还是“贫瘠的”",
           "url": "https://wallstreetcn.com/articles/3766208",
           "source": "华尔街见闻",
@@ -518,17 +580,6 @@
           "time_info": "14时55分"
         },
         {
-          "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
-          "url": "https://wallstreetcn.com/articles/3766227",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "英伟达(NVDA.O)：在2026财年期间，我们的资本支出总额为61亿美元。",
           "url": "https://flash.jin10.com/detail/20260226054728694800",
           "source": "金十数据",
@@ -551,15 +602,15 @@
           "time_info": "09时46分"
         },
         {
-          "title": "存储全面进入卖方市场：三星100%“试探性涨幅”获苹果照单全收 原计划涨幅60%",
-          "url": "https://www.cls.cn/detail/2295807",
-          "source": "财联社热门",
+          "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
+          "url": "https://wallstreetcn.com/livenews/3059463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时45分"
         },
         {
           "title": "美国证交会文件显示：英伟达表示，我们正在敲定与OpenAI的投资与合作伙伴关系协议，但无法保证一定会与OpenAI达成协议。",
@@ -579,9 +630,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "英伟达(NVDA.O) CFO：预计供应限制将对 2027 财年第一季度及以后的游戏业务产生负面影响。",
@@ -612,7 +674,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -859,17 +921,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "英伟达(NVDA.O)2026财年Q4数据中心营收为623亿美元，市场预期为606.2亿美元，上年同期为355.8亿美元。",
           "url": "https://flash.jin10.com/detail/20260226053200491800",
           "source": "金十数据",
@@ -901,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "千问3.5霸榜全球开源大模型前四",
+          "url": "https://wallstreetcn.com/livenews/3059446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "英伟达(NVDA.O)2026财年Q4营收681亿美元，市场预期为656.84亿美元，上年同期为393.31亿美元。",
@@ -1005,7 +1067,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -1042,8 +1104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 17时45分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -1065,11 +1127,12 @@
             8,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时45分]"
         },
         {
           "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
@@ -1174,15 +1237,15 @@
           "time_info": "06时29分"
         },
         {
-          "title": "欧洲央行行长拉加德：预计中期内通胀率将稳定在2%左右。 降低通货膨胀的努力取得了成效。 薪资增速依然高企，但已逐步放缓。 遵循依赖数据、逐次会议决策的方式。 不预先承诺特定的利率路径。",
-          "url": "https://wallstreetcn.com/livenews/3059438",
+          "title": "爱奇艺发布2025Q4及全年财报：Q4总收入同环比双增长",
+          "url": "https://wallstreetcn.com/livenews/3059474",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时45分"
         },
         {
           "title": "日本央行行长植田和男：核心通胀率尚未完全达到2%，将引导政策使核心通胀率达到约2%，同时避免其持续高于2%。",
@@ -1227,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我认为数字欧元是一项极其重要的使命。",
+          "url": "https://wallstreetcn.com/livenews/3059473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
@@ -1310,6 +1384,18 @@
           "time_info": "[13时55分 ~ 14时55分]"
         },
         {
+          "title": "欧洲央行行长拉加德：预计中期内通胀率将稳定在2%左右。 降低通货膨胀的努力取得了成效。 薪资增速依然高企，但已逐步放缓。 遵循依赖数据、逐次会议决策的方式。 不预先承诺特定的利率路径。",
+          "url": "https://wallstreetcn.com/livenews/3059438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时45分]"
+        },
+        {
           "title": "日本央行审议委员高田创：日本央行理解实现稳定、持续经济增长的重要性。",
           "url": "https://flash.jin10.com/detail/20260226132327116800",
           "source": "金十数据",
@@ -1320,6 +1406,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时55分]"
+        },
+        {
+          "title": "日股史上首次站上59000点！央行加息风险减弱 英伟达财报送上助攻",
+          "url": "https://www.cls.cn/detail/2295604",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时45分]"
         },
         {
           "title": "日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
@@ -1368,18 +1468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时55分]"
-        },
-        {
-          "title": "日股史上首次站上59000点！央行加息风险减弱 英伟达财报送上助攻",
-          "url": "https://www.cls.cn/detail/2295604",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时42分]"
         },
         {
           "title": "日本央行审议委员高田创：通胀目标已基本实现。 很难提前知道加息的速度或终点利率水平。 将密切关注海外经济，以研判日本央行政策。 日本央行当前并未落后于通胀曲线。 汇率对通胀的影响比以往更大，汇率是影响经济的关键因素。",
@@ -1598,6 +1686,17 @@
           "time_info": "15时50分"
         },
         {
+          "title": "欧洲央行行长拉加德：我的基本预期是任期届满再离任。",
+          "url": "https://flash.jin10.com/detail/20260226171952496800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "2月26日午间收评：创业板指探底回升跌0.39%，算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3059245",
           "source": "华尔街见闻-快讯",
@@ -1692,7 +1791,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1717,6 +1816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们处于良好的境地，但会保持灵活性。",
+          "url": "https://flash.jin10.com/detail/20260226170551188800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "韩国央行行长李昌镛：当前外汇走势更多受全球因素驱动，而非国内因素，外汇市场企稳还为时过早。 韩元近期升值得益于出口商抛售美元。 外汇市场的供需格局正在发生变化。韩元需求有所改善。 对金融稳定的担忧将持续一段时间。 不能因为韩元近期对美元升值，就对外汇市场掉以轻心。 房地产风险尚未消除，市场稳定性仍未得到保障。",
@@ -1763,6 +1873,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "欧洲央行行长拉加德：确信应维持政策取决于数据的做法。",
+          "url": "https://flash.jin10.com/detail/20260226170420304800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "欧洲央行在官方网站发布意见，不反对任命Vujcic为欧洲央行副主席。",
           "url": "https://wallstreetcn.com/livenews/3058973",
           "source": "华尔街见闻-快讯",
@@ -1772,6 +1893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行不设定汇率目标。",
+          "url": "https://wallstreetcn.com/livenews/3059450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "韩元兑美元保持涨势，此前韩国央行维持政策利率不变。",
@@ -1912,7 +2044,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -1920,7 +2052,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
@@ -1949,6 +2081,19 @@
           "time_info": "[00时01分 ~ 09时46分]"
         },
         {
+          "title": "谷爱凌效力中国,老美破防网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350992&amp;topic_name=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%95%88%E5%8A%9B%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E7%BE%8E%E7%A0%B4%E9%98%B2%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时45分]"
+        },
+        {
           "title": "人权大过天,老外迷上中国史",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350972&amp;topic_name=%E4%BA%BA%E6%9D%83%E5%A4%A7%E8%BF%87%E5%A4%A9%2C%E8%80%81%E5%A4%96%E8%BF%B7%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%8F%B2",
           "source": "贴吧",
@@ -1959,11 +2104,12 @@
             15,
             16,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 16时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 17时45分]"
         },
         {
           "title": "默茨启程访华前发表机场讲话：与中国“脱钩”是错误，只会伤及自身",
@@ -2050,19 +2196,6 @@
           "time_info": "[12时13分 ~ 16时42分]"
         },
         {
-          "title": "谷爱凌效力中国,老美破防网暴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350992&amp;topic_name=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%95%88%E5%8A%9B%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E7%BE%8E%E7%A0%B4%E9%98%B2%E7%BD%91%E6%9A%B4",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时42分]"
-        },
-        {
           "title": "“有些国家要加15%，中国不加”",
           "url": "https://news.ifeng.com/c/8r3J6BiNltd",
           "source": "凤凰网",
@@ -2071,8 +2204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时45分]"
         },
         {
           "title": "中国首次启用关注名单制度，意味着什么？",
@@ -2084,8 +2217,93 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 17时45分]"
+        },
+        {
+          "title": "默茨抵达杭州继续中国行",
+          "url": "https://www.douyin.com/hot/2412014",
+          "source": "抖音",
+          "ranks": [
+            4,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 17时45分]"
+        },
+        {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 17时45分]"
+        },
+        {
+          "title": "渡边雄太：将中国队视为要击败的对手",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A1%E8%BE%B9%E9%9B%84%E5%A4%AA%EF%BC%9A%E5%B0%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%A7%86%E4%B8%BA%E8%A6%81%E5%87%BB%E8%B4%A5%E7%9A%84%E5%AF%B9%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时45分]"
+        },
+        {
+          "title": "中国经济如何“落子”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A6%82%E4%BD%95%E2%80%9C%E8%90%BD%E5%AD%90%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "中国手机厂商或将集体涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时46分 ~ 16时42分]"
+          "time_info": "[13时55分 ~ 17时45分]"
+        },
+        {
+          "title": "中国音乐家在纽约路边换胎时被撞身亡，年仅35岁(图)",
+          "url": "https://news.ifeng.com/c/8r3X0KSg57m",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时45分]"
+        },
+        {
+          "title": "中国公民大阪街头被劫500万日元，中领馆再次提醒近期避免赴日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658217",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时45分]"
         },
         {
           "title": "米兰酒店前台求中国网友帮忙带糖",
@@ -2121,30 +2339,6 @@
           "time_info": "12时13分"
         },
         {
-          "title": "中国男篮vs日本男篮",
-          "url": "https://www.douyin.com/hot/2412274",
-          "source": "抖音",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时42分]"
-        },
-        {
-          "title": "默茨抵达杭州继续中国行",
-          "url": "https://www.douyin.com/hot/2412014",
-          "source": "抖音",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时42分]"
-        },
-        {
           "title": "中汽协：1月中国品牌乘用车共销售132.9万辆，同比下降8.9%",
           "url": "https://wallstreetcn.com/livenews/3059251",
           "source": "华尔街见闻-快讯",
@@ -2154,17 +2348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "渡边雄太：将中国队视为要击败的对手",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A1%E8%BE%B9%E9%9B%84%E5%A4%AA%EF%BC%9A%E5%B0%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%A7%86%E4%B8%BA%E8%A6%81%E5%87%BB%E8%B4%A5%E7%9A%84%E5%AF%B9%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时42分]"
         },
         {
           "title": "中国最适合夫妻养老退休的城市",
@@ -2179,42 +2362,30 @@
           "time_info": "[00时01分 ~ 07时26分]"
         },
         {
-          "title": "中国手机厂商或将集体涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E6%88%96%E5%B0%86%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
+          "title": "中国音乐家纽约路边换胎被撞身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%AE%B6%E7%BA%BD%E7%BA%A6%E8%B7%AF%E8%BE%B9%E6%8D%A2%E8%83%8E%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            6,
-            9,
-            17
+            27,
+            26,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时42分]"
+          "time_info": "[15时50分 ~ 17时45分]"
         },
         {
-          "title": "中国音乐家在纽约路边换胎时被撞身亡，年仅35岁(图)",
-          "url": "https://news.ifeng.com/c/8r3X0KSg57m",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时42分]"
-        },
-        {
-          "title": "中国公民大阪街头被劫500万日元，中领馆再次提醒近期避免赴日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658217",
+          "title": "走进中国年丨藏在短视频里的中国年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32654409",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16,
-            14,
-            13
+            20,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时42分]"
+          "time_info": "[13时55分 ~ 17时45分]"
         },
         {
           "title": "中国投下弃权票是最大的担当",
@@ -2268,6 +2439,18 @@
           "time_info": "[00时01分 ~ 05时32分]"
         },
         {
+          "title": "中国音乐家纽约路边换胎被撞身亡",
+          "url": "https://www.toutiao.com/trending/7611012167613513771/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
+        },
+        {
           "title": "中国为何首次启用关注名单制度",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%A6%96%E6%AC%A1%E5%90%AF%E7%94%A8%E5%85%B3%E6%B3%A8%E5%90%8D%E5%8D%95%E5%88%B6%E5%BA%A6",
           "source": "百度热搜",
@@ -2292,28 +2475,26 @@
           "time_info": "[09时46分 ~ 12时13分]"
         },
         {
-          "title": "走进中国年丨藏在短视频里的中国年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32654409",
-          "source": "澎湃新闻",
+          "title": "中国首次启用关注名单制度，将 20 家日本实体列入关注名单，什么是关注名单制度？这意味着什么？",
+          "url": "https://www.zhihu.com/question/2010325070254452761",
+          "source": "知乎",
           "ranks": [
-            20,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 16时42分]"
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
-          "title": "中国音乐家纽约路边换胎被撞身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%AE%B6%E7%BA%BD%E7%BA%A6%E8%B7%AF%E8%BE%B9%E6%8D%A2%E8%83%8E%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "玉渊谭天丨中国首次启用关注名单制度，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32656351",
+          "source": "澎湃新闻",
           "ranks": [
-            27,
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时42分]"
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "中国代表严厉驳斥日本等少数国家不实言论",
@@ -2344,7 +2525,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -2366,7 +2547,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -2377,9 +2558,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "中国邮政 尘白禁区",
@@ -2388,7 +2580,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -2468,17 +2660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
-        },
-        {
-          "title": "中国音乐家纽约路边换胎被撞身亡",
-          "url": "https://www.toutiao.com/trending/7611012167613513771/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "德国“工业404”的解药在中国吗",
@@ -3104,6 +3285,17 @@
           "time_info": "[09时46分 ~ 16时42分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时45分]"
+        },
+        {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
           "url": "https://wallstreetcn.com/livenews/3059035",
           "source": "华尔街见闻-快讯",
@@ -3130,17 +3322,6 @@
           "time_info": "[03时07分 ~ 04时40分]"
         },
         {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时42分]"
-        },
-        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -3152,6 +3333,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时07分 ~ 04时40分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -3233,17 +3426,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -3261,7 +3443,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -3308,6 +3490,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 16时42分]"
+        },
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时29分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时29分]"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260226050531438800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260226050527817800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Circle涨超30%",
+          "url": "https://flash.jin10.com/detail/20260226050058223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
@@ -3389,82 +3658,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 16时42分]"
-        },
-        {
-          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3059060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时29分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时29分]"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260226050531438800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260226050527817800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 Circle涨超30%",
-          "url": "https://flash.jin10.com/detail/20260226050058223800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -3499,11 +3692,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时45分]"
         }
       ]
     },
