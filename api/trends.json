@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T12:10:53.018990+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-02-27T13:50:07.120398+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -55,6 +55,30 @@
           "time_info": "[00时54分 ~ 12时10分]"
         },
         {
+          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时50分]"
+        },
+        {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时50分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2296406",
           "source": "财联社热门",
@@ -76,11 +100,12 @@
             13,
             11,
             15,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "苹果新品来了",
@@ -96,28 +121,28 @@
           "time_info": "[00时54分 ~ 09时45分]"
         },
         {
-          "title": "英伟达重挫引发板块轮动，软件股上演逼空，避险情绪撑债汇齐涨，金涨银跌，纽铜三连涨",
-          "url": "https://wallstreetcn.com/articles/3766225",
-          "source": "华尔街见闻",
+          "title": "【早报】一夜蒸发超万亿元，英伟达创10个月最大单日跌幅；华为发布代码“神器”",
+          "url": "https://www.cls.cn/detail/2296586",
+          "source": "财联社热门",
           "ranks": [
-            2,
+            9,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时50分]"
         },
         {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时10分]"
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -135,28 +160,16 @@
           "time_info": "[00时54分 ~ 07时26分]"
         },
         {
-          "title": "【早报】一夜蒸发超万亿元，英伟达创10个月最大单日跌幅；华为发布代码“神器”",
-          "url": "https://www.cls.cn/detail/2296586",
-          "source": "财联社热门",
+          "title": "英伟达市值一夜蒸发超1.7万亿元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.7%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            1
+            4,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时10分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -187,20 +200,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
         {
-          "title": "日本芯片制造商Rapidus获得16亿美元政府资金",
-          "url": "https://wallstreetcn.com/livenews/3059978",
-          "source": "华尔街见闻-快讯",
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
           "ranks": [
-            4
+            26,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "芯片制造重大突破？阿斯麦下一代EUV已能用于大规模量产，造价翻倍！",
+          "url": "https://www.cls.cn/detail/2296643",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "市场消息：英伟达在企业交易上投入了700亿美元，以刺激芯片需求。",
@@ -252,16 +278,16 @@
           "time_info": "[02时47分 ~ 04时33分]"
         },
         {
-          "title": "英伟达市值一夜蒸发超1.7万亿元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%851.7%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
+          "title": "日本芯片制造商Rapidus获得16亿美元政府资金",
+          "url": "https://wallstreetcn.com/livenews/3059978",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "摩根大通：将英伟达(NVDA.O)目标价由250美元上调至265美元。",
@@ -286,6 +312,55 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时30分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -314,6 +389,17 @@
           "time_info": "[02时47分 ~ 04时33分]"
         },
         {
+          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059767",
           "source": "华尔街见闻-快讯",
@@ -324,17 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时30分]"
-        },
-        {
-          "title": "芯片制造重大突破？阿斯麦下一代EUV已能用于大规模量产，造价翻倍！",
-          "url": "https://www.cls.cn/detail/2296643",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
         },
         {
           "title": "特斯拉与德国工会达成庭外和解协议。",
@@ -373,30 +448,6 @@
           "time_info": "[03时42分 ~ 04时33分]"
         },
         {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
-        },
-        {
           "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
           "url": "https://wallstreetcn.com/livenews/3059758",
           "source": "华尔街见闻-快讯",
@@ -431,18 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时26分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
         },
         {
           "title": "据The Information：Meta的内部芯片设计工作遇到障碍。",
@@ -493,6 +532,17 @@
           "time_info": "[01时55分 ~ 02时47分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
           "title": "中国AI调用量首次超过美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -522,7 +572,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -538,15 +588,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
+          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "13时50分"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
@@ -566,9 +616,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "中韩半导体ETF午后开盘下挫后快速拉升，一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3060003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -599,7 +660,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -643,7 +704,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -681,24 +742,13 @@
           "time_info": "00时54分"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "恒生科技指数盘中再次转跌，此前一度涨0.9%。华虹半导体、蔚来跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3059941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -720,7 +770,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -731,7 +781,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -750,7 +800,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "“有些国家要加15%，中国不加”",
@@ -787,20 +837,6 @@
           "time_info": "[00时54分 ~ 07时26分]"
         },
         {
-          "title": "世预赛中国男篮逆转战胜日本队",
-          "url": "https://www.douyin.com/hot/2412274",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
-        },
-        {
           "title": "全球每年仅1人！祝贺这位中国科学家",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%AF%8F%E5%B9%B4%E4%BB%851%E4%BA%BA%EF%BC%81%E7%A5%9D%E8%B4%BA%E8%BF%99%E4%BD%8D%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6",
           "source": "百度热搜",
@@ -825,23 +861,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
-          "title": "中国男篮战胜日本男篮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "bilibili 热搜",
+          "title": "世预赛中国男篮逆转战胜日本队",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
           "ranks": [
-            4,
-            3,
+            1,
             2,
-            12,
-            10
+            4,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "中国男篮客场逆转击败日本男篮",
@@ -868,32 +904,20 @@
           "time_info": "[00时54分 ~ 09时45分]"
         },
         {
-          "title": "大喊“妈！” 中国人秒懂的说明火了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A6%88%EF%BC%81%E2%80%9D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A7%92%E6%87%82%E7%9A%84%E8%AF%B4%E6%98%8E%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
+          "title": "中国男篮战胜日本男篮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             4,
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 12时10分]"
-        },
-        {
-          "title": "如何看待消息称 2026 年中国手机行业将正式迎来全面涨价潮，3 月起新品最低涨 1000，老款也将调价？",
-          "url": "https://www.zhihu.com/question/2010317954231788192",
-          "source": "知乎",
-          "ranks": [
+            3,
             2,
-            4,
-            8,
-            13
+            12,
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "“极致中国化”就是叛国？英媒都看不下去了",
@@ -908,6 +932,36 @@
           "time_info": "[00时54分 ~ 12时10分]"
         },
         {
+          "title": "大喊“妈！” 中国人秒懂的说明火了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%96%8A%E2%80%9C%E5%A6%88%EF%BC%81%E2%80%9D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A7%92%E6%87%82%E7%9A%84%E8%AF%B4%E6%98%8E%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1,
+            8,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 13时50分]"
+        },
+        {
+          "title": "如何看待消息称 2026 年中国手机行业将正式迎来全面涨价潮，3 月起新品最低涨 1000，老款也将调价？",
+          "url": "https://www.zhihu.com/question/2010317954231788192",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            8,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
+        },
+        {
           "title": "中国锂电池核心技术新突破",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%94%82%E7%94%B5%E6%B1%A0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -916,11 +970,12 @@
             6,
             5,
             8,
-            3
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "中国公民大阪街头被劫500万日元，中领馆再次提醒近期避免赴日",
@@ -946,11 +1001,12 @@
             10,
             18,
             7,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "美媒惦记上中国“坠海战机”",
@@ -996,8 +1052,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -1006,11 +1062,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "中国男篮队员们赛后哭了",
@@ -1059,19 +1116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
-        },
-        {
-          "title": "全球汽车销量前10出炉 中国3家上榜",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "还在嘴硬！日防卫大臣：加强防卫力不应依赖中国",
@@ -1080,9 +1126,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "赵继伟发文鼓励中国男篮",
+          "url": "https://www.douyin.com/hot/2412824",
+          "source": "抖音",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 13时50分]"
+        },
+        {
+          "title": "美将调查撤销中国永久正常贸易地位的影响",
+          "url": "https://news.ifeng.com/c/8r5CH2Cf2dE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "全球汽车销量前10出炉 中国3家上榜",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "唐驳虎：俄伊石油商在中国大打价格战",
@@ -1100,22 +1181,24 @@
           "url": "https://www.toutiao.com/trending/7610272703174000686/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "FIBA社媒称中国男篮偷走胜利",
           "url": "https://s.weibo.com/weibo?q=%23FIBA%E7%A4%BE%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%81%B7%E8%B5%B0%E8%83%9C%E5%88%A9%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "中国男篮逆转日本获世预赛首胜",
@@ -1132,17 +1215,6 @@
           "time_info": "[00时54分 ~ 05时29分]"
         },
         {
-          "title": "赵继伟发文鼓励中国男篮",
-          "url": "https://www.douyin.com/hot/2412824",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时42分]"
-        },
-        {
           "title": "中国男篮战胜日本男篮",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1154,6 +1226,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 06时30分]"
+        },
+        {
+          "title": "宇树科技、西门子能源…默茨中国行凸显“经济”关键词，德国专家：中国不可或缺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "观点｜中国男篮：一场祛魅的比赛，一段祛魅的征程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661416",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "杨鸣点赞中国男篮",
@@ -1178,16 +1276,51 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
-          "title": "宇树科技、西门子能源…默茨中国行凸显“经济”关键词，德国专家：中国不可或缺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660465",
-          "source": "澎湃新闻",
+          "title": "如何评价本场中国男篮 vs 日本男篮的裁判吹罚？哪些判罚存在明显问题？",
+          "url": "https://www.zhihu.com/question/2010441106299512430",
+          "source": "知乎",
           "ranks": [
-            12,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2010656685698598178",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "FIBA竟称“中国男篮从日本偷走胜利”",
+          "url": "https://www.baidu.com/s?wd=FIBA%E7%AB%9F%E7%A7%B0%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BB%8E%E6%97%A5%E6%9C%AC%E5%81%B7%E8%B5%B0%E8%83%9C%E5%88%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "三大运营商合并为中国通信系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%90%88%E5%B9%B6%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "中国男篮主帅：我们靠意志取胜",
@@ -1214,16 +1347,81 @@
           "time_info": "[09时45分 ~ 12时10分]"
         },
         {
-          "title": "观点｜中国男篮：一场祛魅的比赛，一段祛魅的征程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661416",
-          "source": "澎湃新闻",
+          "title": "美媒预测中国将拥有9艘航母 够用吗",
+          "url": "https://www.toutiao.com/trending/7611358279712640550/",
+          "source": "今日头条",
           "ranks": [
-            14,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "FIBA称“中国男篮偷走胜利”",
+          "url": "https://www.douyin.com/hot/2413069",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "FIBA修改中国男篮赢球文案，国际篮联公信力遭受质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664872",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "赖清德罕见改口称中国大陆",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E7%BD%95%E8%A7%81%E6%94%B9%E5%8F%A3%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "中国男篮从落后到逆转发生了什么",
+          "url": "https://www.douyin.com/hot/2412869",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "英国UP主拿到中国五星卡",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E5%9B%BDUP%E4%B8%BB%E6%8B%BF%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%BA%94%E6%98%9F%E5%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "贺希宁希望大家重新爱上中国男篮",
+          "url": "https://www.douyin.com/hot/2412832",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "中国男篮球员赢球后落泪",
@@ -1238,17 +1436,6 @@
           "time_info": "[00时54分 ~ 01时55分]"
         },
         {
-          "title": "如何评价本场中国男篮 vs 日本男篮的裁判吹罚？哪些判罚存在明显问题？",
-          "url": "https://www.zhihu.com/question/2010441106299512430",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "富时中国A50指数期货盘初跌0.33%，上一个交易日夜盘收跌0.30%。",
           "url": "https://wallstreetcn.com/livenews/3059891",
           "source": "华尔街见闻-快讯",
@@ -1260,35 +1447,13 @@
           "time_info": "09时45分"
         },
         {
-          "title": "FIBA竟称“中国男篮从日本偷走胜利”",
-          "url": "https://www.baidu.com/s?wd=FIBA%E7%AB%9F%E7%A7%B0%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BB%8E%E6%97%A5%E6%9C%AC%E5%81%B7%E8%B5%B0%E8%83%9C%E5%88%A9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "三大运营商合并为中国通信系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%90%88%E5%B9%B6%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "媒体：中国男篮完成三重“祛魅”",
           "url": "https://www.toutiao.com/trending/7611321135372615722/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1302,17 +1467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/2010656685698598178",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "中国人民银行决定将远期售汇业务的外汇风险准备金率下调为0",
@@ -1343,7 +1497,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1362,7 +1516,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -1398,8 +1552,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
@@ -1407,11 +1561,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -1438,6 +1593,29 @@
           "time_info": "[00时54分 ~ 07时26分]"
         },
         {
+          "title": "超万亿市值蒸发！英伟达财报强劲股价却大跌 背后究竟有何原因？",
+          "url": "https://www.cls.cn/detail/2296684",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "央行：将远期售汇业务的外汇风险准备金率从20%下调至0",
+          "url": "https://www.cls.cn/detail/2296646",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
           "url": "https://wallstreetcn.com/livenews/3059902",
           "source": "华尔街见闻-快讯",
@@ -1449,6 +1627,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3060023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "中国央行公开市场今日净投放2690亿元",
           "url": "https://wallstreetcn.com/livenews/3059900",
           "source": "华尔街见闻-快讯",
@@ -1458,17 +1647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "超万亿市值蒸发！英伟达财报强劲股价却大跌 背后究竟有何原因？",
-          "url": "https://www.cls.cn/detail/2296684",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
@@ -1483,16 +1661,27 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
-          "title": "央行：将远期售汇业务的外汇风险准备金率从20%下调至0",
-          "url": "https://www.cls.cn/detail/2296646",
-          "source": "财联社热门",
+          "title": "美联储理事米兰：重申2026年需降息100个基点，警告过度监管扭曲信贷结构",
+          "url": "https://wallstreetcn.com/articles/3766286",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "周四（2月26日）纽约尾盘，标普500股指期货最终跌0.75%，道指期货跌0.31%，纳斯达克100股指期货跌1.36%。 罗素2000股指期货涨0.10%。",
@@ -1505,18 +1694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时26分]"
-        },
-        {
-          "title": "美联储理事米兰：重申2026年需降息100个基点，警告过度监管扭曲信贷结构",
-          "url": "https://wallstreetcn.com/articles/3766286",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
         },
         {
           "title": "标普500指数收跌37.27点，跌幅0.54%，报6908.85点。 道琼斯工业平均指数收涨17.05点，涨幅0.03%，报49499.20点。 纳斯达克综合指数（纳指）收跌273.694点，跌幅1.18%，报22878.383点。 纳斯达克100指数收跌294.665点，跌幅1.16%，报25034.371点。 纳斯达克生物科技指数收跌0.71%，报5987.74点。 费城半导体指数收跌3.19%，报8197.26点。 费城证交所KBW银行指数收涨1.14%，报167.30点。 道琼斯KBW地区银行指数收涨0.80%，报136.07点。",
@@ -1553,6 +1730,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时33分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
+          "url": "https://www.cls.cn/detail/2296693",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "央行决定从 2026 年 3 月 2 日起将远期售汇业务的外汇风险准备金率下调为 0，将有哪些影响？",
+          "url": "https://www.zhihu.com/question/2010646925943255670",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
@@ -1595,7 +1794,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1606,18 +1805,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1686,6 +1874,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "A股电力板块继续走强，珈伟新能、涪陵电力、南网能源午后涨停，赣能股份、豫能控股、华银电力多股此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3059999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股培育钻石板块午后快速拉升，沃尔德直线20cm涨停，力量钻石、四方达、惠丰钻石纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3059996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "墨西哥央行预测2026年GDP增长率为1.6%，高于此前报告中的1.1%；预计2027年GDP增长率为2.0%，与此前报告持平。",
@@ -1777,11 +1987,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -1806,18 +2017,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1826,11 +2026,12 @@
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -1882,6 +2083,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时29分]"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -2086,6 +2299,136 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "谷歌推出最新图像模型Nano Banana 2",
+          "url": "https://flash.jin10.com/detail/20260227001845830800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
+          "url": "https://wallstreetcn.com/livenews/3059680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时50分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
+          "title": "韩国批准谷歌的地图数据出口申请。",
+          "url": "https://flash.jin10.com/detail/20260227130247973800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://flash.jin10.com/detail/20260227020416151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "谷歌：推出Nano Banana 2，为新款Flash模型带来高保真图像生成与更快速、更先进的编辑功能。",
+          "url": "https://flash.jin10.com/detail/20260227000500429800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌深夜发布生图模型Nano Banana 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "谷歌：将于3月23日在谷歌营销平台推出Gemini Advantage。",
+          "url": "https://flash.jin10.com/detail/20260227000345749800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌：推出最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
+          "url": "https://flash.jin10.com/detail/20260227000109801800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 10,
       "titles": [
@@ -2202,113 +2545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "谷歌推出最新图像模型Nano Banana 2",
-          "url": "https://flash.jin10.com/detail/20260227001845830800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
-          "url": "https://wallstreetcn.com/livenews/3059680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时55分]"
-        },
-        {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时10分]"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
-          "url": "https://flash.jin10.com/detail/20260227020416151800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "谷歌：推出Nano Banana 2，为新款Flash模型带来高保真图像生成与更快速、更先进的编辑功能。",
-          "url": "https://flash.jin10.com/detail/20260227000500429800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌深夜发布生图模型Nano Banana 2",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "谷歌：将于3月23日在谷歌营销平台推出Gemini Advantage。",
-          "url": "https://flash.jin10.com/detail/20260227000345749800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌：推出最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
-          "url": "https://flash.jin10.com/detail/20260227000109801800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
         }
       ]
     },
