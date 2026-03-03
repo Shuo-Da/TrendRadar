@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T09:50:31.440120+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-03-03T12:12:42.846252+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "苹果3月新品第一弹",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "苹果2026春季发布会前瞻",
@@ -90,11 +90,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -102,11 +103,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -118,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
+          "url": "https://www.zhihu.com/question/2011788981294081499",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
         },
         {
           "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。",
@@ -142,6 +156,32 @@
           "time_info": "07时22分"
         },
         {
+          "title": "全国两会首场新闻发布会将于今日下午3点开启",
+          "url": "https://wallstreetcn.com/livenews/3062396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
+          "url": "https://www.zhihu.com/question/2010702851366674730",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时33分 ~ 12时12分]"
+        },
+        {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
           "url": "https://www.zhihu.com/question/2011927999839172012",
           "source": "知乎",
@@ -162,9 +202,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "AI表格Agent接入钉钉群",
+          "url": "https://wallstreetcn.com/livenews/3062395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们一直与国防部合作，对我们的协议进行一些补充，以使我们的原则非常明确。",
@@ -173,34 +224,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
-          "url": "https://www.zhihu.com/question/2010702851366674730",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            15
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时33分 ~ 09时50分]"
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -287,6 +313,17 @@
           "time_info": "[01时42分 ~ 02时41分]"
         },
         {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062077",
           "source": "华尔街见闻-快讯",
@@ -311,6 +348,18 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
+          "title": "特斯拉为什么要坚持纯视觉路线?",
+          "url": "https://www.zhihu.com/question/662049831",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -323,15 +372,37 @@
           "time_info": "[05时33分 ~ 06时24分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "特斯拉为什么销量比国产电车好？",
+          "url": "https://www.zhihu.com/question/13039955778",
+          "source": "知乎",
           "ranks": [
-            8
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "12时12分"
+        },
+        {
+          "title": "英伟达扩张生态圈：分别向两家光学技术公司投资20亿美元",
+          "url": "https://www.cls.cn/detail/2300388",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
@@ -351,7 +422,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -362,7 +433,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -387,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "特斯拉为什么要坚持纯视觉路线?",
-          "url": "https://www.zhihu.com/question/662049831",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         },
         {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
@@ -428,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -439,18 +499,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特斯拉为什么销量比国产电车好？",
-          "url": "https://www.zhihu.com/question/13039955778",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -483,7 +532,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -513,7 +562,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -523,8 +572,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -534,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -626,6 +675,21 @@
           "time_info": "[00时40分 ~ 07时22分]"
         },
         {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时41分 ~ 12时12分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -637,29 +701,26 @@
           "time_info": "[00时40分 ~ 01时42分]"
         },
         {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 09时50分]"
-        },
-        {
           "title": "美国总统特朗普2日说，他认为没有必要对伊朗采取地面军事行动。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3062292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美上诉院驳回特朗普政府推迟关税退税请求",
@@ -694,6 +755,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -744,26 +816,26 @@
           "time_info": "[03时35分 ~ 04时34分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "特朗普：不排除派地面部队",
           "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美媒：特朗普颈部疑似出现皮疹 预计红肿会持续数周",
@@ -783,9 +855,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
+          "url": "https://flash.jin10.com/detail/20260303113237211800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -838,7 +921,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -863,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
@@ -904,7 +998,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -915,7 +1009,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -970,7 +1064,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -992,7 +1086,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1000,7 +1094,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "3000 余名中国公民自伊朗撤离，一名中国公民在德黑兰遇难，目前情况如何？哪些信息值得关注？",
@@ -1106,11 +1200,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "1名中国公民在伊朗遇难",
@@ -1140,8 +1235,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "中国金球奖颁奖典礼",
@@ -1157,8 +1252,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 12时12分]"
         },
         {
           "title": "中国军号：假如战争今天爆发",
@@ -1264,6 +1359,31 @@
           "time_info": "[04时34分 ~ 09时50分]"
         },
         {
+          "title": "外国明明也有高酒精度的烈酒，为什么会喝不惯中国的白酒？",
+          "url": "https://www.zhihu.com/question/2002379875831529497",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 12时12分]"
+        },
+        {
+          "title": "伊朗放行中国油船,老美气疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351245&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E6%B2%B9%E8%88%B9%2C%E8%80%81%E7%BE%8E%E6%B0%94%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
           "title": "中方否认伊同中国接近达成导弹采购",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%A6%E8%AE%A4%E4%BC%8A%E5%90%8C%E4%B8%AD%E5%9B%BD%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%AF%BC%E5%BC%B9%E9%87%87%E8%B4%AD",
           "source": "百度热搜",
@@ -1280,39 +1400,27 @@
           "time_info": "[00时40分 ~ 05时33分]"
         },
         {
+          "title": "从三个维度看当前中国经济",
+          "url": "https://www.toutiao.com/trending/7612224215584653339/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "中国有了量子手机",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BA%86%E9%87%8F%E5%AD%90%E6%89%8B%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "伊朗放行中国油船,老美气疯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351245&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E6%B2%B9%E8%88%B9%2C%E8%80%81%E7%BE%8E%E6%B0%94%E7%96%AF",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "外国明明也有高酒精度的烈酒，为什么会喝不惯中国的白酒？",
-          "url": "https://www.zhihu.com/question/2002379875831529497",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            16
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时35分 ~ 09时50分]"
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
         },
         {
           "title": "抗战老兵：中国的和平稳定是打出来的",
@@ -1327,6 +1435,18 @@
           "time_info": "[00时40分 ~ 01时42分]"
         },
         {
+          "title": "中国为停止在伊朗的战争和袭击还可以做些什么？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683731",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
           "title": "中国充电桩“一哥”进军港股",
           "url": "https://www.toutiao.com/trending/7612602052757163526/",
           "source": "今日头条",
@@ -1339,15 +1459,48 @@
           "time_info": "[02时41分 ~ 04时34分]"
         },
         {
-          "title": "中国为停止在伊朗的战争和袭击还可以做些什么？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683731",
-          "source": "澎湃新闻",
+          "title": "新疆喀什姑娘拿下中国小姐冠军",
+          "url": "https://www.toutiao.com/trending/7612565079507632191/",
+          "source": "今日头条",
           "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "12时12分"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）富时中国A50指数成分股午盘收盘行情一览：石油、航运港口、银行股集体上攻，消费电子、白酒板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260303113633150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3062368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "西班牙国王和中国机器人握手",
+          "url": "https://www.toutiao.com/trending/7612133346110455835/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.12%，上一个交易日夜盘收涨0.16%。",
@@ -1356,15 +1509,37 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "“中国智造”何以在巴展再站C位",
+          "url": "https://www.toutiao.com/trending/7612674386743246854/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "中国石油再度涨停",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%86%8D%E5%BA%A6%E6%B6%A8%E5%81%9C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "2026年A股驱动逻辑或将发生变化",
@@ -1389,7 +1564,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1411,7 +1586,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1425,6 +1600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "上证指数早盘收报4179.46点，跌0.07%。 深证成指早盘收报14314.13点，跌1.05%。 创业板指早盘收报3279.71点，跌0.44%。 沪深300早盘收报4722.54点，跌0.13%。 科创50早盘收报1417.75点，跌3.21%。 中证500早盘收报8466.75点，跌2.21%。 中证1000早盘收报8324.70点，跌1.80%。",
+          "url": "https://wallstreetcn.com/livenews/3062390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.08%，报7198.52点。 热门中概股里，金山云初步收跌4.9%，再鼎医药、小米跌4.1%，文远知行、美团、唯品会、万国数据至多跌3.6%，晶科能源涨2.1%，贝壳涨2.2%，比亚迪涨5%，奇富科技涨5.8%，斗鱼涨7.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.32%。 XtrackersHarvest中证50（ASHS）收跌0.76%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
@@ -1493,7 +1679,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1504,9 +1690,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "“三桶油”A股连续第二日集体涨停。",
+          "url": "https://wallstreetcn.com/livenews/3062385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "凯投宏观：中东冲突或迫使亚洲央行暂停宽松",
@@ -1515,7 +1712,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1526,7 +1723,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1553,15 +1750,37 @@
           "time_info": "01时42分"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-03）",
           "url": "https://flash.jin10.com/detail/20260303090243435800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "沪指、创业板指双双翻红，此前均一度跌超1%，深成指跌幅同步收窄，油气、储能、天然气、航运等方向领涨，沪深京三市上涨个股超1600只。",
+          "url": "https://wallstreetcn.com/livenews/3062367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "纳指转涨，此前一度跌超1%，费城银行指数转而涨约0.9%，标普500指数跌幅收窄至0.2%。",
@@ -1573,6 +1792,161 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美联储",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 12时12分]"
+        },
+        {
+          "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
+          "url": "https://flash.jin10.com/detail/20260303011814305800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
+          "url": "https://wallstreetcn.com/livenews/3062086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
+          "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
+          "url": "https://wallstreetcn.com/livenews/3062131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时24分]"
+        },
+        {
+          "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时35分]"
+        },
+        {
+          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3062075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
+          "title": "Natixis：建议押注美债曲线陡化，中东冲突加剧经济和供应链风险。",
+          "url": "https://wallstreetcn.com/livenews/3062108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时34分]"
+        },
+        {
+          "title": "美国前财长耶伦：中东冲突风险令美联储更倾向于按兵不动",
+          "url": "https://www.cls.cn/detail/2300466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303021701876800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为97.5%",
+          "url": "https://flash.jin10.com/detail/20260303060508476800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美国前财长耶伦：伊朗冲突使美联储更倾向于按兵不动",
+          "url": "https://flash.jin10.com/detail/20260303021119604800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美元/日元日内涨幅达1.0%，报157.62。 美国ISM制造业数据披露后，5-10年期美债收益率涨幅扩大至10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3062025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     },
@@ -1597,11 +1971,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 09时50分]"
+          "appearance_count": 9,
+          "time_info": "[02时41分 ~ 12时12分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -1609,11 +1984,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
@@ -1726,153 +2102,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美联储",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
-          "url": "https://flash.jin10.com/detail/20260303011814305800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
-          "url": "https://wallstreetcn.com/livenews/3062086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时41分]"
-        },
-        {
-          "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
-          "url": "https://wallstreetcn.com/livenews/3062131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时24分]"
-        },
-        {
-          "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时35分]"
-        },
-        {
-          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3062075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时41分]"
-        },
-        {
-          "title": "Natixis：建议押注美债曲线陡化，中东冲突加剧经济和供应链风险。",
-          "url": "https://wallstreetcn.com/livenews/3062108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时34分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303021701876800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为97.5%",
-          "url": "https://flash.jin10.com/detail/20260303060508476800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国前财长耶伦：伊朗冲突使美联储更倾向于按兵不动",
-          "url": "https://flash.jin10.com/detail/20260303021119604800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美元/日元日内涨幅达1.0%，报157.62。 美国ISM制造业数据披露后，5-10年期美债收益率涨幅扩大至10个基点。",
-          "url": "https://wallstreetcn.com/livenews/3062025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
         }
       ]
     },
@@ -1913,6 +2145,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
+          "url": "https://flash.jin10.com/detail/20260303114847241800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
