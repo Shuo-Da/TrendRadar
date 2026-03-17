@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:03:19.091403+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-17T16:46:34.924642+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 111,
+      "match_count": 123,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时36分 ~ 15时03分]"
+        },
+        {
+          "title": "5分钟速览黄仁勋GTC演讲：万亿营收、LPU、太空芯片、一键“养虾”",
+          "url": "https://www.cls.cn/detail/2314862",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 16时46分]"
         },
         {
           "title": "最火的芯片研究机构！SemiAnalysis创始人：算力瓶颈从CoWoS转移到EUV，存储吃掉30%资本开支",
@@ -68,11 +80,12 @@
             18,
             20,
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 15时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 16时46分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -88,18 +101,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 09时49分]"
-        },
-        {
-          "title": "5分钟速览黄仁勋GTC演讲：万亿营收、LPU、太空芯片、一键“养虾”",
-          "url": "https://www.cls.cn/detail/2314862",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 15时03分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -138,11 +139,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时46分]"
         },
         {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
@@ -155,6 +157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时29分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "英伟达发布NVIDIA DLSS 5，图形学迎来“GPT时刻”",
@@ -196,7 +209,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -267,6 +280,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
+          "url": "https://wallstreetcn.com/livenews/3071516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -277,6 +301,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时00分 ~ 05时36分]"
+        },
+        {
+          "title": "“光进铜退”步子太大！英伟达新机架或“光铜并举” 这两个板块上演“冰火两重天”",
+          "url": "https://www.cls.cn/detail/2315123",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时46分]"
         },
         {
           "title": "英伟达GTC今年有哪些看点",
@@ -317,6 +354,19 @@
           "time_info": "[09时49分 ~ 15时03分]"
         },
         {
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 16时46分]"
+        },
+        {
           "title": "外网追问：中国苹果为何又多又好吃",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%BD%91%E8%BF%BD%E9%97%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E5%8F%88%E5%A4%9A%E5%8F%88%E5%A5%BD%E5%90%83",
           "source": "百度热搜",
@@ -330,17 +380,17 @@
           "time_info": "[09时49分 ~ 15时03分]"
         },
         {
-          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
-          "url": "https://www.cls.cn/detail/2315029",
-          "source": "财联社热门",
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
           "ranks": [
-            9,
-            10,
-            11
+            19,
+            18,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时03分]"
+          "time_info": "[13时57分 ~ 16时46分]"
         },
         {
           "title": "AI 裁员",
@@ -354,18 +404,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 15时03分]"
-        },
-        {
-          "title": "“光进铜退”步子太大！英伟达新机架或“光铜并举” 这两个板块上演“冰火两重天”",
-          "url": "https://www.cls.cn/detail/2315123",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -499,6 +537,18 @@
           "time_info": "[05时36分 ~ 06时29分]"
         },
         {
+          "title": "英伟达 DLSS 5 被黄仁勋称为「图形领域的 GPT 时刻」，为什么这么说？它有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2017182026260766780",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时46分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。 公司的目标是，2025-27年与数据中心相关的收入将至少达到1万亿美元。 60%的业务将面向超大规模云服务商（Hyperscalers）。",
           "url": "https://wallstreetcn.com/livenews/3071117",
           "source": "华尔街见闻-快讯",
@@ -545,18 +595,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时29分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
         },
         {
           "title": "戴尔科技率先出货搭载英伟达GB300的桌面平台",
@@ -748,9 +786,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.13%，恒生科技指数收跌0.08%。半导体板块走低，兆易创新跌超6%，华虹半导体跌超3%，锂电池板块走弱，宁德时代跌超3%，中创新航跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3071505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "英伟达CEO黄仁勋：Vera Rubin Ultra服务器将搭载144颗GPU。",
@@ -781,7 +830,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -830,6 +879,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "“芯荒”难解！SK集团董事长：存储芯片短缺或持续至2030年",
+          "url": "https://www.cls.cn/detail/2315141",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "英伟达(NVDA.O)股价冲高后快速回落，涨幅从逾4%收窄至1%。",
           "url": "https://flash.jin10.com/detail/20260317033248035800",
           "source": "金十数据",
@@ -850,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "3·15晚会点名AI投毒 中广协已启动GEO标准化建设工作",
+          "url": "https://flash.jin10.com/detail/20260317161933180800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "英伟达(NVDA.O)股价继续上涨，在首席执行官黄仁勋演讲前触及盘中高位，最新涨2.9%，报185美元以上。",
@@ -896,6 +967,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "存储芯片供应即将暴雷？三星史上最大规模罢工已迫在眉睫",
+          "url": "https://www.cls.cn/detail/2315232",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "美国总统特朗普结束新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260317011445474800",
           "source": "金十数据",
@@ -929,24 +1011,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "中国人寿：将于2026年3月26日（星期四）10:45-12:00召开2025年年度业绩发布会。",
+          "url": "https://flash.jin10.com/detail/20260317161728126800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "NX8告别老三样拥抱AI新五件",
           "url": "https://s.weibo.com/weibo?q=%23NX8%E5%91%8A%E5%88%AB%E8%80%81%E4%B8%89%E6%A0%B7%E6%8B%A5%E6%8A%B1AI%E6%96%B0%E4%BA%94%E4%BB%B6%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "英伟达 DLSS 5 被黄仁勋称为「图形领域的 GPT 时刻」，为什么这么说？它有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2017182026260766780",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -971,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "苹果首席运营官Sabih Khan现身深圳",
+          "url": "https://wallstreetcn.com/livenews/3071496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -1045,7 +1138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -1094,6 +1187,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "“Token第一股”迅策港股午后大涨超30%，此前，英伟达CEO黄仁勋提出“Token工厂经济学”，强调每瓦性能是商业变现的核心。",
+          "url": "https://wallstreetcn.com/livenews/3071493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：60%的业务将来自超大规模数据中心。",
           "url": "https://flash.jin10.com/detail/20260317031407129800",
           "source": "金十数据",
@@ -1116,6 +1220,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "英伟达(NVDA.O)： 扩大与现代汽车和起亚汽车在自动驾驶技术方面的合作。",
           "url": "https://flash.jin10.com/detail/20260317044039136800",
           "source": "金十数据",
@@ -1125,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.13%，恒生科技指数收跌0.08%；中资券商、内房、影视、蚂蚁金服、新能源车企等概念走强，光通信、风电、芯片、电池、电力设备等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260317160858233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
@@ -1215,6 +1341,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
+          "url": "https://wallstreetcn.com/livenews/3071485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
           "url": "https://flash.jin10.com/detail/20260317043630290800",
           "source": "金十数据",
@@ -1287,7 +1424,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         }
@@ -1295,7 +1432,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -1397,6 +1534,19 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时46分]"
+        },
+        {
           "title": "中美就特朗普总统访华事保持着沟通",
           "url": "https://www.toutiao.com/trending/7616995731195052086/",
           "source": "今日头条",
@@ -1436,16 +1586,18 @@
           "time_info": "[05时36分 ~ 06时29分]"
         },
         {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
           "ranks": [
+            5,
             6,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时46分]"
         },
         {
           "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
@@ -1481,17 +1633,26 @@
           "time_info": "01时57分"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时46分]"
+        },
+        {
+          "title": "中方回应特朗普称可能推迟访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "据NBC：特朗普每日都会收到结束伊朗冲突的方案选项。",
@@ -1503,6 +1664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "中方回应特朗普称推迟一个月访华",
+          "url": "https://www.toutiao.com/trending/7618123908893380150/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -1533,20 +1705,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
         {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时49分 ~ 15时03分]"
+          "time_info": "[12时15分 ~ 16时46分]"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -1585,6 +1757,18 @@
           "time_info": "[05时36分 ~ 06时29分]"
         },
         {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时46分]"
+        },
+        {
           "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
           "url": "https://flash.jin10.com/detail/20260317050036634800",
           "source": "金十数据",
@@ -1597,17 +1781,6 @@
           "time_info": "[05时36分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
-          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时03分]"
-        },
-        {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
           "source": "澎湃新闻",
@@ -1618,6 +1791,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 13时57分]"
+        },
+        {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时46分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -1656,18 +1842,6 @@
           "time_info": "[05时36分 ~ 06时29分]"
         },
         {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
-        },
-        {
           "title": "美国总统特朗普宣称：最高法院的关税判决结果不会改变（自己挑起的）关税。 （最高法院否决之后）我从另外一个方面再次挑起关税。",
           "url": "https://wallstreetcn.com/livenews/3071166",
           "source": "华尔街见闻-快讯",
@@ -1691,17 +1865,6 @@
           "time_info": "13时57分"
         },
         {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
           "title": "美国总统特朗普：美国拥有所需的一切石油。",
           "url": "https://wallstreetcn.com/livenews/3071071",
           "source": "华尔街见闻-快讯",
@@ -1711,6 +1874,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "外交部回应特朗普访华时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%B6%E9%97%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "特朗普称美方已打击伊朗逾7000个目标",
@@ -1840,7 +2025,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2101,7 +2286,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "【创业板指高开低走跌2.29%，全市场下跌个股超4500只】市场全天高开低走，创业板指午后跌超2%。钢铁板块逆势走强，酒钢宏兴、安阳钢铁涨停。房地产板块反弹，中洲控股、京能置业等涨停。大金融股盘中拉升，爱建集团涨停。下跌方面，CPO等算力硬件股集体调整，德科立、光库科技、炬光科技等多股跌超10%。个股跌多涨少，沪深京三市超4500股飘绿，今日成交2.22万亿。截止收盘沪指跌0.85%，深成指跌1.87%，创业板指跌2.29%。",
@@ -2110,7 +2295,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2402,6 +2587,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "道琼斯指数3月16日（周一）收盘上涨387.94点，涨幅0.83%，报46946.41点；<br/>标普500指数3月16日（周一）收盘上涨67.19点，涨幅1.01%，报6699.38点；<br/>纳斯达克综合指数3月16日（周一）收盘上涨268.82点，涨幅1.22%，报22374.18点。",
           "url": "https://flash.jin10.com/detail/20260317040456302800",
           "source": "金十数据",
@@ -2430,7 +2626,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2452,7 +2648,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2518,7 +2714,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2529,7 +2725,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2545,13 +2741,24 @@
           "time_info": "01时57分"
         },
         {
+          "title": "印尼央行：删除关于降息空间的声明。",
+          "url": "https://wallstreetcn.com/livenews/3071489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "瑞士央行：2025年外汇干预规模达52亿瑞士法郎，2024年为12亿瑞士法郎。",
           "url": "https://flash.jin10.com/detail/20260317141953987800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2584,9 +2791,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "印尼央行行长：将于2026年4月推出印尼与韩国之间的二维码支付系统。",
+          "url": "https://flash.jin10.com/detail/20260317160312560800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "油价飙升冲击市场降息预期，大摩：仍预计美联储6月下调利率",
@@ -2606,7 +2824,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -2658,7 +2876,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "奋进十五五你会看到这样的中国",
@@ -2693,8 +2911,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时57分 ~ 15时03分]"
+          "appearance_count": 13,
+          "time_info": "[01时57分 ~ 16时46分]"
         },
         {
           "title": "中国女足vs澳大利亚女足前瞻",
@@ -2733,11 +2951,12 @@
           "ranks": [
             4,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时46分]"
         },
         {
           "title": "2分钟看懂F1中国站",
@@ -2755,8 +2974,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时46分]"
         },
         {
           "title": "战火下的中国老板：逃离德黑兰坚守开心果工厂，感受小城的团结",
@@ -2778,8 +2997,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时46分]"
         },
         {
           "title": "埃文·凯尔宣布定居中国",
@@ -2823,11 +3042,12 @@
             16,
             18,
             24,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时46分]"
         },
         {
           "title": "中国越南部长合影 手紧紧挽在一起",
@@ -2876,6 +3096,28 @@
           "time_info": "03时54分"
         },
         {
+          "title": "漫说年初中国经济亮点",
+          "url": "https://www.douyin.com/hot/2433215",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "中方回应美是否撤回要中国护航请求",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%98%AF%E5%90%A6%E6%92%A4%E5%9B%9E%E8%A6%81%E4%B8%AD%E5%9B%BD%E6%8A%A4%E8%88%AA%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高1.5%报33,836.57点。",
           "url": "https://wallstreetcn.com/livenews/3071410",
           "source": "华尔街见闻-快讯",
@@ -2885,6 +3127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "中国女足今晚对阵澳大利亚女足",
+          "url": "https://www.douyin.com/hot/2433478",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时46分]"
         },
         {
           "title": "中国援助伊朗人道主义物资完成交接",
@@ -2922,6 +3176,18 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "4名中国人跳车逃过被卖缅甸",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B7%B3%E8%BD%A6%E9%80%83%E8%BF%87%E8%A2%AB%E5%8D%96%E7%BC%85%E7%94%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时46分]"
+        },
+        {
           "title": "中国女足能否连续两届闯入亚洲杯决赛",
           "url": "https://www.toutiao.com/trending/7617836766665379374/",
           "source": "今日头条",
@@ -2931,17 +3197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "中国女足今晚对阵澳大利亚女足",
-          "url": "https://www.douyin.com/hot/2433478",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "F1中国站赛后报告",
@@ -2983,7 +3238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -3010,17 +3265,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "4名中国人跳车逃过被卖缅甸",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B7%B3%E8%BD%A6%E9%80%83%E8%BF%87%E8%A2%AB%E5%8D%96%E7%BC%85%E7%94%B8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
           "title": "土航董事会主席：免签政策加持下中土航线需求强劲，持续加密中国航线",
           "url": "https://wallstreetcn.com/livenews/3070995",
           "source": "华尔街见闻-快讯",
@@ -3041,23 +3285,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "欧盟对两家中国公司实施制裁，外交部：坚决反对非法单边制裁",
+          "url": "https://wallstreetcn.com/livenews/3071476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时46分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -3117,6 +3373,17 @@
           "time_info": "[01时57分 ~ 03时01分]"
         },
         {
+          "title": "美联储“喉舌”会前重磅吹风：本周美联储决议紧盯三大信号！",
+          "url": "https://www.cls.cn/detail/2315281",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "周二亚太盘初，美国三大股指期货跌0.1%，罗素2000股指期货跌0.2%。 美联储为期两天的FOMC货币政策会议即将开幕。",
           "url": "https://wallstreetcn.com/livenews/3071199",
           "source": "华尔街见闻-快讯",
@@ -3126,6 +3393,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月17日（周二）上海金午盘价为1114.86元/克，较国际金价（1110.45元/克），高4.41元/克",
+          "url": "https://flash.jin10.com/detail/20260317150149528800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "金价下跌却买不进",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时46分]"
+        },
+        {
+          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3071167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时29分]"
+        },
+        {
+          "title": "黄金小幅走高 能源价格上升仍抑制金价",
+          "url": "https://flash.jin10.com/detail/20260317161959462800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
+          "url": "https://flash.jin10.com/detail/20260317115509143800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "金价大跌黄金9点开卖9点01分售罄",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%BB%84%E9%87%919%E7%82%B9%E5%BC%80%E5%8D%969%E7%82%B901%E5%88%86%E5%94%AE%E7%BD%84%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -3164,8 +3506,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 16时46分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -3199,58 +3541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月17日（周二）上海金午盘价为1114.86元/克，较国际金价（1110.45元/克），高4.41元/克",
-          "url": "https://flash.jin10.com/detail/20260317150149528800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "金价下跌却买不进",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时03分]"
-        },
-        {
-          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
-          "url": "https://wallstreetcn.com/livenews/3071167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时29分]"
-        },
-        {
-          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
-          "url": "https://flash.jin10.com/detail/20260317115509143800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         }
       ]
     },
