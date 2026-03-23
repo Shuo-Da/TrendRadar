@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T12:27:04.083660+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-03-23T14:09:06.665945+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时09分]"
         },
         {
           "title": "年内险资调研近1900次，更关注科创板和创业板个股",
@@ -84,6 +84,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 06时22分]"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 14时09分]"
         },
         {
           "title": "分析师：情绪冰点后A股市场或迎反弹",
@@ -119,17 +143,6 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "A股化工股部分拉升，金煤科技涨停，红星发展、中泰化学、新疆天业、金瑞矿业、金浦钛业跟涨。",
           "url": "https://flash.jin10.com/detail/20260323094144941800",
           "source": "金十数据",
@@ -152,6 +165,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "欧洲央行副行长金多斯：欧洲央行将在4月会议上获得更多关于伊朗冲突的信息。 欧洲央行关注伊朗冲突带来的第二轮效应。 欧洲央行准备根据需要采取相应措施。",
+          "url": "https://wallstreetcn.com/livenews/3074881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "沪指跌破3900点关口，日内跌超1.6%，深成指、创业板指均跌逾2%，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近5000只。",
           "url": "https://wallstreetcn.com/livenews/3074737",
           "source": "华尔街见闻-快讯",
@@ -169,7 +193,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -218,6 +242,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "A股三大指数均跌超3%",
+          "url": "https://flash.jin10.com/detail/20260323134605096800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "A股CPO等算力硬件股盘初调整，三安光电一字跌停，富信科技、汇绿生态、铭普光磁、金禄电子、长光华芯、炬光科技均跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3074732",
           "source": "华尔街见闻-快讯",
@@ -229,15 +264,15 @@
           "time_info": "09时54分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "A股贵金属板块大幅调整，四川黄金跌停，赤峰黄金此前跌停，山金国际、盛达资源、湖南白银、恒邦股份、中金黄金、兴业银锡等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260323134439944800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "14时09分"
         },
         {
           "title": "A股黄金概念股开盘领跌，赤峰黄金竞价跌停，山金国际、菜百股份、中金黄金、紫金矿业、恒邦股份等纷纷低开。",
@@ -273,6 +308,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "A股三大指数均跌超3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3074868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "中国央行公开市场今日净回笼1,293亿元人民币",
           "url": "https://wallstreetcn.com/livenews/3074721",
           "source": "华尔街见闻-快讯",
@@ -284,6 +330,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "A股预制菜概念调整，龙大美食、天马科技午后触及跌停，天地在线此前跌停，紫燕食品、千味央厨、岭南控股、金陵饭店跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260323133240163800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "A股农业种植板块盘初走弱，众兴菌业跌停，秋乐种业、康农种业、敦煌种业、万向德农、神农种业、冠农股份等跟跌。",
           "url": "https://flash.jin10.com/detail/20260323093609924800",
           "source": "金十数据",
@@ -293,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "沪指午后跌幅扩大至3%，深成指跌超2.7%，创业板指跌超2.3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，全市场上涨个股数不足400只。",
+          "url": "https://wallstreetcn.com/livenews/3074858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "A股煤炭板块盘处上扬，辽宁能源涨停，山西焦煤逼近涨停，云煤能源、潞安环能、平煤股份、晋控煤业、陕西黑猫跟涨。",
@@ -312,7 +380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -337,12 +405,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "上证综指日内跌幅扩大至3%，深证成指现跌2.8%，创业板指跌2.47%。",
+          "url": "https://flash.jin10.com/detail/20260323132507522800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股AI应用概念股多数走弱，天地在线跌停，卓易信息跌超8%，生意宝、真视通、创业黑马、新开普跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3074849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -388,8 +478,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
@@ -458,19 +548,31 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
+          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -512,6 +614,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时23分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时09分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -562,26 +675,16 @@
           "time_info": "[00时26分 ~ 04时22分]"
         },
         {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时27分]"
-        },
-        {
           "title": "美议员要求特朗普政府官员国会作证",
           "url": "https://news.ifeng.com/c/8riyKTIjsUK",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -594,6 +697,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普借电视短剧嘲讽英国首相",
+          "url": "https://www.cls.cn/detail/2320775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -635,7 +760,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -671,12 +796,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普重开霍尔木兹海峡的最后期限：两周！",
+          "url": "https://flash.jin10.com/detail/20260323132833482800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "日媒称中国车企全球销量 20 多年来首次超越日本位居榜首，这一排名更迭意味着什么？",
@@ -741,6 +877,18 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
+          "title": "喀麦隆称台湾为中国一省 台当局破防",
+          "url": "https://www.baidu.com/s?wd=%E5%96%80%E9%BA%A6%E9%9A%86%E7%A7%B0%E5%8F%B0%E6%B9%BE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9C%81+%E5%8F%B0%E5%BD%93%E5%B1%80%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时09分]"
+        },
+        {
           "title": "中国能源到底有啥底牌",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E5%88%B0%E5%BA%95%E6%9C%89%E5%95%A5%E5%BA%95%E7%89%8C",
           "source": "bilibili 热搜",
@@ -754,8 +902,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "库克点赞中国创新：中国开发者和制造商正成为新质生产力典范",
@@ -772,28 +920,39 @@
           "time_info": "[00时25分 ~ 09时54分]"
         },
         {
+          "title": "中国成功发射微厘空间02组卫星",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%BE%AE%E5%8E%98%E7%A9%BA%E9%97%B402%E7%BB%84%E5%8D%AB%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "中国正与世界共享技术成果",
+          "url": "https://www.douyin.com/hot/2440216",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
           "title": "喀麦隆称台湾为中国一省 台当局破防",
           "url": "https://www.toutiao.com/trending/7619255771117355017/",
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时27分]"
-        },
-        {
-          "title": "喀麦隆称台湾为中国一省 台当局破防",
-          "url": "https://www.baidu.com/s?wd=%E5%96%80%E9%BA%A6%E9%9A%86%E7%A7%B0%E5%8F%B0%E6%B9%BE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9C%81+%E5%8F%B0%E5%BD%93%E5%B1%80%E7%A0%B4%E9%98%B2",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 14时09分]"
         },
         {
           "title": "被喀麦隆标中国一省台当局破大防",
@@ -807,26 +966,15 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "中国成功发射微厘空间02组卫星",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%BE%AE%E5%8E%98%E7%A9%BA%E9%97%B402%E7%BB%84%E5%8D%AB%E6%98%9F",
+          "title": "“成为中国人”300年前就火了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D300%E5%B9%B4%E5%89%8D%E5%B0%B1%E7%81%AB%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "中国正与世界共享技术成果",
-          "url": "https://www.douyin.com/hot/2440216",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
@@ -888,6 +1036,28 @@
           "time_info": "09时54分"
         },
         {
+          "title": "英媒称「全球能源危机来袭，中国多年布局终见成效」，为什么这样说？中国的能源储备是什么水平？",
+          "url": "https://www.zhihu.com/question/2018349276070180463",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "日本教授中国旅游后感叹日本变态",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%95%99%E6%8E%88%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E6%84%9F%E5%8F%B9%E6%97%A5%E6%9C%AC%E5%8F%98%E6%80%81&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
           "title": "中国古代为什么不把银子按照铜钱的形制铸造成钱币，省去了剪和称这类流程不是更方便百姓使用？",
           "url": "https://www.zhihu.com/question/1979047803796878267",
           "source": "知乎",
@@ -897,17 +1067,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "英媒称「全球能源危机来袭，中国多年布局终见成效」，为什么这样说？中国的能源储备是什么水平？",
-          "url": "https://www.zhihu.com/question/2018349276070180463",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "韩文秀：中国自主创新能力已越过拐点，外部力量难以逆转",
@@ -921,6 +1080,17 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
+          "title": "麦当劳CEO：我们看好中国",
+          "url": "https://flash.jin10.com/detail/20260323134155550800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "富时中国A50指数期货跌幅扩大至2%。",
           "url": "https://flash.jin10.com/detail/20260323093912403800",
           "source": "金十数据",
@@ -932,13 +1102,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收低2.4%报32,722.50点。",
+          "url": "https://wallstreetcn.com/livenews/3074864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "金十图示：2026年03月23日（周一）富时中国A50指数成分股：盘面几乎全线飘绿，多数个股跌逾4%，牧原股份重挫超8%；比亚迪逆势涨超5%",
           "url": "https://flash.jin10.com/detail/20260323113452905800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -990,7 +1171,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -1039,8 +1220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -1052,8 +1233,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时09分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -1153,6 +1334,17 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
+          "title": "特斯拉为什么不抢占 40-60 区间的电车市场？",
+          "url": "https://www.zhihu.com/question/1953138286450157007",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
           "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
           "url": "https://www.cls.cn/detail/2320476",
           "source": "财联社热门",
@@ -1181,7 +1373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1192,7 +1384,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1203,7 +1395,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1222,7 +1414,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
@@ -1239,22 +1431,33 @@
           "time_info": "[03时23分 ~ 06时22分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "国内金价跌破1000元",
           "url": "https://www.toutiao.com/trending/7620270700237950500/",
           "source": "今日头条",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1272,6 +1475,17 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
+          "title": "金价重回3位数",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E3%E4%BD%8D%E6%95%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
           "title": "国际金面临“流动性劫难”，金价闪崩导致牛市根基崩塌？",
           "url": "https://flash.jin10.com/detail/20260323093918576800",
           "source": "金十数据",
@@ -1286,7 +1500,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“美联储加息”噩梦恐成真？美银：需先满足三大条件",
@@ -1304,11 +1518,23 @@
           "url": "https://www.cls.cn/detail/2320841",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时09分]"
+        },
+        {
+          "title": "花旗：美联储不太可能因油价冲击加息",
+          "url": "https://www.toutiao.com/trending/7620294400437915142/",
+          "source": "今日头条",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
@@ -1372,6 +1598,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部节能与综合利用司开展新能源汽车废旧动力电池回收利用体系建设相关研究工作",
+          "url": "https://flash.jin10.com/detail/20260323135702284800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     }
