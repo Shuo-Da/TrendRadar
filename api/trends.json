@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T01:53:52.004747+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-25T02:58:12.887634+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -72,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "吃苹果籽会导致氰化物中毒吗",
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -92,11 +92,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -106,25 +107,26 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
-        },
-        {
-          "title": "以总统刚开完发布会就遇火箭弹袭击",
-          "url": "https://www.toutiao.com/trending/7620672080866508842/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
+        {
+          "title": "以总统刚开完发布会就遇火箭弹袭击",
+          "url": "https://www.toutiao.com/trending/7620672080866508842/",
+          "source": "今日头条",
           "ranks": [
             23,
             20
@@ -140,9 +142,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
+          "url": "https://flash.jin10.com/detail/20260325021945780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
@@ -167,6 +191,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260325021429443800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "Brett Adcock旗下初创公司Hark正致力于开发与家庭相关的AI设备。",
           "url": "https://wallstreetcn.com/livenews/3076064",
           "source": "华尔街见闻-快讯",
@@ -184,9 +219,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
+          "url": "https://wallstreetcn.com/livenews/3076134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "苹果公司推出Apple Business，其中整合了设备管理、电子邮件、以及日历。 Apple Business将于4月14日上线。",
@@ -200,6 +246,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "OpenAI：发布基于提示的安全策略，帮助开发者为青少年打造适龄保护措施。",
+          "url": "https://flash.jin10.com/detail/20260325020915604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
           "url": "https://wallstreetcn.com/livenews/3076056",
           "source": "华尔街见闻-快讯",
@@ -209,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
+          "url": "https://wallstreetcn.com/livenews/3076129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美国白宫科技事务顾问Michael Kratsios在科技论坛上讲话：建议推行国家监督管理AI的方式。 （谈及近日向国会山移交的AI监管框架）AI监管应当（有助于）保护儿童（隐私）。 AI制度还应该保护“电力费率支付者”（或称“电费缴交户”，Electric Ratepayer）和知识产权（IP）。",
@@ -228,7 +296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -258,8 +326,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
+          "url": "https://wallstreetcn.com/articles/3768213",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
           "url": "https://wallstreetcn.com/articles/3768191",
@@ -272,15 +352,59 @@
           "time_info": "[00时03分 ~ 01时53分]"
         },
         {
-          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
-          "url": "https://wallstreetcn.com/articles/3768213",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
+          "url": "https://wallstreetcn.com/livenews/3076151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已同意永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260325023014175800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
+          "url": "https://wallstreetcn.com/livenews/3076150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260325022938356800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：将研究参议院就政府停摆问题达成的可能协议。",
+          "url": "https://flash.jin10.com/detail/20260325022652626800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -290,19 +414,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -312,8 +437,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -321,11 +446,45 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
+        {
+          "title": "美国总统特朗普：在伊朗取得了巨大成功。",
+          "url": "https://flash.jin10.com/detail/20260325022128210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3076142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美国国务院官员：特朗普政府仍在评估恢复美国核武器试验的方法。",
@@ -350,15 +509,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：伊朗已无领导人；我们正在与合适的人士交谈，他们想达成协议。",
+          "url": "https://flash.jin10.com/detail/20260325022030697800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "02时58分"
         },
         {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
@@ -367,7 +526,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -378,7 +537,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -411,9 +570,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "民调：特朗普支持率降至重返白宫以来最低",
+          "url": "https://wallstreetcn.com/livenews/3076119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "【特朗普转发巴基斯坦总理倡议，支持巴方主办美伊会谈】3月24日，美国总统特朗普转发了巴基斯坦总理夏巴兹提出的倡议，支持由巴方主办美伊之间“有意义且具决定性”的会谈。（央视）",
@@ -422,7 +592,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
@@ -430,7 +600,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "瑞士央行行长：瑞郎在不确定时期是避风港。",
@@ -439,7 +609,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -450,7 +620,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -463,8 +633,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
+        {
+          "title": "央行开展5000亿元MLF操作",
+          "url": "https://www.douyin.com/hot/2442122",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "瑞士央行行长Schlegel：中东局势加剧，对瑞郎汇率构成上行风险。 中期通胀压力基本上维持原状。",
@@ -473,7 +654,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -495,20 +676,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "央行开展5000亿元MLF操作",
-          "url": "https://www.douyin.com/hot/2442122",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时53分"
         },
         {
           "title": "道指、标普500指数纷纷转涨，现分别涨0.28%和0.1%。",
@@ -544,6 +714,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "报道：欧洲央行启动新一轮银行私募信贷敞口检查",
+          "url": "https://wallstreetcn.com/livenews/3076124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "瑞士央行管委会成员Tschudin：短期内，我们预计通胀将小幅上升。",
           "url": "https://flash.jin10.com/detail/20260324232338601800",
           "source": "金十数据",
@@ -561,7 +742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -590,8 +771,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "中国航空总人口超5亿 意味着什么",
@@ -601,8 +782,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "战火逼近中亚，中国为何此时加速打通这条“陆上能源命脉”？",
@@ -612,8 +793,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "顾客曝光「中园石化」太像「中国石化」，涉事加油站称名字经过审批，这算侵权吗？「傍名牌」认定标准是什么？",
@@ -624,8 +805,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "外交部回应一名日本自卫队人员闯入中国驻日本大使馆，要求日方立即彻查，具体情况如何？",
@@ -635,8 +816,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "学术期刊评价有了中国标准",
@@ -647,8 +828,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "快评｜日本自卫队现役官员强闯中国使馆，专家：不应视为个案，日本加速右倾很危险",
@@ -656,11 +837,24 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
+        },
+        {
+          "title": "闯中国使馆的日本自卫队人员已被捕",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 02时58分]"
         },
         {
           "title": "闯入中国大使馆的日本自卫队人员已被逮捕",
@@ -672,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "闯中国使馆的日本自卫队人员已被捕",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E7%9A%84%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E5%B7%B2%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
         },
         {
           "title": "为什么 BBA 在外国都被当做出租车，而在中国它就是豪华车呢？",
@@ -721,7 +904,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -731,8 +914,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -743,8 +926,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -752,22 +935,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260325010411940800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 02时58分]"
+        },
+        {
+          "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260325021257768800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "02时58分"
         }
       ]
     },
@@ -783,8 +979,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 02时58分]"
         },
         {
           "title": "周二（3月24日），美联储隔夜逆回购协议（RRP）使用规模为11.23亿美元（交易对手6家），上个交易日报8.57亿美元。",
@@ -793,7 +989,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -804,7 +1000,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
@@ -821,7 +1017,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -832,7 +1028,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
@@ -849,7 +1045,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
