@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T19:26:13.887985+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-03-28T20:45:12.070264+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普发出威胁：下一个是古巴",
@@ -28,11 +28,24 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -69,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时46分 ~ 19时26分]"
+          "appearance_count": 21,
+          "time_info": "[01时46分 ~ 20时45分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -86,15 +99,17 @@
           "time_info": "[01时46分 ~ 09时51分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
+          "time_info": "[14时54分 ~ 20时45分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -124,11 +139,12 @@
           "url": "https://news.ifeng.com/c/8rrd4miP6TY",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 20时45分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -159,19 +175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 17时33分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 19时26分]"
         },
         {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
@@ -520,6 +523,18 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
+          "url": "https://flash.jin10.com/detail/20260328182648074800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时45分]"
+        },
+        {
           "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
           "url": "https://wallstreetcn.com/livenews/3078390",
           "source": "华尔街见闻-快讯",
@@ -565,6 +580,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
@@ -631,17 +657,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
-          "url": "https://flash.jin10.com/detail/20260328182648074800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -757,8 +772,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 20时45分]"
         },
         {
           "title": "中国的海陆空“无人军团”亮相",
@@ -831,6 +846,49 @@
           "time_info": "[00时50分 ~ 06时28分]"
         },
         {
+          "title": "NeurIPS 公开道歉并表示投稿规则与往届保持一致，那会被 CCF 、中国科协放出「黑名单」吗？",
+          "url": "https://www.zhihu.com/question/2020931677703201085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时45分]"
+        },
+        {
+          "title": "中国“无人军团”集中亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%97%A0%E4%BA%BA%E5%86%9B%E5%9B%A2%E2%80%9D%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时45分]"
+        },
+        {
+          "title": "中国“无人军团”集中亮相",
+          "url": "https://www.toutiao.com/trending/7621536170828496915/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            4,
+            1,
+            5,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时45分]"
+        },
+        {
           "title": "中国「无人飞枪」首次亮相，火力配置如何？能执行哪些特殊任务？能改变未来战场格局吗？",
           "url": "https://www.zhihu.com/question/2020587663019746992",
           "source": "知乎",
@@ -859,51 +917,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时46分 ~ 19时26分]"
-        },
-        {
-          "title": "NeurIPS 公开道歉并表示投稿规则与往届保持一致，那会被 CCF 、中国科协放出「黑名单」吗？",
-          "url": "https://www.zhihu.com/question/2020931677703201085",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时26分]"
-        },
-        {
-          "title": "中国“无人军团”集中亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%97%A0%E4%BA%BA%E5%86%9B%E5%9B%A2%E2%80%9D%E9%9B%86%E4%B8%AD%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时26分]"
-        },
-        {
-          "title": "中国“无人军团”集中亮相",
-          "url": "https://www.toutiao.com/trending/7621536170828496915/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            4,
-            1,
-            5,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时26分]"
+          "appearance_count": 21,
+          "time_info": "[01时46分 ~ 20时45分]"
         },
         {
           "title": "日本防卫大臣：将依法严肃处理自卫队人员强闯中国驻日使馆一事",
@@ -917,6 +932,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时50分 ~ 09时51分]"
+        },
+        {
+          "title": "坚守在伊朗的中国商人：钱变成纸了，流失了很多订单",
+          "url": "https://news.ifeng.com/c/8rr4UMCgTfj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
         },
         {
           "title": "日方就自卫官强闯中国使馆事件深表遗憾，中方：“遗憾”远远不够",
@@ -947,15 +973,15 @@
           "time_info": "[00时50分 ~ 09时51分]"
         },
         {
-          "title": "坚守在伊朗的中国商人：钱变成纸了，流失了很多订单",
-          "url": "https://news.ifeng.com/c/8rr4UMCgTfj",
-          "source": "凤凰网",
+          "title": "精准杀伤癌细胞利器 中国有重大进展",
+          "url": "https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9D%80%E4%BC%A4%E7%99%8C%E7%BB%86%E8%83%9E%E5%88%A9%E5%99%A8+%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
           "ranks": [
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时45分]"
         },
         {
           "title": "一中国博士后遭美方盘问后自杀身亡",
@@ -988,17 +1014,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 07时29分]"
-        },
-        {
-          "title": "精准杀伤癌细胞利器 中国有重大进展",
-          "url": "https://www.baidu.com/s?wd=%E7%B2%BE%E5%87%86%E6%9D%80%E4%BC%A4%E7%99%8C%E7%BB%86%E8%83%9E%E5%88%A9%E5%99%A8+%E4%B8%AD%E5%9B%BD%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时26分]"
         },
         {
           "title": "“对经济至关重要”，肯尼亚与中国达成协议",
@@ -1070,11 +1085,12 @@
           "url": "https://flash.jin10.com/detail/20260328190740327800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时45分]"
         },
         {
           "title": "菲律宾警方发现失踪中国商人遗体",
@@ -1088,6 +1104,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时39分 ~ 06时28分]"
+        },
+        {
+          "title": "西方人为何爱上“中国式生活”",
+          "url": "https://www.toutiao.com/trending/7622230737416097331/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 20时45分]"
+        },
+        {
+          "title": "日本搞大杀器妄图“覆盖中国全境”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%90%9E%E5%A4%A7%E6%9D%80%E5%99%A8%E5%A6%84%E5%9B%BE%E2%80%9C%E8%A6%86%E7%9B%96%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%A2%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 20时45分]"
+        },
+        {
+          "title": "中国和菲律宾举行南海问题双边磋商机制第十一次会议",
+          "url": "https://wallstreetcn.com/livenews/3078558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时45分]"
         },
         {
           "title": "中国代表谴责美以袭击伊朗学校暴行",
@@ -1114,18 +1167,6 @@
         },
         {
           "title": "中国和菲律宾举行南海问题双边磋商机制第十一次会议",
-          "url": "https://wallstreetcn.com/livenews/3078558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时26分]"
-        },
-        {
-          "title": "中国和菲律宾举行南海问题双边磋商机制第十一次会议",
           "url": "https://flash.jin10.com/detail/20260328172724993800",
           "source": "金十数据",
           "ranks": [
@@ -1137,17 +1178,6 @@
           "time_info": "[18时28分 ~ 19时26分]"
         },
         {
-          "title": "西方人为何爱上“中国式生活”",
-          "url": "https://www.toutiao.com/trending/7622230737416097331/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
-        },
-        {
           "title": "外交部：再次敦促日方尽快彻查侵闯中国使馆事件，并给中方负责任的交代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32842796",
           "source": "澎湃新闻",
@@ -1157,17 +1187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 00时51分]"
-        },
-        {
-          "title": "日本搞大杀器妄图“覆盖中国全境”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%90%9E%E5%A4%A7%E6%9D%80%E5%99%A8%E5%A6%84%E5%9B%BE%E2%80%9C%E8%A6%86%E7%9B%96%E4%B8%AD%E5%9B%BD%E5%85%A8%E5%A2%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "遭中国学界集体“拉黑”后 NeurIPS道歉",
@@ -1300,8 +1319,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 20时45分]"
         },
         {
           "title": "美伊前景未明，纳指100跌幅扩大至1%，半导体股、网安股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -1313,23 +1332,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时46分 ~ 06时28分]"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            11,
-            12,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
         },
         {
           "title": "中国发布芯片研发突破成果",
@@ -1349,6 +1351,24 @@
           "time_info": "[00时50分 ~ 07时29分]"
         },
         {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            11,
+            12,
+            13,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
+        },
+        {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
@@ -1360,11 +1380,27 @@
             14,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -1424,19 +1460,19 @@
           "time_info": "[00时50分 ~ 07时29分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
           "ranks": [
-            13,
-            9,
-            8,
+            6,
             7,
-            6
+            8,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
+          "time_info": "[14时54分 ~ 20时45分]"
         },
         {
           "title": "小米大模型负责人谈未来竞争",
@@ -1482,20 +1518,6 @@
           "time_info": "[09时51分 ~ 17时33分]"
         },
         {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 19时26分]"
-        },
-        {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -1529,15 +1551,18 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特斯拉国内规模最大高速服务区超级充电站正式启用",
-          "url": "https://wallstreetcn.com/livenews/3078576",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
           "ranks": [
-            3
+            19,
+            15,
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 20时45分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -1564,17 +1589,16 @@
           "time_info": "[12时17分 ~ 16时34分]"
         },
         {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
+          "title": "特斯拉国内规模最大高速服务区超级充电站正式启用",
+          "url": "https://wallstreetcn.com/livenews/3078576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            15,
-            13
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时26分]"
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时45分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -1657,11 +1681,12 @@
           "url": "https://www.cls.cn/detail/2327698",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 20时45分]"
         },
         {
           "title": "央行：不断完善系统性金融风险防范化解体系 推动多渠道加大资本补充力度",
@@ -1689,8 +1714,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
+        },
+        {
+          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
+          "url": "https://www.zhihu.com/question/2020984478156239784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
         },
         {
           "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
@@ -1702,21 +1743,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时39分]"
-        },
-        {
-          "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
-          "url": "https://www.zhihu.com/question/2020984478156239784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
         },
         {
           "title": "标普500指数下跌1.07%，道指跌512点、跌幅1.12%，纳指跌324点、跌幅1.52%。 美国郭富强卢比奥声称，美国对伊朗的战争将持续“数周、而非好几个月”。",
@@ -1765,6 +1791,19 @@
           "time_info": "04时34分"
         },
         {
+          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2327820",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时45分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.6%，刷新日低，当前下跌380点。 标普500指数跌1.3%，道指跌587点、跌幅1.3%。",
           "url": "https://wallstreetcn.com/livenews/3078421",
           "source": "华尔街见闻-快讯",
@@ -1775,18 +1814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时51分]"
-        },
-        {
-          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2327820",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时26分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，纳指跌2.22%，生物科技指数跌2.91%，半导体指数跌1.93%，银行指数跌2.64%。",
@@ -2002,11 +2029,12 @@
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 20时45分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -2029,8 +2057,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时45分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -2059,18 +2101,16 @@
           "time_info": "[01时46分 ~ 09时51分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时26分]"
+          "time_info": "[15时42分 ~ 20时45分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -2082,18 +2122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 19时26分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -2218,11 +2246,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 20时45分]"
         },
         {
           "title": "市场已准备最坏情况？交易员开始对冲美联储两周内“紧急加息”！",
@@ -2320,8 +2349,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -2341,8 +2370,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -2356,11 +2385,12 @@
             14,
             19,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 20时45分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -2414,22 +2444,24 @@
           "source": "微博",
           "ranks": [
             10,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时45分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
           "url": "https://flash.jin10.com/detail/20260328184122077800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时45分]"
         }
       ]
     },
