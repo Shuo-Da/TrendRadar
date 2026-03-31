@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T14:15:42.970024+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-03-31T16:07:00.002574+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 47,
+      "match_count": 58,
       "titles": [
         {
           "title": "鸽派带头“转鹰”，美联储高官暗示“降息或已结束”，但“加息概率不大”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "剑指SpaceX等独角兽！纳斯达克“快速纳入”指数新规5月1日生效",
@@ -57,6 +57,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "日本央行：计划在4月至6月期间每月两次购买750亿日元、期限超过25年的日本政府债券（此前为每次750亿日元，每月两次）。",
+          "url": "https://flash.jin10.com/detail/20260331160313678800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3079624",
           "source": "华尔街见闻-快讯",
@@ -66,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "日本央行在第二季度按计划减少债券购买规模。",
+          "url": "https://wallstreetcn.com/livenews/3079979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
@@ -85,9 +107,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "日本央行：计划在4月至6月期间每月三次购买1至3年期日本政府债券，每次2550亿日元（此前为2700亿日元，每月三次）。",
+          "url": "https://flash.jin10.com/detail/20260331160139841800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：若出现第二轮效应或通胀预期出现偏离的迹象，欧洲央行将需迅速作出回应。",
@@ -121,6 +154,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "欧洲央行管委Muller：未来几季利率可能上升。 若能源价格长期居高不下，欧洲央行就必须采取行动。 欧洲央行的基准情景目前可能偏向乐观。",
+          "url": "https://wallstreetcn.com/livenews/3079975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3768766",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 16时06分]"
         },
         {
           "title": "周一（3月30日）纽约尾盘，标普500股指期货最终跌0.46%，道指期货涨0.08%，纳斯达克100股指期货跌0.90%。 罗素2000股指期货跌1.60%。",
@@ -159,16 +216,29 @@
           "time_info": "[03时54分 ~ 04时41分]"
         },
         {
-          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3768766",
-          "source": "华尔街见闻",
+          "title": "还在押注加息？高盛：参考1990年石油危机，美联储终将降息！",
+          "url": "https://www.cls.cn/detail/2330129",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时06分]"
+        },
+        {
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时15分]"
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "SpaceX等巨型IPO将获准快速纳入纳斯达克100指数",
@@ -210,18 +280,6 @@
           "time_info": "[01时02分 ~ 02时55分]"
         },
         {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
-        },
-        {
           "title": "美联储威廉姆斯：美联储2024年和2025年的降息举措非常具有建设性。",
           "url": "https://flash.jin10.com/detail/20260331045610979800",
           "source": "金十数据",
@@ -257,6 +315,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "欧洲央行管委穆勒：未来几季度利率可能上升。若能源价格长期居高不下，欧洲央行就必须采取行动。欧洲央行的基准情景目前可能偏向乐观。",
+          "url": "https://flash.jin10.com/detail/20260331160019804800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "A股3月收官 主要指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7622943793746100265/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "A股旅游概念震荡拉升，中化岩土、三湘印象、平潭发展三股涨停，中体产业涨超6%，天润科技、巨人网络跟涨。",
           "url": "https://flash.jin10.com/detail/20260331094711736800",
           "source": "金十数据",
@@ -266,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "瑞士央行微调资产负债表 决心防止汇率过强",
+          "url": "https://flash.jin10.com/detail/20260331160010453800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "A股CPO板块盘初走低，四会富仕跌超9%，华盛昌、德科立、太辰光、长光华芯、铭普光磁跟跌。",
@@ -285,7 +376,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -301,6 +392,28 @@
           "time_info": "10时01分"
         },
         {
+          "title": "自伊朗冲突爆发以来 全球央行已抛售815亿美元的美债",
+          "url": "https://wallstreetcn.com/livenews/3079971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "中东战争成“降息梦”绝杀？美联储“三把手”：当前政策立场恰到好处！",
+          "url": "https://www.cls.cn/detail/2329855",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
           "url": "https://wallstreetcn.com/livenews/3079560",
           "source": "华尔街见闻-快讯",
@@ -310,17 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "还在押注加息？高盛：参考1990年石油危机，美联储终将降息！",
-          "url": "https://www.cls.cn/detail/2330129",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
         },
         {
           "title": "道琼斯指数3月30日（周一）收盘上涨49.68点，涨幅0.11%，报45216.32点；<br/>标普500指数3月30日（周一）收盘下跌25.09点，跌幅0.39%，报6343.76点；<br/>纳斯达克综合指数3月30日（周一）收盘下跌153.72点，跌幅0.73%，报20794.64点。",
@@ -356,6 +458,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "A股3月收官！主要指数本月集体收跌",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A13%E6%9C%88%E6%94%B6%E5%AE%98%EF%BC%81%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E6%9C%AC%E6%9C%88%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "印度央行：已取消禁止向开展做市交易的证券做市商提供融资的禁令。",
           "url": "https://flash.jin10.com/detail/20260331005417697800",
           "source": "金十数据",
@@ -373,7 +486,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -516,7 +629,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -530,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "能源通胀反弹至3% 波兰央行或告别“激进降息”模式",
+          "url": "https://flash.jin10.com/detail/20260331155129212800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.2%。煤炭、油气、农业、化工、半导体等方向跌幅居前，个股跌多涨少，沪深京三市下跌个股超3500只。",
@@ -559,8 +683,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 14时15分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 16时06分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -583,8 +707,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时38分 ~ 14时15分]"
+          "appearance_count": 9,
+          "time_info": "[05时38分 ~ 16时06分]"
+        },
+        {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -598,18 +734,6 @@
           "time_info": "[02时55分 ~ 04时41分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -619,6 +743,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时52分]"
+        },
+        {
+          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://www.cls.cn/detail/2329919",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
@@ -638,7 +774,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -660,7 +796,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -676,18 +812,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
-        },
-        {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
           "url": "https://wallstreetcn.com/articles/3768825",
           "source": "华尔街见闻",
@@ -696,8 +820,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
+        },
+        {
+          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
+          "url": "https://www.cls.cn/detail/2329869",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2329789",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 16时06分]"
         },
         {
           "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
@@ -736,31 +887,6 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2329789",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时15分]"
-        },
-        {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
-        },
-        {
           "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
           "url": "https://www.zhihu.com/question/2022216922670915942",
           "source": "知乎",
@@ -769,8 +895,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
@@ -780,8 +906,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
@@ -808,26 +957,16 @@
           "time_info": "[02时55分 ~ 03时54分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "time_info": "[14时15分 ~ 16时06分]"
         },
         {
           "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
@@ -976,17 +1115,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
           "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
           "url": "https://flash.jin10.com/detail/20260330235332254800",
           "source": "金十数据",
@@ -1034,7 +1162,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "鲍威尔：美联储可暂时忽略油价冲击，倾向于维持利率不变",
@@ -1050,6 +1178,18 @@
           "time_info": "[03时54分 ~ 14时15分]"
         },
         {
+          "title": "鲍威尔称美联储可忽略油价冲击，但警告耐心有限",
+          "url": "https://wallstreetcn.com/articles/3768795",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
+        },
+        {
           "title": "鲍威尔：美联储利率处于“有利位置”，可忽略伊朗相关油价冲击、但要警惕通胀预期变化",
           "url": "https://wallstreetcn.com/articles/3768795",
           "source": "华尔街见闻",
@@ -1061,18 +1201,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时41分 ~ 07时31分]"
-        },
-        {
-          "title": "鲍威尔称美联储可忽略油价冲击，但警告耐心有限",
-          "url": "https://wallstreetcn.com/articles/3768795",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
         },
         {
           "title": "美国纽约联储主席（享有FOMC永久票委，号称美联储三把手）威廉姆斯：基本假设是，美国经济前景非常不错。 油价面临巨大的不确定性。 核心通胀预期还没有（显著地）受到油价冲击的影响。 监管的目标是银行业安全性，而不是储备金的规模。",
@@ -1336,6 +1464,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美联储主席在哈佛讲了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9C%A8%E5%93%88%E4%BD%9B%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "美联储威廉姆斯：低就业增速可能加剧经济悲观情绪。",
           "url": "https://flash.jin10.com/detail/20260331040117235800",
           "source": "金十数据",
@@ -1449,7 +1588,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -1549,8 +1688,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "韩国向中国14个城市发放十年签",
@@ -1608,6 +1747,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "外交部揭底自卫队官员为何持刀闯入中国驻日本大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "港股内房股震荡走强，融信中国(03301.HK)涨超3%，华润置地(01109.HK)、融创中国(01918.HK)、万科企业(02202.HK)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260331094920005800",
           "source": "金十数据",
@@ -1636,11 +1786,25 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
+        },
+        {
+          "title": "日方称愿缓和与中国的外交紧张关系，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862166",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时06分]"
         },
         {
           "title": "预计2035年中国不孕不育夫妇7440万对",
@@ -1656,16 +1820,15 @@
           "time_info": "[10时01分 ~ 14时15分]"
         },
         {
-          "title": "日方称愿缓和与中国的外交紧张关系，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862166",
-          "source": "澎湃新闻",
+          "title": "中国学者遭美方盘问后自杀，中领馆回应",
+          "url": "https://news.ifeng.com/c/8rwH1tjBu0m",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时15分]"
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "时隔6年中国航班再次抵达朝鲜",
@@ -1714,15 +1877,16 @@
           "time_info": "[12时53分 ~ 14时15分]"
         },
         {
-          "title": "中国学者遭美方盘问后自杀，中领馆回应",
-          "url": "https://news.ifeng.com/c/8rwH1tjBu0m",
-          "source": "凤凰网",
+          "title": "中国学者遭美盘问后自杀 中领馆发声",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E9%81%AD%E7%BE%8E%E7%9B%98%E9%97%AE%E5%90%8E%E8%87%AA%E6%9D%80+%E4%B8%AD%E9%A2%86%E9%A6%86%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            12
+            25,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "time_info": "[14时15分 ~ 16时06分]"
         },
         {
           "title": "媒体人：张雪让中国摩托站上世界之巅",
@@ -1764,7 +1928,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1824,17 +1988,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "中国学者遭美盘问后自杀 中领馆发声",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E9%81%AD%E7%BE%8E%E7%9B%98%E9%97%AE%E5%90%8E%E8%87%AA%E6%9D%80+%E4%B8%AD%E9%A2%86%E9%A6%86%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
           "title": "提醒：北京时间09:30将公布中国3月官方制造业和非制造业PMI。",
           "url": "https://wallstreetcn.com/livenews/3079696",
           "source": "华尔街见闻-快讯",
@@ -1849,8 +2002,20 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 16时06分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
@@ -1881,18 +2046,6 @@
           "time_info": "[01时02分 ~ 14时15分]"
         },
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时15分]"
-        },
-        {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
@@ -1902,6 +2055,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -1916,28 +2081,17 @@
           "time_info": "[01时02分 ~ 07时31分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
-        },
-        {
           "title": "凌晨3点上班,AI卷疯打工人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "外资买成芯片设计ETF第一大持有人，年内上市ETF首现",
@@ -1990,6 +2144,18 @@
           "time_info": "[04时41分 ~ 06时32分]"
         },
         {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
+        },
+        {
           "title": "AI 会让年轻人的机会变多还是变少？",
           "url": "https://www.zhihu.com/question/2016930184062789503",
           "source": "知乎",
@@ -2012,17 +2178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时54分 ~ 05时39分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -2049,6 +2204,18 @@
           "time_info": "[02时55分 ~ 03时54分]"
         },
         {
+          "title": "AI演员 拼尸块",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 16时06分]"
+        },
+        {
           "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
           "url": "https://wallstreetcn.com/livenews/3079560",
           "source": "华尔街见闻-快讯",
@@ -2070,17 +2237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "AI演员 拼尸块",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
         },
         {
           "title": "马斯克：特斯拉(TSLA.O)正在日本进行大规模投资，包括服务设施和超级充电站的建设。特斯拉的许多零部件都是在日本制造的。在过去的20年里，松下一直是我们的最大战略供应商。",
@@ -2122,9 +2278,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "集邦咨询：AI服务器需求支撑第二季度存储器合约价上行，CSP借长期协议锁定供货",
+          "url": "https://wallstreetcn.com/livenews/3079965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "据英国金融时报：英国芯片初创公司Fractile寻求筹集2亿美元以挑战英伟达(NVDA.O)。",
@@ -2160,15 +2327,37 @@
           "time_info": "07时31分"
         },
         {
+          "title": "普通人被AI短剧偷脸成猥琐好色角色",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E5%81%B7%E8%84%B8%E6%88%90%E7%8C%A5%E7%90%90%E5%A5%BD%E8%89%B2%E8%A7%92%E8%89%B2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
           "url": "https://wallstreetcn.com/livenews/3079855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "客服回应“苹果AI国行上线”：未发布",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E2%80%9C%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E4%B8%8A%E7%BA%BF%E2%80%9D%EF%BC%9A%E6%9C%AA%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "新加坡电信砸2.5亿美元投AI",
@@ -2180,6 +2369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "机构：AI服务器需求支撑2026年第二季度存储器合约价上行 CSP借长期协议锁定供货",
+          "url": "https://flash.jin10.com/detail/20260331155135215800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国纽约联储主席（享有FOMC永久票委，号称美联储三把手）威廉姆斯：基本假设是，美国经济前景非常不错。 油价面临巨大的不确定性。 核心通胀预期还没有（显著地）受到油价冲击的影响。 监管的目标是银行业安全性，而不是储备金的规模。 2025年数据中可能存在AI的影响，但主要的仍然要未来才会体现出来。",
@@ -2289,11 +2489,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时06分]"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -2464,7 +2665,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
