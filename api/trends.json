@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T00:36:28.166324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:31:46.320117+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -26,19 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
           "url": "https://wallstreetcn.com/livenews/3082271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -48,19 +49,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
           "url": "https://wallstreetcn.com/livenews/3082267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "马克龙回怼特朗普",
@@ -70,8 +72,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
+          "url": "https://wallstreetcn.com/livenews/3082282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -131,6 +144,115 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
+          "url": "https://www.zhihu.com/question/2023407372723332647",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "工信部紧急提醒苹果用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "业内：苹果欲牺牲利润阻击对手",
+          "url": "https://www.douyin.com/hot/2453780",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "40岁男子AI成瘾无法接受版本更新",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "工信部提醒苹果用户：做好风险排查",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%EF%BC%9A%E5%81%9A%E5%A5%BD%E9%A3%8E%E9%99%A9%E6%8E%92%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "苹果第8号员工至今还在职",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%E8%87%B3%E4%BB%8A%E8%BF%98%E5%9C%A8%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
+          "url": "https://www.zhihu.com/question/2020797858002073328",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国 十五五规划",
       "match_count": 9,
       "titles": [
@@ -142,8 +264,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "“一步一步”里的中国力量",
@@ -153,8 +275,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "经济日报头版头条再发文：驳“中国经济治理失效论”",
@@ -164,8 +286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "专访丨驾驶“张雪机车”夺冠的车手德比斯：我的冠军成绩，就是中国制造的水平",
@@ -175,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "“马克龙有点难：如何不让中国觉得自己站高市”",
@@ -186,19 +308,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "美国博主中国游后抵达印度被惊呆",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%90%8E%E6%8A%B5%E8%BE%BE%E5%8D%B0%E5%BA%A6%E8%A2%AB%E6%83%8A%E5%91%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "外交部回应「伊朗是否向中国寻求安全保障」，表示中方支持一切有利于和平的努力，释放哪些信号？",
@@ -208,19 +331,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "美国博主中国游后抵达印度被惊呆",
           "url": "https://www.toutiao.com/trending/7623766578236882963/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "张雪 中国摩托的爽文",
@@ -237,7 +361,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "就在今晚！中东战火下首份非农出炉：美联储会倒向降息还是加息？",
@@ -247,30 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "因伊朗战争，意大利央行将2026年GDP增速预期从0.6%下调至0.5%。",
-          "url": "https://flash.jin10.com/detail/20260404000128690800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
-          "url": "https://wallstreetcn.com/livenews/3082278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "央行将开展8000亿元买断式逆回购",
@@ -280,30 +382,67 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "机构：美联储今年可能两次降息以支持劳动力市场",
+          "url": "https://flash.jin10.com/detail/20260404004504327800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
+        },
+        {
+          "title": "因伊朗战争，意大利央行将2026年GDP增速预期从0.6%下调至0.5%。",
+          "url": "https://flash.jin10.com/detail/20260404000128690800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
+          "url": "https://wallstreetcn.com/livenews/3082278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "全球央行“囤金时代”结束了吗",
           "url": "https://www.toutiao.com/trending/7624509232368324115/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "“新美联储通讯社”：就业超预期增长暂解美联储两难，市场削减降息押注",
           "url": "https://wallstreetcn.com/livenews/3082270",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "周五（4月3日），美国股指期货提前结束交易，标普500股指期货（在非农就业报告发布后）最终跌0.32%，道指期货跌0.23%，纳斯达克100股指期货跌0.38%。 罗素2000股指期货跌0.52%。",
@@ -319,124 +458,88 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "keyword_group": "美债 美联储",
       "match_count": 7,
       "titles": [
         {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
+          "title": "美国法官拒绝重新审理针对美联储主席鲍威尔的调查裁决。",
+          "url": "https://flash.jin10.com/detail/20260404004252143800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
         },
-        {
-          "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
-          "url": "https://www.zhihu.com/question/2023407372723332647",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "工信部紧急提醒苹果用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "工信部提醒苹果用户：做好风险排查",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%EF%BC%9A%E5%81%9A%E5%A5%BD%E9%A3%8E%E9%99%A9%E6%8E%92%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "业内：苹果欲牺牲利润阻击对手",
-          "url": "https://www.douyin.com/hot/2453780",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "40岁男子AI成瘾无法接受版本更新",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美联储",
-      "match_count": 3,
-      "titles": [
         {
           "title": "美联储戴利：劳动力增长放缓意味着就业岗位增长放缓。",
           "url": "https://flash.jin10.com/detail/20260404000152528800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美国3月份平均每周工作时间的下降，导致私营部门工人综合周薪指数（综合了招聘、薪资和工作时长）增长甚微。其12个月变化率小幅下降至3.9%。",
           "url": "https://flash.jin10.com/detail/20260403233203889800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美国失业率为4.256%，在过去两年中保持显著稳定，波动幅度非常小，此前从2023年的3.5%的低点上升。3月份永久性失业人数略有下降。",
           "url": "https://flash.jin10.com/detail/20260403233034887800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "美联储戴利：要传达“‘零就业增长经济与充分就业相一致”这一观点并不容易",
+          "url": "https://wallstreetcn.com/livenews/3082279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
+        },
+        {
+          "title": "美联储戴利：美联储应关注就业率而非就业人数",
+          "url": "https://flash.jin10.com/detail/20260404001306539800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "美联储戴利：（就业）零增长或负增长并不一定意味着经济疲软。",
+          "url": "https://flash.jin10.com/detail/20260404000528130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -449,11 +552,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     },
