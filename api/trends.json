@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T04:49:37.914741+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-04-15T05:47:11.337319+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
@@ -16,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
+        },
+        {
+          "title": "时隔近4周！沪指4000点失而复得，创业板指同期领跑，大中盘股成“香饽饽”",
+          "url": "https://www.cls.cn/detail/2343684",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "英国央行行长贝利：必须评估（伊朗战争的）第一轮效应和第二轮效应。",
@@ -31,6 +43,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "欧洲央行行长拉加德：央行在应对伊朗局势方面处于良好状态。",
+          "url": "https://wallstreetcn.com/livenews/3087990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
           "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。",
           "url": "https://wallstreetcn.com/livenews/3087890",
           "source": "华尔街见闻-快讯",
@@ -42,16 +65,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "时隔近4周！沪指4000点失而复得，创业板指同期领跑，大中盘股成“香饽饽”",
-          "url": "https://www.cls.cn/detail/2343684",
-          "source": "财联社热门",
+          "title": "周二（4月14日）纽约尾盘，标普500股指期货最终涨1.16%，道指期货涨0.73%，纳斯达克100股指期货涨1.74%。 罗素2000股指期货涨1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3087985",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -83,7 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -94,9 +116,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "欧洲央行行长拉加德将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260415045000001800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "标普500指数收涨81.14点，涨幅1.18%，报6967.38点，整体持续上涨，逼近1月28日顶部7002.28点。 道琼斯工业平均指数收涨317.74点，涨幅0.66%，报48535.99点。 纳斯达克综合指数（纳指）收涨455.347点，涨幅1.96%，报23639.083点。 纳斯达克100指数收涨458.28点，涨幅1.81%，报25841.996点。 费城半导体指数收涨2.04%，报9224.121点，连续五个交易日创收盘历史新高。 费城证交所KBW银行指数收跌0.12%，报166.93点。 道琼斯KBW地区银行指数收跌0.31%，报134.02点。 纳斯达克生物科技指数收涨1.99%，报6067.06点。",
@@ -105,9 +138,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "华尔街“免疫”美伊战局 市场重心重回财报及基本面",
+          "url": "https://flash.jin10.com/detail/20260415044524138800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.35%，报7016.57点。 热门中概股里，京东涨7.7%，世纪互联涨6.7%，百度涨5.4%，阿特斯太阳能涨5.1%，文远知行涨4%，阿里巴巴涨2.6%。 ETF中，中概互联网指数ETF（KWEB）收涨2.26%，中国科技指数ETF（CQQQ）收涨1.87%。 XtrackersHarvest中证50（ASHS）收涨1.76%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%。",
@@ -116,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -187,6 +231,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
+          "url": "https://wallstreetcn.com/livenews/3087968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
           "title": "标普500指数涨幅扩大至1%，电信板块涨3%，可选消费板块涨2.5%，科技板块涨1%，能源板块跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3087871",
           "source": "华尔街见闻-快讯",
@@ -215,7 +270,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -245,7 +300,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -256,41 +311,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
-        },
-        {
-          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3087963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
-          "url": "https://wallstreetcn.com/livenews/3087961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
-          "url": "https://wallstreetcn.com/livenews/3087960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -302,8 +324,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -313,8 +335,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
@@ -325,8 +347,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -334,11 +356,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -348,8 +371,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -359,8 +382,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -370,8 +393,65 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
+        },
+        {
+          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
+          "url": "https://wallstreetcn.com/livenews/3087988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3087963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
+          "url": "https://wallstreetcn.com/livenews/3087960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时47分]"
         },
         {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
@@ -380,9 +460,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "Meta与博通就定制款AI芯片签署协议",
+          "url": "https://wallstreetcn.com/livenews/3087983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
+          "url": "https://flash.jin10.com/detail/20260415045655489800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
@@ -394,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
         },
         {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
@@ -424,7 +515,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -438,12 +529,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
+          "url": "https://wallstreetcn.com/livenews/3087974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -451,11 +553,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 05时47分]"
         },
         {
           "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
@@ -466,8 +569,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "欧盟拟将钢铁关税翻倍至50%，寻求“遏制中国廉价进口”",
@@ -478,8 +581,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "美国正在“阻击”中国车",
@@ -490,8 +593,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
@@ -502,8 +605,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
@@ -513,8 +616,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "外国人一季度买了50亿元中国保温杯",
@@ -523,11 +626,12 @@
           "ranks": [
             30,
             15,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "lululemon中国市场成救命稻草",
@@ -538,8 +642,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
         },
         {
           "title": "外国泡面厂商不觊觎中国市场吗?",
@@ -547,11 +651,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 05时47分]"
         },
         {
           "title": "外交部回应韩国标注中国台湾",
@@ -562,8 +667,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 05时47分]"
         },
         {
           "title": "变天之后，匈牙利新政府将如何对待中国？",
@@ -572,9 +677,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "为什么在中国邮箱不流行？",
+          "url": "https://www.zhihu.com/question/378318261",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 05时47分]"
         },
         {
           "title": "伊朗总统赞扬中国等6国反战立场",
@@ -601,149 +717,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时08分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
-        },
-        {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
-          "url": "https://wallstreetcn.com/livenews/3087958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
-          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
-          "url": "https://wallstreetcn.com/livenews/3087881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
-          "url": "https://flash.jin10.com/detail/20260415020934030800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "摩根大通：特朗普所谓的“黑名单”说法毫无道理",
-          "url": "https://wallstreetcn.com/livenews/3087907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
-          "url": "https://flash.jin10.com/detail/20260415002745686800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美联储",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储保尔森、巴尔金、柯林斯和理事巴尔将于十分钟后在美联储理事会的工作论坛上参加一场炉边谈话。",
@@ -755,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "和谈预期催生美债看涨押注 市场观望致成交萎缩",
+          "url": "https://flash.jin10.com/detail/20260415050018826800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "金十提示：美联储理事巴尔在准备的讲话中未就美国经济前景和货币政策发表评论。",
@@ -812,6 +798,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "白宫顾问哈塞特赞赏“凯文·沃什将掌管美联储”。",
+          "url": "https://wallstreetcn.com/livenews/3087976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
           "title": "据路透社报道，美国参议院银行委员会当地时间周二表示，将于4月21日就美联储主席提名人凯文·沃什举行听证会。这意味着在现任主席鲍威尔任期结束前，留给议员们完成其确认程序的时间不足一个月。",
           "url": "https://flash.jin10.com/detail/20260415021548381800",
           "source": "金十数据",
@@ -829,7 +826,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -858,8 +855,151 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时08分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时08分]"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时07分 ~ 05时47分]"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
+          "url": "https://wallstreetcn.com/livenews/3087958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
+          "url": "https://wallstreetcn.com/livenews/3087881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
+          "url": "https://flash.jin10.com/detail/20260415020934030800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "摩根大通：特朗普所谓的“黑名单”说法毫无道理",
+          "url": "https://wallstreetcn.com/livenews/3087907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
+          "url": "https://flash.jin10.com/detail/20260415002745686800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -872,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 04时49分]"
+        },
+        {
+          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 05时47分]"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -894,6 +1045,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
+          "url": "https://wallstreetcn.com/livenews/3087965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gitlab宣布，与谷歌云合作。",
+          "url": "https://wallstreetcn.com/livenews/3087967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价涨超2%，收复4800美元之后持续扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3087977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         }
       ]
     },
@@ -908,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
