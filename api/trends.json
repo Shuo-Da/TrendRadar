@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T04:02:03.688217+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-16T05:48:20.468679+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
           "url": "https://flash.jin10.com/detail/20260416015000001800",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -47,9 +58,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "周三（4月15日）纽约尾盘，标普500股指期货最终涨0.76%，道指期货跌0.08%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3088788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "瑞士央行行长施莱格尔：在当前情况下，如果出现二轮效应，央行应及早果断采取行动。",
@@ -63,15 +85,15 @@
           "time_info": "02时08分"
         },
         {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
+          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
+          "url": "https://wallstreetcn.com/livenews/3088787",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
@@ -154,15 +176,59 @@
           "time_info": "02时08分"
         },
         {
+          "title": "欧洲央行执委施纳贝尔：我们必须保持对数据的依赖，仔细思考哪些数据能告诉我们通胀可能会变得根深蒂固，并产生二次影响。",
+          "url": "https://flash.jin10.com/detail/20260416043137623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：我们处于相对有利的位置，因为在战争开始之前，我们成功将通胀降至2%，并且货币政策立场总体上是中性的。",
+          "url": "https://flash.jin10.com/detail/20260416043059246800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
+          "url": "https://flash.jin10.com/detail/20260416043055184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
           "title": "摩根士丹利财报表现强劲后再度发债，摩根大通拟发债融资至少70亿美元",
           "url": "https://wallstreetcn.com/livenews/3088737",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3088777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "消息人士：欧洲央行政策制定者对4月加息持谨慎态度，因为尚无二轮通胀效应的证据。",
@@ -174,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
+          "url": "https://flash.jin10.com/detail/20260416042934019800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "标普500指数创下盘中历史新高，报7003.82点，日内涨幅达0.5%。",
@@ -204,9 +281,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
+          "url": "https://wallstreetcn.com/livenews/3088774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "瑞士央行行长施莱格尔：我们在外汇市场干预的意愿已经增加。",
@@ -218,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：高通胀的记忆依然非常鲜明。通胀预期可能更脆弱。",
+          "url": "https://flash.jin10.com/detail/20260416042621327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "瑞士央行行长施莱格尔：现在说我们是否会面临2021-22年情况的重演还为时尚早。",
@@ -248,9 +347,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，原材料板块收跌1.3%，工业板块跌1.24%，能源板块跌0.28%，电信、可选消费板块则至多收涨1.37%，信息技术/科技板块涨2.08%。",
+          "url": "https://wallstreetcn.com/livenews/3088768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞士对外部冲击的敞口对货币政策工具具有重要影响。",
@@ -262,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "道琼斯指数4月15日（周三）收盘下跌72.27点，跌幅0.15%，报48463.72点；<br/>标普500指数4月15日（周三）收盘上涨55.57点，涨幅0.80%，报7022.95点；<br/>纳斯达克综合指数4月15日（周三）收盘上涨376.93点，涨幅1.59%，报24016.02点。",
+          "url": "https://flash.jin10.com/detail/20260416040520495800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞郎是今天为数不多的安全避风港之一。",
@@ -281,9 +402,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
+          "url": "https://flash.jin10.com/detail/20260416040118406800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们应当非常警惕，非常谨慎。",
@@ -295,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.75%，报7068.97点。 热门中概股里，小马智行初步收涨7.8%，再鼎医药涨5.7%，Boss直聘涨5.5%，百度涨2.2%，阿里涨1.5%，腾讯涨0.8%。KWEB涨0.9%。 ETF中，中概互联网指数ETF（KWEB）收涨0.92%，中国科技指数ETF（CQQQ）收跌0.24%。 德银嘉实沪深300指数ETF（ASHR）收跌0.84%，XtrackersHarvest中证50（ASHS）收跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3088758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
@@ -310,8 +453,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -321,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -332,8 +475,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -343,8 +486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -354,8 +497,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -365,8 +508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -376,19 +519,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
-          "url": "https://flash.jin10.com/detail/20260416033511028800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -400,8 +532,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -411,8 +543,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -423,8 +555,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
+        {
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260416033511028800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
@@ -433,7 +576,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -444,7 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -455,7 +598,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -477,7 +620,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -488,7 +631,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -518,7 +661,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "视频丨法国全票通过！“将不义之财归还中国”",
@@ -530,8 +673,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "2026中国大学排名",
@@ -541,20 +684,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "2026软科中国大学排名发布",
-          "url": "https://www.douyin.com/hot/2466951",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "中国钨出口管制对日本影响几何",
@@ -565,8 +696,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
+        {
+          "title": "2026软科中国大学排名发布",
+          "url": "https://www.douyin.com/hot/2466951",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "2026中国大学排名",
@@ -578,8 +722,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "中国U20女足0:2日本",
@@ -588,11 +732,26 @@
           "ranks": [
             14,
             17,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
+        {
+          "title": "无缘决赛！U20女足中国0-2日本",
+          "url": "https://www.toutiao.com/trending/7628142654219911204/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            28,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "机构发布“2026中国大学排名”",
@@ -602,8 +761,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
@@ -613,8 +772,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
@@ -622,24 +781,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "无缘决赛！U20女足中国0-2日本",
-          "url": "https://www.toutiao.com/trending/7628142654219911204/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "在德读硕中国小伙多次下药迷奸女友",
@@ -650,8 +797,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
+        {
+          "title": "中国U20女足0-2日本无缘决赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B30-2%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "美歌手在联合国高唱《我爱你中国》",
@@ -661,17 +819,6 @@
             29,
             28,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "中国U20女足0-2日本无缘决赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B30-2%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -709,13 +856,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "国台办谈丹麦把台湾人“国籍”改中国",
+          "url": "https://www.toutiao.com/trending/7628206506260958739/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "中方坚决反对英方排除中国产品",
+          "url": "https://www.toutiao.com/trending/7628511697808179263/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "匈牙利总理用“三个最”描述中国",
+          "url": "https://www.toutiao.com/trending/7628053353528033321/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027378015303157221",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
         {
           "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
           "url": "https://wallstreetcn.com/livenews/3088698",
@@ -728,24 +920,13 @@
           "time_info": "02时08分"
         },
         {
-          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027378015303157221",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
           "title": "美联储穆萨莱姆：石油冲击可能使核心通胀维持在 3% 附近，利率将维持不变一段时间",
           "url": "https://wallstreetcn.com/livenews/3088741",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -767,7 +948,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -789,7 +970,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -800,7 +981,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -811,9 +992,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "日本、英国2月增持美债",
+          "url": "https://flash.jin10.com/detail/20260416042308989800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
@@ -822,7 +1014,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -833,7 +1025,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -844,7 +1036,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -863,7 +1055,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -873,8 +1065,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -884,8 +1076,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -896,8 +1088,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "苹果发风险提示",
@@ -906,11 +1098,34 @@
           "ranks": [
             27,
             25,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
+          "url": "https://wallstreetcn.com/livenews/3088776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -960,7 +1175,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -968,11 +1183,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -982,8 +1198,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时48分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -1006,13 +1222,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
+          "url": "https://wallstreetcn.com/livenews/3088772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3088769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040543220800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040519362800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
+          "url": "https://flash.jin10.com/detail/20260416045257037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
         {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
           "url": "https://wallstreetcn.com/livenews/3088724",
@@ -1020,7 +1291,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -1028,8 +1299,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260416044116972800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
           "url": "https://wallstreetcn.com/livenews/3088683",
