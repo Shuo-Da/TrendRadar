@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T02:08:05.412638+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-16T04:02:03.688217+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
@@ -14,9 +14,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1.3%，创盘中历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3088750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
+          "url": "https://flash.jin10.com/detail/20260416034110225800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "国际货币基金组织：日本央行可以忽略来自中东冲突的通胀压力，因为二轮通胀效应将较为温和。",
+          "url": "https://flash.jin10.com/detail/20260416033534437800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "瑞士央行行长施莱格尔：在当前情况下，如果出现二轮效应，央行应及早果断采取行动。",
@@ -25,9 +58,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
@@ -39,17 +83,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时08分]"
         },
         {
@@ -94,7 +127,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -105,7 +138,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -116,9 +149,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "摩根士丹利财报表现强劲后再度发债，摩根大通拟发债融资至少70亿美元",
+          "url": "https://wallstreetcn.com/livenews/3088737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "消息人士：欧洲央行政策制定者对4月加息持谨慎态度，因为尚无二轮通胀效应的证据。",
@@ -138,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -154,13 +198,24 @@
           "time_info": "00时59分"
         },
         {
+          "title": "欧洲央行管委Nagel：不能排除4月加息可能性，因伊朗局势很不明朗",
+          "url": "https://wallstreetcn.com/livenews/3088732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：我们在外汇市场干预的意愿已经增加。",
           "url": "https://flash.jin10.com/detail/20260416013415317800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -171,7 +226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -182,9 +237,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "欧洲央行管委Villeroy：现在就侧重于4月行动与否还操之过急。",
+          "url": "https://wallstreetcn.com/livenews/3088728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞士对外部冲击的敞口对货币政策工具具有重要影响。",
@@ -193,7 +259,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -204,9 +270,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "英国央行行长贝利：关税并非解决（贸易）失衡问题的正确途径。",
+          "url": "https://wallstreetcn.com/livenews/3088722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们应当非常警惕，非常谨慎。",
@@ -214,6 +291,224 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗",
+          "url": "https://news.ifeng.com/c/8sLjLSMNHZq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普拒向教宗道歉，美国民众：很失望",
+          "url": "https://news.ifeng.com/c/8sLg84i0YpG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260416033511028800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
+          "url": "https://www.cls.cn/detail/2344964",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
+          "url": "https://flash.jin10.com/detail/20260416031330828800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260416030837567800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
+          "url": "https://wallstreetcn.com/livenews/3088681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
+          "url": "https://wallstreetcn.com/livenews/3088727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：北约完全不管美国",
+          "url": "https://wallstreetcn.com/livenews/3088726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260416001321800800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普不满美英“特殊关系”，斯塔默说不会妥协",
+          "url": "https://wallstreetcn.com/livenews/3088656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -231,11 +526,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "2026中国大学排名",
@@ -245,8 +541,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "2026软科中国大学排名发布",
@@ -257,8 +553,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "中国钨出口管制对日本影响几何",
@@ -269,8 +565,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "2026中国大学排名",
@@ -278,11 +574,25 @@
           "source": "今日头条",
           "ranks": [
             23,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "中国U20女足0:2日本",
+          "url": "https://www.douyin.com/hot/2466817",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "机构发布“2026中国大学排名”",
@@ -292,8 +602,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
@@ -303,20 +613,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "中国U20女足0:2日本",
-          "url": "https://www.douyin.com/hot/2466817",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
@@ -327,8 +625,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "无缘决赛！U20女足中国0-2日本",
@@ -336,11 +634,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "在德读硕中国小伙多次下药迷奸女友",
@@ -351,8 +650,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
+        },
+        {
+          "title": "美歌手在联合国高唱《我爱你中国》",
+          "url": "https://www.toutiao.com/trending/7628456151844143167/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "中国U20女足0-2日本无缘决赛",
@@ -362,20 +674,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "美歌手在联合国高唱《我爱你中国》",
-          "url": "https://www.toutiao.com/trending/7628456151844143167/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
@@ -413,153 +713,151 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美债 美联储",
       "match_count": 13,
       "titles": [
         {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
+          "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
+          "url": "https://wallstreetcn.com/livenews/3088698",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 1,
+          "time_info": "02时08分"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
+          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027378015303157221",
+          "source": "知乎",
           "ranks": [
-            1
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普再次威胁袭击伊朗",
-          "url": "https://news.ifeng.com/c/8sLjLSMNHZq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普拒向教宗道歉，美国民众：很失望",
-          "url": "https://news.ifeng.com/c/8sLg84i0YpG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
-          "url": "https://www.cls.cn/detail/2345350",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
+          "title": "美联储穆萨莱姆：石油冲击可能使核心通胀维持在 3% 附近，利率将维持不变一段时间",
+          "url": "https://wallstreetcn.com/livenews/3088741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
-          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
-          "url": "https://www.cls.cn/detail/2344964",
-          "source": "财联社热门",
+          "title": "周三（4月15日），美联储隔夜逆回购协议（RRP）使用规模为2.23亿美元（交易对手6家），上个交易日报3.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3088692",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 1,
+          "time_info": "02时08分"
         },
         {
-          "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
-          "url": "https://wallstreetcn.com/livenews/3088681",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储穆萨莱姆：需要在一段时间内维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260416031550569800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国财长贝森特：乐观认为凯文·沃什将如期担任美联储主席。（外媒更正：非白宫新闻秘书莱维特）",
+          "url": "https://flash.jin10.com/detail/20260416013905899800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "美联储穆萨莱姆：随着经济增长放缓，失业率可能上升，但幅度或仅为一个百分点的十分之几。",
+          "url": "https://flash.jin10.com/detail/20260416030408488800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美联储穆萨莱姆：目前尚未看到战争对消费产生明确影响。",
+          "url": "https://flash.jin10.com/detail/20260416030253269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美联储穆萨莱姆：关税影响减弱将有助于通胀回落，住房通胀也正朝着正确方向发展。",
+          "url": "https://flash.jin10.com/detail/20260416030245868800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时08分"
+          "time_info": "04时02分"
         },
         {
-          "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260416001321800800",
+          "title": "美联储穆萨莱姆：已将今年GDP增速预期从伊朗战争前的2%–2.5%下调至1.5%–2%。",
+          "url": "https://flash.jin10.com/detail/20260416030241536800",
           "source": "金十数据",
           "ranks": [
-            25
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "04时02分"
         },
         {
-          "title": "特朗普不满美英“特殊关系”，斯塔默说不会妥协",
-          "url": "https://wallstreetcn.com/livenews/3088656",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储穆萨莱姆：油价冲击可能正推动核心通胀上行，预计年底前将接近3%。",
+          "url": "https://flash.jin10.com/detail/20260416030240121800",
+          "source": "金十数据",
           "ranks": [
-            28
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美联储穆萨莱姆：供应冲击使美联储的通胀和就业目标面临风险，目前的利率区间“在一段时间内可能适当”。",
+          "url": "https://flash.jin10.com/detail/20260416030204861800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美联储理事鲍曼将于十分钟后在国际金融协会论坛上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260416013000001800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时08分"
         }
       ]
     },
@@ -575,8 +873,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -586,8 +884,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -598,8 +896,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "苹果发风险提示",
@@ -607,11 +905,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -631,7 +930,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -660,67 +959,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美联储",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
-          "url": "https://wallstreetcn.com/livenews/3088698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027378015303157221",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
-        },
-        {
-          "title": "周三（4月15日），美联储隔夜逆回购协议（RRP）使用规模为2.23亿美元（交易对手6家），上个交易日报3.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3088692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "美国财长贝森特：乐观认为凯文·沃什将如期担任美联储主席。（外媒更正：非白宫新闻秘书莱维特）",
-          "url": "https://flash.jin10.com/detail/20260416013905899800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "美联储理事鲍曼将于十分钟后在国际金融协会论坛上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260416013000001800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -729,11 +967,12 @@
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -743,8 +982,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时02分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -771,6 +1010,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
+          "url": "https://wallstreetcn.com/livenews/3088724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -781,7 +1037,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         }
