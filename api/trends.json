@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T06:46:37.836776+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-16T07:39:12.202274+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨",
@@ -26,9 +26,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时39分]"
         },
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
@@ -51,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "行长贝利：英国央行不急于加息",
-          "url": "https://wallstreetcn.com/livenews/3088811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "IMF：日本央行可忽略中东冲突带来的通胀冲击",
@@ -97,15 +86,42 @@
           "time_info": "02时08分"
         },
         {
-          "title": "报道：欧洲央行官员们倾向于4月份按兵不动",
-          "url": "https://wallstreetcn.com/livenews/3088806",
+          "title": "行长贝利：英国央行不急于加息",
+          "url": "https://wallstreetcn.com/livenews/3088811",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时39分]"
+        },
+        {
+          "title": "周三（4月15日）纽约尾盘，标普500股指期货最终涨0.76%，道指期货跌0.08%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3088788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
+        },
+        {
+          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
+          "url": "https://wallstreetcn.com/livenews/3088787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
         },
         {
           "title": "据知情人士透露，欧洲央行官员们对4月加息前景保持谨慎态度，因为还没有关于第二轮通胀效应的证据。（路透）",
@@ -120,28 +136,16 @@
           "time_info": "[00时59分 ~ 02时08分]"
         },
         {
-          "title": "周三（4月15日）纽约尾盘，标普500股指期货最终涨0.76%，道指期货跌0.08%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3088788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
-        },
-        {
-          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
-          "url": "https://wallstreetcn.com/livenews/3088787",
+          "title": "报道：欧洲央行官员们倾向于4月份按兵不动",
+          "url": "https://wallstreetcn.com/livenews/3088806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时39分]"
         },
         {
           "title": "创业板指创十年新高后跳水",
@@ -270,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "市场消息：欧洲央行官员表示倾向于在四月维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260416062019611800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "摩根士丹利财报表现强劲后再度发债，摩根大通拟发债融资至少70亿美元",
@@ -484,7 +499,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -494,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -506,8 +521,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -518,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -529,8 +544,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -540,30 +555,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
           "url": "https://wallstreetcn.com/articles/3770009",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -573,11 +578,24 @@
             10,
             8,
             7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -585,11 +603,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -615,6 +634,18 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美国总统特朗普将于周五在凤凰城讲话。",
+          "url": "https://wallstreetcn.com/livenews/3088799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时39分]"
+        },
+        {
           "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088745",
           "source": "华尔街见闻-快讯",
@@ -632,18 +663,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普将于周五在凤凰城讲话。",
-          "url": "https://wallstreetcn.com/livenews/3088799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -657,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3088804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
@@ -728,7 +759,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "视频丨法国全票通过！“将不义之财归还中国”",
@@ -741,8 +772,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "2026中国大学排名",
@@ -752,8 +783,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "中国钨出口管制对日本影响几何",
@@ -764,8 +795,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "2026软科中国大学排名发布",
@@ -778,8 +809,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "2026中国大学排名",
@@ -789,11 +820,12 @@
             23,
             6,
             8,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "中国U20女足0:2日本",
@@ -806,8 +838,82 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
+          "url": "https://news.ifeng.com/c/8sLuRCD9jdS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "在德读硕中国小伙多次下药迷奸女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%BE%B7%E8%AF%BB%E7%A1%95%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%A4%9A%E6%AC%A1%E4%B8%8B%E8%8D%AF%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "中国U20女足0-2日本无缘决赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B30-2%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "美歌手在联合国高唱《我爱你中国》",
+          "url": "https://www.toutiao.com/trending/7628456151844143167/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "无缘决赛！U20女足中国0-2日本",
@@ -825,77 +931,39 @@
           "time_info": "[00时59分 ~ 06时46分]"
         },
         {
-          "title": "机构发布“2026中国大学排名”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
-          "url": "https://www.zhihu.com/question/2027356246810869800",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
-          "url": "https://news.ifeng.com/c/8sLuRCD9jdS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "在德读硕中国小伙多次下药迷奸女友",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%BE%B7%E8%AF%BB%E7%A1%95%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%A4%9A%E6%AC%A1%E4%B8%8B%E8%8D%AF%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=28&Refer=top",
+          "title": "法国将不义之财归还被抢掠的中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%B0%86%E4%B8%8D%E4%B9%89%E4%B9%8B%E8%B4%A2%E5%BD%92%E8%BF%98%E8%A2%AB%E6%8A%A2%E6%8E%A0%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            28,
-            21
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "中国U20女足0-2日本无缘决赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B30-2%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "美歌手在联合国高唱《我爱你中国》",
-          "url": "https://www.toutiao.com/trending/7628456151844143167/",
+          "title": "匈牙利总理用“三个最”描述中国",
+          "url": "https://www.toutiao.com/trending/7628053353528033321/",
           "source": "今日头条",
           "ranks": [
             29,
-            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
+        },
+        {
+          "title": "国台办谈丹麦把台湾人“国籍”改中国",
+          "url": "https://www.toutiao.com/trending/7628206506260958739/",
+          "source": "今日头条",
+          "ranks": [
+            24,
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
         },
         {
           "title": "中国和西班牙推动两国企业深化科技创新和产供链合作",
@@ -931,33 +999,11 @@
           "time_info": "00时59分"
         },
         {
-          "title": "国台办谈丹麦把台湾人“国籍”改中国",
-          "url": "https://www.toutiao.com/trending/7628206506260958739/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
           "title": "中方坚决反对英方排除中国产品",
           "url": "https://www.toutiao.com/trending/7628511697808179263/",
           "source": "今日头条",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
-          "title": "匈牙利总理用“三个最”描述中国",
-          "url": "https://www.toutiao.com/trending/7628053353528033321/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -976,22 +1022,12 @@
           "ranks": [
             20,
             18,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
-        },
-        {
-          "title": "美联储4月维持利率不变的概率为98.4%",
-          "url": "https://flash.jin10.com/detail/20260416060118452800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
@@ -1003,6 +1039,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美联储4月维持利率不变的概率为98.4%",
+          "url": "https://flash.jin10.com/detail/20260416060118452800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时39分]"
         },
         {
           "title": "美联储穆萨莱姆：石油冲击可能使核心通胀维持在 3% 附近，利率将维持不变一段时间",
@@ -1140,7 +1188,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -1151,8 +1199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -1162,8 +1210,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "苹果发风险提示",
+          "url": "https://www.douyin.com/hot/2466517",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            22,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -1178,18 +1241,15 @@
           "time_info": "[00时59分 ~ 06时46分]"
         },
         {
-          "title": "苹果发风险提示",
-          "url": "https://www.douyin.com/hot/2466517",
-          "source": "抖音",
+          "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
+          "url": "https://wallstreetcn.com/livenews/3088814",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            25,
-            22,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
@@ -1197,11 +1257,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
+        },
+        {
+          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
+          "url": "https://wallstreetcn.com/livenews/3088801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时39分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -1222,20 +1295,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
         {
-          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
-          "url": "https://wallstreetcn.com/livenews/3088801",
+          "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
+          "url": "https://wallstreetcn.com/livenews/3088802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时39分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -1292,11 +1365,12 @@
           "url": "https://wallstreetcn.com/articles/3769987",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 07时39分]"
         },
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -1318,9 +1392,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时39分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -1400,11 +1474,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时39分]"
         },
         {
           "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
