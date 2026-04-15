@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T17:15:08.785839+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-15T19:07:53.355976+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
@@ -381,6 +381,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
+          "url": "https://www.cls.cn/detail/2344899",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "A股培育钻石板块走高，博云新材3连板，沃尔德、黄河旋风、惠丰钻石纷纷跟涨。",
           "url": "https://flash.jin10.com/detail/20260415093132514800",
           "source": "金十数据",
@@ -464,7 +475,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -475,7 +486,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -530,7 +541,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -722,6 +733,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "标普500指数和纳斯达克100指数期货跌幅扩大，触及盘中低点。",
+          "url": "https://wallstreetcn.com/livenews/3088431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "欧洲央行管委马赫鲁夫：若冲击使通胀偏离目标但不具持续性，我们应采取审慎的应对措施。",
           "url": "https://flash.jin10.com/detail/20260415002005340800",
           "source": "金十数据",
@@ -835,7 +857,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 48,
+      "match_count": 62,
       "titles": [
         {
           "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
@@ -896,6 +918,17 @@
           "time_info": "[03时07分 ~ 10时04分]"
         },
         {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时07分]"
+        },
+        {
           "title": "美国正在“阻击”中国车",
           "url": "https://www.douyin.com/hot/2464769",
           "source": "抖音",
@@ -951,17 +984,6 @@
           "time_info": "[05时46分 ~ 13时20分]"
         },
         {
-          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
-          "url": "https://www.zhihu.com/question/2027356246810869800",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时15分]"
-        },
-        {
           "title": "欧盟拟将钢铁关税翻倍至50%，寻求“遏制中国廉价进口”",
           "url": "https://news.ifeng.com/c/8sK3rkuYnHa",
           "source": "凤凰网",
@@ -991,22 +1013,25 @@
           "source": "今日头条",
           "ranks": [
             4,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 19时07分]"
         },
         {
-          "title": "中方回应美财长“中国不可靠”言论",
-          "url": "https://www.toutiao.com/trending/7628886103948496411/",
-          "source": "今日头条",
+          "title": "U20女足中国vs日本",
+          "url": "https://www.douyin.com/hot/2466817",
+          "source": "抖音",
           "ranks": [
-            1
+            7,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时07分]"
         },
         {
           "title": "外交部回应韩国标注中国台湾",
@@ -1045,17 +1070,6 @@
           "time_info": "[13时20分 ~ 15时25分]"
         },
         {
-          "title": "2026中国大学排名",
-          "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
           "title": "中国科学家揭示惯用手不是天生的，是后天训练出来的，这一发现有哪些意义？",
           "url": "https://www.zhihu.com/question/2026058012117214933",
           "source": "知乎",
@@ -1089,6 +1103,18 @@
           "time_info": "13时20分"
         },
         {
+          "title": "中方回应美财长“中国不可靠”言论",
+          "url": "https://www.toutiao.com/trending/7628886103948496411/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
+        },
+        {
           "title": "第十三届中国网络视听大会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -1100,16 +1126,26 @@
           "time_info": "10时04分"
         },
         {
-          "title": "U20女足中国vs日本",
-          "url": "https://www.douyin.com/hot/2466817",
-          "source": "抖音",
+          "title": "Stellantis据悉考虑与东风汽车在欧洲和中国的汽车生产协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3088459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "2026中国大学排名",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "价格不再是“结果”而是“变量” 中国药品价格形成机制重构 临床价值成核心标尺",
@@ -1121,6 +1157,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "俄方提出帮助中国弥补能源短缺",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E6%8F%90%E5%87%BA%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%9B%BD%E5%BC%A5%E8%A1%A5%E8%83%BD%E6%BA%90%E7%9F%AD%E7%BC%BA%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "2026中国大学排名",
+          "url": "https://s.weibo.com/weibo?q=2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
+        },
+        {
+          "title": "Lululemon中国：国内所有在售产品均不含全氟和多氟烷基物质",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970428",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时07分]"
         },
         {
           "title": "霍尔木兹，绝对堵不住中国",
@@ -1173,16 +1245,17 @@
           "time_info": "[13时20分 ~ 17时15分]"
         },
         {
-          "title": "Lululemon中国：国内所有在售产品均不含全氟和多氟烷基物质",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970428",
-          "source": "澎湃新闻",
+          "title": "2026中国大学排名",
+          "url": "https://www.toutiao.com/trending/7628549936241557510/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            10
+            19,
+            27,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时15分]"
+          "time_info": "[15时25分 ~ 19时07分]"
         },
         {
           "title": "伊朗总统赞扬中国等6国反战立场",
@@ -1196,6 +1269,18 @@
           "time_info": "[10时04分 ~ 15时25分]"
         },
         {
+          "title": "中方回应丹麦把台湾人“国籍”改中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%B9%E9%BA%A6%E6%8A%8A%E5%8F%B0%E6%B9%BE%E4%BA%BA%E2%80%9C%E5%9B%BD%E7%B1%8D%E2%80%9D%E6%94%B9%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
+        },
+        {
           "title": "毛焦尔以“三个最”描述中国",
           "url": "https://news.ifeng.com/c/8sKu1jDwqHH",
           "source": "凤凰网",
@@ -1205,29 +1290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 15时25分]"
-        },
-        {
-          "title": "2026中国大学排名",
-          "url": "https://www.toutiao.com/trending/7628549936241557510/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时15分]"
-        },
-        {
-          "title": "中方回应丹麦把台湾人“国籍”改中国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%B9%E9%BA%A6%E6%8A%8A%E5%8F%B0%E6%B9%BE%E4%BA%BA%E2%80%9C%E5%9B%BD%E7%B1%8D%E2%80%9D%E6%94%B9%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "欧盟继续鼓吹“去风险”，盯上中国逆变器",
@@ -1277,6 +1339,39 @@
           "time_info": "[17时14分 ~ 17时15分]"
         },
         {
+          "title": "匈牙利总理用“三个最”描述中国",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%E7%94%A8%E2%80%9C%E4%B8%89%E4%B8%AA%E6%9C%80%E2%80%9D%E6%8F%8F%E8%BF%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "国台办谈丹麦把台湾人“国籍”改中国",
+          "url": "https://www.toutiao.com/trending/7628206506260958739/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "中国巨石：预计2026年第一季度净利润同比增长60%至80%",
+          "url": "https://wallstreetcn.com/livenews/3088453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "机构发布“2026中国大学排名”",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E6%9E%84%E5%8F%91%E5%B8%83%E2%80%9C2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E2%80%9D",
           "source": "百度热搜",
@@ -1321,15 +1416,70 @@
           "time_info": "15时25分"
         },
         {
+          "title": "辽宁省分别与工信部、中国石化举行工作会商",
+          "url": "https://wallstreetcn.com/livenews/3088450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "2026软科中国大学排名发布",
+          "url": "https://www.douyin.com/hot/2466951",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "【轻舟试验飞船已在轨完成多项关键技术验证】从中国科学院微小卫星创新研究院获悉，2026年3月30日19时，由我国自主研制的轻舟试验飞船顺利发射入轨，目前已完成初期飞控测试，主动抬升至600公里轨道开展长期试验，标志着我国新一代低成本货运飞船技术验证取得重要突破。轻舟试验飞船重4.2吨，搭载了1吨载荷，采用一体化单舱设计，空间利用率高、适配多型火箭，能为密封与真空环境载荷提供长期在轨试验平台，设计寿命为3年。本次轻舟试验飞船的主要工程验证目标包括：轻量化密封舱、热控环控、推进系统等关键技术攻关；新材料新技术在轨应用验证；长时间轨道驻留，以及多项拓展任务试验。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970088",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "中国巨石：预计2026年第一季度净利润同比增长60%至80%",
+          "url": "https://flash.jin10.com/detail/20260415185324128800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "中国小将李昊炎加盟巴萨梯队，对中国足球青训发展意味着什么？",
+          "url": "https://www.zhihu.com/question/2027186025315726841",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "中国摩托行业将迎来“大变天”吗",
@@ -1360,7 +1510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -1374,6 +1524,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "美歌手在联合国高唱《我爱你中国》",
+          "url": "https://www.toutiao.com/trending/7628456151844143167/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "在德读硕中国小伙多次下药迷奸女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%BE%B7%E8%AF%BB%E7%A1%95%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%A4%9A%E6%AC%A1%E4%B8%8B%E8%8D%AF%E8%BF%B7%E5%A5%B8%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "中方回应美财长“中国不可靠”言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%B4%A2%E9%95%BF%E2%80%9C%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%8F%AF%E9%9D%A0%E2%80%9D%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "速卖通：去年品牌GMV增速40%，今年要帮2000个中国品牌规模翻倍",
@@ -1412,7 +1595,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -1436,11 +1619,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时49分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[04时49分 ~ 19时07分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -1496,6 +1680,19 @@
           "time_info": "[01时02分 ~ 06时42分]"
         },
         {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时07分]"
+        },
+        {
           "title": "存储芯片迎“历史性”时刻：三大龙头齐破千亿，机构称缺货持续至2027年",
           "url": "https://www.cls.cn/detail/2343867",
           "source": "财联社热门",
@@ -1518,19 +1715,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时39分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时15分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -1566,6 +1750,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "阿里云：对大模型服务平台百炼部分MU（Model Unit）模型单元的服务价格进行上调",
+          "url": "https://flash.jin10.com/detail/20260415190027423800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "加拿大AI部长会见Anthropic PBC的领导层。",
           "url": "https://wallstreetcn.com/livenews/3087961",
           "source": "华尔街见闻-快讯",
@@ -1589,6 +1784,18 @@
           "time_info": "[06时41分 ~ 07时39分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
+        },
+        {
           "title": "苹果提醒用户更新iOS以免受网页攻击",
           "url": "https://www.toutiao.com/trending/7628781063468224054/",
           "source": "今日头条",
@@ -1598,6 +1805,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "苹果发风险提示",
+          "url": "https://www.douyin.com/hot/2466517",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时07分]"
         },
         {
           "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
@@ -1675,27 +1895,15 @@
           "time_info": "[04时49分 ~ 05时47分]"
         },
         {
-          "title": "苹果发风险提示",
-          "url": "https://www.douyin.com/hot/2466517",
-          "source": "抖音",
+          "title": "网红B太帮扶的大山女孩用苹果手机",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2B%E5%A4%AA%E5%B8%AE%E6%89%B6%E7%9A%84%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时15分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -1734,17 +1942,6 @@
           "time_info": "[13时20分 ~ 15时25分]"
         },
         {
-          "title": "网红B太帮扶的大山女孩用苹果手机",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2B%E5%A4%AA%E5%B8%AE%E6%89%B6%E7%9A%84%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -1766,6 +1963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
+          "url": "https://wallstreetcn.com/livenews/3088457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
@@ -1873,9 +2081,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "老外为省钱纷纷注册微信支付？智谱大模型“反向定价”火了",
@@ -1884,9 +2103,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "科大讯飞发布AstronClaw智能体矩阵，讯飞办公本、AI 眼镜、Guide01机器人等硬件已接入Claw能力。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3088432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "小红书开源大模型强化学习训练引擎Relax",
@@ -1898,6 +2128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "AI让美联储主席紧急开会",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E7%B4%A7%E6%80%A5%E5%BC%80%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
@@ -1914,7 +2155,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -1941,6 +2182,20 @@
           "time_info": "[10时04分 ~ 17时15分]"
         },
         {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 19时07分]"
+        },
+        {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
           "url": "https://www.toutiao.com/trending/7628414997059784242/",
           "source": "今日头条",
@@ -1962,19 +2217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时39分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 17时15分]"
         },
         {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
@@ -2026,6 +2268,19 @@
           "time_info": "[01时02分 ~ 03时08分]"
         },
         {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时07分]"
+        },
+        {
           "title": "特朗普：美国对伊朗的战争已经结束",
           "url": "https://www.cls.cn/detail/2344245",
           "source": "财联社热门",
@@ -2036,6 +2291,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 19时07分]"
         },
         {
           "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
@@ -2105,30 +2375,15 @@
           "time_info": "07时39分"
         },
         {
-          "title": "特朗普：没有必要延长同伊朗的停火",
-          "url": "https://www.cls.cn/detail/2344586",
-          "source": "财联社热门",
+          "title": "关税退款将启动 特朗普一年白忙了吗",
+          "url": "https://www.toutiao.com/trending/7628891722524659242/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时15分]"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 17时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -2162,19 +2417,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
           "url": "https://wallstreetcn.com/articles/3770009",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时07分]"
         },
         {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
@@ -2205,7 +2461,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -2219,6 +2475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "特朗普称没有必要延长同伊朗的停火",
@@ -2265,6 +2532,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415185305926800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
           "url": "https://flash.jin10.com/detail/20260415020934030800",
           "source": "金十数据",
@@ -2298,6 +2576,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "特朗普：伊朗战事的“最终结果”可能很快就会取得",
+          "url": "https://wallstreetcn.com/livenews/3088436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
           "url": "https://flash.jin10.com/detail/20260415002745686800",
           "source": "金十数据",
@@ -2318,6 +2607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "特朗普称赞最高法院大法官Alito。",
+          "url": "https://wallstreetcn.com/livenews/3088421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
@@ -2532,8 +2832,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时07分]"
+        },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
           "url": "https://wallstreetcn.com/articles/3769897",
@@ -2559,24 +2870,13 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时15分]"
-        },
-        {
           "title": "据报道美国向中东增派数千名士兵，美股三大股指期货全线转跌，现货黄金失守4800美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3088378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -2587,7 +2887,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -2612,6 +2912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国银行第一季度净利息收入为157.5亿美元，预估为153.7亿美元。 第一季度不含DVA的FICC交易收入为35亿美元，预期37.8亿美元。 第一季度不含DVA的股票交易收入为28.3亿美元，预期25.1亿美元。 第一季度每股收益1.11美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3088445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股盘中）",
@@ -2653,7 +2964,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
