@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T05:49:29.385813+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-04-17T06:36:46.793312+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 06时36分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -42,6 +42,18 @@
           "time_info": "[01时10分 ~ 03时07分]"
         },
         {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -53,18 +65,6 @@
           "time_info": "[04时44分 ~ 05时49分]"
         },
         {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
-        },
-        {
           "title": "特朗普称以黎停火10天",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -72,11 +72,12 @@
             16,
             18,
             17,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -86,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -112,17 +113,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
-          "url": "https://wallstreetcn.com/livenews/3089591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260417024512631800",
           "source": "金十数据",
@@ -134,15 +124,28 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -154,6 +157,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
+          "url": "https://wallstreetcn.com/livenews/3089577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
+          "title": "中方回应特朗普称访华不受影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
         },
         {
           "title": "特朗普称伊朗同意不拥有核武器，伊方暂无回应",
@@ -222,6 +249,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国总统特朗普：农场法案将会通过。",
+          "url": "https://flash.jin10.com/detail/20260417052400767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
           "title": "美国总统特朗普：汽油价格并不是很高。",
           "url": "https://wallstreetcn.com/livenews/3089526",
           "source": "华尔街见闻-快讯",
@@ -233,15 +271,15 @@
           "time_info": "03时07分"
         },
         {
-          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
-          "url": "https://wallstreetcn.com/livenews/3089577",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
+          "url": "https://flash.jin10.com/detail/20260417052236496800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "06时36分"
         },
         {
           "title": "特朗普：如果伊朗协议在伊斯兰堡签署，我可能会去",
@@ -376,17 +414,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "中方回应特朗普称访华不受影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：欢迎由特朗普斡旋促成的以色列与黎巴嫩之间为期10天的停火。欧洲将继续呼吁全面尊重黎巴嫩的主权和领土完整。",
           "url": "https://flash.jin10.com/detail/20260417002451829800",
           "source": "金十数据",
@@ -444,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "3家A股公司齐发公告：可能被实施退市风险警示",
@@ -455,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
@@ -467,8 +494,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "单季利润超2024年全年！中际旭创Q1净利57亿元，同比大增262% | 财报见闻",
@@ -479,8 +506,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
@@ -492,8 +519,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "欧洲央行内格尔：4月会议前应保持政策选择余地",
@@ -516,6 +543,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "以色列央行行长亚伦Yaron：考虑到美伊停火及黎巴嫩敌对行动的停止，可能会上调2026年的增长预期。 预计2027年将实现“约5.5%的反弹式增长”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3089574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 06时36分]"
         },
         {
           "title": "以色列央行行长：以色列央行预计2027年将实现约5.5%的反弹式增长。",
@@ -542,28 +582,53 @@
           "time_info": "[04时45分 ~ 05时49分]"
         },
         {
-          "title": "以色列央行行长亚伦Yaron：考虑到美伊停火及黎巴嫩敌对行动的停止，可能会上调2026年的增长预期。 预计2027年将实现“约5.5%的反弹式增长”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3089574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时49分]"
-        },
-        {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.55%，房地产板块涨1.01%，信息技术/科技板块涨0.78%，保健板块则收跌0.77%。",
           "url": "https://wallstreetcn.com/livenews/3089570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 06时36分]"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘，标普500股指期货最终涨0.25%，道指期货涨0.33%，纳斯达克100股指期货涨0.38%。 罗素2000股指期货涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3089585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时49分]"
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
+          "title": "阿根廷央行：将每日最低准备金水平从75%降低至65%。",
+          "url": "https://flash.jin10.com/detail/20260417045044678800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
+          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
+          "url": "https://wallstreetcn.com/livenews/3089582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
         },
         {
           "title": "道琼斯指数4月16日（周四）收盘上涨115.13点，涨幅0.24%，报48578.85点；<br/>标普500指数4月16日（周四）收盘上涨18.32点，涨幅0.26%，报7041.27点；<br/>纳斯达克综合指数4月16日（周四）收盘上涨86.69点，涨幅0.36%，报24102.70点。",
@@ -590,6 +655,18 @@
           "time_info": "[04时45分 ~ 05时49分]"
         },
         {
+          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
           "title": "欧洲央行管委维勒鲁瓦：经验表明，央行独立性带来更低的通胀和更低的利率。",
           "url": "https://flash.jin10.com/detail/20260417005243870800",
           "source": "金十数据",
@@ -599,28 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "周四（4月16日）纽约尾盘，标普500股指期货最终涨0.25%，道指期货涨0.33%，纳斯达克100股指期货涨0.38%。 罗素2000股指期货涨0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3089585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "阿根廷央行：将每日最低准备金水平从75%降低至65%。",
-          "url": "https://flash.jin10.com/detail/20260417045044678800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：央行独立是货币政策成功的前提。",
@@ -643,17 +698,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
-          "url": "https://wallstreetcn.com/livenews/3089582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "肯尼亚央行行长：面对伊朗战争冲击，肯尼亚愿意允许本币先令贬值。",
@@ -722,17 +766,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417043100409800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
           "title": "欧洲央行首席经济学家连恩：在哪一次会议上作出具体决策只是细节问题。",
           "url": "https://flash.jin10.com/detail/20260417004356463800",
           "source": "金十数据",
@@ -794,7 +827,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -835,7 +868,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -845,8 +878,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "看中国经济“春”潮涌动",
@@ -856,8 +889,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "十五五首季中国经济增长好于预期",
@@ -867,8 +900,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭恐怖威胁",
@@ -879,8 +912,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭到恐怖威胁",
@@ -891,8 +924,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国不吸烟女性二手烟暴露率达70%",
@@ -901,11 +934,12 @@
           "ranks": [
             8,
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中方回应斯里兰卡9名中国人被逮捕",
@@ -915,8 +949,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "实现良好开局！一季度中国GDP同比增长5.0%",
@@ -927,8 +961,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -938,8 +972,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国海洋采油技术有多牛",
@@ -951,19 +985,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "观察丨广交会境外采购商超21万，采购商们为何青睐中国企业？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32977876",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国驻日大使馆接连遭到恐怖威胁",
@@ -973,8 +1008,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国驻布基纳法索使馆发布提醒",
@@ -986,8 +1021,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "中国11人参加斯诺克世锦赛",
@@ -1000,8 +1035,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "法国全票通过法案，圆明园文物或有望回中国，法议员：雨果希望的一天终于到来",
@@ -1010,11 +1045,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "伊朗总统感谢中国",
@@ -1022,11 +1058,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "苏林乘高铁赴广西对中国高铁聊不停",
@@ -1035,11 +1072,12 @@
           "ranks": [
             21,
             8,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 06时36分]"
         },
         {
           "title": "2026中国大学排名",
@@ -1050,8 +1088,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[03时06分 ~ 06时36分]"
+        },
+        {
+          "title": "肺癌成中国女性第一大癌症",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%99%8C%E6%88%90%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%99%8C%E7%97%87%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "警察带台胞走中国公民专用通道",
@@ -1061,8 +1110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "约20名中国学者赴美参会被拒绝入境",
@@ -1070,11 +1119,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -1124,8 +1174,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -1135,8 +1185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -1145,11 +1195,12 @@
           "ranks": [
             2,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "黄仁勋：芯片不是浓缩铀 卖中国咋了",
@@ -1162,8 +1213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -1174,8 +1225,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1186,8 +1237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -1197,8 +1248,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -1208,8 +1259,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -1234,6 +1285,18 @@
           "time_info": "01时11分"
         },
         {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
           "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
@@ -1243,17 +1306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "解读AI蒸馏攻防战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
         },
         {
           "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
@@ -1314,7 +1366,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -1337,8 +1389,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 06时36分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -1346,11 +1398,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 06时36分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -1358,11 +1411,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 06时36分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1413,6 +1467,17 @@
           "time_info": "[04时45分 ~ 05时49分]"
         },
         {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260417003213963800",
           "source": "金十数据",
@@ -1438,18 +1503,41 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
+        },
+        {
+          "title": "前财长保尔森：建议美国制定美债“打破玻璃”紧急预案",
+          "url": "https://wallstreetcn.com/livenews/3089599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "06时36分"
+        },
+        {
+          "title": "美联储4月维持利率不变的概率为99.5%",
+          "url": "https://flash.jin10.com/detail/20260417060122573800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "美国总统特朗普：（美联储）应该降低利率。",
@@ -1545,11 +1633,12 @@
           "url": "https://wallstreetcn.com/livenews/3089580",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时36分]"
         }
       ]
     }
