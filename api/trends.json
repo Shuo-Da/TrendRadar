@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:40:01.839287+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-04-21T10:09:24.683545+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 44,
+      "match_count": 58,
       "titles": [
         {
           "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
@@ -14,24 +14,12 @@
           "ranks": [
             17,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 07时40分]"
-        },
-        {
-          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 10时09分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -48,27 +36,43 @@
           "time_info": "[00时04分 ~ 07时40分]"
         },
         {
+          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
           "url": "https://wallstreetcn.com/articles/3770370",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -83,6 +87,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 10时09分]"
         },
         {
           "title": "是谁在疯狂买中国芯片",
@@ -106,22 +121,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
-        },
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -161,11 +166,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时01分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[04时01分 ~ 10时09分]"
         },
         {
           "title": "“宁王”重磅发布会在即 钠电池产业或再度站上风口",
@@ -179,17 +185,6 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "库克不再担任苹果CEO",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
           "title": "苹果宣布特纳斯将接替库克担任CEO",
           "url": "https://www.toutiao.com/trending/7630977954876493321/",
           "source": "今日头条",
@@ -199,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "爱奇艺再回应AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%9B%9E%E5%BA%94AI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -213,6 +219,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "苹果官宣新CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3%E6%96%B0CEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "苹果新任CEO特努斯是谁",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBCEO%E7%89%B9%E5%8A%AA%E6%96%AF%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特纳斯将接替库克担任苹果CEO",
+          "url": "https://www.douyin.com/hot/2473318",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
+          "url": "https://www.zhihu.com/question/2029792979703874483",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "日本突发7.4级地震，影响多家半导体公司",
@@ -232,7 +282,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -251,6 +301,18 @@
           "time_info": "[01时55分 ~ 05时51分]"
         },
         {
+          "title": "库克不再担任苹果CEO",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时09分]"
+        },
+        {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
           "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
@@ -260,6 +322,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "库克将卸任苹果CEO",
+          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 10时09分]"
         },
         {
           "title": "苹果(AAPL.O)：此次交接是在经过深思熟虑的长期继任规划流程后进行的，并已获得董事会一致批准。",
@@ -311,17 +384,6 @@
           "time_info": "[04时59分 ~ 05时51分]"
         },
         {
-          "title": "库克将卸任苹果CEO",
-          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 07时40分]"
-        },
-        {
           "title": "曝王楚然早就融了AI",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -332,6 +394,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
+          "url": "https://www.cls.cn/detail/2350058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时09分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -419,17 +493,6 @@
           "time_info": "[04时59分 ~ 05时51分]"
         },
         {
-          "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
-          "url": "https://www.cls.cn/detail/2350058",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
           "url": "https://flash.jin10.com/detail/20260421043339536800",
           "source": "金十数据",
@@ -513,6 +576,61 @@
           "time_info": "[02时59分 ~ 04时01分]"
         },
         {
+          "title": "库克将卸任苹果CEO 特努斯接任",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E5%B0%86%E5%8D%B8%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO+%E7%89%B9%E5%8A%AA%E6%96%AF%E6%8E%A5%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
+          "url": "https://wallstreetcn.com/articles/3770444",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "库克将卸任苹果CEO 特纳斯接棒",
+          "url": "https://www.toutiao.com/trending/7630977954876493321/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
           "url": "https://flash.jin10.com/detail/20260421043157265800",
           "source": "金十数据",
@@ -535,6 +653,28 @@
           "time_info": "04时59分"
         },
         {
+          "title": "印度拟对苹果罚款380亿美元",
+          "url": "https://www.toutiao.com/trending/7630773760219611142/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "贝佐斯的AI实验室在融资交易中估值接近380亿美元",
+          "url": "https://wallstreetcn.com/livenews/3091421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "AI版成何体统逐玉",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%E9%80%90%E7%8E%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -544,365 +684,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
-          "url": "https://news.ifeng.com/c/8sUALVwFbq7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
         },
         {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
+          "title": "英媒：贝佐斯旗下的AI LAB在融资交易中估值接近380亿美元",
+          "url": "https://flash.jin10.com/detail/20260421093407221800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时59分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
-          "url": "https://wallstreetcn.com/livenews/3091276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时01分]"
-        },
-        {
-          "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
-          "url": "https://flash.jin10.com/detail/20260421014051934800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时59分]"
-        },
-        {
-          "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
-          "url": "https://flash.jin10.com/detail/20260421013653333800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时59分]"
-        },
-        {
-          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://wallstreetcn.com/livenews/3091293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
-          "url": "https://flash.jin10.com/detail/20260421053556015800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时40分]"
-        },
-        {
-          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
-          "url": "https://wallstreetcn.com/livenews/3091291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
-          "url": "https://flash.jin10.com/detail/20260421022932707800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时01分]"
-        },
-        {
-          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
-          "url": "https://flash.jin10.com/detail/20260421052808846800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时40分]"
-        },
-        {
-          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
-          "url": "https://wallstreetcn.com/livenews/3091343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
-          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普威胁停火到期将开炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
-          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
-          "url": "https://wallstreetcn.com/livenews/3091342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://flash.jin10.com/detail/20260421021704429800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时01分]"
-        },
-        {
-          "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260421051756276800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时40分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3091322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时51分]"
-        },
-        {
-          "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3091283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
-          "url": "https://flash.jin10.com/detail/20260421065026687800",
-          "source": "金十数据",
-          "ranks": [
-            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "10时09分"
         },
         {
-          "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
-          "url": "https://flash.jin10.com/detail/20260421015345641800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "特朗普：正在与伊朗达成的新协议将比伊核协议好得多",
-          "url": "https://flash.jin10.com/detail/20260421014430010800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "美国总统特朗普：我完全没有压力去达成伊朗协议。尽管一切将相对迅速地发生。",
-          "url": "https://flash.jin10.com/detail/20260421014237256800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "特朗普：如未能达成协议“几无可能”再延长停火",
-          "url": "https://wallstreetcn.com/livenews/3091238",
+          "title": "花旗：英维克业绩连续逊预期 英伟达光环下市场或忽视价格竞争等风险",
+          "url": "https://wallstreetcn.com/livenews/3091417",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
-          "url": "https://flash.jin10.com/detail/20260421042232218800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260421042130383800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "纳指跌1%，标普跌0.6%，报道称，伊朗不参加谈判的决定尚未改变。特朗普表示，非常不会延长与伊朗的停火协议。",
-          "url": "https://wallstreetcn.com/livenews/3091232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260421041906950800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 27,
+      "match_count": 42,
       "titles": [
         {
           "title": "一枝独秀的创业板--“中国纳指”前7大权重占比已升至48%，堪比MAG 7",
@@ -910,11 +719,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "A股突现重大资产重组新模式",
@@ -1052,15 +862,37 @@
           "time_info": "00时05分"
         },
         {
+          "title": "A股券商股盘初下挫，国盛证券跌超9%，国元证券跌超5%，第一创业、华林证券、湘财股份、国信证券等纷纷走弱。",
+          "url": "https://flash.jin10.com/detail/20260421094946708800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "年报季透视A股：逾1700家上市公司拟分红",
           "url": "https://wallstreetcn.com/livenews/3091373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "A股锂矿概念股上扬，天齐锂业逼近涨停，永杉锂业、西藏珠峰、雅化集团、西藏矿业等冲高。",
+          "url": "https://flash.jin10.com/detail/20260421094757255800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
@@ -1072,6 +904,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.24%，深成指跌0.87%，液冷、算力租赁、电网设备、半导体等方向跌幅居前，沪深京三市下跌个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3091445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股工业气体概念反复活跃，蜀道装备涨超10%，九丰能源、华特气体、广钢气体、金宏气体跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421094614547800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股液冷服务器概念低开，英维克跌停。消息面上，英维克公告，2026年一季度净利润为865.76万元，同比下降81.97%。",
+          "url": "https://wallstreetcn.com/livenews/3091437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股电网设备板块震荡下挫，安靠智电跌近10%，海兴电力逼近跌停，久盛电气、远程股份、汉缆股份、迦南智能等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260421094321035800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "天孚通信低开近8%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3091436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：企业预计在美墨加协定（USMCA）续签谈判后，美国关税将上升。",
@@ -1107,6 +994,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "上证指数开盘报4075.85点，跌0.15%。 深证成指开盘报14920.38点，跌0.31%。 创业板指开盘报3662.26点，跌0.42%。 沪深300开盘报4750.51点，跌0.15%。 科创50开盘报1445.20点，跌0.37%。 中证500开盘报8263.38点，跌0.32%。 中证1000开盘报8331.59点，跌0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3091429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：受访者对未来五年通胀率的预期已从去年第四季度的3.09%降至3.02%。",
           "url": "https://flash.jin10.com/detail/20260420233323719800",
           "source": "金十数据",
@@ -1127,6 +1025,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "A股医药板块盘初活跃，益佰制药涨停，金陵药业、广生堂、灵康药业、神州细胞、华纳药厂、赛伦生物跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421094016741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日10亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3091428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：55.7%的加拿大受访者预计未来12个月内将出现衰退，低于去年第四季度的58.3%。",
@@ -1162,6 +1082,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "创业板指跌幅扩大至1%，上证指数跌0.16%，深证成指跌0.77%。",
+          "url": "https://flash.jin10.com/detail/20260421093905633800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：大部分农户已备齐本播种季所需化肥，因此价格的长期走势将取决于战争持续时长。",
           "url": "https://flash.jin10.com/detail/20260420233223592800",
           "source": "金十数据",
@@ -1182,6 +1113,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "A股影视院线板块走强，北京文化涨停，博纳影业、幸福蓝海、中国电影、金逸影视、光线传媒跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421093757737800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股算力租赁概念盘初走低，中嘉博创触及跌停，佳力图、优刻得、宏景科技、利通电子、中贝通信跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260421093750722800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，中衡设计2连板，顺灏股份涨停，四川金顶、神剑股份逼近涨停，国瑞科技、再升科技、理工导航、中国卫星跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421093440823800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
@@ -1215,12 +1179,454 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "A股固态电池板块短线走低，圣阳股份跌停，龙蟠科技、联科科技、硅宝科技、洁美科技、博苑股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260421093249643800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
+          "url": "https://news.ifeng.com/c/8sUALVwFbq7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时59分]"
+        },
+        {
+          "title": "沃什将开启“高难度平衡术”：让特朗普满意，让市场信服，让通胀低头",
+          "url": "https://flash.jin10.com/detail/20260421095514926800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
+          "url": "https://wallstreetcn.com/livenews/3091276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
+          "url": "https://flash.jin10.com/detail/20260421014051934800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时59分]"
+        },
+        {
+          "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
+          "url": "https://flash.jin10.com/detail/20260421013653333800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://wallstreetcn.com/livenews/3091293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
+          "url": "https://flash.jin10.com/detail/20260421053556015800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 10时09分]"
+        },
+        {
+          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
+          "url": "https://wallstreetcn.com/livenews/3091291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
+          "url": "https://flash.jin10.com/detail/20260421022932707800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
+          "url": "https://flash.jin10.com/detail/20260421052808846800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时40分]"
+        },
+        {
+          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
+          "url": "https://wallstreetcn.com/livenews/3091343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时40分]"
+        },
+        {
+          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
+          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普威胁停火到期将开炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
+          "url": "https://wallstreetcn.com/livenews/3091342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://flash.jin10.com/detail/20260421021704429800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
+          "url": "https://flash.jin10.com/detail/20260421051756276800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时40分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3091322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时51分]"
+        },
+        {
+          "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3091283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
+          "url": "https://flash.jin10.com/detail/20260421065026687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普坚称伊朗“将会谈判”",
+          "url": "https://wallstreetcn.com/livenews/3091449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "顶流对冲基金感叹：特朗普频频发帖令石油交易员无所适从",
+          "url": "https://www.cls.cn/detail/2350010",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
+          "url": "https://flash.jin10.com/detail/20260421015345641800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普：正在与伊朗达成的新协议将比伊核协议好得多",
+          "url": "https://flash.jin10.com/detail/20260421014430010800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我完全没有压力去达成伊朗协议。尽管一切将相对迅速地发生。",
+          "url": "https://flash.jin10.com/detail/20260421014237256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普：如未能达成协议“几无可能”再延长停火",
+          "url": "https://wallstreetcn.com/livenews/3091238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国从未如此接近与伊朗达成一项好的协议。 如果与伊朗没有达成协议，特朗普仍然有其他选择。",
+          "url": "https://wallstreetcn.com/livenews/3091434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
+          "url": "https://flash.jin10.com/detail/20260421042232218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260421042130383800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "纳指跌1%，标普跌0.6%，报道称，伊朗不参加谈判的决定尚未改变。特朗普表示，非常不会延长与伊朗的停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3091232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260421041906950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "台青：若不承认自己是中国人就别放假",
@@ -1243,23 +1649,12 @@
           "ranks": [
             2,
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
-        },
-        {
-          "title": "台青：不承认是中国人中秋就别放假",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%9D%92%EF%BC%9A%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E7%A7%8B%E5%B0%B1%E5%88%AB%E6%94%BE%E5%81%87",
-          "source": "百度热搜",
-          "ranks": [
             4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -1271,8 +1666,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
+        },
+        {
+          "title": "台青：不承认是中国人中秋就别放假",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%9D%92%EF%BC%9A%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E7%A7%8B%E5%B0%B1%E5%88%AB%E6%94%BE%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "硬核数据看中国经济动力澎湃",
@@ -1282,8 +1690,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时59分 ~ 07时40分]"
+          "appearance_count": 7,
+          "time_info": "[04时59分 ~ 10时09分]"
         },
         {
           "title": "中国乒乓球选手方博宣布复出，将代表哈萨克斯坦出战 WTT，但不改国籍不出战三大赛，如何评价这一操作？",
@@ -1294,11 +1702,30 @@
             7,
             6,
             4,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时59分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时59分 ~ 10时09分]"
+        },
+        {
+          "title": "中国男子从济州-上海邮轮坠海",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%BB%8E%E6%B5%8E%E5%B7%9E-%E4%B8%8A%E6%B5%B7%E9%82%AE%E8%BD%AE%E5%9D%A0%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            14,
+            7,
+            6,
+            16,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 10时09分]"
         },
         {
           "title": "2名中国台湾游客在日本坠机身亡",
@@ -1324,11 +1751,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "赵心童丁俊晖上演中国德比",
@@ -1339,11 +1767,12 @@
             22,
             18,
             20,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "中国驻日领馆提醒中国公民注意防范海啸",
@@ -1355,23 +1784,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 06时40分]"
-        },
-        {
-          "title": "中国男子从济州-上海邮轮坠海",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E4%BB%8E%E6%B5%8E%E5%B7%9E-%E4%B8%8A%E6%B5%B7%E9%82%AE%E8%BD%AE%E5%9D%A0%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17,
-            14,
-            7,
-            6,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 07时40分]"
         },
         {
           "title": "中国女子在泰国泼水节被莫名滋水",
@@ -1412,6 +1824,28 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
+          "title": "中国式安全感火到国外",
+          "url": "https://www.toutiao.com/trending/7629849707988205595/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国一季度31个省份规上工业增加值全部实现正增长。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3091459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "中国航司大面积取消日本航班",
           "url": "https://www.toutiao.com/trending/7630304668586819593/",
           "source": "今日头条",
@@ -1446,6 +1880,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "中国摩托车产业前景如何",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E8%BD%A6%E4%BA%A7%E4%B8%9A%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260421095059875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "吉尔伯特：中国球手正在接管斯诺克",
+          "url": "https://www.toutiao.com/trending/7630416663650926602/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "台青：不承认是中国人中秋端午别放假",
+          "url": "https://www.toutiao.com/trending/7630234204789325887/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国代表在安理会当场驳斥美方",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E5%BD%93%E5%9C%BA%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -1475,8 +1964,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 10时09分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -1497,11 +1986,12 @@
           "ranks": [
             12,
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 10时09分]"
         },
         {
           "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
@@ -1601,7 +2091,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "据Politico：沃什表示，美联储的利率自主权至关重要，但必须通过努力获得。",
@@ -1648,6 +2138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时59分]"
+        },
+        {
+          "title": "沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身（附全文）",
+          "url": "https://wallstreetcn.com/articles/3770430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "据Politico：沃什表示，价格稳定是美联储毋庸置疑的职责所在。",
@@ -1718,6 +2219,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时40分]"
+        },
+        {
+          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
+          "url": "https://wallstreetcn.com/livenews/3091420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1744,24 +2274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
-          "url": "https://flash.jin10.com/detail/20260421060257230800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时40分]"
         }
       ]
     },
