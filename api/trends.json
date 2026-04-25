@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T19:36:32.736771+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-04-25T20:56:35.458647+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时36分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[06时36分 ~ 20时56分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时36分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[06时36分 ~ 20时56分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -118,20 +118,6 @@
           "time_info": "[13时08分 ~ 18时40分]"
         },
         {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 19时36分]"
-        },
-        {
           "title": "DeepSeek如何适配国产芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
@@ -145,6 +131,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时01分 ~ 19时36分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 20时56分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -210,11 +224,12 @@
             14,
             20,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 19时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 20时56分]"
         },
         {
           "title": "关键时刻掉链子,z7发布会趴窝",
@@ -227,6 +242,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时51分 ~ 10时02分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -246,28 +272,16 @@
           "time_info": "[01时47分 ~ 18时40分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
-        },
-        {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时56分]"
         },
         {
           "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
@@ -283,16 +297,18 @@
           "time_info": "[00时51分 ~ 07时37分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
+          "title": "费城半导体指数再度大涨，创纪录连涨18天，一文看清有多超买",
+          "url": "https://wallstreetcn.com/articles/3770867",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4
+            10,
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时56分]"
         },
         {
           "title": "英伟达股价自10月以来首次收盘创新高",
@@ -336,19 +352,6 @@
           "time_info": "[16时47分 ~ 19时36分]"
         },
         {
-          "title": "费城半导体指数再度大涨，创纪录连涨18天，一文看清有多超买",
-          "url": "https://wallstreetcn.com/articles/3770867",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时36分]"
-        },
-        {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
           "url": "https://www.zhihu.com/question/2031087393374041169",
           "source": "知乎",
@@ -388,6 +391,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时36分 ~ 15时09分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时56分]"
         },
         {
           "title": "利用AI编造四川泸州楼房倒塌者被罚",
@@ -451,18 +466,6 @@
           "time_info": "[15时09分 ~ 18时40分]"
         },
         {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 19时36分]"
-        },
-        {
           "title": "中国AI隐形王者股价一年翻10倍",
           "url": "https://www.toutiao.com/trending/7632244941749489179/",
           "source": "今日头条",
@@ -499,6 +502,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时47分 ~ 18时40分]"
+        },
+        {
+          "title": "半导体超买程度史上最高，“大空头”Burry警告：技术性因素所致，该跑了",
+          "url": "https://wallstreetcn.com/articles/3770872",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时56分]"
         },
         {
           "title": "网友在daiso买了个小狗不会用的东西",
@@ -569,15 +584,15 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "半导体超买程度史上最高，“大空头”Burry警告：技术性因素所致，该跑了",
-          "url": "https://wallstreetcn.com/articles/3770872",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时36分"
+          "time_info": "20时56分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
@@ -589,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "去年10月以来第一次，英伟达大涨创新高！",
+          "url": "https://wallstreetcn.com/articles/3770876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -681,6 +707,572 @@
       ]
     },
     {
+      "keyword_group": "中国 十五五规划",
+      "match_count": 45,
+      "titles": [
+        {
+          "title": "中国物流市场规模保持世界首位",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%89%A9%E6%B5%81%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%BF%9D%E6%8C%81%E4%B8%96%E7%95%8C%E9%A6%96%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时02分]"
+        },
+        {
+          "title": "审美高级!中国航天海报被爆赞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353720&amp;topic_name=%E5%AE%A1%E7%BE%8E%E9%AB%98%E7%BA%A7%21%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%B5%B7%E6%8A%A5%E8%A2%AB%E7%88%86%E8%B5%9E",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
+        },
+        {
+          "title": "中国基建太硬核,美博主看傻眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353721&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%A4%AA%E7%A1%AC%E6%A0%B8%2C%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%9C%8B%E5%82%BB%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
+        },
+        {
+          "title": "多名中国公民被诱骗经泰国前往泰缅边境从事电诈活动，中使馆提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33043055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 13时08分]"
+        },
+        {
+          "title": "核动力航母对中国海军有哪些意义",
+          "url": "https://www.toutiao.com/trending/7632292117875789348/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            7,
+            10,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时36分]"
+        },
+        {
+          "title": "中国4艘战舰练兵菲周边海域，无人机出动、主炮轮番开火",
+          "url": "https://news.ifeng.com/c/8saZkqrTC6H",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时37分]"
+        },
+        {
+          "title": "探索月球南极 中国航天未来这么干",
+          "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E6%9C%88%E7%90%83%E5%8D%97%E6%9E%81+%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%9C%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E5%B9%B2",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 20时56分]"
+        },
+        {
+          "title": "中国航天日",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            14,
+            8,
+            13,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时37分]"
+        },
+        {
+          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
+        },
+        {
+          "title": "摩根大通：中国楼市逼近拐点",
+          "url": "https://www.toutiao.com/trending/7632332404719357450/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 07时37分]"
+        },
+        {
+          "title": "ENC官宣教练,中国队暂无音讯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            19,
+            18,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 20时56分]"
+        },
+        {
+          "title": "日本自卫队坦克炸膛涉“中国制造”？且此“中国”非中国",
+          "url": "https://news.ifeng.com/c/8sbQrCcuoHj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 19时36分]"
+        },
+        {
+          "title": "中国羽毛球协会主席张军疑“失联”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E7%96%91%E2%80%9C%E5%A4%B1%E8%81%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时37分]"
+        },
+        {
+          "title": "中国海军：我只出一剑谁敢接招",
+          "url": "https://www.toutiao.com/trending/7631168553462349843/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            19,
+            25,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时43分 ~ 07时37分]"
+        },
+        {
+          "title": "中国经济第一大省亮出王牌",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E4%BA%AE%E5%87%BA%E7%8E%8B%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 19时36分]"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            11,
+            7,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 17时49分]"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.toutiao.com/trending/7632497198902693386/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            24,
+            14,
+            19,
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 20时56分]"
+        },
+        {
+          "title": "“中国式安全感”是如何炼成的",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%AE%89%E5%85%A8%E6%84%9F%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时09分]"
+        },
+        {
+          "title": "中国海军南海演训：军舰主炮命中目标画面曝光",
+          "url": "https://news.ifeng.com/c/8sbUcjlB3Uo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时47分]"
+        },
+        {
+          "title": "开局之年看中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "媒体称两届奥运冠军、中国羽毛球协会主席张军「失联」，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2031142817003562612",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
+          "url": "https://flash.jin10.com/detail/20260425093506957800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "中国航天像素动画",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%83%8F%E7%B4%A0%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 10时02分]"
+        },
+        {
+          "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
+          "url": "https://wallstreetcn.com/livenews/3094385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "摩根大通：中国楼市逼近拐点",
+          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%80%BC%E8%BF%91%E6%8B%90%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时08分]"
+        },
+        {
+          "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
+          "url": "https://www.zhihu.com/question/2031293637409993812",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国从月壤中发现月球新矿物，命名「镁嫦娥石」，与此前发现的「嫦娥石」有啥关系？我们为何要研究月球矿物？",
+          "url": "https://www.zhihu.com/question/2030943456693069477",
+          "source": "知乎",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时08分]"
+        },
+        {
+          "title": "央视：七成多石油靠进口中国为啥能不慌，原因在这“四招”",
+          "url": "https://wallstreetcn.com/livenews/3094327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            17,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 17时49分]"
+        },
+        {
+          "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
+          "url": "https://wallstreetcn.com/livenews/3094336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            18,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 18时40分]"
+        },
+        {
+          "title": "中国驻马里大使馆发布关于马里突发安全事件的领事提醒",
+          "url": "https://wallstreetcn.com/livenews/3094378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时56分]"
+        },
+        {
+          "title": "中国政府中东问题特使翟隽出席金砖国家中东事务副外长/特使磋商",
+          "url": "https://flash.jin10.com/detail/20260425143900106800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时49分]"
+        },
+        {
+          "title": "中国德比赵心童丁俊晖战平第2阶段继续",
+          "url": "https://www.toutiao.com/trending/7632467648164400691/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时08分]"
+        },
+        {
+          "title": "上海航交所：本周中国出口集装箱运输市场总体稳定 多数航线运价小幅回落",
+          "url": "https://flash.jin10.com/detail/20260425141729485800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时49分]"
+        },
+        {
+          "title": "中国与赞比亚签署《中赞政府发展合作协定》",
+          "url": "https://flash.jin10.com/detail/20260425151438651800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时40分]"
+        },
+        {
+          "title": "泰总理开中国电动车载王毅赴宴",
+          "url": "https://www.toutiao.com/trending/7632141423890173482/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "苗润东等球员辗转苏超、中冠联赛，这揭示了中国足球人才培养的哪些问题？",
+          "url": "https://www.zhihu.com/question/2030493531186385325",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "终末地联动中国航天",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%81%94%E5%8A%A8%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "雷军送王传福在一起才是中国汽车T恤",
+          "url": "https://www.toutiao.com/trending/7632165402564345897/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "中国空间站绝美凌日瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BB%9D%E7%BE%8E%E5%87%8C%E6%97%A5%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "欧盟对俄制裁列单中国企业，商务部回应",
+          "url": "https://news.ifeng.com/c/8scLrtJqc3W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
+          "url": "https://flash.jin10.com/detail/20260425195021602800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "中国地震台网正式测定：04月25日10时19分在新疆塔城地区沙湾市（北纬43.52度，东经84.93度）发生3.1级地震，震源深度16千米。",
+          "url": "https://flash.jin10.com/detail/20260425103825948800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "中国超70%石油靠进口却不慌",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%8570%25%E7%9F%B3%E6%B2%B9%E9%9D%A0%E8%BF%9B%E5%8F%A3%E5%8D%B4%E4%B8%8D%E6%85%8C%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "泰国总理开中国电动车载王毅赴宴",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%BC%80%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BD%BD%E7%8E%8B%E6%AF%85%E8%B5%B4%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 44,
       "titles": [
@@ -729,8 +1321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 20时56分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -763,8 +1355,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 20时56分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -961,6 +1553,19 @@
           "time_info": "[00时52分 ~ 01时47分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
           "url": "https://flash.jin10.com/detail/20260425035056520800",
           "source": "金十数据",
@@ -984,18 +1589,6 @@
           "time_info": "[01时47分 ~ 02时44分]"
         },
         {
-          "title": "泽连斯基“公开质疑”特朗普",
-          "url": "https://www.toutiao.com/trending/7632107216792420398/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时36分]"
-        },
-        {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3094210",
           "source": "华尔街见闻-快讯",
@@ -1006,6 +1599,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时47分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时56分]"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -1063,17 +1668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
-          "url": "https://flash.jin10.com/detail/20260425182954538800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -1210,539 +1804,9 @@
       ]
     },
     {
-      "keyword_group": "中国 十五五规划",
-      "match_count": 41,
-      "titles": [
-        {
-          "title": "中国物流市场规模保持世界首位",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%89%A9%E6%B5%81%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%BF%9D%E6%8C%81%E4%B8%96%E7%95%8C%E9%A6%96%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 10时02分]"
-        },
-        {
-          "title": "审美高级!中国航天海报被爆赞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353720&amp;topic_name=%E5%AE%A1%E7%BE%8E%E9%AB%98%E7%BA%A7%21%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%B5%B7%E6%8A%A5%E8%A2%AB%E7%88%86%E8%B5%9E",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
-        },
-        {
-          "title": "中国基建太硬核,美博主看傻眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353721&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%A4%AA%E7%A1%AC%E6%A0%B8%2C%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%9C%8B%E5%82%BB%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
-        },
-        {
-          "title": "多名中国公民被诱骗经泰国前往泰缅边境从事电诈活动，中使馆提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33043055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时08分]"
-        },
-        {
-          "title": "核动力航母对中国海军有哪些意义",
-          "url": "https://www.toutiao.com/trending/7632292117875789348/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9,
-            7,
-            10,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时36分]"
-        },
-        {
-          "title": "中国4艘战舰练兵菲周边海域，无人机出动、主炮轮番开火",
-          "url": "https://news.ifeng.com/c/8saZkqrTC6H",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时37分]"
-        },
-        {
-          "title": "中国航天日",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            14,
-            8,
-            13,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时37分]"
-        },
-        {
-          "title": "摩根大通：中国楼市逼近拐点",
-          "url": "https://www.toutiao.com/trending/7632332404719357450/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时43分 ~ 07时37分]"
-        },
-        {
-          "title": "ENC官宣教练,中国队暂无音讯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            19,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 19时36分]"
-        },
-        {
-          "title": "日本自卫队坦克炸膛涉“中国制造”？且此“中国”非中国",
-          "url": "https://news.ifeng.com/c/8sbQrCcuoHj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 19时36分]"
-        },
-        {
-          "title": "中国羽毛球协会主席张军疑“失联”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E7%96%91%E2%80%9C%E5%A4%B1%E8%81%94%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时37分]"
-        },
-        {
-          "title": "探索月球南极 中国航天未来这么干",
-          "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E6%9C%88%E7%90%83%E5%8D%97%E6%9E%81+%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%9C%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E5%B9%B2",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 19时36分]"
-        },
-        {
-          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
-        },
-        {
-          "title": "中国海军：我只出一剑谁敢接招",
-          "url": "https://www.toutiao.com/trending/7631168553462349843/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            19,
-            25,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 07时37分]"
-        },
-        {
-          "title": "中国经济第一大省亮出王牌",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E4%BA%AE%E5%87%BA%E7%8E%8B%E7%89%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            2,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时08分 ~ 19时36分]"
-        },
-        {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            11,
-            7,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 17时49分]"
-        },
-        {
-          "title": "“中国式安全感”是如何炼成的",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%AE%89%E5%85%A8%E6%84%9F%E2%80%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%82%BC%E6%88%90%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 15时09分]"
-        },
-        {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://www.toutiao.com/trending/7632497198902693386/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24,
-            14,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时08分 ~ 19时36分]"
-        },
-        {
-          "title": "中国海军南海演训：军舰主炮命中目标画面曝光",
-          "url": "https://news.ifeng.com/c/8sbUcjlB3Uo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 16时47分]"
-        },
-        {
-          "title": "开局之年看中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "媒体称两届奥运冠军、中国羽毛球协会主席张军「失联」，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2031142817003562612",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
-          "url": "https://flash.jin10.com/detail/20260425093506957800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "中国驻马里大使馆发布关于马里突发安全事件的领事提醒",
-          "url": "https://wallstreetcn.com/livenews/3094378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "中国航天像素动画",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%83%8F%E7%B4%A0%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 10时02分]"
-        },
-        {
-          "title": "摩根大通：中国楼市逼近拐点",
-          "url": "https://www.baidu.com/s?wd=%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%80%BC%E8%BF%91%E6%8B%90%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时08分]"
-        },
-        {
-          "title": "中国从月壤中发现月球新矿物，命名「镁嫦娥石」，与此前发现的「嫦娥石」有啥关系？我们为何要研究月球矿物？",
-          "url": "https://www.zhihu.com/question/2030943456693069477",
-          "source": "知乎",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时08分]"
-        },
-        {
-          "title": "央视：七成多石油靠进口中国为啥能不慌，原因在这“四招”",
-          "url": "https://wallstreetcn.com/livenews/3094327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            17,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 17时49分]"
-        },
-        {
-          "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
-          "url": "https://wallstreetcn.com/livenews/3094336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 18时40分]"
-        },
-        {
-          "title": "中国政府中东问题特使翟隽出席金砖国家中东事务副外长/特使磋商",
-          "url": "https://flash.jin10.com/detail/20260425143900106800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时49分]"
-        },
-        {
-          "title": "中国德比赵心童丁俊晖战平第2阶段继续",
-          "url": "https://www.toutiao.com/trending/7632467648164400691/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时08分]"
-        },
-        {
-          "title": "上海航交所：本周中国出口集装箱运输市场总体稳定 多数航线运价小幅回落",
-          "url": "https://flash.jin10.com/detail/20260425141729485800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时49分]"
-        },
-        {
-          "title": "中国与赞比亚签署《中赞政府发展合作协定》",
-          "url": "https://flash.jin10.com/detail/20260425151438651800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时40分]"
-        },
-        {
-          "title": "泰总理开中国电动车载王毅赴宴",
-          "url": "https://www.toutiao.com/trending/7632141423890173482/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "苗润东等球员辗转苏超、中冠联赛，这揭示了中国足球人才培养的哪些问题？",
-          "url": "https://www.zhihu.com/question/2030493531186385325",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "终末地联动中国航天",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%81%94%E5%8A%A8%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "雷军送王传福在一起才是中国汽车T恤",
-          "url": "https://www.toutiao.com/trending/7632165402564345897/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "中国空间站绝美凌日瞬间",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%BB%9D%E7%BE%8E%E5%87%8C%E6%97%A5%E7%9E%AC%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "中国地震台网正式测定：04月25日10时19分在新疆塔城地区沙湾市（北纬43.52度，东经84.93度）发生3.1级地震，震源深度16千米。",
-          "url": "https://flash.jin10.com/detail/20260425103825948800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "中国超70%石油靠进口却不慌",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%8570%25%E7%9F%B3%E6%B2%B9%E9%9D%A0%E8%BF%9B%E5%8F%A3%E5%8D%B4%E4%B8%8D%E6%85%8C%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "泰国总理开中国电动车载王毅赴宴",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%BC%80%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BD%BD%E7%8E%8B%E6%AF%85%E8%B5%B4%E5%AE%B4",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
       "match_count": 24,
       "titles": [
-        {
-          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
-          "url": "https://wallstreetcn.com/articles/3770804",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 05时44分]"
-        },
         {
           "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
           "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
@@ -1755,8 +1819,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
+        },
+        {
+          "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "贵州茅台Q1营收、净利双增，“i茅台”营收达215亿元，占比达40% | 财报见闻",
@@ -1786,8 +1862,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 19时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 20时56分]"
         },
         {
           "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
@@ -1813,8 +1889,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 20时56分]"
         },
         {
           "title": "科创板4月行情火热：47只个股创新高 光通信板块表现抢眼",
@@ -1826,8 +1902,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
         },
         {
           "title": "央行：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
@@ -1874,6 +1950,19 @@
           "time_info": "[04时43分 ~ 07时37分]"
         },
         {
+          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2355530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 20时56分]"
+        },
+        {
           "title": "委内瑞拉与美国洽谈安插反对派到央行的委员会。",
           "url": "https://wallstreetcn.com/livenews/3094312",
           "source": "华尔街见闻-快讯",
@@ -1896,18 +1985,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 07时37分]"
-        },
-        {
-          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2355530",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 19时36分]"
         },
         {
           "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
@@ -2052,8 +2129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时56分]"
         },
         {
           "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
