@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:32:06.974072+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-05-07T13:58:29.418273+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 44,
+      "match_count": 52,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时29分 ~ 10时32分]"
+          "appearance_count": 12,
+          "time_info": "[02时29分 ~ 13时58分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -86,6 +86,20 @@
           "time_info": "[00时02分 ~ 07时47分]"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时53分 ~ 13时58分]"
+        },
+        {
           "title": "有AI真好 放以前没十几亿下不来",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -97,6 +111,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 10时32分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -112,34 +141,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时29分 ~ 10时32分]"
-        },
-        {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
-        },
-        {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时53分 ~ 10时32分]"
         },
         {
           "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
@@ -201,6 +202,40 @@
           "time_info": "[07时46分 ~ 10时32分]"
         },
         {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -248,33 +283,11 @@
           "time_info": "[05时54分 ~ 06时46分]"
         },
         {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
           "title": "黄仁勋：美国应保持AI领先地位",
           "url": "https://www.douyin.com/hot/2489930",
           "source": "抖音",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -317,17 +330,6 @@
           "time_info": "[05时54分 ~ 06时46分]"
         },
         {
-          "title": "EXO ai篡改记忆",
-          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
           "title": "AI记账软件怼用户买的衣服像寿衣",
           "url": "https://www.baidu.com/s?wd=AI%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6%E6%80%BC%E7%94%A8%E6%88%B7%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%83%8F%E5%AF%BF%E8%A1%A3",
           "source": "百度热搜",
@@ -337,6 +339,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "比亚迪正式加入IATF AISBL",
+          "url": "https://www.toutiao.com/trending/7636079480591106111/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
@@ -350,6 +374,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "苹果花2.5亿美元和解Siri诉讼案",
+          "url": "https://www.douyin.com/hot/2490007",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "AI科技拥挤度爆表！5月资金会换新赛道？",
           "url": "https://flash.jin10.com/detail/20260506233017479800",
           "source": "金十数据",
@@ -359,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌",
+          "url": "https://wallstreetcn.com/livenews/3099753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "Scale AI获美国防部价值5亿美元的合同",
@@ -392,6 +438,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "港股半导体芯片股午后直线冲高，壁仞科技(06082.HK)涨超17%，华虹半导体(01347.HK)涨近11%，澜起科技(06809.HK)涨超8%，天数智芯(09903.HK)涨超7%，中芯国际(00981.HK)、天域半导体(02658.HK)均涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260507132121540800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "马斯克解散 xAI，并入 SpaceX 更名为 SpaceXAI，此举整合 AI 与航天，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2035666551223866960",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "全球芯片牛股涨疯了",
@@ -438,6 +506,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "xAI更名SpaceXAI",
+          "url": "https://s.weibo.com/weibo?q=%23xAI%E6%9B%B4%E5%90%8DSpaceXAI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
           "url": "https://flash.jin10.com/detail/20260507040122273800",
           "source": "金十数据",
@@ -466,7 +545,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -504,13 +583,24 @@
           "time_info": "05时54分"
         },
         {
+          "title": "恒生科技指数日内涨幅扩大至3%，快手涨超7%，华虹半导体涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3099731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "立讯精密：AI端侧的产品百花齐放 但还没看到千万级的大批量机会",
           "url": "https://wallstreetcn.com/livenews/3099656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -529,7 +619,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 33,
+      "match_count": 46,
       "titles": [
         {
           "title": "三星：停止在中国市场销售所有家电产品",
@@ -592,18 +682,6 @@
           "time_info": "[00时02分 ~ 06时46分]"
         },
         {
-          "title": "世界杯转播费对中国开价是印度10倍",
-          "url": "https://www.toutiao.com/trending/7636781418386918963/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
-        },
-        {
           "title": "中国强硬拒绝世界杯天价转播费",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9",
           "source": "百度热搜",
@@ -627,8 +705,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
+        },
+        {
+          "title": "世界杯转播费对中国开价是印度10倍",
+          "url": "https://www.toutiao.com/trending/7636781418386918963/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
         },
         {
           "title": "中国航天招志愿者最新消息：能玩手机",
@@ -644,18 +735,6 @@
           "time_info": "[00时02分 ~ 07时47分]"
         },
         {
-          "title": "2000飙至30万！美农业部长甩锅：怪中国",
-          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
-        },
-        {
           "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
           "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
           "source": "澎湃新闻",
@@ -664,11 +743,24 @@
             12,
             13,
             14,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
+        },
+        {
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
         },
         {
           "title": "韩民众对中国好感度达6年最高",
@@ -678,11 +770,12 @@
             13,
             12,
             11,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
         },
         {
           "title": "世界杯中国赞助商投入超5亿美元",
@@ -734,15 +827,40 @@
           "time_info": "[00时02分 ~ 06时46分]"
         },
         {
-          "title": "三星官宣家电退出中国大陆市场",
-          "url": "https://www.douyin.com/hot/2490782",
-          "source": "抖音",
+          "title": "为什么中国人对玉石情有独钟，而欧美人兴趣不浓？",
+          "url": "https://www.zhihu.com/question/21386973",
+          "source": "知乎",
           "ranks": [
+            15,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 13时58分]"
+        },
+        {
+          "title": "中国硬刚国际足联 到底在争什么",
+          "url": "https://www.toutiao.com/trending/7636077772964151337/",
+          "source": "今日头条",
+          "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
         },
         {
           "title": "中国女子在西班牙被刺身亡",
@@ -759,94 +877,121 @@
           "time_info": "[02时29分 ~ 06时46分]"
         },
         {
-          "title": "中国硬刚国际足联 到底在争什么",
-          "url": "https://www.toutiao.com/trending/7636077772964151337/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
-          "url": "https://news.ifeng.com/c/8svQluOkLRz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
           "title": "硬刚国际足联 中国这次在争什么",
           "url": "https://www.baidu.com/s?wd=%E7%A1%AC%E5%88%9A%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94+%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%AC%A1%E5%9C%A8%E4%BA%89%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
             13,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 10时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 13时58分]"
         },
         {
-          "title": "为什么中国人对玉石情有独钟，而欧美人兴趣不浓？",
-          "url": "https://www.zhihu.com/question/21386973",
-          "source": "知乎",
+          "title": "FIFA回应中国区天价世界杯版权",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 10时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "五一假日图景尽显中国活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%97%A5%E5%9B%BE%E6%99%AF%E5%B0%BD%E6%98%BE%E4%B8%AD%E5%9B%BD%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "硬刚国际足联，中国这次到底在争什么？",
           "url": "https://sports.ifeng.com/c/8svUJd84mpb",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "三星官宣家电退出中国大陆市场",
+          "url": "https://www.douyin.com/hot/2490782",
+          "source": "抖音",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "港股锂电池板块震荡走低，天齐锂业跌超5%，赣锋锂业跌超4%，中创新航、中国铝业跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3099766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "央视硬刚国际足联拒绝天价世界杯转播合同，中国这次到底在争什么？",
+          "url": "https://www.zhihu.com/question/2035663486911345735",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "FIFA回应中国区天价世界杯版权",
           "url": "https://s.weibo.com/weibo?q=%23FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "中国女子巴塞罗那街头遇害案细节",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%A1%97%E5%A4%B4%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
         },
         {
           "title": "经纬度：全面客观看待“三星家电退出中国”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33103132",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "中国女子巴塞罗那街头遇害案细节",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E8%A1%97%E5%A4%B4%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
         },
         {
           "title": "今年五一老外来中国都去了哪些城市",
@@ -882,6 +1027,28 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "德外长：变天了，现在都在中国手里",
+          "url": "https://news.ifeng.com/c/8svZPBqYc9Q",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "中国航天招卧床志愿者 最高补助7万",
+          "url": "https://www.toutiao.com/trending/7635880618395536938/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "张雪之后是四轮？比亚迪瞄准F1、长城打造GT3 中国车企驶向全球顶级赛车赛事",
           "url": "https://www.cls.cn/detail/2363597",
           "source": "财联社热门",
@@ -891,6 +1058,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中国女子巴塞罗那街头遇害，刚接手餐厅上班仅3天",
+          "url": "https://news.ifeng.com/c/8svaOqSrh44",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "港股锂电池股午后震荡走低，龙蟠科技(02465.HK)跌超11%，天齐锂业(09696.HK)跌超5%，赣锋锂业(01772.HK)跌超4%，中创新航(03931.HK)、中国铝业(02600.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507132405531800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "中国地震台网正式测定：05月06日23时17分在西藏林芝市察隅县（北纬28.82度，东经96.01度）发生4.3级地震，震源深度10千米。",
@@ -910,9 +1110,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "中国为什么还要从印度进口茶叶？",
+          "url": "https://www.zhihu.com/question/421452339",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "躺着支持中国航天事业的机会来了",
@@ -924,12 +1135,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中国人民不会忘记北约的野蛮罪行",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E5%8C%97%E7%BA%A6%E7%9A%84%E9%87%8E%E8%9B%AE%E7%BD%AA%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "韩国民众对中国好感度为何触底反弹",
+          "url": "https://www.toutiao.com/trending/7636783605879934473/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "“中国天眼”的“眼部肌肉”实现中国造",
+          "url": "https://wallstreetcn.com/livenews/3099724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 31,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -952,8 +1196,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时58分]"
         },
         {
           "title": "【焦点复盘】创业板指涨2.75%续创11年新高，算力芯片双龙总市值一度突破8000亿",
@@ -984,13 +1228,35 @@
           "time_info": "[00时02分 ~ 06时46分]"
         },
         {
+          "title": "A股油气板块午后继续下挫，中国石油、荣盛石化跌超5%，中国海油、中国石化、海油发展等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507133728588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "A股油气股持续下挫，潜能恒信跌超10%，首华燃气、广汇能源、中曼石油、中国石油、中国海油均跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3099773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "港股东方证券(03958.HK)跌超5%，公司A股今早复牌高开低走，现涨幅收窄至约2%。",
           "url": "https://flash.jin10.com/detail/20260507101608224800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1089,15 +1355,48 @@
           "time_info": "[05时54分 ~ 06时46分]"
         },
         {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "A股PCB概念板块震荡走强，合力泰两连板，山东玻纤封板涨停，同宇新材、兴森科技、大族激光、宏和科技、东材科技、日联科技、埃科光电、乔锋智能、科翔股份盘中创新高。",
           "url": "https://flash.jin10.com/detail/20260507100727254800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "A股AI应用板块短线拉升，易点天下涨超10%，引力传媒涨超7%，蓝色光标、浙文互联、天龙集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507133047188800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%，上证指数涨0.27%，深证成指涨0.74%。算力硬件、光伏、机器人等方向涨幅居前，沪深京三市上涨个股近3300只。",
+          "url": "https://wallstreetcn.com/livenews/3099761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股AMD涨18.2%，Arm控股涨14.4%，拉姆研究涨7.7%，阿斯麦ADR涨6.6%，拼多多涨6.3%，英伟达涨5.4%，思科跌3.2%，路透跌3.6%，VRSK跌4.8%，Workday跌5.1%，能源股Diamondback Energy跌6.3%。 纳指涨1.9%，标普涨超1.4%，道指涨700点短暂地重返5万点整数位心理关口上方、涨幅扩大至1.4%。半导体指数涨4.1%，生物科技指数涨2.1%，罗素2000指数涨1.3%。 利弗莫尔中概股龙头指数涨幅扩大至5%。",
@@ -1117,7 +1416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -1161,9 +1460,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507131932192800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "加拿大央行高级副行长：（在参议院作证时表示）针对加拿大境内稳定币的监管规定或将于2027年年中或年底出台。",
@@ -1183,9 +1493,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "A股立讯精密成交额达100亿元，现涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260507131505885800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "加拿大央行高级副行长在参议院证词中表示：针对总部位于加拿大的稳定币监管规定可能会在2027年中或年末推出。",
@@ -1199,15 +1520,48 @@
           "time_info": "05时54分"
         },
         {
+          "title": "A股创新药板块午后局部活跃，众生药业午后涨停，康芝药业、上海谊众、通化金马、以岭药业、华兰股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507131341676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "A股新易盛成交额达200亿元，现涨7.5%。",
+          "url": "https://flash.jin10.com/detail/20260507131107676800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "A股PEEK材料板块异动拉升，中欣氟材直线涨停，百合花、中研股份、新瀚新材、华密新材、横河精密跟涨。",
           "url": "https://flash.jin10.com/detail/20260507095300001800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "A股CRO概念板块午后走低，美诺华跳水触及跌停，美好医疗、昊帆生物、昭衍新药、美迪西跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507131043216800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美联储古尔斯比：勿因生产率增长抢跑降息",
@@ -1221,15 +1575,37 @@
           "time_info": "02时29分"
         },
         {
+          "title": "A股禽流感板块午后拉升，众生药业涨停，东方生物、之江生物、华兰疫苗、以岭药业、天康生物跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507130600902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "上证指数开盘报4168.45点，涨0.20%。 深证成指开盘报15541.30点，涨0.53%。 创业板指开盘报3807.99点，涨0.79%。 沪深300开盘报4895.80点，涨0.38%。 科创50开盘报1663.16点，涨0.37%。 中证500开盘报8637.84点，涨0.58%。 中证1000开盘报8602.15点，涨0.32%。",
           "url": "https://wallstreetcn.com/livenews/3099661",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "上证指数早盘收报4170.75点，涨0.25%。 深证成指早盘收报15569.46点，涨0.71%。 创业板指早盘收报3815.24点，涨0.98%。 沪深300早盘收报4886.24点，涨0.19%。 科创50早盘收报1663.93点，涨0.42%。 中证500早盘收报8648.94点，涨0.70%。 中证1000早盘收报8671.07点，涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3099737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "中国央行公开市场开展270亿元7天期逆回购操作，操作利率1.40%，持平上日。今日1262亿元逆回购到期。",
@@ -1238,9 +1614,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "5月7日午间收评：创业板指探底回升涨近1%，算力硬件股再度爆发",
+          "url": "https://wallstreetcn.com/livenews/3099736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "A股人形机器人概念板块震荡上升，盛视科技、泰晶科技封板涨停，信质集团、凯龙高科、斯菱智驱、高测股份、天准科技跟涨。",
@@ -1249,9 +1636,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "A股创业板指午后涨超1%，深证成指涨0.67%，上证指数涨0.21%，光纤概念、CPO概念、工业母机等概念板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260507130158963800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，工业板块涨2.60%，信息技术/科技板块涨2.56%，电信板块涨2.05%，能源板块重挫4.07%。",
@@ -1289,8 +1687,393 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "中方再回应特朗普访华",
+          "url": "https://www.toutiao.com/trending/7636699708399865370/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时29分 ~ 10时32分]"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时47分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时47分]"
+        },
+        {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 13时58分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "报道称沙特不满迫使特朗普“突然”叫停“自由计划”",
+          "url": "https://wallstreetcn.com/livenews/3099775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时53分 ~ 07时47分]"
+        },
+        {
+          "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3099548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "消息人士透露，以色列总理内塔尼亚胡将于周三与特朗普政府官员举行会谈，以便更好地了解美伊谈判的最新进展。",
+          "url": "https://flash.jin10.com/detail/20260506234235329800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普再称对美伊达成协议表示乐观",
+          "url": "https://wallstreetcn.com/livenews/3099545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时47分]"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
+          "url": "https://flash.jin10.com/detail/20260507071550570800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
+          "url": "https://flash.jin10.com/detail/20260507021102391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普：伊朗已同意不拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3099542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普假设，美国与伊朗可能会在5月14日之前签订一份协议。WTI原油期货重新跌超7.4%。",
+          "url": "https://wallstreetcn.com/livenews/3099475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
+          "url": "https://wallstreetcn.com/livenews/3099515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
+          "url": "https://flash.jin10.com/detail/20260507014044956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
+          "url": "https://wallstreetcn.com/livenews/3099511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普：美伊“很有可能”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普：即使石油价格涨到200美元，也值得",
+          "url": "https://wallstreetcn.com/livenews/3099535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美国总统特朗普：美国在太空领域遥遥领先。",
+          "url": "https://flash.jin10.com/detail/20260507013104665800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。” 特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3099506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
+          "url": "https://wallstreetcn.com/livenews/3099505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260507012738943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "特朗普：伊朗战事“很有可能结束”，双方正接近达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3099498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美情报报告称：伊朗冲突可能刺激了特朗普晚宴枪击案的嫌疑人",
+          "url": "https://wallstreetcn.com/livenews/3099459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "颜面之争难破局！特朗普拒给伊朗体面，或是停战最大拦路虎",
+          "url": "https://flash.jin10.com/detail/20260507125646930800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美联储",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美联储高官“放鹰”：风险已转向通胀上行，不排除加息",
@@ -1413,6 +2196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "沃什即将接掌美联储，前副主席送上一句忠告：听听那些反对票的声音",
+          "url": "https://flash.jin10.com/detail/20260507132454987800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：预计美联储理事库克将被起诉。",
@@ -1615,346 +2409,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "中方再回应特朗普访华",
-          "url": "https://www.toutiao.com/trending/7636699708399865370/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时29分 ~ 10时32分]"
-        },
-        {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://news.ifeng.com/c/8sugghRWW2t",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时47分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 07时47分]"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时53分 ~ 07时47分]"
-        },
-        {
-          "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3099548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "消息人士透露，以色列总理内塔尼亚胡将于周三与特朗普政府官员举行会谈，以便更好地了解美伊谈判的最新进展。",
-          "url": "https://flash.jin10.com/detail/20260506234235329800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普再称对美伊达成协议表示乐观",
-          "url": "https://wallstreetcn.com/livenews/3099545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
-          "url": "https://flash.jin10.com/detail/20260507054528380800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时47分]"
-        },
-        {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普乐观预测“一周内达成协议”，但美方提案里最关键的两条，伊朗还没接",
-          "url": "https://flash.jin10.com/detail/20260507071550570800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
-          "url": "https://flash.jin10.com/detail/20260507021102391800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普：伊朗已同意不拥有核武器",
-          "url": "https://wallstreetcn.com/livenews/3099542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "特朗普假设，美国与伊朗可能会在5月14日之前签订一份协议。WTI原油期货重新跌超7.4%。",
-          "url": "https://wallstreetcn.com/livenews/3099475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
-          "url": "https://wallstreetcn.com/livenews/3099515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
-          "url": "https://flash.jin10.com/detail/20260507014044956800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
-          "url": "https://wallstreetcn.com/livenews/3099511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普：美伊“很有可能”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3099538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "特朗普：即使石油价格涨到200美元，也值得",
-          "url": "https://wallstreetcn.com/livenews/3099535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美国总统特朗普：美国在太空领域遥遥领先。",
-          "url": "https://flash.jin10.com/detail/20260507013104665800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。” 特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3099506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
-          "url": "https://wallstreetcn.com/livenews/3099505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
-          "url": "https://flash.jin10.com/detail/20260507012738943800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普：伊朗战事“很有可能结束”，双方正接近达成协议",
-          "url": "https://wallstreetcn.com/livenews/3099464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3099498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美情报报告称：伊朗冲突可能刺激了特朗普晚宴枪击案的嫌疑人",
-          "url": "https://wallstreetcn.com/livenews/3099459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -1966,8 +2420,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 10时32分]"
+          "appearance_count": 7,
+          "time_info": "[06时45分 ~ 13时58分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 13时58分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -1981,18 +2448,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时29分 ~ 10时32分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 10时32分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
