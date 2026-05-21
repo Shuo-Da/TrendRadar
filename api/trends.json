@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T08:04:35.533669+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-05-21T13:07:26.262861+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 51,
+      "match_count": 71,
       "titles": [
         {
           "title": "ASML最新光刻机开始量产芯片",
@@ -58,6 +58,17 @@
           "time_info": "[01时52分 ~ 08时04分]"
         },
         {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
+        },
+        {
           "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
           "url": "https://www.cls.cn/detail/2376768",
           "source": "财联社热门",
@@ -69,24 +80,13 @@
           "time_info": "[01时52分 ~ 06时23分]"
         },
         {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "华泰证券：硅光技术有望成为全新增长极 关注半导体代工企业发展机会",
           "url": "https://wallstreetcn.com/livenews/3107006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "英伟达CEO黄仁勋：包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。",
@@ -170,6 +181,17 @@
           "time_info": "[01时52分 ~ 04时09分]"
         },
         {
+          "title": "全球芯片LOF玩心跳，连跌4天后大反弹，风险提示也难刹车？",
+          "url": "https://www.cls.cn/detail/2377382",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：Vera CPU 200亿美元的预估是针对独立CPU销售额，不包含与Rubin芯片组合销售的情况。",
           "url": "https://flash.jin10.com/detail/20260521054630952800",
           "source": "金十数据",
@@ -192,6 +214,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "摩根士丹利：AI并购潮呈现“全谱系”发展趋势",
           "url": "https://flash.jin10.com/detail/20260521032106844800",
           "source": "金十数据",
@@ -201,6 +234,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "摩根大通：将英伟达目标价从265美元上调至280美元。",
+          "url": "https://wallstreetcn.com/livenews/3107150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "三星罢工危机暂解，加薪6.2%，芯片部门按业绩10.5%计提奖金，以税后股票发放",
+          "url": "https://wallstreetcn.com/articles/3772758",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -223,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "摩根大通：将英伟达(NVDA.O)目标价从265美元上调至280美元。",
+          "url": "https://flash.jin10.com/detail/20260521123254226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
@@ -258,6 +324,28 @@
           "time_info": "06时23分"
         },
         {
+          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
+          "url": "https://www.cls.cn/detail/2377170",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：Vera Rubin开局不错。",
           "url": "https://wallstreetcn.com/livenews/3106950",
           "source": "华尔街见闻-快讯",
@@ -269,6 +357,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：我们的增长速度应该会超过超大规模企业的资本支出增速。",
           "url": "https://flash.jin10.com/detail/20260521053136926800",
           "source": "金十数据",
@@ -278,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特斯拉月薪3万抢“老司机”",
+          "url": "https://www.toutiao.com/trending/7641158841577930815/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
@@ -308,9 +418,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "英伟达盘后股价上演“过山车”",
+          "url": "https://www.toutiao.com/trending/7642166229951581702/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "英伟达(NVDA.O)CFO：预计2027财年全年税率为16%至18%，低于初步预期。",
@@ -335,6 +456,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：公司对Blackwell和Rubin芯片在2025年至2027年期间实现1万亿美元收入的预测充满信心。",
           "url": "https://flash.jin10.com/detail/20260521052624543800",
           "source": "金十数据",
@@ -357,6 +489,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "耿同学是怎么用AI降维打击学术圈的",
+          "url": "https://www.toutiao.com/trending/7642140104261111350/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：现在拥有超过1000亿美元回购授权。",
           "url": "https://flash.jin10.com/detail/20260521052119209800",
           "source": "金十数据",
@@ -366,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "港股午评：恒指高开低走收跌0.02% 半导体板块延续强势",
+          "url": "https://flash.jin10.com/detail/20260521120559488800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布会议纪要。",
@@ -396,7 +550,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -410,6 +564,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "杰富瑞：将英伟达(NVDA.O)目标价从275美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260521120353284800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特斯拉宣布监督版 FSD 登陆中国，意味着什么？你看好它的市场前景吗？",
+          "url": "https://www.zhihu.com/question/2040736336265443002",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "英伟达(NVDA.O)CFO：预计今年CPU收入将达到200亿美元。Vera CPU使公司能够进入价值2000亿美元的CPU潜在市场。",
@@ -484,7 +660,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -506,7 +682,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -528,7 +704,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -544,13 +720,57 @@
           "time_info": "06时23分"
         },
         {
+          "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
+          "url": "https://wallstreetcn.com/livenews/3107123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "RAIN回应金泰熙因育儿压力大落泪",
+          "url": "https://s.weibo.com/weibo?q=%23RAIN%E5%9B%9E%E5%BA%94%E9%87%91%E6%B3%B0%E7%86%99%E5%9B%A0%E8%82%B2%E5%84%BF%E5%8E%8B%E5%8A%9B%E5%A4%A7%E8%90%BD%E6%B3%AA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "夏奇拉daidai舞蹈挑战",
+          "url": "https://www.douyin.com/hot/2506133",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "超越GPT-Realtime-2，阿里语音大模型获三项第一",
+          "url": "https://flash.jin10.com/detail/20260521114818831800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
           "url": "https://wallstreetcn.com/livenews/3106974",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -572,7 +792,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
@@ -580,7 +800,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -612,8 +832,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -631,11 +873,23 @@
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普淡化升级对古巴行动的必要性",
@@ -647,6 +901,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "俄方：普京与特朗普11月或在中国见面",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE11%E6%9C%88%E6%88%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A7%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
@@ -677,7 +964,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -784,18 +1071,19 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国敲定200架波音飞机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354457&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%95%B2%E5%AE%9A200%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
         },
         {
           "title": "布林肯又提“实力”但承认：一对一竞争，我们可能输中国",
@@ -805,8 +1093,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
         },
         {
           "title": "塞尔维亚总统武契奇将于 5 月 24 日至 28 日对中国进行国事访问，有哪些信息值得关注？",
@@ -833,6 +1121,20 @@
           "time_info": "[01时52分 ~ 08时04分]"
         },
         {
+          "title": "普京结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
+          "url": "https://www.zhihu.com/question/2040380147967256150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
+        },
+        {
           "title": "普京与26年前抱过的中国男孩见面了",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E4%BA%AC%E4%B8%8E26%E5%B9%B4%E5%89%8D%E6%8A%B1%E8%BF%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%A9%E8%A7%81%E9%9D%A2%E4%BA%86",
           "source": "bilibili 热搜",
@@ -849,11 +1151,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
         },
         {
           "title": "中国U17男足战胜澳大利亚队，时隔22年再次闯入亚洲杯决赛",
@@ -867,30 +1170,18 @@
           "time_info": "[01时52分 ~ 06时23分]"
         },
         {
-          "title": "普京结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
-          "url": "https://www.zhihu.com/question/2040380147967256150",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
-        },
-        {
           "title": "普京见到了他曾抱过的中国男孩",
           "url": "https://www.douyin.com/hot/2506134",
           "source": "抖音",
           "ranks": [
             2,
             5,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 13时07分]"
         },
         {
           "title": "武契奇将对中国进行国事访问",
@@ -928,6 +1219,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时52分 ~ 08时04分]"
+        },
+        {
+          "title": "中国最牛存储公司日赚近4亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%89%9B%E5%AD%98%E5%82%A8%E5%85%AC%E5%8F%B8%E6%97%A5%E8%B5%9A%E8%BF%914%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "被普京抱过的中国男孩与普京“重逢”",
@@ -977,15 +1279,37 @@
           "time_info": "[04时08分 ~ 04时09分]"
         },
         {
+          "title": "光纤全球爆单，中国企业如何拿下全球超半数出货量？",
+          "url": "https://www.cls.cn/detail/2377588",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "普京与抱过的中国男孩互赠瓷器",
           "url": "https://www.toutiao.com/trending/7642110353933061659/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "孙颖莎自称中国科比",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%87%AA%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%AF%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "中国移动在全国上线词元套餐，价格最低为5元月包",
@@ -997,12 +1321,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "“6G网要来了” 中国率先布局",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C6G%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%E2%80%9D+%E4%B8%AD%E5%9B%BD%E7%8E%87%E5%85%88%E5%B8%83%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "孙颖莎训练时自称中国科比",
+          "url": "https://www.toutiao.com/trending/7641837060869996595/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "初中生登顶珠峰 成中国最年轻登顶者",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F%E7%99%BB%E9%A1%B6%E7%8F%A0%E5%B3%B0+%E6%88%90%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%B9%B4%E8%BD%BB%E7%99%BB%E9%A1%B6%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
@@ -1045,22 +1402,35 @@
           "url": "https://www.cls.cn/detail/2377339",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
         },
         {
           "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772760",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
+        },
+        {
+          "title": "A股港口航运板块午后短线拉升，招商南油此前涨停，宁波远洋、国航远洋、中远海能、南京港、宁波海运等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "英伟达财报",
@@ -1069,9 +1439,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin",
+          "url": "https://www.cls.cn/detail/2377323",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
         },
         {
           "title": "俄罗斯央行申请立即执行针对欧洲清算银行的法院判决",
@@ -1086,15 +1468,15 @@
           "time_info": "[01时53分 ~ 04时09分]"
         },
         {
-          "title": "全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin",
-          "url": "https://www.cls.cn/detail/2377323",
+          "title": "SpaceX递交IPO文件冲刺纳斯达克 更多财务和技术细节曝光",
+          "url": "https://www.cls.cn/detail/2377327",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "13时07分"
         },
         {
           "title": "委内瑞拉央行：委内瑞拉2025年GDP同比增长8.94%。",
@@ -1108,15 +1490,48 @@
           "time_info": "06时23分"
         },
         {
+          "title": "英伟达发布 2027 财年第一季度财报，营收大增 85%，如何评价这一业绩？为何数据超预期，股价却在波动？",
+          "url": "https://www.zhihu.com/question/2040658816761582388",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "标普500、纳斯达克100指数期货收复稍早失地，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3107148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "年内A股回购规模近千亿元",
           "url": "https://wallstreetcn.com/livenews/3106994",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "A股19股今日停牌",
+          "url": "https://www.toutiao.com/trending/7642144275744849963/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
@@ -1130,6 +1545,28 @@
           "time_info": "04时09分"
         },
         {
+          "title": "卢比贬值压力加剧，印度央行考虑加息等多项应对措施",
+          "url": "https://flash.jin10.com/detail/20260521120756355800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "上证指数早盘收报4162.37点，涨0.00%。 深证成指早盘收报15662.21点，涨0.59%。 创业板指早盘收报3942.36点，涨0.52%。 沪深300早盘收报4878.61点，涨0.58%。 科创50早盘收报1830.90点，跌0.06%。 中证500早盘收报8670.32点，涨0.16%。 中证1000早盘收报8777.55点，跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3107135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "加纳央行按下降息“暂停键”，维持基准利率在14%不变",
           "url": "https://wallstreetcn.com/livenews/3106853",
           "source": "华尔街见闻-快讯",
@@ -1139,6 +1576,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "日本央行委员“转鹰”：应以适当步伐继续加息",
+          "url": "https://flash.jin10.com/detail/20260521115209098800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "知情人士透露，印度央行正在考虑所有可行的方案来稳定卢比汇率，包括提高利率、增加货币互换以及从海外投资者那里筹集美元。",
+          "url": "https://flash.jin10.com/detail/20260521114903095800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "瑞银集团：建议投资者为“英国央行加息可能性将在未来数月继续消退”做好准备。",
@@ -1192,6 +1651,18 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美联储会议纪要放鹰：多数官员支持通胀持续高企时加息，多人倾向删除宽松倾向",
+          "url": "https://wallstreetcn.com/articles/3772756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
+        },
+        {
           "title": "周三（5月20日），美联储隔夜逆回购协议（RRP）使用规模为248.67亿美元（交易对手16家），上个交易日报129.11亿美元。",
           "url": "https://wallstreetcn.com/livenews/3106867",
           "source": "华尔街见闻-快讯",
@@ -1213,17 +1684,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "美联储会议纪要放鹰：多数官员支持通胀持续高企时加息，多人倾向删除宽松倾向",
-          "url": "https://wallstreetcn.com/articles/3772756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
         },
         {
           "title": "美联储会议纪要：当前政策立场需要维持比预期更长的时间",
@@ -1335,11 +1795,12 @@
           "url": "https://www.cls.cn/detail/2377305",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时07分]"
         },
         {
           "title": "美银：对冲基金上周抛售美股规模创纪录",
@@ -1381,7 +1842,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
