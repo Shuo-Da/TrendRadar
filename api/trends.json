@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:07:38.122887+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-06-01T13:59:06.125732+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 21,
+      "match_count": 46,
       "titles": [
         {
           "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
@@ -66,6 +66,22 @@
           "time_info": "[00时03分 ~ 05时57分]"
         },
         {
+          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
+          "url": "https://www.zhihu.com/question/2044397085965955829",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            7,
+            5,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 13时59分]"
+        },
+        {
           "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
           "url": "https://www.zhihu.com/question/2043989303341142831",
           "source": "知乎",
@@ -91,21 +107,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 08时07分]"
-        },
-        {
-          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
-          "url": "https://www.zhihu.com/question/2044397085965955829",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 08时07分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -167,6 +168,28 @@
           "time_info": "[06时58分 ~ 08时07分]"
         },
         {
+          "title": "黄仁勋：Vera Rubin全面量产，AI Agent是重点方向，挑战英特尔剑指下一代AI PC入口",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "直击英伟达GTC 2026黄仁勋演讲：英伟达正式进军PC芯片市场",
+          "url": "https://www.cls.cn/detail/2386626",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
           "url": "https://www.zhihu.com/question/2044518201330073873",
           "source": "知乎",
@@ -187,9 +210,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "LobsterAI上线图片视频大模型矩阵",
+          "url": "https://flash.jin10.com/detail/20260601133424599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达：计划除了与中国宇树科技合作外，也将与美国、欧洲及韩国的人形机器人制造商合作，开展研究机器人项目。",
+          "url": "https://wallstreetcn.com/livenews/3112198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
@@ -201,6 +246,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 05时57分]"
+        },
+        {
+          "title": "媒体：莫让AI加剧医患“沟通危机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 13时59分]"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -215,6 +272,17 @@
           "time_info": "[04时54分 ~ 05时57分]"
         },
         {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
           "url": "https://flash.jin10.com/detail/20260601041827560800",
           "source": "金十数据",
@@ -225,6 +293,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时57分]"
+        },
+        {
+          "title": "AI热情主导市场，日韩股市齐创新高，韩股一度触发熔断，三星电子大涨10%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "英伟达正面挑战英特尔",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%98%E8%8B%B1%E7%89%B9%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "英伟达超级芯片平台Vera Rubin全面投产",
+          "url": "https://www.toutiao.com/trending/7646273216465342006/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N)正在探索使用英伟达Omniverse库构建FabTwin虚拟晶圆厂环境，并使用英伟达Metropolis和TAO工具套件推进缺陷检测。",
+          "url": "https://flash.jin10.com/detail/20260601132644360800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N)使用英伟达CUDA-X库和AI模型加速英伟达GPU上的工作负载。",
+          "url": "https://flash.jin10.com/detail/20260601132527452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N) 利用英伟达技术提升先进晶圆厂的周转时间、能效、良率和运营生产力。",
+          "url": "https://flash.jin10.com/detail/20260601132504780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "国泰海通：维持海外AI算力及应用产业链“增持”评级",
@@ -238,15 +372,92 @@
           "time_info": "00时03分"
         },
         {
-          "title": "媒体：莫让AI加剧医患“沟通危机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
-          "source": "澎湃新闻",
+          "title": "英伟达：将与台积电合作将AI引入晶圆厂，推动半导体设计与制造创新。",
+          "url": "https://wallstreetcn.com/livenews/3112187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "日经首破67000点，软银击败丰田登顶：AI正在重写日本股市",
+          "url": "https://flash.jin10.com/detail/20260601132322498800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达：包括比亚迪、吉利、极氪、小米以及小马智行等在内的中国主流车企和自动驾驶公司，均已采用或正在基于NVIDIA Hyperion 平台开发智驾。",
+          "url": "https://wallstreetcn.com/livenews/3112186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)高管：英伟达计划与美国、欧洲和韩国的人形机器人制造商合作，开展研究机器人项目。",
+          "url": "https://flash.jin10.com/detail/20260601132203037800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达发布用于学术研究的NVIDIA Isaac GR00T人形机器人参考平台。",
+          "url": "https://wallstreetcn.com/livenews/3112183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达推出用于自动驾驶出租车的Alpamayo 2超级开放推理模型，宣布NVIDIA DRIVE Hyperion成为全球自动驾驶出租车平台。",
+          "url": "https://wallstreetcn.com/livenews/3112181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司推出面向机器人AI的新一代模型。",
+          "url": "https://wallstreetcn.com/livenews/3112179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达推出面向Windows的DGX Station，为企业配备拥有万亿参数的人工智能超级计算机。",
+          "url": "https://wallstreetcn.com/livenews/3112177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "时隔两个月 意法半导体再度涨价",
@@ -258,12 +469,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达将随每一代AI处理器同步推出新一代个人电脑（PC）芯片。",
+          "url": "https://wallstreetcn.com/livenews/3112175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)推出Cosmos 3开放世界基础模型，旨在推动物理人工智能的发展。",
+          "url": "https://flash.jin10.com/detail/20260601130620830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达公布面向Windows系统个人电脑的新款处理器，挑战英特尔。 英伟达将与联发科合作开发RTX SPARK个人电脑芯片，台积电将生产该芯片。 英伟达个人电脑芯片将于今年秋季面市，适用于笔记本和台式机。",
+          "url": "https://wallstreetcn.com/livenews/3112170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：推出全新AI模型Nemotron 3 Ultra。",
+          "url": "https://wallstreetcn.com/livenews/3112168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与台积电(TSM.N)携手将人工智能引入晶圆厂，推动半导体设计与制造技术升级。",
+          "url": "https://flash.jin10.com/detail/20260601130243574800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "日本何时向亚洲受害国道歉？日防卫大臣小泉避答中国代表提问",
@@ -323,8 +600,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 13时59分]"
+        },
+        {
+          "title": "在印中国留学生热到提前回国：“感觉内脏在沸腾”，当地人为纳凉睡恒河边",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276088",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 13时59分]"
         },
         {
           "title": "东帝汶总统：五常仅中国未卷入战争",
@@ -343,18 +633,6 @@
           "time_info": "[00时03分 ~ 08时07分]"
         },
         {
-          "title": "在印中国留学生热到提前回国：“感觉内脏在沸腾”，当地人为纳凉睡恒河边",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276088",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时07分]"
-        },
-        {
           "title": "“井底之蛙！中国造船产能是美国200倍，绝非夸张”",
           "url": "https://news.ifeng.com/c/8taJ3qOoAwT",
           "source": "凤凰网",
@@ -364,6 +642,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时18分 ~ 08时07分]"
+        },
+        {
+          "title": "中国科技期刊影响力提升 底气何来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%9F%E5%88%8A%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%8F%90%E5%8D%87+%E5%BA%95%E6%B0%94%E4%BD%95%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.4%报45,337.91点。",
+          "url": "https://wallstreetcn.com/livenews/3112203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "如何评价中国科学技术大学潘建伟团队的量子计算研究？",
@@ -427,6 +727,17 @@
           "time_info": "[04时54分 ~ 06时58分]"
         },
         {
+          "title": "中国驻菲律宾大使：中国人不是好欺负的！",
+          "url": "https://v.ifeng.com/c/8taurqAkGVq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "中国地震台网正式测定：06月01日05时34分在智利中部沿岸远海发生6.0级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260601060429636800",
           "source": "金十数据",
@@ -437,6 +748,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时07分]"
+        },
+        {
+          "title": "中国代表提问：“日本何时道歉？”日防卫大臣小泉避答",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277934",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "驻菲大使：欺负中国人有严重后果",
+          "url": "https://www.toutiao.com/trending/7646059485958029355/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "中国海警位台湾岛以东海域执法巡查",
+          "url": "https://www.toutiao.com/trending/7646239480336109097/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "中国驻菲大使：中国人不是好欺负的",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%8F%B2%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E6%98%AF%E5%A5%BD%E6%AC%BA%E8%B4%9F%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "中国驻捷克大使馆就捷克议会参议院主席赴台湾地区访问答记者问",
@@ -456,7 +811,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -486,7 +841,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -542,13 +897,24 @@
           "time_info": "[01时58分 ~ 06时58分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
           "url": "https://flash.jin10.com/detail/20260601073133221800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -559,7 +925,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -635,6 +1001,17 @@
           "time_info": "[05时57分 ~ 06时58分]"
         },
         {
+          "title": "特朗普：伊朗真的很想达成协议，最终一切都会顺利解决，大家只需坐下来，放轻松。",
+          "url": "https://wallstreetcn.com/livenews/3112190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "美媒：特朗普对拟议协议的修改导致美伊谈判延长一周",
           "url": "https://flash.jin10.com/detail/20260531225247736800",
           "source": "金十数据",
@@ -666,12 +1043,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "特朗普：伊朗确实想达成协议",
+          "url": "https://flash.jin10.com/detail/20260601130259143800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -681,8 +1069,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 13时59分]"
         },
         {
           "title": "下周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报",
@@ -722,6 +1110,17 @@
           "time_info": "[00时03分 ~ 06时58分]"
         },
         {
+          "title": "本周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报",
+          "url": "https://wallstreetcn.com/articles/3773422",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "欧洲央行管委：欧洲央行应早行动而非晚行动",
           "url": "https://wallstreetcn.com/livenews/3111950",
           "source": "华尔街见闻-快讯",
@@ -732,6 +1131,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 06时58分]"
+        },
+        {
+          "title": "【早报】新一轮深化国资国企改革方案已下发；MiniMax对在科创板上市进行评估",
+          "url": "https://www.cls.cn/detail/2386494",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 13时59分]"
+        },
+        {
+          "title": "A股电机制造板块短线拉升，神力股份、星德胜此前涨停，卧龙电驱涨逾3%，江苏雷利、三协电机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601133424557800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "MINIMAX-W：截至本公告日期，本公司已聘请专业顾问就本公司符合在科创板上市的条件提供咨询，并已签订辅导协议。",
@@ -770,15 +1192,37 @@
           "time_info": "[00时03分 ~ 03时19分]"
         },
         {
-          "title": "【早报】新一轮深化国资国企改革方案已下发；MiniMax对在科创板上市进行评估",
-          "url": "https://www.cls.cn/detail/2386494",
-          "source": "财联社热门",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "A股PCB概念板块短线拉升，圣泉集团涨停，合锻智能、龙旗科技、中京电子此前封板，宏昌电子、澳弘电子、芯碁微装、鹏鼎控股、德福科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "13时59分"
+        },
+        {
+          "title": "A股PCB概念震荡回升，圣泉集团涨停，龙旗科技、中京电子此前封板，奥士康、宏昌电子、德福科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601132404101800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
@@ -787,7 +1231,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -798,15 +1242,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "A股互联网电商板块走高，狮头股份涨停，壹网壹创涨超10%，丽人丽妆、跨境通、赛维时代、凯淳股份、三态股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601130441835800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储理事沃勒：稳定币将扩大美国货币政策的影响范围",
@@ -819,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 06时58分]"
+        },
+        {
+          "title": "沃什改写“美联储最爱的通胀指标”，2021年“通胀低估”会重演吗？",
+          "url": "https://wallstreetcn.com/articles/3773529",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "美联储6月维持利率不变的概率为99.3%",
@@ -859,6 +1325,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
+          "url": "https://wallstreetcn.com/livenews/3112161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     }
