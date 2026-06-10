@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T03:33:13.976347+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-06-11T05:56:20.885979+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普本周料将会见国防工业主管，敦促防务企业提高产量。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -85,6 +85,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "【伊朗：武力无法达成可持续协议，特朗普应停止威胁】伊朗常驻联合国代表10日就美国总统特朗普威胁打击伊朗回应称，威胁、恐吓或诉诸武力无法达成可持续协议，特朗普应停止威胁伊朗。 据伊朗伊斯兰共和国通讯社报道，伊朗常驻联合国代表伊拉瓦尼于当地时间10日在联合国安理会会议上说，特朗普应停止对伊朗反复威胁，包括他当天再次发出诉诸武力的威胁。 特朗普当天早些时候称，美国将对伊朗再次发起打击，而且会“非常猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3117718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "美国总统特朗普：重申房利美和房地美的估值可能达到1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3117619",
           "source": "华尔街见闻-快讯",
@@ -103,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -115,19 +126,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
           "url": "https://wallstreetcn.com/articles/3774257",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时56分]"
         },
         {
           "title": "美国总统特朗普：我们每晚都在获取数百万桶石油。",
@@ -235,7 +247,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -301,7 +313,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -345,7 +357,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -411,15 +423,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3117688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -429,19 +452,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时56分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -449,11 +473,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "“内存减半”实为不得已？机构：英伟达要力保CPU出货",
@@ -461,11 +486,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -476,8 +502,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
@@ -488,8 +514,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -521,7 +547,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -537,6 +563,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2396351",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
           "url": "https://wallstreetcn.com/livenews/3117610",
           "source": "华尔街见闻-快讯",
@@ -548,13 +585,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
+          "url": "https://wallstreetcn.com/livenews/3117706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "数据硬件和软件供应商DDN的首席执行官亚历克斯·布扎里表示，公司计划在今年年底前进行新一轮融资。DDN的合作伙伴包括英伟达，客户则包括谷歌和Salesforce。",
           "url": "https://flash.jin10.com/detail/20260611023411479800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -576,7 +624,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -598,9 +646,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3117687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
@@ -616,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "中国已补齐台湾岛东部海底地图",
@@ -625,11 +684,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "视频丨中国足球小将抵达巴西参赛，教练董路：找对方法可以以弱胜强",
@@ -637,11 +697,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "美国绕过英国“收购查戈斯群岛”，为了“不给中国送大礼”？",
@@ -651,8 +712,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "评论｜重磅罚单是一次刮骨疗毒，中国篮球应借此重塑底线",
@@ -662,8 +723,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "比利时首相叫屈：不敢点名中国",
@@ -671,11 +732,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "印度人热死也不用中国空调",
@@ -685,8 +747,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "中国男篮公布备战世预赛集训名单",
@@ -696,8 +758,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "美国智库对中国光刻机的预测错在哪",
@@ -705,11 +767,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "中国篮协通报多人被禁赛，篮球新秀李沂泽虚报年龄被禁赛三年，张涵泊和李沂泽确为同一人，如何看待此事？",
@@ -737,7 +800,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股牛市轮涨要来了吗",
@@ -745,11 +808,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
@@ -757,11 +821,23 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
+        },
+        {
+          "title": "周三（6月10日）纽约尾盘，标普500股指期货最终跌1.74%，道指期货跌1.97%，纳斯达克100股指期货跌2.24%。 罗素2000股指期货跌1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3117709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，工业板块跌超2.4%，科技板块跌1.6%，能源板块涨超2%。道指跌577点、跌幅超过1.1%，纳指跌1.3%，半导体指数跌2.8%。 纳斯达克100指数跌幅扩大至1.5%，成分股高通跌5.7%，西部数据跌5.6%，博通、AMD、Arm控股、核电股CEG至少跌4.2%，特斯拉跌3.1%，英伟达跌2.9%，Diamondback Energy、卡夫亨氏、T-Mobile则涨超2%。",
@@ -786,6 +862,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "标普500指数的11个板块普跌，工业板块收跌3.41%，原材料、信息技术/科技、可选消费板块至多跌2.45%，电信板块跌1.65%，能源板块则收涨1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3117689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "标普500指数跌0.56%，道指下跌超500点、跌幅扩大至1%，纳指跌0.8%，半导体指数跌1.4%。 现货黄金日内跌3％，现报4128.85美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3117593",
           "source": "华尔街见闻-快讯",
@@ -800,7 +887,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：推出DiffusionGemma。",
@@ -814,13 +901,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
+          "url": "https://flash.jin10.com/detail/20260611050209043800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
           "url": "https://flash.jin10.com/detail/20260611022100658800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -831,9 +929,59 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 03时33分]"
+        },
+        {
+          "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
+          "url": "https://wallstreetcn.com/livenews/3117696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超4.1%，纳指ETF跌2%",
+          "url": "https://wallstreetcn.com/livenews/3117690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美股泡沫为何逐渐得到认同",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E4%B8%BA%E4%BD%95%E9%80%90%E6%B8%90%E5%BE%97%E5%88%B0%E8%AE%A4%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     },
@@ -850,8 +998,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         },
         {
           "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
@@ -860,7 +1008,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -871,7 +1019,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         }
@@ -887,28 +1035,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         }
       ]
     },
@@ -924,8 +1056,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时56分]"
         }
       ]
     }
