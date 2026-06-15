@@ -1,11 +1,228 @@
 {
-  "generated_at": "2026-06-16T03:44:49.285738+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-16T06:15:57.971590+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "SEC文件显示：英伟达(NVDA.O)申请最高达250亿美元的七部分票据发行。",
+          "url": "https://flash.jin10.com/detail/20260616053052231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "AI为何成为能源之战",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
+          "url": "https://www.cls.cn/detail/2400342",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
+          "url": "https://www.zhihu.com/question/2049845138457719674",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
+          "url": "https://www.zhihu.com/question/2049041027298750565",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "英伟达债券发行额增至250亿美元 认购额高达850亿美元",
+          "url": "https://flash.jin10.com/detail/20260616022707376800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "据The Information：高通(QCOM.O)正在洽谈收购Tenstorrent，以扩展其人工智能芯片能力。",
+          "url": "https://flash.jin10.com/detail/20260616044220007800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "应用材料发布两款新的芯片制造系统",
+          "url": "https://wallstreetcn.com/livenews/3119865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3119863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "标普三天涨超3.9%，半导体、小盘股创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3119858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -15,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -26,8 +243,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
         },
         {
           "title": "一名要求匿名的七国集团（G7）官员表示，成员国在如何应对伊朗局势问题上存在严重分歧。几乎没有人预期此次峰会会发表联合公报，在特朗普时代，这几乎是不可能完成的任务。（彭博）",
@@ -41,28 +280,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
@@ -70,8 +287,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
         },
         {
           "title": "根据路透社/益普索调查，随着民众对生活成本的不满情绪有所缓解，特朗普的支持率升至36%。",
@@ -118,6 +335,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://wallstreetcn.com/livenews/3119871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "美国加州州长纽森：美国总统特朗普已指示司法部对我进行调查。",
           "url": "https://flash.jin10.com/detail/20260616022018165800",
           "source": "金十数据",
@@ -153,129 +381,146 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 11,
+      "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "AI为何成为能源之战",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
-          "url": "https://www.zhihu.com/question/2049845138457719674",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
-          "url": "https://www.cls.cn/detail/2400342",
+          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2400118",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
         },
         {
-          "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
-          "url": "https://www.zhihu.com/question/2049041027298750565",
-          "source": "知乎",
+          "title": "津巴布韦央行下调贷款利率至30%，之前为35%。",
+          "url": "https://wallstreetcn.com/livenews/3119884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "周一（6月15日）纽约尾盘，标普500股指期货最终涨1.64%，道指期货涨0.97%，纳斯达克100股指期货涨2.94%。 罗素2000股指期货涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3119880",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         },
         {
-          "title": "英伟达债券发行额增至250亿美元 认购额高达850亿美元",
-          "url": "https://flash.jin10.com/detail/20260616022707376800",
+          "title": "SpaceX(SPCX.O)：不打算通过电报分发服务发布季度或年度财报或其他重要消息。将主要通过投资者关系页面及X账户向公众发布重要信息。",
+          "url": "https://flash.jin10.com/detail/20260616050714641800",
           "source": "金十数据",
           "ranks": [
-            16
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         },
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
+          "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3119873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "津巴布韦降息500个基点，为美伊协议达成后首个降息的央行",
+          "url": "https://flash.jin10.com/detail/20260616045232724800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         },
         {
-          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
-          "url": "https://wallstreetcn.com/livenews/3119827",
+          "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
+          "url": "https://wallstreetcn.com/livenews/3119866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "美伊协议落地，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3119879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
+          "url": "https://wallstreetcn.com/livenews/3119870",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         },
         {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.toutiao.com/trending/7651542350414037011/",
-          "source": "今日头条",
+          "title": "新兴市场ETF收涨将近3.3%，领跑美股大类资产类ETF，布油基金跌3.7%",
+          "url": "https://wallstreetcn.com/livenews/3119867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119861",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         }
       ]
     },
@@ -291,8 +536,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
         },
         {
           "title": "周一（6月15日），美联储隔夜逆回购协议（RRP）使用规模为5.81亿美元（交易对手8家），上个交易日报4.54亿美元。",
@@ -336,19 +581,30 @@
       ]
     },
     {
-      "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 1,
+      "keyword_group": "中国 十五五规划",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2400118",
-          "source": "财联社热门",
+          "title": "“十五五”中国光热发电前景可期",
+          "url": "https://www.toutiao.com/trending/7651595676949876250/",
+          "source": "今日头条",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时15分]"
+        },
+        {
+          "title": "为什么说中国没必要抄SpaceX的作业",
+          "url": "https://www.toutiao.com/trending/7651590861641223721/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时15分"
         }
       ]
     },
@@ -362,40 +618,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2400410",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国 十五五规划",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“十五五”中国光热发电前景可期",
-          "url": "https://www.toutiao.com/trending/7651595676949876250/",
-          "source": "今日头条",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
