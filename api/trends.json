@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-14T05:52:50.168102+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-07-14T06:53:25.641397+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
+        },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
           "url": "https://flash.jin10.com/detail/20260714034636545800",
@@ -30,6 +53,18 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
           "url": "https://flash.jin10.com/detail/20260714033602404800",
           "source": "金十数据",
@@ -45,45 +80,12 @@
           "url": "https://wallstreetcn.com/livenews/3133102",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
-          "url": "https://wallstreetcn.com/articles/3776814",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
-        },
-        {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
+            2,
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
@@ -131,15 +133,70 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
+          "url": "https://wallstreetcn.com/livenews/3133113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260714060823307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "特朗普：认为可能会与伊朗达成协议，将从得到美方帮助的国家获得补偿",
+          "url": "https://wallstreetcn.com/livenews/3133110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
           "url": "https://flash.jin10.com/detail/20260714045313095800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
+          "url": "https://wallstreetcn.com/livenews/3133109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3133108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -151,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国总统特朗普：认为伊朗局势推进得非常迅速。 将消除伊朗与霍尔木兹海峡相关的影响力。 预计我们将彻底控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3133107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -170,7 +238,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -186,6 +254,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "美国总统特朗普：希望我们在霍尔木兹海峡提供帮助的国家向我们偿付保护费用。",
+          "url": "https://flash.jin10.com/detail/20260714060535317800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "特朗普已通知国会伊朗战事重新爆发",
           "url": "https://wallstreetcn.com/livenews/3133047",
           "source": "华尔街见闻-快讯",
@@ -197,15 +276,37 @@
           "time_info": "04时11分"
         },
         {
+          "title": "美国总统特朗普：我们将与伊朗斗争一段时间。",
+          "url": "https://flash.jin10.com/detail/20260714060337943800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
           "url": "https://flash.jin10.com/detail/20260714041841055800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "特朗普认为与伊朗达成协议是可能的",
+          "url": "https://flash.jin10.com/detail/20260714060129158800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -225,9 +326,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）削弱伊朗的进攻能力。",
+          "url": "https://flash.jin10.com/detail/20260714060022197800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "美国总统特朗普：与以色列总理内塔尼亚胡相处得很好。",
@@ -236,9 +348,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美国总统特朗普：我认为，最终我们将控制整个局面。",
+          "url": "https://flash.jin10.com/detail/20260714055755920800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "特朗普称美国今晚和明天将“重击”伊朗",
@@ -247,7 +370,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -258,7 +381,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -269,15 +392,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在打击伊朗涉及霍尔木兹海峡的相关能力。",
+          "url": "https://flash.jin10.com/detail/20260714055526773800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -287,8 +421,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -298,8 +432,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -313,17 +447,6 @@
           "time_info": "[00时28分 ~ 04时11分]"
         },
         {
-          "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
           "url": "https://wallstreetcn.com/articles/3776779",
           "source": "华尔街见闻",
@@ -332,8 +455,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
+        },
+        {
+          "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -343,8 +488,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "全球首颗近存计算3D芯片发布",
@@ -355,8 +500,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 06时53分]"
+        },
+        {
+          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+          "url": "https://www.zhihu.com/question/2058578162674397208",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时41分 ~ 05时52分]"
+          "time_info": "[04时10分 ~ 06时53分]"
         },
         {
           "title": "曝苹果20系列回归玻璃机身",
@@ -372,15 +529,15 @@
           "time_info": "[00时28分 ~ 04时11分]"
         },
         {
-          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
-          "url": "https://www.zhihu.com/question/2058578162674397208",
-          "source": "知乎",
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
+          "source": "财联社热门",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 05时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -389,7 +546,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -400,7 +557,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -411,7 +568,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -444,7 +601,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -455,7 +612,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -485,7 +642,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国人民大学：根据新线索认定蒋方舟学术不端，撤销其硕士学位",
@@ -495,8 +652,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "外媒称中国四支舰队出击太平洋“扫海”",
@@ -506,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "非要和中国比？印度在贸易谈判中对美国提要求",
@@ -517,8 +674,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
+        },
+        {
+          "title": "中国试射导弹后的国际现状",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9%E5%90%8E%E7%9A%84%E5%9B%BD%E9%99%85%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            29,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "不用“外挂”的中国空调在欧洲杀疯了",
@@ -531,8 +702,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "日本民众集会举牌“中国对不起”",
@@ -543,21 +714,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
-        },
-        {
-          "title": "中国试射导弹后的国际现状",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9%E5%90%8E%E7%9A%84%E5%9B%BD%E9%99%85%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            29,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "日本民众集会举牌“中国对不起”",
@@ -567,11 +725,12 @@
             19,
             22,
             18,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "“中国首个禁售燃油车省份”，为何是海南？",
@@ -579,11 +738,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -593,8 +753,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "中国首个禁售燃油车省份为何是海南",
@@ -603,11 +763,12 @@
           "ranks": [
             17,
             14,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "高盛：中国股票出现“轮动信号”",
@@ -631,8 +792,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[04时10分 ~ 06时53分]"
         },
         {
           "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
@@ -653,9 +814,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "为什么中国重新重视冷门基础科学",
+          "url": "https://www.toutiao.com/trending/7661789717637107206/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "深度解析中国第一枚回收火箭",
@@ -682,19 +854,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
-        },
-        {
-          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
-          "url": "https://wallstreetcn.com/livenews/3133099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -702,11 +863,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时53分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -720,6 +882,30 @@
           "time_info": "[00时28分 ~ 05时52分]"
         },
         {
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
+          "title": "周一（7月13日）纽约尾盘，标普500股指期货最终跌0.89%，道指期货跌0.33%，纳斯达克100股指期货跌2.02%。 罗素2000股指期货跌0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3133094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
           "title": "A股今日大跌原因",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E6%97%A5%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -730,17 +916,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时41分]"
-        },
-        {
-          "title": "周一（7月13日）纽约尾盘，标普500股指期货最终跌0.89%，道指期货跌0.33%，纳斯达克100股指期货跌2.02%。 罗素2000股指期货跌0.95%。",
-          "url": "https://wallstreetcn.com/livenews/3133094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
@@ -826,7 +1001,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -834,7 +1009,7 @@
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美联储理事沃勒将于十分钟后发表讲话。",
@@ -846,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为58.3%",
+          "url": "https://flash.jin10.com/detail/20260714061047429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
@@ -913,22 +1099,24 @@
           "url": "https://wallstreetcn.com/livenews/3133095",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
           "url": "https://wallstreetcn.com/livenews/3133093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
         },
         {
           "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
@@ -937,7 +1125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -948,7 +1136,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -976,7 +1164,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -992,11 +1180,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 06时53分]"
         }
       ]
     }
