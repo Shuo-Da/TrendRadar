@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:39:38.123323+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-07-17T16:02:51.572954+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 13时39分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 16时02分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -64,7 +65,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -86,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -97,9 +98,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "峰哥称不再点评A股",
+          "url": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%82%B9%E8%AF%84A%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
@@ -136,6 +148,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 13时39分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2574308",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
+        },
+        {
+          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
         },
         {
           "title": "A股PCB板块大幅调整，广合科技跌停，逸豪新材、南亚新材、金安国纪、东山精密、红板科技、生益科技等跟跌。",
@@ -188,9 +223,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "长鑫科技打新开启：科创板史上最大IPO，中一签能赚多少？",
@@ -226,26 +272,37 @@
           "time_info": "10时12分"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2574308",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "创业板指日内重挫6%，深证成指跌4.6%，上证综指跌4.6%。",
           "url": "https://flash.jin10.com/detail/20260717131601600800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股跌至3790点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E8%87%B33790%E7%82%B9%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-07-17）",
+          "url": "https://flash.jin10.com/detail/20260717152117792800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "创业板指、科创50均跌超2%，沪指跌0.38%，深成指跌1.36%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2300只。",
@@ -265,9 +322,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股收盘：创业板指跌超7%，全市场近200股跌停",
+          "url": "https://wallstreetcn.com/livenews/3135544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "受财报影响，奈飞(NFLX.O)盘后跌超4%。",
@@ -320,7 +388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -336,13 +404,24 @@
           "time_info": "05时07分"
         },
         {
+          "title": "上证指数收报3764.15点，跌3.05%。 深证成指收报13706.88点，跌5.40%。 创业板指收报3428.63点，跌7.15%。 沪深300收报4529.10点，跌3.60%。 科创50收报1715.40点，跌7.12%。 中证500收报7513.76点，跌5.55%。 中证1000收报7168.00点，跌6.08%。",
+          "url": "https://wallstreetcn.com/livenews/3135542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "A股午后创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
           "url": "https://flash.jin10.com/detail/20260717131311097800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -369,15 +448,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600948",
-          "source": "澎湃新闻",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时02分"
         },
         {
           "title": "上证综指跌幅扩大至1%，深证成指跌2.94%，创业板指跌3.91%。",
@@ -389,6 +468,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见利比亚央行行长纳吉·伊萨·贝尔卡西姆",
+          "url": "https://wallstreetcn.com/livenews/3135530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "上证指数",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "A股电力板块异动拉升，华银电力触及涨停，乐山电力、深南电A、杭州热电、西昌电力跟涨。",
@@ -408,7 +509,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -419,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -444,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "业内人士：当前A股市场调整更多是慢牛中的高波动，市场当前位置具备较强支撑",
+          "url": "https://wallstreetcn.com/livenews/3135526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "A股画风又变了",
@@ -471,7 +583,7 @@
     },
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
@@ -569,6 +681,17 @@
           "time_info": "[00时16分 ~ 13时39分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时02分]"
+        },
+        {
           "title": "花钱就看这?功夫女足公开用AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
           "source": "贴吧",
@@ -582,15 +705,20 @@
           "time_info": "[00时16分 ~ 10时12分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
+          "title": "日产芯片超15亿块 什么概念",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
+          "source": "百度热搜",
           "ranks": [
-            1
+            10,
+            7,
+            17,
+            16,
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 16时02分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -603,21 +731,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时56分 ~ 13时39分]"
-        },
-        {
-          "title": "日产芯片超15亿块 什么概念",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            17,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时56分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -694,6 +807,30 @@
           "time_info": "05时07分"
         },
         {
+          "title": "机构：2030年新型云端提供商将占AI云端市场20%份额",
+          "url": "https://flash.jin10.com/detail/20260717153213319800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 16时02分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
           "url": "https://flash.jin10.com/detail/20260717001020905800",
           "source": "金十数据",
@@ -711,7 +848,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -743,23 +880,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时39分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时02分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -772,6 +898,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时56分 ~ 10时12分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
         },
         {
           "title": "8家车企同一天开发布会",
@@ -807,17 +968,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
           "url": "https://wallstreetcn.com/livenews/3135211",
           "source": "华尔街见闻-快讯",
@@ -827,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特斯拉发布首款两轮车",
+          "url": "https://www.toutiao.com/trending/7663317146667057179/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "报道：苹果拟对iPad mini进行五年来最大规模升级，今年秋季发布新品",
@@ -840,13 +1001,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
+          "url": "https://wallstreetcn.com/livenews/3135549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "韩国惨遭AI泡沫绞杀局",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%83%A8%E9%81%ADAI%E6%B3%A1%E6%B2%AB%E7%BB%9E%E6%9D%80%E5%B1%80%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -862,26 +1034,37 @@
           "time_info": "05时07分"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
+          "title": "Kimi发布全球最大规模的开源模型 国产大模型景气度有望持续走高",
+          "url": "https://www.cls.cn/detail/2429002",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时02分"
         },
         {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
           "ranks": [
-            20
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时02分"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
@@ -920,7 +1103,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "1组数字看2026上半年中国经济",
@@ -932,19 +1115,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 10时12分]"
-        },
-        {
-          "title": "中国援助海外,日本冒领功劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 13时39分]"
         },
         {
           "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
@@ -960,6 +1130,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 10时12分]"
+        },
+        {
+          "title": "中国援助海外,日本冒领功劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356241&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E6%B5%B7%E5%A4%96%2C%E6%97%A5%E6%9C%AC%E5%86%92%E9%A2%86%E5%8A%9F%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 16时02分]"
         },
         {
           "title": "realme手机退出中国市场",
@@ -986,6 +1170,17 @@
           "time_info": "[00时16分 ~ 07时56分]"
         },
         {
+          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
+          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 16时02分]"
+        },
+        {
           "title": "中国夫妇在印尼浮潜溺亡，目击者发声",
           "url": "https://news.ifeng.com/c/8uoVA9DtTaU",
           "source": "凤凰网",
@@ -1009,17 +1204,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时56分]"
-        },
-        {
-          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
-          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时39分]"
         },
         {
           "title": "“为什么我们要替别人去和中国作对呢”",
@@ -1058,26 +1242,38 @@
           "time_info": "[00时16分 ~ 05时07分]"
         },
         {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
+        },
+        {
           "title": "沃尔沃：中国市场卡车业务较去年增长14%。",
           "url": "https://flash.jin10.com/detail/20260717132609129800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
         {
-          "title": "机票销量暴涨1240% 来中国避暑火了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A81240%25+%E6%9D%A5%E4%B8%AD%E5%9B%BD%E9%81%BF%E6%9A%91%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
+          "title": "外交部：要求美方立即撤销对中国记者的歧视性政策",
+          "url": "https://wallstreetcn.com/livenews/3135560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时02分"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至2%。",
@@ -1097,7 +1293,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1108,7 +1304,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1135,15 +1331,17 @@
           "time_info": "05时07分"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://www.cls.cn/detail/2429309",
-          "source": "财联社热门",
+          "title": "真我realme暂停中国市场",
+          "url": "https://www.douyin.com/hot/2573886",
+          "source": "抖音",
           "ranks": [
-            4
+            15,
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 16时02分]"
         },
         {
           "title": "2026 上半年中国大陆电视出货量创十七年新低，同期下降 10%，为啥电视卖不动了？可能会带来哪些影响？",
@@ -1156,6 +1354,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时59分 ~ 07时56分]"
+        },
+        {
+          "title": "机票销量暴涨1240% 来中国避暑火了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A81240%25+%E6%9D%A5%E4%B8%AD%E5%9B%BD%E9%81%BF%E6%9A%91%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
         },
         {
           "title": "张小斐成中国首位票房破百亿85花",
@@ -1183,18 +1393,6 @@
           "time_info": "[07时56分 ~ 13时39分]"
         },
         {
-          "title": "真我realme暂停中国市场",
-          "url": "https://www.douyin.com/hot/2573886",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 13时39分]"
-        },
-        {
           "title": "中国夫妇在印尼浮潜时溺亡",
           "url": "https://www.toutiao.com/trending/7662913597463396388/",
           "source": "今日头条",
@@ -1207,13 +1405,25 @@
           "time_info": "[03时59分 ~ 07时56分]"
         },
         {
+          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 16时02分]"
+        },
+        {
           "title": "中国台湾证交所加权股价指数下跌6%至42,869.42点。",
           "url": "https://wallstreetcn.com/livenews/3135485",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1229,15 +1439,26 @@
           "time_info": "07时56分"
         },
         {
-          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
-          "source": "澎湃新闻",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "16时02分"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）中国工商银行账户贵金属行情",
@@ -1249,6 +1470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "原中国银行保险监督管理委员会法规部副主任张劲松受贿、利用影响力受贿案一审宣判",
+          "url": "https://wallstreetcn.com/livenews/3135548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
@@ -1284,13 +1516,35 @@
           "time_info": "07时56分"
         },
         {
+          "title": "国防部：菲方搞政治作秀改变不了有关岛礁属于中国的历史和法理事实",
+          "url": "https://flash.jin10.com/detail/20260717151335689800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "中国全球好感度反超美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%A8%E7%90%83%E5%A5%BD%E6%84%9F%E5%BA%A6%E5%8F%8D%E8%B6%85%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "海外游客来中国避暑火了",
           "url": "https://www.toutiao.com/trending/7663266137530777643/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1301,9 +1555,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "默茨：不反对中国车企接手德汽车工厂",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%8E%A5%E6%89%8B%E5%BE%B7%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "中国宽基ETF周四获资金流入，华泰柏瑞沪深300ETF净流入去年4月来最大",
@@ -1626,7 +1891,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1645,11 +1910,12 @@
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 16时02分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -1701,11 +1967,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 16时02分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -1796,6 +2063,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
           "url": "https://wallstreetcn.com/livenews/3135177",
           "source": "华尔街见闻-快讯",
@@ -1835,7 +2113,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1868,7 +2146,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
