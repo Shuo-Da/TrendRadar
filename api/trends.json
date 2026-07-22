@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T03:07:57.993201+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-23T05:01:43.559044+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 19,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -83,20 +83,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "特斯拉：在上半年将美国得州工厂的本地算力规模翻了一倍多。 电池包产能仍然是限制性因素。 公司正设法提高电池包的产能。",
+          "url": "https://wallstreetcn.com/livenews/3138397",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "媒体实探英伟达Rubin：数十家客户已拿到测试机架，生产过程比Blackwell顺利，预计明年放量",
@@ -106,8 +118,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -117,20 +142,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
+          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
+          "url": "https://wallstreetcn.com/articles/3777659",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            7
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -141,19 +166,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
-          "url": "https://wallstreetcn.com/articles/3777659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -164,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -175,8 +189,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
@@ -185,9 +199,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
+          "url": "https://wallstreetcn.com/livenews/3138398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度汽车营收205.2亿美元，分析师预期186.8亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。 二季度毛利润率16.8%，分析师预期19.4%。 二季度运营利润3.98亿美元，分析师预期13.9亿美元。 二季度自由现金流（FCF）为负10.9亿美元（-10.9亿美元），分析师预期-36.4亿美元。 特斯拉美股盘后跌2.41%，暂报365.00美元。",
+          "url": "https://wallstreetcn.com/livenews/3138393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉第二季度营收超预期但盈利不及预期",
+          "url": "https://flash.jin10.com/detail/20260723042148270800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "美国的数据中心运营商GMI Cloud宣布与英伟达达成战略计算合作。",
@@ -196,9 +254,75 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：我们的能源储存业务恢复增长。",
+          "url": "https://flash.jin10.com/detail/20260723040954190800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "黄仁勋称美国无需害怕中国开源AI模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%97%A0%E9%9C%80%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：Cyber​​Cab已在得克萨斯州超级工厂开始生产，特斯拉Semi卡车也将继续按计划于今年在内华达州新工厂投产。",
+          "url": "https://flash.jin10.com/detail/20260723040942320800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260723040928495800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2026年Q2净利润11.1亿美元，去年同期11.72亿美元，市场预期11.17亿美元。",
+          "url": "https://flash.jin10.com/detail/20260723040840540800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "编程初创公司Cursor：推出智能模型路由器，可根据具体任务自动选择最合适的AI模型。",
@@ -207,9 +331,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2026年Q2营收282亿美元，去年同期224.96亿美元，市场预期257.06亿美元。",
+          "url": "https://flash.jin10.com/detail/20260723040607475800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "AI烧钱竞赛升级",
@@ -221,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2026年Q2毛利率为16.8%，市场预期19.33%。",
+          "url": "https://flash.jin10.com/detail/20260723040518851800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -236,19 +382,116 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "英国强吞中国资产要付出多少代价",
           "url": "https://www.toutiao.com/trending/7665323875835579923/",
           "source": "今日头条",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "多位中国公民在沙特被捕，中使馆回应",
+          "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "一中国籍男童在日本被撞身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "耐克在中国为何卖不动了",
+          "url": "https://www.toutiao.com/trending/7665341659537739300/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "中国军校形象代言人亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%A1%E5%BD%A2%E8%B1%A1%E4%BB%A3%E8%A8%80%E4%BA%BA%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "外国人拥入，“中国人活在2050年”",
+          "url": "https://news.ifeng.com/c/8uyYxrgkLHe",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "一中国籍男童在日本被撞身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "中国GDP第10省又易主了",
+          "url": "https://www.toutiao.com/trending/7665204495978073642/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
+          "url": "https://www.toutiao.com/trending/7665148107360947750/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "外交部长王毅在中国－东盟外长会提出四点建议",
@@ -257,17 +500,6 @@
           "ranks": [
             6,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "多位中国公民在沙特被捕，中使馆回应",
-          "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -286,59 +518,12 @@
           "time_info": "[01时12分 ~ 03时07分]"
         },
         {
-          "title": "一中国籍男童在日本被撞身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "耐克在中国为何卖不动了",
-          "url": "https://www.toutiao.com/trending/7665341659537739300/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "外国人拥入，“中国人活在2050年”",
-          "url": "https://news.ifeng.com/c/8uyYxrgkLHe",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
           "title": "“又酷又飒的中国女保镖”射击夺冠",
           "url": "https://www.toutiao.com/trending/7664905565285580819/",
           "source": "今日头条",
           "ranks": [
             22,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "一中国籍男童在日本被撞身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E7%AB%A5%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -357,39 +542,15 @@
           "time_info": "[01时12分 ~ 03时07分]"
         },
         {
-          "title": "中国GDP第10省又易主了",
-          "url": "https://www.toutiao.com/trending/7665204495978073642/",
-          "source": "今日头条",
+          "title": "凯尔登约翰逊来中国掏出真本事了",
+          "url": "https://www.douyin.com/hot/2581505",
+          "source": "抖音",
           "ranks": [
-            19,
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
-          "url": "https://www.toutiao.com/trending/7665148107360947750/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "中国军校形象代言人亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%A1%E5%BD%A2%E8%B1%A1%E4%BB%A3%E8%A8%80%E4%BA%BA%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "王毅谈中国东盟互利合作成果",
@@ -431,26 +592,15 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "凯尔登约翰逊来中国掏出真本事了",
-          "url": "https://www.douyin.com/hot/2581505",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -460,8 +610,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "美国总统特朗普：9月份将面临政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260723044952204800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -470,9 +631,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -486,27 +671,15 @@
           "time_info": "[01时12分 ~ 03时07分]"
         },
         {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
@@ -518,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -534,7 +718,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -544,8 +728,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
         },
         {
           "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
@@ -555,8 +739,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3138400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -566,15 +761,81 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.80%，报6180.98点。 热门中概股里，网易初步收跌6.6%，%腾讯跌6%，小鹏、B站、贝壳、金山云跌超3%，携程跌2.5%，阿里跌1.4%，华住、世纪互联、大全新能源至少涨超1%。 ETF中，中概互联网指数ETF（KWEB）收跌2.15%，中国科技指数ETF（CQQQ）收跌1.72%。 XtrackersHarvest中证50（ASHS）收跌0.60%，MSCI新兴市场ex中国ETF（EMXC）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "道琼斯指数7月22日（周三）收盘下跌5.71点，跌幅0.01%，报52218.93点；<br/>标普500指数7月22日（周三）收盘下跌10.22点，跌幅0.14%，报7498.98点；<br/>纳斯达克综合指数7月22日（周三）收盘下跌146.30点，跌幅0.57%，报25690.90点。",
+          "url": "https://flash.jin10.com/detail/20260723040539372800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "美债 美联储",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "道明证券：美联储资产负债表或在2027年底恢复缩减",
+          "url": "https://wallstreetcn.com/livenews/3138401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
+          "url": "https://wallstreetcn.com/livenews/3138384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
         {
           "title": "周三（7月22日），美联储隔夜逆回购协议（RRP）使用规模为3.76亿美元（交易对手2家），上个交易日报2.75亿美元。",
           "url": "https://wallstreetcn.com/livenews/3138344",
@@ -582,7 +843,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -596,13 +857,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "相比交易员，经济学家对下周会议结果更有把握。 76位受访经济学家全部预计，美联储将于7月28-29日会议上维持利率在3.5%-3.75%区间不变。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "沃什时代美联储动向更难预测，交易员对下周是否加息分歧明显",
+          "url": "https://wallstreetcn.com/livenews/3138371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
+          "url": "https://flash.jin10.com/detail/20260723044833293800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "谷歌母公司Alphabet二季度营收1198亿美元，分析师预期1170.2亿美元。 二季度剔除流量获取成本（Ex-TAC）营收103.6亿美元，分析师预期1010.7亿美元。 二季度谷歌云营收247.7亿美元，分析师预期224.6亿美元；谷歌云订单积压5140亿美元。 二季度谷歌搜索与其他收入632.7亿美元，分析师预期632.8亿美元。 二季度搜索同比增长17%。 二季度谷歌服务营收945.4亿美元，分析师预期943.2亿美元。 二季度谷歌广告营收816.3亿美元，分析师预期811.2亿美元。 二季度YouTube广告营收110.6亿美元，分析师预期108.1亿美元。 二季度运营利润407.6亿美元，分析师预期405.5亿美元。 二季度资本开支449.2亿美元，分析师预期441.5亿美元。 没有按市价出售任何股份，股权增长990.3亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
+          "url": "https://wallstreetcn.com/livenews/3138391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
+          "url": "https://flash.jin10.com/detail/20260723040859951800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://flash.jin10.com/detail/20260723040745375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
           "url": "https://wallstreetcn.com/livenews/3138315",
@@ -618,7 +945,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -628,14 +955,58 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时01分]"
+        },
+        {
+          "title": "美股软件ETF收跌3%，创6月5日以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260723040541765800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260723040538396800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
@@ -648,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时07分]"
+        },
+        {
+          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
+          "url": "https://wallstreetcn.com/livenews/3138377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     }
