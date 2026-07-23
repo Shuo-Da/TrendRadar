@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T06:04:41.234011+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-07-24T07:57:15.346443+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -36,9 +48,88 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 07时57分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "水果店只卖苹果 其中1款399元1颗",
+          "url": "https://www.toutiao.com/trending/7665678940141633599/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            29,
+            27,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -69,58 +160,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -134,30 +176,29 @@
           "time_info": "[01时27分 ~ 06时04分]"
         },
         {
-          "title": "水果店只卖苹果 其中1款399元1颗",
-          "url": "https://www.toutiao.com/trending/7665678940141633599/",
+          "title": "中国“芯片刻刀”终于出鞘",
+          "url": "https://www.toutiao.com/trending/7664586420367376438/",
           "source": "今日头条",
           "ranks": [
-            17,
-            29,
-            27,
-            18
+            21,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "time_info": "[04时58分 ~ 07时57分]"
         },
         {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
+          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
+          "url": "https://wallstreetcn.com/articles/3777778",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 07时57分]"
         },
         {
           "title": "上海一店只卖苹果 有一款单颗399元",
@@ -209,6 +250,17 @@
           "time_info": "[01时27分 ~ 03时08分]"
         },
         {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
           "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/3139048",
           "source": "华尔街见闻-快讯",
@@ -233,27 +285,26 @@
           "time_info": "[01时27分 ~ 03时08分]"
         },
         {
-          "title": "中国“芯片刻刀”终于出鞘",
-          "url": "https://www.toutiao.com/trending/7664586420367376438/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时04分]"
-        },
-        {
           "title": "新加坡政府投资公司GIC：对人工智能投资采取审慎态度；聚焦先进半导体制造与设计。",
           "url": "https://flash.jin10.com/detail/20260724055905165800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -284,7 +335,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -309,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
-          "url": "https://wallstreetcn.com/articles/3777778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         },
         {
           "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
@@ -366,6 +406,39 @@
           "time_info": "03时08分"
         },
         {
+          "title": "英伟达(NVDA.O)：致力于推进专为韩国产业、语言及未来而构建的代理式AI模型与智能体系统的实验室。",
+          "url": "https://flash.jin10.com/detail/20260724070809605800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "机构密集调研苹果产业链公司",
+          "url": "https://wallstreetcn.com/livenews/3139111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "英伟达与韩国科学技术院（KAIST）联合设立AI研究实验室，旨在加速韩国的AI创新。",
+          "url": "https://flash.jin10.com/detail/20260724070730557800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "AMD正式发布Helios机架级AI服务器。",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
@@ -408,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "分析人士：半导体产业景气度持续验证，板块调整后配置价值凸显",
+          "url": "https://wallstreetcn.com/livenews/3139108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
@@ -454,6 +538,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
+          "url": "https://wallstreetcn.com/livenews/3139099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
           "url": "https://wallstreetcn.com/livenews/3138991",
           "source": "华尔街见闻-快讯",
@@ -465,13 +560,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "高盛提供单次2.5亿美元交易AI垃圾债的途径",
+          "url": "https://wallstreetcn.com/livenews/3139098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地",
           "url": "https://wallstreetcn.com/livenews/3139053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -501,7 +607,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "创历史！2名中国籍数学家获菲尔兹奖",
@@ -511,8 +617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国籍数学家首次获得菲尔兹奖",
@@ -522,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国数学家王虹、邓煜双双获得菲尔兹奖，均系北大校友",
@@ -533,8 +639,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "突破!中国数学家首获菲尔兹奖",
@@ -544,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
@@ -555,8 +661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "菲律宾公务船今日侵闯我黄岩岛管辖海域，中国海警局发表谈话",
@@ -568,8 +674,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国汽车加速全球化布局",
@@ -579,8 +685,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "王虹、邓煜获菲尔兹奖，中国数学实现历史性突破",
@@ -592,8 +698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "日本外相带头对中国发难有何居心",
@@ -606,19 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "长鑫能“涨多高”？无缘中国新股的外国投资者，正在币圈热烈押注",
-          "url": "https://www.cls.cn/detail/2435130",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国女排3:2战胜美国晋级四强",
@@ -626,35 +721,64 @@
           "source": "抖音",
           "ranks": [
             26,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时04分]"
-        },
-        {
-          "title": "中国女排3-2逆转美国",
-          "url": "https://www.toutiao.com/trending/7665720445194210822/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            16
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "time_info": "[04时58分 ~ 07时57分]"
+        },
+        {
+          "title": "长鑫能“涨多高”？无缘中国新股的外国投资者，正在币圈热烈押注",
+          "url": "https://www.cls.cn/detail/2435130",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "外交部：中国外长没有与日方会见安排",
+          "url": "https://www.toutiao.com/trending/7664875358533075007/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "中国女排黑八奇迹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%BB%91%E5%85%AB%E5%A5%87%E8%BF%B9%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            29,
+            26,
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国警方向美方遣返美籍红通逃犯",
           "url": "https://news.ifeng.com/c/8v05Biqr8zl",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国女排3比2逆转美国",
@@ -663,23 +787,12 @@
           "ranks": [
             18,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "外交部：中国外长没有与日方会见安排",
-          "url": "https://www.toutiao.com/trending/7664875358533075007/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "中国警方抓获美籍涉嫌性侵幼女逃犯",
@@ -690,18 +803,17 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
-          "title": "中国女排黑八奇迹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%BB%91%E5%85%AB%E5%A5%87%E8%BF%B9%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "中国女排3-2逆转美国",
+          "url": "https://www.toutiao.com/trending/7665720445194210822/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            29,
-            26,
-            24
+            6,
+            9,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -721,6 +833,17 @@
           "time_info": "[01时27分 ~ 06时04分]"
         },
         {
+          "title": "中国超级跑车锦标赛回应闫闯吐槽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E8%B7%91%E8%BD%A6%E9%94%A6%E6%A0%87%E8%B5%9B%E5%9B%9E%E5%BA%94%E9%97%AB%E9%97%AF%E5%90%90%E6%A7%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
           "title": "中国警方向美方遣返一名美籍逃犯",
           "url": "https://www.toutiao.com/trending/7664781300947763206/",
           "source": "今日头条",
@@ -731,6 +854,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时58分]"
+        },
+        {
+          "title": "中国数学七十载攀登之路",
+          "url": "https://www.toutiao.com/trending/7665197971948650502/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "中国籍数学家菲尔兹奖“双响”创历史",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E2%80%9C%E5%8F%8C%E5%93%8D%E2%80%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "今年上半年中国汽车出口超6000亿元，同比增长48.3%",
+          "url": "https://wallstreetcn.com/livenews/3139118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "美媒：中国品牌占欧洲插混车市场34%，创下历史新高",
+          "url": "https://wallstreetcn.com/livenews/3139109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "中国男足身陷 “死亡之组”",
@@ -747,7 +914,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -757,8 +924,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
@@ -770,6 +966,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -784,56 +1016,6 @@
           "time_info": "[04时58分 ~ 06时04分]"
         },
         {
-          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
-          "url": "https://www.cls.cn/detail/2435567",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
-          "url": "https://www.cls.cn/detail/2435521",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
           "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777719",
           "source": "华尔街见闻",
@@ -844,18 +1026,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 04时58分]"
-        },
-        {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 06时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
@@ -888,7 +1058,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -913,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
+          "url": "https://wallstreetcn.com/livenews/3139106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "欧洲央行考虑提高准备金要求 以缓解巨额亏损压力",
@@ -951,7 +1132,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -963,6 +1144,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 06时04分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 07时57分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -987,29 +1194,15 @@
           "time_info": "03时08分"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
+          "title": "美参议院否决限制特朗普对伊战争权力的决议案",
+          "url": "https://wallstreetcn.com/livenews/3139120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
-        },
-        {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 06时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -1073,7 +1266,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1125,8 +1318,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025443791800",
@@ -1151,15 +1356,15 @@
           "time_info": "[04时58分 ~ 06时04分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
@@ -1179,7 +1384,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1231,18 +1436,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -1257,6 +1463,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 06时04分]"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
@@ -1287,17 +1504,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金价跌2%，下探4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3139079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
           "title": "金价四连涨深圳水贝又挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1308,8 +1514,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时57分]"
+        },
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
