@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T16:02:05.356768+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-07-25T17:55:41.532635+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -18,19 +18,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 17时55分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -96,16 +97,18 @@
           "time_info": "[00时35分 ~ 10时56分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            5
+            9,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时55分]"
         },
         {
           "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
@@ -120,6 +123,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时02分 ~ 13时40分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时55分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时55分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -166,29 +205,15 @@
           "time_info": "13时40分"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 16时02分]"
-        },
-        {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -269,16 +294,30 @@
           "time_info": "13时40分"
         },
         {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时55分]"
+        },
+        {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
           "url": "https://wallstreetcn.com/livenews/3139724",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时55分]"
         },
         {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
@@ -286,11 +325,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时55分]"
         },
         {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
@@ -298,23 +338,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 16时02分]"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时55分]"
         },
         {
           "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
@@ -354,6 +383,45 @@
           "time_info": "[00时35分 ~ 04时17分]"
         },
         {
+          "title": "永远会被小苹果阿姨的真诚感动",
+          "url": "https://www.douyin.com/hot/2584228",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时55分]"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时55分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时55分]"
+        },
+        {
           "title": "大厂挤爆AI宠物赛道",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
           "source": "百度热搜",
@@ -365,30 +433,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 06时02分]"
-        },
-        {
-          "title": "永远会被小苹果阿姨的真诚感动",
-          "url": "https://www.douyin.com/hot/2584228",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
-        },
-        {
-          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://wallstreetcn.com/livenews/3139717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
@@ -431,18 +475,6 @@
           "url": "https://www.toutiao.com/trending/7665520668645113919/",
           "source": "今日头条",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
             16
           ],
           "is_new": false,
@@ -617,6 +649,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
           "url": "https://flash.jin10.com/detail/20260725122018676800",
           "source": "金十数据",
@@ -705,6 +748,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "英特尔与蓝思科技将合作开发基于玻璃的半导体封装技术",
           "url": "https://wallstreetcn.com/livenews/3139577",
           "source": "华尔街见闻-快讯",
@@ -741,7 +795,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -841,6 +895,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
           "url": "https://flash.jin10.com/detail/20260725020246817800",
           "source": "金十数据",
@@ -938,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "特朗普为何又打关税牌又邀中方访美",
+          "url": "https://www.toutiao.com/trending/7666318383008189971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美国总统特朗普：（关于沙特核协议）如果沙特阿拉伯不加入（亚伯拉罕）协议，就不会达成核协议。",
@@ -1048,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美国总统特朗普：现在正在与伊朗人交谈，我认为他们变得更加认真了。",
@@ -1196,7 +1283,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
@@ -1208,8 +1295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 17时55分]"
         },
         {
           "title": "从三组外贸数据读懂“中国机遇2.0”",
@@ -1288,6 +1375,18 @@
           "time_info": "[00时35分 ~ 13时40分]"
         },
         {
+          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 17时55分]"
+        },
+        {
           "title": "中国机器人霸榜,日本破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
@@ -1310,18 +1409,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 10时56分]"
-        },
-        {
-          "title": "视频丨中国海警水炮喷射驱离菲侵权船只，现场画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652886",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 16时02分]"
         },
         {
           "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
@@ -1456,6 +1543,28 @@
           "time_info": "[00时35分 ~ 06时02分]"
         },
         {
+          "title": "中国eVTOL在哈萨克斯坦完成公开飞行",
+          "url": "https://flash.jin10.com/detail/20260725172310602800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "14对14，中国反击欧盟，干净利落",
+          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时55分]"
+        },
+        {
           "title": "这才是中国发展的底气",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E7%9A%84%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -1465,6 +1574,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
+          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时55分]"
         },
         {
           "title": "中国大使问菲方闹什么闹能承担后果吗",
@@ -1479,27 +1600,18 @@
           "time_info": "[13时40分 ~ 16时02分]"
         },
         {
-          "title": "14对14，中国反击欧盟，干净利落",
-          "url": "https://news.ifeng.com/c/8v2YKgZrSyj",
-          "source": "凤凰网",
+          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17,
+            13,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时56分 ~ 16时02分]"
-        },
-        {
-          "title": "斯里兰卡前高官之子，涉嫌抢劫中国公民被羁押",
-          "url": "https://news.ifeng.com/c/8v1JiU8l1E0",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 16时02分]"
+          "time_info": "[10时56分 ~ 17时55分]"
         },
         {
           "title": "解读中国数学家获菲尔兹奖",
@@ -1528,19 +1640,6 @@
           "time_info": "[10时56分 ~ 16时02分]"
         },
         {
-          "title": "一位中国青年学者的菲尔兹奖现场感悟：要学王虹敢挑战大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 16时02分]"
-        },
-        {
           "title": "为什么中国父母会沉迷于让孩子吃苦？",
           "url": "https://www.zhihu.com/question/620293603",
           "source": "知乎",
@@ -1551,6 +1650,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时40分 ~ 16时02分]"
+        },
+        {
+          "title": "中国大使：对菲挑事坚决怼回去打回去",
+          "url": "https://www.toutiao.com/trending/7665680870275157567/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 17时55分]"
+        },
+        {
+          "title": "玉渊谭天丨中国海警依法驱离，菲律宾侵权船只边逃窜边喊糟糕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33655417",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时55分]"
         },
         {
           "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
@@ -1586,28 +1708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "中国大使：对菲挑事坚决怼回去打回去",
-          "url": "https://www.toutiao.com/trending/7665680870275157567/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "玉渊谭天丨中国海警依法驱离，菲律宾侵权船只边逃窜边喊糟糕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33655417",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "中国女排主教练谈逆转美国进入四强",
@@ -1646,7 +1746,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -1657,8 +1757,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 17时55分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "就在下周！存储三雄最新财报即将揭晓 产业再迎“压力测试”？",
@@ -1673,18 +1785,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 13时40分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 16时02分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -1760,6 +1860,30 @@
           "time_info": "00时36分"
         },
         {
+          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
+          "url": "https://www.cls.cn/detail/2436736",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 17时55分]"
+        },
+        {
+          "title": "每天赚2.4亿！宁德时代上半年净利润预增42%，拟以200亿元-400亿元回购股票注销，每10股派息14.11元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777883",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时55分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -1769,29 +1893,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 04时17分]"
-        },
-        {
-          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
-          "url": "https://www.cls.cn/detail/2436736",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 16时02分]"
-        },
-        {
-          "title": "每天赚2.4亿！宁德时代上半年净利润预增42%，拟以200亿元-400亿元回购股票注销，每10股派息14.11元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777883",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "道琼斯指数7月24日（周五）收盘上涨235.60点，涨幅0.46%，报51947.25点；<br/>标普500指数7月24日（周五）收盘上涨3.72点，涨幅0.05%，报7412.02点；<br/>纳斯达克综合指数7月24日（周五）收盘下跌161.87点，跌幅0.64%，报24975.82点。",
@@ -1885,6 +1986,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：欧洲经济持续增长。",
           "url": "https://flash.jin10.com/detail/20260724234848025800",
           "source": "金十数据",
@@ -1894,6 +2006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "欧洲央行首席经济学家连恩：美国在全球贸易中并非主导因素。",
@@ -2023,8 +2146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时59分 ~ 17时55分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
