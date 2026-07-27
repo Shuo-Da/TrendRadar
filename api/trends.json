@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T18:39:07.293239+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-07-27T21:38:19.214157+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 57,
+      "match_count": 69,
       "titles": [
         {
           "title": "“大空头” Burry加码做空英伟达、美光",
@@ -13,6 +13,18 @@
           "source": "华尔街见闻",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 10时40分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -27,23 +39,12 @@
             3,
             4,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 18时39分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时10分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 21时38分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -163,26 +164,28 @@
           "time_info": "[00时10分 ~ 06时57分]"
         },
         {
-          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
-          "url": "https://www.cls.cn/detail/2437715",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
         },
         {
           "title": "合肥半导体的“B面”：千亿版图与基金矩阵",
@@ -198,15 +201,16 @@
           "time_info": "[07时57分 ~ 14时25分]"
         },
         {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 21时38分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -221,6 +225,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 06时57分]"
+        },
+        {
+          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
+          "url": "https://www.cls.cn/detail/2437715",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
@@ -246,16 +273,15 @@
           "time_info": "14时25分"
         },
         {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
+          "title": "英伟达对Safe Superintelligence进行投资，暂未披露交易条款。",
+          "url": "https://wallstreetcn.com/livenews/3140350",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -308,6 +334,18 @@
           "time_info": "[04时54分 ~ 06时57分]"
         },
         {
+          "title": "全球AI竞争将如何发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
@@ -344,15 +382,16 @@
           "time_info": "[14时25分 ~ 18时39分]"
         },
         {
-          "title": "全球AI竞争将如何发展",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
+          "title": "华为苹果媒体机无特调",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%AA%92%E4%BD%93%E6%9C%BA%E6%97%A0%E7%89%B9%E8%B0%83&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
         },
         {
           "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
@@ -465,15 +504,15 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "华为苹果媒体机无特调",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%AA%92%E4%BD%93%E6%9C%BA%E6%97%A0%E7%89%B9%E8%B0%83&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "英伟达投资Ilya Sutskever的新AI实验室，以扩大其算力版图",
+          "url": "https://flash.jin10.com/detail/20260727211011961800",
+          "source": "金十数据",
           "ranks": [
-            27
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
@@ -509,6 +548,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "小米大模型调用量全球第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
           "url": "https://www.cls.cn/detail/2437206",
           "source": "财联社热门",
@@ -531,6 +581,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "英伟达：公司将利用SSI对人工智能未来的洞察，合作推进英伟达当前及未来计算平台的技术进步。",
+          "url": "https://flash.jin10.com/detail/20260727210529623800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "苹果已恢复包括App Store在内的6项服务",
           "url": "https://wallstreetcn.com/livenews/3139966",
           "source": "华尔街见闻-快讯",
@@ -548,9 +609,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
+        },
+        {
+          "title": "虞书欣疑似被AI融脸和声音",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
@@ -562,6 +634,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，Sutskever的SSI将获得大量英伟达的GPU访问权限，而之前主要依赖谷歌TPU。",
+          "url": "https://flash.jin10.com/detail/20260727210501729800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "据华尔街日报：英伟达将对OpenAI的联合创始人伊尔亚·苏茨克维（Ilya Sutskever）创立的安全超级智能进行大规模投资。",
+          "url": "https://flash.jin10.com/detail/20260727210406177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
@@ -614,7 +708,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -628,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "现代汽车携手英伟达等科技企业 打造自动驾驶与物理AI生态",
@@ -663,6 +768,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "真有人把AI的照片当成自己",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "机构：中国AI实验室料将受益于token消耗量激增",
           "url": "https://flash.jin10.com/detail/20260727131420117800",
           "source": "金十数据",
@@ -672,6 +788,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "中国中化发布国内化工行业首款垂类安全大模型",
+          "url": "https://wallstreetcn.com/livenews/3140322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "英伟达计划向Naver公司投资10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "美国发生AI失控事故",
@@ -688,7 +826,7 @@
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
@@ -762,6 +900,17 @@
           "time_info": "[10时39分 ~ 14时25分]"
         },
         {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
           "title": "长鑫科技高开471%成A股“一哥”",
           "url": "https://www.toutiao.com/trending/7667014011354877481/",
           "source": "今日头条",
@@ -771,17 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "长鑫为何成A股新王",
@@ -795,15 +933,15 @@
           "time_info": "[18时38分 ~ 18时39分]"
         },
         {
-          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
-          "url": "https://www.cls.cn/detail/2437874",
-          "source": "财联社热门",
+          "title": "据悉瑞士央行计划维持零利率至2027年底",
+          "url": "https://flash.jin10.com/detail/20260727212104544800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "A股N长鑫午后成交额超1300亿元，换手率达61.5%，现涨499%。",
@@ -837,6 +975,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
+          "url": "https://www.cls.cn/detail/2437874",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
         },
         {
           "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
@@ -884,6 +1034,18 @@
           "time_info": "[07时57分 ~ 10时40分]"
         },
         {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
           "title": "布伦特原油期货周一亚市早盘跌超4%，此前美伊暂停互袭。 标普500指数期货涨0.8%，纳指期货涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3139865",
           "source": "华尔街见闻-快讯",
@@ -899,17 +1061,6 @@
           "title": "A股一哥换主 中国科技能否长兴",
           "url": "https://www.toutiao.com/trending/7666715757385498678/",
           "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
-          "source": "澎湃新闻",
           "ranks": [
             17
           ],
@@ -949,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "瑞士央行预计将利率维持在零水平，直到2027年底。",
+          "url": "https://wallstreetcn.com/livenews/3140348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "A股N长鑫成交额超1000亿元，创下A股单日个股成交额记录，换手率超48%，现涨471%，报49.45/股。",
@@ -1061,6 +1223,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "过去一周沪市公司新增回购增持计划最高158亿元，科创板利好频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663798",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
           "url": "https://flash.jin10.com/detail/20260727070041894800",
           "source": "金十数据",
@@ -1092,6 +1265,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "市场消息：瑞士央行预计将利率维持在零水平，直到2027年底。",
+          "url": "https://flash.jin10.com/detail/20260727210024569800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "A股全面普涨真的来了吗",
+          "url": "https://www.toutiao.com/trending/7667151774595157555/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "A股兆易创新A股成交额超200亿元，现跌7.6%。",
@@ -1215,6 +1410,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "A股逾5100股上涨 MLCC概念午后拉升",
+          "url": "https://www.toutiao.com/trending/7666931776907952147/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "A股电力板块再度走强，立新能源八天七板，东方新能封板涨停，长源电力、广西能源、九洲集团涨超5%。",
           "url": "https://flash.jin10.com/detail/20260727095306639800",
           "source": "金十数据",
@@ -1235,6 +1441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "东方证券：拟通过发行A股股份及支付现金方式购买上海证券100%股权，交易价格251.2亿元",
+          "url": "https://wallstreetcn.com/livenews/3140315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "印尼央行行长Perry Warjiyo卸任。印尼央行高级副行长Destry Damayanti将担任代理行长。Damayanti表示，央行将维持印尼盾汇率稳定。",
@@ -1262,7 +1479,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 43,
+      "match_count": 55,
       "titles": [
         {
           "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
@@ -1382,8 +1599,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 21时38分]"
         },
         {
           "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
@@ -1394,8 +1611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 21时38分]"
         },
         {
           "title": "周星驰：中国功夫世界第一",
@@ -1424,6 +1641,29 @@
           "time_info": "[18时38分 ~ 18时39分]"
         },
         {
+          "title": "越南外交部：感谢中国！",
+          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 21时38分]"
+        },
+        {
+          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
+          "url": "https://www.cls.cn/detail/2438053",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "使馆通报中国公民遭保安强力对待",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%BF%E9%A6%86%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%AD%E4%BF%9D%E5%AE%89%E5%BC%BA%E5%8A%9B%E5%AF%B9%E5%BE%85%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -1435,6 +1675,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "中国男篮vs喀麦隆男篮二番战",
+          "url": "https://www.douyin.com/hot/2587192",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "一组数据读懂中国硬核经济满满亮点",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E6%BB%A1%E6%BB%A1%E4%BA%AE%E7%82%B9",
           "source": "百度热搜",
@@ -1444,6 +1695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "中国入境游何以“圈粉”世界",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%A5%E5%A2%83%E6%B8%B8%E4%BD%95%E4%BB%A5%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "新产业跑出中国加速度",
@@ -1468,16 +1730,15 @@
           "time_info": "14时25分"
         },
         {
-          "title": "越南外交部：感谢中国！",
-          "url": "https://news.ifeng.com/c/8v5ooxIqQPV",
-          "source": "凤凰网",
+          "title": "数说中国经济新亮点",
+          "url": "https://www.douyin.com/hot/2587544",
+          "source": "抖音",
           "ranks": [
-            6,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 18时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "野兽先生官宣来中国啦",
@@ -1502,6 +1763,19 @@
           "time_info": "10时40分"
         },
         {
+          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+          "url": "https://www.zhihu.com/question/2064030510549054193",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 21时38分]"
+        },
+        {
           "title": "金正恩参谒中国人民志愿军烈士陵园",
           "url": "https://wallstreetcn.com/livenews/3139883",
           "source": "华尔街见闻-快讯",
@@ -1519,11 +1793,47 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 21时38分]"
+        },
+        {
+          "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
+          "url": "https://www.zhihu.com/question/1997358863511470900",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时39分]"
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
+          "title": "报道：三星考虑采用中国DRAM，以降低Galaxy A系列成本",
+          "url": "https://wallstreetcn.com/articles/3778004",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
+        },
+        {
+          "title": "越来越多中国人不去日本旅游",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
         },
         {
           "title": "中国人能飞是什么梗",
@@ -1538,40 +1848,6 @@
           "time_info": "[03时14分 ~ 14时25分]"
         },
         {
-          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
-          "url": "https://www.zhihu.com/question/2064030510549054193",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 18时39分]"
-        },
-        {
-          "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
-          "url": "https://www.zhihu.com/question/1997358863511470900",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "报道：三星考虑采用中国DRAM，以降低Galaxy A系列成本",
-          "url": "https://wallstreetcn.com/articles/3778004",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
           "title": "金正恩参谒中国人民志愿军烈士陵园",
           "url": "https://www.toutiao.com/trending/7666966427975008306/",
           "source": "今日头条",
@@ -1581,17 +1857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "越来越多中国人不去日本旅游",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "日本技术人员：中国螺丝拧着特别顺滑",
@@ -1673,15 +1938,37 @@
           "time_info": "14时25分"
         },
         {
+          "title": "越南获救人员集体用中文感谢中国",
+          "url": "https://www.toutiao.com/trending/7667164607017963018/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "金十图示：2018年9月至2026年6月中国香港对内地黄金净出口量",
           "url": "https://flash.jin10.com/detail/20260727182029776800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
+        },
+        {
+          "title": "吴伟任中国投资有限责任公司党委副书记，不再担任上海市委常委、委员职务。（上观）",
+          "url": "https://wallstreetcn.com/livenews/3140341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "中国航天科工“鸣凤”系列液氧甲烷发动机累计试车超6000秒 预计2027年上半年交付",
@@ -1706,6 +1993,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "ST恒信：因涉嫌信息披露违法违规，中国证监会决定对公司及控股股东立案。",
+          "url": "https://wallstreetcn.com/livenews/3140335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "泰国 GMM 保安被曝殴打中国粉丝，中使馆敦促相关方面尽快查明真相，现场发生了什么？涉事方该承担哪些责任？",
           "url": "https://www.zhihu.com/question/2064628963545183282",
           "source": "知乎",
@@ -1728,6 +2026,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "中方回应美方拟制裁中国人工智能企业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "中国1至6月规模以上工业企业利润同比 18.7%，前值 18.8%。",
           "url": "https://wallstreetcn.com/livenews/3139933",
           "source": "华尔街见闻-快讯",
@@ -1739,6 +2048,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "越南获救人员集体用中文感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E5%8D%97%E8%8E%B7%E6%95%91%E4%BA%BA%E5%91%98%E9%9B%86%E4%BD%93%E7%94%A8%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "中方回应美拟制裁中国人工智能企业",
+          "url": "https://www.toutiao.com/trending/7667153251594145331/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "恒指高开0.12%，报24993.77点；恒生科技指数涨0.38%。携程涨3.8%，MINIMAX涨2%，中国海油石油、中国石油股份跌逾3%。",
           "url": "https://wallstreetcn.com/livenews/3139923",
           "source": "华尔街见闻-快讯",
@@ -1748,6 +2079,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "放榜夜在喂猪的姑娘考上中国政法",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E6%A6%9C%E5%A4%9C%E5%9C%A8%E5%96%82%E7%8C%AA%E7%9A%84%E5%A7%91%E5%A8%98%E8%80%83%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B3%95",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "中国模型包揽OpenRouter月榜前五，MiMo调用量位居第一",
+          "url": "https://wallstreetcn.com/livenews/3140318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.31%，上一个交易日夜盘收涨0.07%。",
@@ -1812,6 +2165,18 @@
           "time_info": "[00时10分 ~ 07时58分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 21时38分]"
+        },
+        {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
           "url": "https://www.cls.cn/detail/2437057",
           "source": "财联社热门",
@@ -1824,18 +2189,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时10分 ~ 10时40分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 18时39分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
@@ -1859,8 +2212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时38分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -2044,7 +2397,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -2054,6 +2407,123 @@
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
+          "url": "https://wallstreetcn.com/articles/3777937",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时58分]"
+        },
+        {
+          "title": "通用汽车(GM.N)美股盘前涨3.4%；杰富瑞将评级从持有提升至买入。",
+          "url": "https://flash.jin10.com/detail/20260727211516512800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "阿斯麦美股盘前回吐涨幅；阿斯麦欧股短线跳水，其在阿姆斯特丹市场下跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3140352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3140351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)美股盘前回吐涨幅，现涨约0.35%。",
+          "url": "https://flash.jin10.com/detail/20260727210806963800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美银警告：美股最弱窗口即将到来，黄金美元有望迎来机会",
+          "url": "https://flash.jin10.com/detail/20260727181057363800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "Rocket Lab(RKLB.O)美股盘前涨4.5%，因公司获得与美国太空部队价值2.66亿美元的导弹防御合同。",
+          "url": "https://flash.jin10.com/detail/20260727180540082800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "三重技术信号施压美股，夏季调整警报拉响？",
+          "url": "https://flash.jin10.com/detail/20260727131107062800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2083,7 +2553,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -2123,59 +2593,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
-          "url": "https://wallstreetcn.com/articles/3777937",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时58分]"
-        },
-        {
-          "title": "美银警告：美股最弱窗口即将到来，黄金美元有望迎来机会",
-          "url": "https://flash.jin10.com/detail/20260727181057363800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "Rocket Lab(RKLB.O)美股盘前涨4.5%，因公司获得与美国太空部队价值2.66亿美元的导弹防御合同。",
-          "url": "https://flash.jin10.com/detail/20260727180540082800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "三重技术信号施压美股，夏季调整警报拉响？",
-          "url": "https://flash.jin10.com/detail/20260727131107062800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年07月27日（周一）上海金早盘价为894.47元/克，较国际金价(893.23元/克)，高1.24元/克",
@@ -2187,6 +2606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
