@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:54:34.538707+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-08-07T17:57:55.691343+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -15,8 +15,35 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时39分 ~ 17时57分]"
+        },
+        {
+          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
+          "url": "https://wallstreetcn.com/articles/3778895",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时39分 ~ 16时54分]"
+          "time_info": "[11时47分 ~ 17时57分]"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 17时57分]"
         },
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
@@ -97,22 +124,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
-          "url": "https://wallstreetcn.com/articles/3778895",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 16时54分]"
         },
         {
           "title": "中国AI连续14周霸榜",
@@ -138,17 +152,6 @@
           "time_info": "[00时08分 ~ 11时47分]"
         },
         {
-          "title": "加速进入电信运营商市场，寻找中国基站厂商合作？英伟达否认",
-          "url": "https://wallstreetcn.com/livenews/3146589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "苹果为降低成本要求长鑫降价反遭涨价，长鑫的市场筹码来自哪里？反映了怎样的市场博弈？",
           "url": "https://www.zhihu.com/question/2068598800793303020",
           "source": "知乎",
@@ -169,19 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 16时54分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -232,6 +222,43 @@
           "time_info": "[15时08分 ~ 16时54分]"
         },
         {
+          "title": "加速进入电信运营商市场，寻找中国基站厂商合作？英伟达否认",
+          "url": "https://wallstreetcn.com/livenews/3146589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
+        },
+        {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 17时57分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时57分]"
+        },
+        {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
           "url": "https://wallstreetcn.com/articles/3778828",
           "source": "华尔街见闻",
@@ -257,16 +284,29 @@
           "time_info": "[08时39分 ~ 13时37分]"
         },
         {
-          "title": "戚薇AI短剧 雷霆视角",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
           "ranks": [
-            12,
-            23
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时37分 ~ 16时54分]"
+          "time_info": "[15时08分 ~ 17时57分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时57分]"
         },
         {
           "title": "苹果压价失灵,长鑫拒绝供货",
@@ -282,16 +322,27 @@
           "time_info": "[00时08分 ~ 11时47分]"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
+          "time_info": "[16时54分 ~ 17时57分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
         },
         {
           "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
@@ -329,16 +380,15 @@
           "time_info": "[00时08分 ~ 08时39分]"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
+          "time_info": "[16时54分 ~ 17时57分]"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -351,18 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 08时39分]"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
         },
         {
           "title": "戚薇 授权AI",
@@ -388,6 +426,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
           "url": "https://flash.jin10.com/detail/20260807112520435800",
           "source": "金十数据",
@@ -410,26 +459,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
-          "url": "https://wallstreetcn.com/articles/3778914",
-          "source": "华尔街见闻",
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时57分"
         },
         {
           "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
@@ -493,20 +531,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "英伟达据称测试降配版Rubin Ultra GPU，HBM短缺下芯片厂商如何破局？",
+          "url": "https://www.cls.cn/detail/2448088",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时57分"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -515,7 +564,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -551,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -630,6 +690,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "美科学家用AI设计出病毒意味着什么",
+          "url": "https://www.toutiao.com/trending/7671181050273336859/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
           "url": "https://flash.jin10.com/detail/20260807121555798800",
           "source": "金十数据",
@@ -705,12 +776,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "臻宝科技：拟用2.5亿元超募资金投建半导体零部件项目",
+          "url": "https://flash.jin10.com/detail/20260807172352636800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "“前所未有”！涉及中国，FBI局长最新表态",
@@ -743,11 +825,23 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时39分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[08时39分 ~ 17时57分]"
+        },
+        {
+          "title": "比A4纸还薄！中国高端钢材密集突破",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94A4%E7%BA%B8%E8%BF%98%E8%96%84%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AB%AF%E9%92%A2%E6%9D%90%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
         },
         {
           "title": "太平洋岛国没批评中国，新西兰外长跳出来了",
@@ -773,15 +867,20 @@
           "time_info": "11时47分"
         },
         {
-          "title": "比A4纸还薄！中国高端钢材密集突破",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94A4%E7%BA%B8%E8%BF%98%E8%96%84%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AB%AF%E9%92%A2%E6%9D%90%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
+          "title": "藏在纽约的中国县城",
+          "url": "https://search.bilibili.com/all?keyword=%E8%97%8F%E5%9C%A8%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            22,
+            9,
+            18,
+            19,
+            21,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 17时57分]"
         },
         {
           "title": "中国5招齐出，“要打疼美国，也要让美国学会掂量分寸”",
@@ -794,6 +893,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时39分 ~ 16时54分]"
+        },
+        {
+          "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
+          "url": "https://www.zhihu.com/question/2068641150270026516",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 17时57分]"
         },
         {
           "title": "泰高官回应中国人在泰遭歧视：全面调查",
@@ -822,31 +934,18 @@
           "time_info": "[00时08分 ~ 15时08分]"
         },
         {
-          "title": "藏在纽约的中国县城",
-          "url": "https://search.bilibili.com/all?keyword=%E8%97%8F%E5%9C%A8%E7%BA%BD%E7%BA%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8E%BF%E5%9F%8E",
+          "title": "中国消防官方整活",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%AE%98%E6%96%B9%E6%95%B4%E6%B4%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
+            7,
             9,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 16时54分]"
-        },
-        {
-          "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
-          "url": "https://www.zhihu.com/question/2068641150270026516",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
+            23,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时47分 ~ 16时54分]"
+          "time_info": "[13时37分 ~ 17时57分]"
         },
         {
           "title": "17岁中国高中生重写核心架构，马斯克点赞",
@@ -858,19 +957,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时39分 ~ 15时08分]"
-        },
-        {
-          "title": "中国消防官方整活",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B6%88%E9%98%B2%E5%AE%98%E6%96%B9%E6%95%B4%E6%B4%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 16时54分]"
         },
         {
           "title": "这张家喻户晓的中国糖纸，火到海外了(图)",
@@ -894,6 +980,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 13时37分]"
+        },
+        {
+          "title": "建议成立中国稀土出口总公司总部设新疆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
         },
         {
           "title": "中国养老床位“三连降”",
@@ -1034,7 +1131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1048,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "中国人民银行与马来西亚国家银行续签双边本币互换协议",
+          "url": "https://wallstreetcn.com/livenews/3146601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "中国7月进口同比(按人民币计) 21.2%，前值 29.4%。",
@@ -1210,7 +1318,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1224,23 +1332,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "建议成立中国稀土出口总公司总部设新疆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 创业板 科创板 纳斯达克 标普500 央行 降息 财报",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -1399,7 +1496,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1424,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "下周财报日历",
+          "url": "https://flash.jin10.com/detail/20260807173759687800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报81.85美元/桶。 标普500指数目前跌0.2%，道指跌0.6%。",
@@ -1498,7 +1606,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1512,12 +1620,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "A股三大股指收涨",
+          "url": "https://www.toutiao.com/trending/7671108998120701958/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -1528,8 +1647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时39分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[08时39分 ~ 17时57分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -1566,6 +1685,29 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时57分]"
+        },
+        {
+          "title": "特朗普：数据中心可能会比石油更重要",
+          "url": "https://flash.jin10.com/detail/20260807175232367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
           "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
           "source": "凤凰网",
@@ -1578,29 +1720,6 @@
           "time_info": "[08时39分 ~ 16时54分]"
         },
         {
-          "title": "加拿大总理卡尼：（在被问及美国总统特朗普称加拿大人“令人讨厌”的言论时）渥太华正在为加拿大企业发声。",
-          "url": "https://flash.jin10.com/detail/20260806233640213800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
-        },
-        {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
           "source": "华尔街见闻",
@@ -1611,8 +1730,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 17时57分]"
+        },
+        {
+          "title": "加拿大总理卡尼：（在被问及美国总统特朗普称加拿大人“令人讨厌”的言论时）渥太华正在为加拿大企业发声。",
+          "url": "https://flash.jin10.com/detail/20260806233640213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -1633,9 +1763,31 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
+        },
+        {
+          "title": "特朗普民调承压，内外交困陷入“流沙困境”",
+          "url": "https://flash.jin10.com/detail/20260807174925300800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时57分"
+        },
+        {
+          "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
+          "url": "https://wallstreetcn.com/livenews/3146606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -1693,6 +1845,17 @@
           "time_info": "08时39分"
         },
         {
+          "title": "美国总统特朗普：人工智能比互联网大很多倍。",
+          "url": "https://flash.jin10.com/detail/20260807172841957800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
           "url": "https://wallstreetcn.com/livenews/3146430",
           "source": "华尔街见闻-快讯",
@@ -1702,6 +1865,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "美国总统特朗普：共和党选民对共和党人感到愤怒，对我不感到愤怒。我认为我们会赢得中期选举。",
+          "url": "https://flash.jin10.com/detail/20260807172823003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "特朗普下令调查美军弹药库存信息泄露",
+          "url": "https://wallstreetcn.com/livenews/3146595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
@@ -1819,11 +2004,12 @@
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时57分]"
         },
         {
           "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
@@ -1832,7 +2018,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1854,7 +2040,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
