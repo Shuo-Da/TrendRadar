@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:33:51.137562+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-08-08T18:27:43.480584+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -45,11 +45,12 @@
             21,
             18,
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 15时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 18时27分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 17时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时49分 ~ 18时27分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -100,8 +101,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时50分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[03时50分 ~ 18时27分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -143,6 +144,19 @@
           "time_info": "[09时13分 ~ 16时35分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时27分]"
+        },
+        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -158,6 +172,46 @@
           "time_info": "[07时30分 ~ 14时42分]"
         },
         {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时27分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时27分]"
+        },
+        {
+          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
+          "url": "https://wallstreetcn.com/livenews/3146987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时27分]"
+        },
+        {
           "title": "美国AI开始攻击真人了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
@@ -169,19 +223,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时52分 ~ 16时35分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时33分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -208,44 +249,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时21分 ~ 16时35分]"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时33分]"
-        },
-        {
-          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
-          "url": "https://wallstreetcn.com/livenews/3146987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 17时33分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -311,6 +314,20 @@
           "time_info": "[00时49分 ~ 02时49分]"
         },
         {
+          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+          "url": "https://wallstreetcn.com/livenews/3146973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时27分]"
+        },
+        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -321,6 +338,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时29分 ~ 09时13分]"
+        },
+        {
+          "title": "戚薇谈把脸交给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时27分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -347,31 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时39分]"
-        },
-        {
-          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
-          "url": "https://wallstreetcn.com/livenews/3146973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时33分]"
-        },
-        {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时33分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -408,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069009991709857177",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时27分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -454,15 +469,15 @@
           "time_info": "00时50分"
         },
         {
-          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069009991709857177",
-          "source": "知乎",
+          "title": "苹果AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时27分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -509,6 +524,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "投资或达8000亿元的芯片工厂来了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8A%95%E8%B5%84%E6%88%96%E8%BE%BE8000%E4%BA%BF%E5%85%83%E7%9A%84%E8%8A%AF%E7%89%87%E5%B7%A5%E5%8E%82%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -518,12 +544,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "未来五年中国民航重磅规划出炉",
@@ -581,8 +618,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 18时27分]"
         },
         {
           "title": "中国要用5万亿织一张网",
@@ -605,11 +642,12 @@
             11,
             15,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 18时27分]"
         },
         {
           "title": "外贸成绩单里的中国机遇2.0",
@@ -619,8 +657,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时27分]"
         },
         {
           "title": "外国游客来中国扫货新特产",
@@ -630,8 +668,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时27分]"
+        },
+        {
+          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 18时27分]"
         },
         {
           "title": "胡锡进：新西兰外长像只疯狗，竟对中国如此狂吠",
@@ -644,19 +696,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时13分 ~ 16时35分]"
-        },
-        {
-          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 17时33分]"
         },
         {
           "title": "中国东方电气集团原党组副书记、董事宋致远被查",
@@ -796,6 +835,31 @@
           "time_info": "[11时21分 ~ 13时39分]"
         },
         {
+          "title": "中国人正在抛弃旅行社吗",
+          "url": "https://www.toutiao.com/trending/7671522197021675049/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时27分]"
+        },
+        {
+          "title": "中国女篮70:67尼日利亚",
+          "url": "https://www.douyin.com/hot/2601456",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时27分]"
+        },
+        {
           "title": "日韩网红模仿中国人切西瓜",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E9%9F%A9%E7%BD%91%E7%BA%A2%E6%A8%A1%E4%BB%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%A5%BF%E7%93%9C%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -809,28 +873,16 @@
           "time_info": "[12时52分 ~ 15时45分]"
         },
         {
-          "title": "中国人正在抛弃旅行社吗",
-          "url": "https://www.toutiao.com/trending/7671522197021675049/",
+          "title": "丁俊晖中国公开赛首轮出局",
+          "url": "https://www.toutiao.com/trending/7671577126042078726/",
           "source": "今日头条",
           "ranks": [
-            18,
+            7,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时33分]"
-        },
-        {
-          "title": "中国女篮70:67尼日利亚",
-          "url": "https://www.douyin.com/hot/2601456",
-          "source": "抖音",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 18时27分]"
         },
         {
           "title": "“中国蔬菜之乡”最高温达41.8℃",
@@ -844,6 +896,18 @@
           "time_info": "[09时13分 ~ 11时21分]"
         },
         {
+          "title": "雪佛兰退出中国市场 售后怎么办",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA+%E5%94%AE%E5%90%8E%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时27分]"
+        },
+        {
           "title": "中国最贵的泥什么样",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%B4%B5%E7%9A%84%E6%B3%A5%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
@@ -853,17 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "丁俊晖中国公开赛首轮出局",
-          "url": "https://www.toutiao.com/trending/7671577126042078726/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "日媒：中国企业和高校研发投入第一",
@@ -888,6 +941,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "卢旺达媒体：中国制造业让全球受益",
+          "url": "https://www.toutiao.com/trending/7671516773048565779/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "“中国蔬菜之乡”最高温达41.8℃",
           "url": "https://www.toutiao.com/trending/7670931383372038150/",
           "source": "今日头条",
@@ -905,7 +969,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -943,21 +1007,21 @@
           "time_info": "09时13分"
         },
         {
-          "title": "雪佛兰退出中国市场 售后怎么办",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA+%E5%94%AE%E5%90%8E%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "title": "八角笼血战！中国格斗选手战强敌",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AB%E8%A7%92%E7%AC%BC%E8%A1%80%E6%88%98%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%A0%BC%E6%96%97%E9%80%89%E6%89%8B%E6%88%98%E5%BC%BA%E6%95%8C",
           "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -984,8 +1048,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时50分 ~ 17时33分]"
+          "appearance_count": 15,
+          "time_info": "[03时50分 ~ 18时27分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -999,8 +1063,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时27分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -1161,6 +1225,18 @@
           "time_info": "[03时50分 ~ 05时35分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3146889",
           "source": "华尔街见闻-快讯",
@@ -1197,15 +1273,15 @@
           "time_info": "[03时50分 ~ 04时36分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -1556,8 +1632,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时31分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[06时31分 ~ 18时27分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -1587,8 +1663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 18时27分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -1615,8 +1691,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 18时27分]"
+        },
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时27分]"
         },
         {
           "title": "道琼斯指数8月7日（周五）收盘上涨151.42点，涨幅0.28%，报54036.52点；<br/>标普500指数8月7日（周五）收盘上涨47.63点，涨幅0.62%，报7757.59点；<br/>纳斯达克综合指数8月7日（周五）收盘上涨342.26点，涨幅1.30%，报26690.62点。",
@@ -1629,19 +1719,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时36分 ~ 09时13分]"
-        },
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时33分]"
         },
         {
           "title": "标普500指数的11个板块中，原材料、可选消费、信息技术/科技板块至少涨1.25%，电信板块跌0.35%，能源板块跌1.16%。",
@@ -1755,6 +1832,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 18时27分]"
+        },
+        {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
@@ -1766,21 +1856,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 17时33分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 18时27分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -1858,6 +1935,18 @@
           "time_info": "[04时36分 ~ 09时13分]"
         },
         {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时27分]"
+        },
+        {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
           "url": "https://flash.jin10.com/detail/20260808040100140800",
           "source": "金十数据",
@@ -1868,18 +1957,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时36分 ~ 09时13分]"
-        },
-        {
-          "title": "李大霄谈美股三大指数高开",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时33分]"
         }
       ]
     },
@@ -1957,8 +2034,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 17时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 18时27分]"
         }
       ]
     },
@@ -1974,8 +2051,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时27分]"
         }
       ]
     },
