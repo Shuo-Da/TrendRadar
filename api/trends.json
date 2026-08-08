@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T13:39:34.526470+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-08-08T14:42:59.800394+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型 英伟达 芯片 半导体 苹果 发布会 特斯拉",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -47,8 +47,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时42分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -73,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 14时42分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -99,8 +99,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时50分 ~ 13时39分]"
+          "appearance_count": 11,
+          "time_info": "[03时50分 ~ 14时42分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -134,11 +134,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 14时42分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -163,6 +164,18 @@
           "time_info": "00时50分"
         },
         {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
+        },
+        {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
           "url": "https://wallstreetcn.com/livenews/3146912",
           "source": "华尔街见闻-快讯",
@@ -175,6 +188,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 07时30分]"
+        },
+        {
+          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
+          "url": "https://www.zhihu.com/question/2068674224802067300",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时42分]"
         },
         {
           "title": "曝英伟达研发固态硬盘当额外显存技术",
@@ -190,18 +216,6 @@
           "time_info": "[09时13分 ~ 12时52分]"
         },
         {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
-        },
-        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -212,6 +226,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时45分]"
+        },
+        {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时42分]"
         },
         {
           "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
@@ -227,18 +254,6 @@
           "time_info": "[00时49分 ~ 02时49分]"
         },
         {
-          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
-          "url": "https://www.zhihu.com/question/2068674224802067300",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时39分]"
-        },
-        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -249,18 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时29分 ~ 09时13分]"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -276,6 +279,18 @@
           "time_info": "[11时21分 ~ 13时39分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
+        },
+        {
           "title": "据The Information：英伟达(NVDA.O)将投资高达30亿美元于黑石集团支持的电力公司。",
           "url": "https://flash.jin10.com/detail/20260808092622518800",
           "source": "金十数据",
@@ -289,6 +304,19 @@
           "time_info": "[11时21分 ~ 13时39分]"
         },
         {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -299,29 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时49分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -357,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -465,8 +481,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时50分 ~ 13时39分]"
+          "appearance_count": 11,
+          "time_info": "[03时50分 ~ 14时42分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -477,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时42分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -490,6 +506,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时42分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -564,18 +592,6 @@
           "time_info": "[05时35分 ~ 09时13分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
-        },
-        {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
           "url": "https://flash.jin10.com/detail/20260808035911250800",
           "source": "金十数据",
@@ -586,6 +602,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时36分 ~ 09时13分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -636,18 +665,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -799,7 +816,7 @@
     },
     {
       "keyword_group": "中国 十五五规划",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "未来五年中国民航重磅规划出炉",
@@ -850,11 +867,12 @@
             22,
             13,
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时42分]"
         },
         {
           "title": "中国要用5万亿织一张网",
@@ -866,17 +884,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时30分]"
-        },
-        {
-          "title": "中国地震台网正式测定：8月8日12时21分，在四川宜宾市珙县发生3.4级地震，震源深度9公里。",
-          "url": "https://flash.jin10.com/detail/20260808124353871800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "中国游客景福宫偶遇李在明一起合影",
@@ -899,11 +906,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时42分]"
+        },
+        {
+          "title": "胡锡进：新西兰外长像只疯狗，竟对中国如此狂吠",
+          "url": "https://news.ifeng.com/c/8vPCkslzMgl",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时42分]"
         },
         {
           "title": "中国驻刚果(金)大使馆发布澄清声明",
@@ -931,15 +950,42 @@
           "time_info": "[00时49分 ~ 03时50分]"
         },
         {
-          "title": "胡锡进：新西兰外长像只疯狗，竟对中国如此狂吠",
-          "url": "https://news.ifeng.com/c/8vPCkslzMgl",
-          "source": "凤凰网",
+          "title": "中国地震台网正式测定：8月8日12时21分，在四川宜宾市珙县发生3.4级地震，震源深度9公里。",
+          "url": "https://flash.jin10.com/detail/20260808124353871800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时42分]"
+        },
+        {
+          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
+          "url": "https://wallstreetcn.com/livenews/3146955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时39分]"
+          "time_info": "[11时21分 ~ 14时42分]"
+        },
+        {
+          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时42分]"
         },
         {
           "title": "藏在纽约的中国县城",
@@ -956,18 +1002,6 @@
         },
         {
           "title": "中国东方电气集团原党组副书记、董事宋致远被查",
-          "url": "https://wallstreetcn.com/livenews/3146955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
-        },
-        {
-          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
           "url": "https://flash.jin10.com/detail/20260808100246915800",
           "source": "金十数据",
           "ranks": [
@@ -980,29 +1014,17 @@
           "time_info": "[11时21分 ~ 13时39分]"
         },
         {
-          "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739863",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
-        },
-        {
           "title": "中国地震台网正式测定：08月08日11时45分在新疆阿克苏地区沙雅县发生4.5级地震，震源深度25千米。 ​​​",
           "url": "https://flash.jin10.com/detail/20260808120026148800",
           "source": "金十数据",
           "ranks": [
             8,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
         },
         {
           "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
@@ -1012,8 +1034,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
         },
         {
           "title": "“中国蔬菜之乡”最高温达41.8℃",
@@ -1048,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "中国地震台网正式测定：8月8日12时50分在美国阿拉斯加州发生5.2级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260808131725641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "4名中国男子在柬埔寨杀人抛尸，被判无期",
@@ -1143,11 +1176,12 @@
           "ranks": [
             4,
             17,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时42分]"
         },
         {
           "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
@@ -1341,8 +1375,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时42分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 14时42分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -1360,19 +1407,6 @@
           "time_info": "[00时49分 ~ 13时39分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时31分 ~ 13时39分]"
-        },
-        {
           "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778954",
           "source": "华尔街见闻",
@@ -1383,8 +1417,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 14时42分]"
+        },
+        {
+          "title": "寒武纪上半年营收、净利双双翻倍 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778958",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时42分]"
         },
         {
           "title": "道琼斯指数8月7日（周五）收盘上涨151.42点，涨幅0.28%，报54036.52点；<br/>标普500指数8月7日（周五）收盘上涨47.63点，涨幅0.62%，报7757.59点；<br/>纳斯达克综合指数8月7日（周五）收盘上涨342.26点，涨幅1.30%，报26690.62点。",
@@ -1397,18 +1443,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时36分 ~ 09时13分]"
-        },
-        {
-          "title": "寒武纪上半年营收、净利双双翻倍 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778958",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时39分]"
         },
         {
           "title": "标普500指数的11个板块中，原材料、可选消费、信息技术/科技板块至少涨1.25%，电信板块跌0.35%，能源板块跌1.16%。",
@@ -1532,8 +1566,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时42分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -1592,11 +1626,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 14时42分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -1660,11 +1695,12 @@
           "source": "微博",
           "ranks": [
             10,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时42分]"
         },
         {
           "title": "油价金价银价都涨了",
@@ -1708,8 +1744,25 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 14时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
